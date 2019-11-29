@@ -1,0 +1,9 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Sherlock2019 A Case Of Identity",
+      "tensorPath": "https://github.com/sakiyomi-ai/sherlock2019/blob/master/data/poincare-3d/ACaseOfIdentity_formatted_S2-poincare-3d-vector.tsv",
+      "metadataPath": "https://github.com/sakiyomi-ai/sherlock2019/blob/master/data/poincare-3d/ACaseOfIdentity_formatted_S2-poincare-label.tsv" 
+    }
+  ]
+}
