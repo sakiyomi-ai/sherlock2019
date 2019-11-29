@@ -1,9 +1,0 @@
-{
-  "embeddings": [
-    {
-      "tensorName": "Sherlock2019 Crooked Man",
-      "tensorPath": "https://github.com/sakiyomi-ai/sherlock2019/blob/master/data/poincare-3d/CrookedMan_formatted_S2-poincare-3d-vector.tsv",
-      "metadataPath": "https://github.com/sakiyomi-ai/sherlock2019/blob/master/data/poincare-3d/CrookedMan_formatted_S2-poincare-label.tsv" 
-    }
-  ]
-}
