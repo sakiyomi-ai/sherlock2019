@@ -1,0 +1,1395 @@
+341
+source
+Beast is thin
+type
+Situation
+has Property
+thin
+subject
+beast
+121
+criminal irresponsibility
+Nancy
+Temporarily
+when
+temporarily
+Henry_AND_witness
+Object
+label
+Henry AND witness
+325
+Henry
+what
+326
+Henry thought the following
+info Source
+Holmes
+Statement
+has Predicate
+think
+011
+Berkeley
+hero
+Berkeley was a brave hero
+equal To
+083
+Living room of the room was locked
+locked
+living room
+300
+301
+299
+Nancy AND old friends of Henry
+Mukashinajimi of Nancy and Henry thinks the following
+magic
+AbstractTime
+PhysicalObject
+263
+first battalion of Royal Mallows
+at the same time
+264
+time
+1857-07-09 00:00:00
+exist
+30 years ago
+1857-07-09
+The first battalion of the Royal Mallows was Bute Nii of India 30 years ago
+where
+barrack of India
+194
+white
+Hair of Henry White
+Morrison
+Hair of Henry
+202
+203
+say
+Nancy said the following:
+204
+372
+episode of Uriah and Bathsheba
+Davide of sin is seen in episodes of Uriah and Bathsheba
+crime of Davide
+095
+Berkeley was dead in the vicinity of the furnace lattice
+near
+furnace lattice
+die
+014
+Berkeley and Nancy got married
+015
+get Married
+Berkeley AND Nancy
+054
+next To
+Rasheen
+live
+Morrison lives next to the Rasheen
+355
+Teddy
+Every night
+please
+every night
+soldiers
+262
+Henry is 30 years ago
+handsome
+night
+279
+whom
+bypath
+Berkeley taught Henri about the way around
+then
+280
+tell
+167
+blonde
+hair of Morrison
+Morrison has a hair of blonde
+092
+coachman
+enter
+Coachman entered the room in the living room
+100
+Nancy had fainted
+faint
+dwellers
+080
+081
+hear
+Jane
+Jane heard the following
+102
+be Killed
+Berkeley was killed by blunt weapons
+how
+blunt weapon
+body
+013
+from
+solider
+1860-07-06 00:00:00
+to
+senior rank
+promote
+why
+Indian Rebellion
+Berkeley was promoted to a senior rank by the Indian Rebellion
+1860-07-06
+010
+Berkeley led the Royal Mallows until Monday evening
+lead
+Monday evening
+Royal Mallows
+1887-07-06 20:00:00
+1887-07-06T20
+125
+126
+Holmes thought the following
+name_of_house_of_Berkeley
+OFobj
+of Whole
+house
+house of Berkeley
+of Part
+name
+name of house of Berkeley
+293
+Henry fled from the mountain of the people
+escape
+294
+dwelleers of mountain
+253
+shiver
+Henry was trembling
+174
+arrive
+Morrison and Nancy went to Rasheen before 15 pm on 21
+Morrison AND Nancy
+20:45
+229
+main street
+Henry saw the bickering of Nancy and Berkeley in the main street
+Thought
+see
+228
+Henry went with Morrison and Nancy
+follow
+053
+young woman
+Morrison is a young woman
+091
+open
+Door of the large glass was open
+large glass door of living room
+wrinkle
+house_of_Henry
+Place
+house of Henry
+335
+curtain
+Teddy went up to windowing
+climb
+336
+141
+Beast is able to climb to the curtain
+can Climb
+177
+quiet
+Hudson Street
+Hudson Street is a quiet street
+339
+Henry put the beast out of the cage
+put Out
+cage
+270
+reckless
+271
+Henry was reckless
+143
+Beast is a carnivorous
+carnivorous
+018
+Nancy is popular with Royal Mallows
+popular
+155
+fear
+Berkeley fainted with fear to the man
+body_of_Henry
+body of Henry
+stick
+321
+322
+Berkeley saw Henry
+318
+86
+Henry tried to stop the bickering of Nancy and Berkeley
+try To Stop
+320
+028
+old soldier
+22
+Berkeley is a light-hearted old soldier
+327
+key of living room
+however
+328
+take
+Henry took the key to the living room of the room from Nancy
+105
+Berkeley was killed by a wooden carving stick
+166
+slender
+Morrison is a slender
+247
+Henry In the old days was a handsome man
+old days
+168
+smart
+Morrison is smart
+193
+glaringly
+eye of Henry
+The eyes of Henry is to scintillate
+311
+Nancy AND Henry
+Nancy and Henry noticed the act of Berkeley
+284
+understand
+first
+158
+19 30 on Monday
+Monday 19:30
+1887-07-06T19:30:00
+not bad mood
+1887-07-06 19:30:00
+055
+meeting of the St George union
+Nancy and Morrison went to the meeting of the St George union together
+together
+go
+096
+There was no room key in the living room
+not Exist
+001
+At 23:45
+1887-07-08 23:45:00
+1887-07-08T23:45:00
+002
+23 45
+visit
+Watson
+296
+Henry went to Punjab
+Punjab
+297
+key_of_living_room
+key
+171
+197
+208
+189
+179
+187
+172
+Morrison said the following:
+185
+200
+210
+186
+207
+191
+182
+196
+173
+199
+211
+195
+184
+188
+Morison
+198
+183
+205
+192
+178
+180
+209
+175
+075
+dining room
+Berkeley was in the dining room
+025
+Nancy is passionate the Berkeley did not love
+passionately
+not Love
+130
+find
+footprint of man AND footprint of beast
+Holmes found the footprints of man and beast
+161
+begin
+From 19:30 to 21:00 on Monday
+end
+1887-07-06T21:00:00
+1887-07-06 21:00:00
+From 19 30 to 21 00 on Monday
+hate
+weapon
+21_15_on_Monday
+21:15 on Monday
+secret_of_Henry
+secret
+secret of Henry
+206
+Morrison does not say that of Henry to anyone
+anyone
+not Say
+about Henry
+298
+Henry lived in Punjab
+face_of_Henry
+face
+face of Henry
+373
+preface of Samuel
+Episodes of Uriah and Bathsheba is in the Postscript written before Samuel
+postscript of Samuel
+285
+civilian
+be Saved
+The first battalion and a civilian of the Royal Mallows was survived
+286
+093
+Coachman saw the following
+094
+060
+have
+Living room is one in Rasheen
+one
+231
+Henry went to the living room of the room
+well Educated
+272
+Berkeley had a liberal arts
+351
+Beast is a Teddy
+109
+Jane AND coachman AND cook
+not Know
+Jane and the coachman and the cook did not know the wood carving of the club
+316
+blame
+Nancy condemned the following
+317
+190
+Henry died 30 years ago
+bedroom
+Nancy was a deep blue
+turn Pale
+082
+not Respond
+knocking
+Berkeley and Nancy did not respond to knocking on the room door in the living room
+owner_of_lodge_of_Hudson_street
+Person
+owner
+owner of lodge of Hudson street
+lodge
+Hudson street
+lodge of Hudson street
+071
+1887-07-06 21:15:00
+1887-07-06T21:15:00
+not Have
+21:15
+Living room of the room did not have a sunshade to 15 minutes at 21
+sunshade
+129
+someone
+window of living room
+Third party entered from the window to the room in the living room
+022
+Murphy said the following
+Murphy
+1887-07-08 00:00:00
+1887-07-08
+024
+023
+026
+027
+049
+Nancy had been involved in the establishment of St George union
+involve
+St George union
+Nancy and Berkeley was the ideal image of a middle-aged couple in the Royal Mallows
+ideal image of middle-aged couple
+149
+086
+The man was watching the bickering of Nancy and Berkeley from the main street
+man
+267
+268
+love
+Berkeley AND Henry
+Berkeley and Henry loved the Nancy
+007
+Aldershot
+belong To
+Berkeley belongs to the Royal Mallows of Aldershot
+101
+be Moved
+room of Nancy
+Nancy was transferred to his room
+furnace_lattice
+226
+Henry handed the Indian rupee to the woman of the landlord
+give
+Indian rupee
+preface_of_Samuel
+Samuel
+preface
+181
+look Down
+Henry was looking down
+313
+315
+Henry saw the bickering of Nancy and Berkeley from the main street
+256
+266
+265
+282
+269
+283
+287
+303
+275
+292
+288
+277
+276
+290
+Henry said the following:
+291
+257
+281
+273
+304
+258
+307
+295
+302
+289
+260
+259
+306
+037
+heroic personallity AND supple personality
+Berkeley has a supple personality and heroic personality
+370
+commit
+crime
+Davide
+Sometimes
+sometimes
+169
+common sense
+Morrison has the common sense
+living_room
+368
+Holmes said the following:
+371
+369
+144
+try to catch
+bird
+Beast tried to catch the bird
+164
+165
+Face of Henry is black
+black
+337
+Henry was away from the living room of the room
+leave
+daughter_of_former_sergeant_of_armies
+former sergeant of armies
+former sergeant
+daughter
+armies
+daughter of former sergeant of armies
+size_of_Garden
+size
+Garden
+size of Garden
+240
+meet
+Holmes AND Watson
+Holmes and Watson met Henry
+rarely
+059
+Morrison was in front of the Rasheen to 21 o'clock 15 minutes Monday
+21 15 on Monday
+in front of Rasheen
+Nancy AND Berkeley
+father of Nancy
+marriage
+Nancy and Berkeley had been decided to get married
+decided
+eye_of_beast
+eye of beast
+eye
+046
+Berkeley do not have a child
+child
+man_A N D_footprint_of_beast
+man AND footprint of beast
+man AND footprint
+Henry had a motive for killing Berkeley
+motive of killing Berkeley
+Nancy was the daughter of ensign sergeant
+daughter of ensign sergeant
+Monday minutes to 21 o'clock 15
+not Meet
+1887-07-06T21 15 00 ~
+former_sergeant_of_armies
+152
+153
+156
+lie
+police
+Morrison told a lie to the police
+the_St_George_union
+the St George union
+244
+Henry had rounded the whole body
+whole body
+round
+232
+box
+Henry've been carrying a beast in the box
+carry
+rebels
+Henry was tortured to Gyakuto us
+be Tortured
+the_large_galass
+the large galass
+Henry was angry
+angry
+end_of_Darjeeling
+Darjeeling
+end of Darjeeling
+want To Return
+England
+Henry wanted to return to England
+067
+wall
+iron fence
+Fence with the iron fence
+father
+009
+Royal Mallows is one of the Irish regiments
+one of the Irish regiments
+Henry was taken to Gyakuto us
+be Taken
+347
+Beast is a mongoose
+mongoose
+barrack_of_India
+barrack
+India
+company_of_first_battalion_of_Royal_Mallows
+company
+first battalion
+company of first battalion of Royal Mallows
+criminal_of_incident
+criminal of incident
+incident
+criminal
+1857-06-09 00:00:00
+274
+Henry was wondering the following to a Indian Rebellion
+1857-06-09
+227
+233
+051
+Coachman heard the following
+052
+several minutes
+wait
+Morrison was waiting for a few minutes
+head of Berkeley
+hit
+Berkeley might have hit his head on the furnace grid
+Royal_MAllows
+Royal MAllows
+214
+218
+215
+217
+223
+224
+216
+222
+Woman of the landlord said the following:
+220
+221
+become
+Henry became a slave of the mountain people
+slave of dwellers of mountain
+089
+Nancy screamed
+scream
+weasel_O R_marten
+Animal
+or Target
+marten
+ORobj
+weasel
+weasel OR marten
+friendly
+gardern
+359
+know
+Henry was aware of the following
+360
+put
+Henry has put the beast in a box
+066
+garden
+main stree
+separated
+Garden and main street are separated by fence
+135
+long claws
+Beast had the long claws
+father_of_Nancy
+1887-07-07T21:00:00
+Henry had been crying or growled in the bedroom on the night of Monday night and Tuesday
+cry
+1887-07-07 21:00:00
+Monday night AND Tuesday night
+163
+cause of 161
+Morrison knows the moody cause of Nancy
+098
+099
+The police thought the following
+237
+Holmes let simpson to monitor Henri
+Simpson
+let
+monitoring Henri
+Beast ran away
+Afghanistan
+Henry went to Afghanistan
+238
+Thursday
+Holmes meet in Simpson Hudson Street on Thursday
+1887-07-09
+1887-07-09 00:00:00
+245
+Face of Henry wrinkles there were many
+05_miles_from_the_northern_camp
+05 miles from the northern camp
+012
+Berkeley was a soldier at first
+1856-07-06
+1856-07-06 00:00:00
+soldier
+003
+Holmes asked Watson
+006
+Berkeley was killed
+long_claws
+help
+329
+not Call
+Henry was not called for help
+349
+Mongoose is also referred to as a Ikunumon
+ichneumon
+048
+22 o clock from Monday 21 o clock
+happen
+The incident happened in the 22 o'clock from Monday 21 o'clock in Rasheen
+hair_of_Morrison
+hair
+old_days
+not Criminal
+Nancy is not a criminal
+first_battalion_of_Royal_M Allows
+first battalion of Royal MAllows
+127
+The key to living room of the room was taken away to someone
+want To Help
+Morrison want to help Nancy
+Henry's body was bent
+be Bent
+Nancy is close to criminal
+close
+Henry heard the following
+Berkeley AND Morrison
+love relationship
+Berkeley and Morrison do not have a love relationship
+043
+be Located
+Rasheen is located 05 miles from the northern camp
+145
+Beast is a kind of beast of weasel and marten
+004
+Waterloo
+On Thursday at 11:10
+1887-07-09 11:10:00
+1887-07-09T11:10:00
+On Thursday at 11 10
+017
+Berkeley and Nancy could not get along
+not Sociable
+Henry is shown to the soldier magic tricks
+show
+Henry went out to the outside
+outside
+008
+Monday
+The incident happened on Monday
+1887-07-06
+1887-07-06 00:00:00
+147
+Beast might be related to the incident
+relate
+063
+Residents will be out in the garden from the living room of the room
+resident
+can Go
+366
+Berkeley died of stroke
+apoplexia
+108
+collect
+Wood carving of the club is Berkeley has collected
+Henry was hope the following
+hope
+146
+larger than
+Beast is greater than the weasel and Sandiaojiao
+meeting_of_the_St_George_union
+meeting
+356
+if
+357
+At the time of the following
+many_days
+many days
+212
+Wednesday night
+1887-07-08T21:00:00
+Holmes found a home of Henry on Wednesday night
+1887-07-08 21:00:00
+Watts Street
+Morrison and Nancy went to Rasheen through the Hudson Street from Watts Street
+Nepal
+Henry made their way brought to Nepal to Gyakuto us
+slave_of_dwellers_of_mountain
+dwellers of mountain
+slave
+mountain
+Henry has a box
+speak
+Henry sometimes
+strange word
+073
+tea
+Jane was asked a tea Nancy
+be Asked
+104
+309
+332
+310
+312
+324
+334
+331
+333
+Henry does not want to take revenge on Berkeley
+not Want To Revenge
+Berkeley was suicide for the sake of penance
+atonement
+commit Suicide
+crime_of_Davide
+151
+The man was with small animals
+278
+contact
+To contact Henry is an outer
+162
+Monday 19 at 30 minutes to 21 o'clock
+Henry use the beast at the time of magic
+use
+106
+Berkeley had collected the weapons on the go
+239
+Holmes and Watson went to Hudson Street on Thursday
+stoop
+Henry is a stoop
+367
+Watson was asked about Davide to Holmes
+ask
+241
+fireplace
+Henry is in the warm climate
+warm
+Nancy and Henry spoke for several minutes with two people
+talk
+be Arrested
+Nancy is arrested
+Berkeley was suicide
+kill
+131
+The man entered from the garden to the living room of the room
+nose_of_beast
+nose of beast
+nose
+251
+252
+Holmes told the following to Henry
+346
+250
+agreeable
+Holmes spoke agreeable Henry
+255
+several_minutes
+Berkeley has sold Henry to Gyakuto
+sell
+021
+happy
+Berkeley was happy
+084
+Jane called the cook
+call
+cook
+061
+Living room of the rooms are facing the main street
+early
+Nancy is go home early from the meeting
+home
+Henry earned money in the magic
+earn
+money
+be Ambushed
+Henry had been ambushed in Gyakuto us with loophole
+133
+The man ran the garden
+run
+343
+Beast has a foot of ermine
+foot of ermine
+dining_room
+Nancy asked the following to Morrison
+201
+Henry went to Hudson Street
+338
+Holmes was asked about Teddy to Henry
+long_torso
+long torso
+killing_Berkeley
+killing Berkeley
+Morrison do not say that of Henry to anyone
+not Tell
+window_of_living_room
+window
+main_stree
+Berkeley had loved passionately the Nancy
+30 years
+suffer
+guilt
+twice
+254
+157
+The man took the key to the living room of the room
+134
+Beast had five paws
+5 paws
+sergeant
+Berkeley and Henry was a sergeant in the company of the first battalion of the Royal Mallows
+137
+2 feet
+total length of beast
+The total length of the beast is a 2 ft
+total_length_of_beast
+total length
+139
+Beast has a long torso
+330
+be Suspected
+Henry seems to be the culprit
+Nancy and Henry talked
+056
+1887-07-06T20:00:00
+start
+Meeting of the St George union was started at Monday 20
+20 am on Monday
+dwellers_of_mountain
+The man might have killed Berkeley
+020
+beautiful
+For over 30 years
+over 30 years
+witness
+Face of Henry has wrinkles
+Nancy got angry
+foot
+Berkeley was able to get ahead
+can Get Ahead
+because
+The first battalion and a civilian of the Royal Mallows had been surrounded by the ferocious Gyakuto our one million people
+10000 rebels
+be Surrounded
+Nancy was kissed Morrison
+kiss
+070
+usually
+Living room of the room is not rarely used at night
+not Be Used
+22_o_clock_from_Monday_21_o_clock
+22 o'clock from Monday 21 o'clock
+be Caught
+Henry was caught in Gyakuto us
+076
+077
+face_of_Berkeley
+face of Berkeley
+many_times
+many times
+3_inches
+3 inches
+Nancy was the most beautiful woman in the first battalion of the Royal Mallows
+strange_word
+Nancy became ramshackle
+almost
+fall
+incedent
+Nancy had loved Henry
+045
+Coachman and Jane and cooking people and Berkeley and Nancy live in Rasheen
+Berkeley AND Nancy AND coachman AND Jane AND cook
+20_am_on_Monday
+Henry made their way brought to Darjeeling earlier Gyakuto us
+lodge_of_Hudson_street
+363
+progress of incedent
+Holmes went to listen to the progress of the subsequent incident Wednesday Murphy
+1887-07-08 ~
+1887-07-08_~
+107
+074
+not Habit
+The above is not a habit
+Henry was put Teddy into the box
+put Into
+118
+not Contradict
+Nancy does not have a conflict of as criminal
+first_battalion_of_Royal_Mallows
+house_of_Berkeley
+350
+snake killer
+Henry is calling the Hebitori the beast
+So
+over_30_years
+back_of_head_of_Berkeley
+head
+back
+back of head of Berkeley
+lamp_of_living_room
+lamp of living room
+lamp
+room_of_Henry
+room of Henry
+room
+047
+guest
+Berkeley is rarely not stay overnight guests
+man_A N D_footprint
+Henry saw the following
+1859-07-06 00:00:00
+1859-07-06
+At that time
+at that time
+30_years_ago
+Woman of the landlord have not seen the beast
+not See
+in_front_of_Rasheen
+in front
+30_yards
+30 yards
+Uriah_and_Bathsheba
+Uriah and Bathsheba
+footprint_of_man_A N D_footprint_of_beast
+footprint
+total_length
+138
+Stride of the beast is a 3 inches
+stride of beast
+034
+believe
+Berkeley believe in superstition
+superstition
+suppress
+Henry was suppressed Teddy
+148
+5_paws
+019
+Nancy is a beauty
+2-inch_tear
+2-inch tear
+213
+Friday
+Henry has been living in Hudson Town's lodging since Friday
+Nancy and Henry told friends
+097
+Coachman have called the police and a doctor
+police AND doctor
+eye_of_Henry
+iron_fence
+in_front
+not Want To Reveal
+Henry did not want to reveal the secrets of Henry
+115
+extreme
+distort
+Face of Berkeley was distorted in extreme
+348
+Henry has supported the Nancy
+support
+Gyakuto who was killed the people of the mountain
+motive_of_killing_Berkeley
+motive
+dwelleers_of_mountain
+dwelleers
+knee of Henry
+Henry was bending the knee
+bend
+large_glass_door
+large glass door
+knee_of_Henry
+knee
+361
+Henry is happy
+Davide in the Old Testament
+Old Testament
+David
+magician AND entertainer
+Henry is a magician and entertainer
+same_type_of_crime
+same type of crime
+same type
+Several years
+wander
+several years
+at_that_time
+19_30_on_Monday
+19:30 on Monday
+Watts Street Church
+Meeting of the St George union took place in Watts Street Church
+take Place
+Henry's body is bent
+bent
+postscript_of_Samuel
+postscript
+160
+Monday 15 pm 21
+accuse
+important event of incident
+It is an important event of the incident the following
+128
+The first battalion and a civilian of the Royal Mallows was siege to Bute
+be Besieged
+cause
+truth
+Morrison told the truth to Holmes
+hair_of_beast
+hair of beast
+036
+At night
+alone
+365
+Murphy said the following:
+170
+story
+Holmes heard the story from Morrison
+235
+witness of Henry AND witness of Holmes
+Watson is the witness of Henry Holmes
+shout
+Henry cried Nancy
+_Nancy__
+ensign_sergeant
+ensign sergeant
+069
+Nancy was in the living room of the room in 15 minutes at 21
+progress
+senior_rank
+Henry fled with a key
+with key
+041
+The name of the house of Berkeley is a Rasheen
+Berkeley met Nancy in the living room of the room
+136
+Beast has a length between forefoot and hind 15-inch
+15-inch body
+Henry is not a criminal
+Henry entered the room in the living room
+drop
+Henry dropped his cane
+cannot Take
+Berkeley and Nancy can not take out the room room key
+police_A N D_doctor
+249
+scare
+Henry was frightened to Holmes and Watson
+140
+short leg
+Beast has a short leg
+117
+058
+Nancy went back to Rasheen at 21:15 on Monday
+113
+Nancy said David twice
+242
+humid
+Henry of the room is hot and humid
+about_Henry
+Davide and Berkeley had committed the same type of crime
+057
+20 40 on Monday
+Meeting of the St George union was completed in 20 hours 40 minutes Monday
+1887-07-06 20:40:00
+1887-07-06T20:40:00
+short_leg
+062
+door of the large galass
+Living room of the room has a door of the large glass
+078
+Berkeley died in the living room of the room
+085
+Jane AND cook AND coachman
+088
+087
+Jane and the cook and the coachman heard the following
+072
+Nancy turned on the lamp in the living room of the room
+turn On
+050
+Nancy attended the meeting of the St George's union
+attend
+Henry was afraid the following
+afraid
+234
+Holmes hear from Henry
+performance
+090
+Coachman went to the door of the large glass in the living room of the room
+former_sergeant
+079
+Jane took tea in the living room of the room in 25 minutes at 21
+21:25
+1887-07-06 21:25:00
+1887-07-06T21:25:00
+stride
+Berkeley shouted
+Berkeley was selling Henry to Gyakuto us
+2_feet
+Nancy are suspected of criminal incidents
+information
+daughter_of_ensign_sergeant
+episode
+Nancy was wondering the following:
+110
+overlook
+Jane and the coachman and the cook have overlooked a wood carving of the club
+039
+The first battalion Royal Mallows are stationed in Aldershot
+station
+10000_rebels
+voice of Nancy
+Voice of Nancy had been trembling
+shaky
+246
+dirty
+Face of Henry was dirty
+important_event_of_incident
+important event
+065
+Garden has a size of 30 yards
+police_A   N   D_coachman_A   N   D_Jane_A   N   D_cook
+police AND coachman AND Jane AND cook
+342
+supple
+Beast is a supple
+one_of_the_Irish_regiments
+the Irish regiments
+005
+Holmes is examining
+examine
+124
+bad mood
+Nancy was grumpy at 21:15 on Monday
+Henry went with the Nancy
+123
+not Understand
+Morrison do not know the following:
+243
+on
+chair
+sit
+Henry was sitting in a chair
+witness_of_Henry_A N D_witness_of_Holmes
+Henry AND witness of Holmes
+340
+Beast has the hair of red tea
+reddish brown
+103
+Berkeley had suffered a two-inch laceration to the back of the head
+114
+Police and coachman and Jane and cook saw the following
+coward
+Nancy cried the cowards many times
+035
+not Like
+Berkeley dislike the following
+the_Irish_regiments
+122
+Police said the following:
+old_soldier
+argue
+Berkeley and Nancy had been arguing
+033
+feel Down
+Berkeley feels down for many days
+016
+Nancy is the daughter of former sergeant of armies of Royal Mallows
+Nancy fainted
+031
+not Violent
+Berkeley won't go bad at Nancy
+Henry came down
+Herny
+come Down
+042
+Rasheen is surrounded by garden
+112
+119
+Nancy could not speak information
+cannot Speak
+with_key
+unusual
+character of Berkeley
+Berkeley is the unusual character
+Morrison vowed following the Nancy
+swear
+Royal_Mallows
+progress_of_incedent
+foot_of_ermine
+ermine
+Nancy and Henry are old friends
+old friend
+large_glass_door_of_living_room
+Morrison is horrible Henry
+offer
+Henry was offered the following
+Henry is call for help
+room_of_Nancy
+111
+Berkeley and Nancy did not have the key
+every_night
+character_of_Berkeley
+character
+044
+30 yards from the main street
+Rasheen is located within 30 yards from the main street
+030
+Berkeley is sometimes obsessive
+obsessive
+door
+stride_of_beast
+345
+red
+Beast has a bright red eyes
+353
+hunt
+cobra
+Henry is a sideshow at the soldiers of the dining room
+dining room of lodge
+do
+362
+walk
+Murphy is walking down the Hudson Street
+236
+boy scout
+Baker Street
+Simpson is one of the Baker Street Boy Scouts
+keep
+Henry keeps a beast
+snake_killer
+068
+low
+Fence is low
+voice
+common_sense
+several_years
+Barkeley and Nancy did not argue
+not Argue
+monitoring_Henri
+159
+Berkeley and Nancy had been arguing in the living room of the room
+'
+Henry can marry Nancy
+can Marry
+door_of_the_large_galass
+30_years
+same_type
+352
+Teddy catch a cobra
+040
+rent
+Berkeley had rented a house
+364
+Holmes and Watson caught up with Murphy
+catch
+dining_room_of_lodge
+cause_of_161
+Henry died
+032
+not Obsessive
+Berkeley is not obsessive to Nancy
+main_street
+30_yards_from_the_main_street
+voice_of_Nancy
+Morrison and Nancy met Henry Hudson Street
+head_of_Berkeley
+344
+long
+Beast has a long thin nose
+1887-07-06T21_15_00_~
+1887-07-06T21:15:00 ~
+episode_of_Uriah_and_Bathsheba
+029
+violent
+Berkeley sometimes become violent
+358
+play Foul
+Berkeley was a despicable deeds
+23_45
+23:45
+20_40_on_Monday
+20:40 on Monday
+whole_body
+248
+Henry is grumpy
+grumpy
+15-inch_body
+Hudson_street
+first_battalion
+blunt_weapon
+important_event
+love_relationship

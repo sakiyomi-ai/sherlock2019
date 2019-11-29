@@ -1,0 +1,8853 @@
+341	source
+source	Beast is thin
+341	Beast is thin
+341	type
+type	Situation
+341	Situation
+341	has Property
+has Property	thin
+341	thin
+341	subject
+subject	beast
+341	beast
+121	has Property
+has Property	criminal irresponsibility
+121	criminal irresponsibility
+121	subject
+subject	Nancy
+121	Nancy
+121	type
+type	Situation
+121	Situation
+121	source
+source	Temporarily
+121	Temporarily
+121	when
+when	temporarily
+121	temporarily
+Henry_AND_witness	type
+type	Object
+Henry_AND_witness	Object
+Henry_AND_witness	label
+label	Henry AND witness
+Henry_AND_witness	Henry AND witness
+325	subject
+subject	Henry
+325	Henry
+325	what
+what	326
+325	326
+325	source
+source	Henry thought the following
+325	Henry thought the following
+325	info Source
+info Source	Holmes
+325	Holmes
+325	type
+type	Statement
+325	Statement
+325	has Predicate
+has Predicate	think
+325	think
+011	subject
+subject	Berkeley
+011	Berkeley
+011	what
+what	hero
+011	hero
+011	type
+type	Situation
+011	Situation
+011	source
+source	Berkeley was a brave hero
+011	Berkeley was a brave hero
+011	has Predicate
+has Predicate	equal To
+011	equal To
+083	source
+source	Living room of the room was locked
+083	Living room of the room was locked
+083	type
+type	Situation
+083	Situation
+083	has Property
+has Property	locked
+083	locked
+083	subject
+subject	living room
+083	living room
+300	what
+what	301
+300	301
+300	info Source
+info Source	299
+300	299
+300	type
+type	Object
+300	Object
+300	subject
+subject	Nancy AND old friends of Henry
+300	Nancy AND old friends of Henry
+300	has Predicate
+has Predicate	think
+300	think
+300	source
+source	Mukashinajimi of Nancy and Henry thinks the following
+300	Mukashinajimi of Nancy and Henry thinks the following
+300	type
+type	Situation
+300	Situation
+300	label
+label	300
+300	300
+magic	type
+type	AbstractTime
+magic	AbstractTime
+magic	type
+type	PhysicalObject
+magic	PhysicalObject
+magic	label
+label	magic
+magic	magic
+263	info Source
+info Source	Henry
+263	Henry
+263	subject
+subject	first battalion of Royal Mallows
+263	first battalion of Royal Mallows
+263	type
+type	Statement
+263	Statement
+263	at the same time
+at the same time	264
+263	264
+263	time
+time	1857-07-09 00:00:00
+263	1857-07-09 00:00:00
+263	has Predicate
+has Predicate	exist
+263	exist
+263	when
+when	30 years ago
+263	30 years ago
+263	when
+when	1857-07-09
+263	1857-07-09
+263	source
+source	The first battalion of the Royal Mallows was Bute Nii of India 30 years ago
+263	The first battalion of the Royal Mallows was Bute Nii of India 30 years ago
+263	where
+where	barrack of India
+263	barrack of India
+194	type
+type	Statement
+194	Statement
+194	has Property
+has Property	white
+194	white
+194	source
+source	Hair of Henry White
+194	Hair of Henry White
+194	info Source
+info Source	Morrison
+194	Morrison
+194	subject
+subject	Hair of Henry
+194	Hair of Henry
+202	type
+type	Statement
+202	Statement
+202	what
+what	203
+202	203
+202	has Predicate
+has Predicate	say
+202	say
+202	source
+source	Nancy said the following:
+202	Nancy said the following:
+202	subject
+subject	Nancy
+202	Nancy
+202	info Source
+info Source	Morrison
+202	Morrison
+202	what
+what	204
+202	204
+372	where
+where	episode of Uriah and Bathsheba
+372	episode of Uriah and Bathsheba
+372	source
+source	Davide of sin is seen in episodes of Uriah and Bathsheba
+372	Davide of sin is seen in episodes of Uriah and Bathsheba
+372	subject
+subject	crime of Davide
+372	crime of Davide
+372	has Predicate
+has Predicate	exist
+372	exist
+372	info Source
+info Source	Holmes
+372	Holmes
+372	type
+type	Statement
+372	Statement
+095	type
+type	Situation
+095	Situation
+095	source
+source	Berkeley was dead in the vicinity of the furnace lattice
+095	Berkeley was dead in the vicinity of the furnace lattice
+095	subject
+subject	Berkeley
+095	Berkeley
+095	near
+near	furnace lattice
+095	furnace lattice
+095	has Predicate
+has Predicate	die
+095	die
+014	type
+type	Situation
+014	Situation
+014	source
+source	Berkeley and Nancy got married
+014	Berkeley and Nancy got married
+014	at the same time
+at the same time	015
+014	015
+014	has Predicate
+has Predicate	get Married
+014	get Married
+014	subject
+subject	Berkeley AND Nancy
+014	Berkeley AND Nancy
+054	next To
+next To	Rasheen
+054	Rasheen
+054	has Predicate
+has Predicate	live
+054	live
+054	type
+type	Situation
+054	Situation
+054	subject
+subject	Morrison
+054	Morrison
+054	source
+source	Morrison lives next to the Rasheen
+054	Morrison lives next to the Rasheen
+355	subject
+subject	Teddy
+355	Teddy
+355	source
+source	Every night
+355	Every night
+355	has Predicate
+has Predicate	please
+355	please
+355	type
+type	Situation
+355	Situation
+355	when
+when	every night
+355	every night
+355	what
+what	soldiers
+355	soldiers
+262	source
+source	Henry is 30 years ago
+262	Henry is 30 years ago
+262	info Source
+info Source	Henry
+262	Henry
+262	has Property
+has Property	handsome
+262	handsome
+262	time
+time	1857-07-09 00:00:00
+262	1857-07-09 00:00:00
+262	where
+where	first battalion of Royal Mallows
+262	first battalion of Royal Mallows
+262	type
+type	Statement
+262	Statement
+262	when
+when	1857-07-09
+262	1857-07-09
+262	subject
+subject	Henry
+262	Henry
+262	when
+when	30 years ago
+262	30 years ago
+night	label
+label	night
+night	night
+night	type
+type	AbstractTime
+night	AbstractTime
+279	type
+type	Statement
+279	Statement
+279	info Source
+info Source	Henry
+279	Henry
+279	whom
+whom	Henry
+279	Henry
+279	what
+what	bypath
+279	bypath
+279	subject
+subject	Berkeley
+279	Berkeley
+279	source
+source	Berkeley taught Henri about the way around
+279	Berkeley taught Henri about the way around
+279	then
+then	280
+279	280
+279	has Predicate
+has Predicate	tell
+279	tell
+167	type
+type	Situation
+167	Situation
+167	has Property
+has Property	blonde
+167	blonde
+167	subject
+subject	hair of Morrison
+167	hair of Morrison
+167	source
+source	Morrison has a hair of blonde
+167	Morrison has a hair of blonde
+092	where
+where	living room
+092	living room
+092	subject
+subject	coachman
+092	coachman
+092	type
+type	Situation
+092	Situation
+092	has Predicate
+has Predicate	enter
+092	enter
+092	source
+source	Coachman entered the room in the living room
+092	Coachman entered the room in the living room
+100	source
+source	Nancy had fainted
+100	Nancy had fainted
+100	has Predicate
+has Predicate	faint
+100	faint
+100	subject
+subject	Nancy
+100	Nancy
+100	type
+type	Situation
+100	Situation
+dwellers	label
+label	dwellers
+dwellers	dwellers
+dwellers	type
+type	Object
+dwellers	Object
+080	what
+what	081
+080	081
+080	type
+type	Situation
+080	Situation
+080	has Predicate
+has Predicate	hear
+080	hear
+080	subject
+subject	Jane
+080	Jane
+080	source
+source	Jane heard the following
+080	Jane heard the following
+102	subject
+subject	Berkeley
+102	Berkeley
+102	has Predicate
+has Predicate	be Killed
+102	be Killed
+102	type
+type	Situation
+102	Situation
+102	source
+source	Berkeley was killed by blunt weapons
+102	Berkeley was killed by blunt weapons
+102	how
+how	blunt weapon
+102	blunt weapon
+body	label
+label	body
+body	body
+body	type
+type	Object
+body	Object
+013	from
+from	solider
+013	solider
+013	time
+time	1860-07-06 00:00:00
+013	1860-07-06 00:00:00
+013	to
+to	senior rank
+013	senior rank
+013	has Predicate
+has Predicate	promote
+013	promote
+013	type
+type	Situation
+013	Situation
+013	why
+why	Indian Rebellion
+013	Indian Rebellion
+013	source
+source	Berkeley was promoted to a senior rank by the Indian Rebellion
+013	Berkeley was promoted to a senior rank by the Indian Rebellion
+013	subject
+subject	Berkeley
+013	Berkeley
+013	when
+when	Indian Rebellion
+013	Indian Rebellion
+013	when
+when	1860-07-06
+013	1860-07-06
+010	subject
+subject	Berkeley
+010	Berkeley
+010	source
+source	Berkeley led the Royal Mallows until Monday evening
+010	Berkeley led the Royal Mallows until Monday evening
+010	has Predicate
+has Predicate	lead
+010	lead
+010	when
+when	Monday evening
+010	Monday evening
+010	what
+what	Royal Mallows
+010	Royal Mallows
+010	time
+time	1887-07-06 20:00:00
+010	1887-07-06 20:00:00
+010	when
+when	1887-07-06T20
+010	1887-07-06T20
+010	type
+type	Situation
+010	Situation
+125	label
+label	125
+125	125
+125	what
+what	126
+125	126
+125	type
+type	Situation
+125	Situation
+125	type
+type	Object
+125	Object
+125	has Predicate
+has Predicate	think
+125	think
+125	subject
+subject	Holmes
+125	Holmes
+125	source
+source	Holmes thought the following
+125	Holmes thought the following
+name_of_house_of_Berkeley	type
+type	OFobj
+name_of_house_of_Berkeley	OFobj
+name_of_house_of_Berkeley	of Whole
+of Whole	house
+name_of_house_of_Berkeley	house
+name_of_house_of_Berkeley	of Whole
+of Whole	Berkeley
+name_of_house_of_Berkeley	Berkeley
+name_of_house_of_Berkeley	of Whole
+of Whole	house of Berkeley
+name_of_house_of_Berkeley	house of Berkeley
+name_of_house_of_Berkeley	type
+type	PhysicalObject
+name_of_house_of_Berkeley	PhysicalObject
+name_of_house_of_Berkeley	of Part
+of Part	name
+name_of_house_of_Berkeley	name
+name_of_house_of_Berkeley	label
+label	name of house of Berkeley
+name_of_house_of_Berkeley	name of house of Berkeley
+293	subject
+subject	Henry
+293	Henry
+293	source
+source	Henry fled from the mountain of the people
+293	Henry fled from the mountain of the people
+293	info Source
+info Source	Henry
+293	Henry
+293	type
+type	Statement
+293	Statement
+293	has Predicate
+has Predicate	escape
+293	escape
+293	then
+then	294
+293	294
+293	what
+what	dwelleers of mountain
+293	dwelleers of mountain
+253	subject
+subject	Henry
+253	Henry
+253	type
+type	Situation
+253	Situation
+253	has Property
+has Property	shiver
+253	shiver
+253	source
+source	Henry was trembling
+253	Henry was trembling
+174	info Source
+info Source	Morrison
+174	Morrison
+174	has Predicate
+has Predicate	arrive
+174	arrive
+174	where
+where	Rasheen
+174	Rasheen
+174	source
+source	Morrison and Nancy went to Rasheen before 15 pm on 21
+174	Morrison and Nancy went to Rasheen before 15 pm on 21
+174	subject
+subject	Morrison AND Nancy
+174	Morrison AND Nancy
+174	type
+type	Statement
+174	Statement
+174	when
+when	20:45
+174	20:45
+229	subject
+subject	Henry
+229	Henry
+229	what
+what	081
+229	081
+229	info Source
+info Source	Holmes
+229	Holmes
+229	where
+where	main street
+229	main street
+229	source
+source	Henry saw the bickering of Nancy and Berkeley in the main street
+229	Henry saw the bickering of Nancy and Berkeley in the main street
+229	type
+type	Thought
+229	Thought
+229	has Predicate
+has Predicate	see
+229	see
+228	info Source
+info Source	Holmes
+228	Holmes
+228	whom
+whom	Morrison AND Nancy
+228	Morrison AND Nancy
+228	type
+type	Thought
+228	Thought
+228	source
+source	Henry went with Morrison and Nancy
+228	Henry went with Morrison and Nancy
+228	has Predicate
+has Predicate	follow
+228	follow
+228	subject
+subject	Henry
+228	Henry
+053	has Property
+has Property	young woman
+053	young woman
+053	type
+type	Situation
+053	Situation
+053	source
+source	Morrison is a young woman
+053	Morrison is a young woman
+053	subject
+subject	Morrison
+053	Morrison
+091	has Predicate
+has Predicate	open
+091	open
+091	type
+type	Situation
+091	Situation
+091	source
+source	Door of the large glass was open
+091	Door of the large glass was open
+091	subject
+subject	large glass door of living room
+091	large glass door of living room
+wrinkle	label
+label	wrinkle
+wrinkle	wrinkle
+wrinkle	type
+type	PhysicalObject
+wrinkle	PhysicalObject
+house_of_Henry	of Whole
+of Whole	Henry
+house_of_Henry	Henry
+house_of_Henry	type
+type	Place
+house_of_Henry	Place
+house_of_Henry	of Part
+of Part	house
+house_of_Henry	house
+house_of_Henry	label
+label	house of Henry
+house_of_Henry	house of Henry
+house_of_Henry	type
+type	OFobj
+house_of_Henry	OFobj
+335	to
+to	curtain
+335	curtain
+335	type
+type	Statement
+335	Statement
+335	subject
+subject	Teddy
+335	Teddy
+335	source
+source	Teddy went up to windowing
+335	Teddy went up to windowing
+335	info Source
+info Source	Holmes
+335	Holmes
+335	has Predicate
+has Predicate	climb
+335	climb
+335	then
+then	336
+335	336
+141	where
+where	curtain
+141	curtain
+141	source
+source	Beast is able to climb to the curtain
+141	Beast is able to climb to the curtain
+141	subject
+subject	beast
+141	beast
+141	type
+type	Situation
+141	Situation
+141	has Predicate
+has Predicate	can Climb
+141	can Climb
+177	has Property
+has Property	quiet
+177	quiet
+177	subject
+subject	Hudson Street
+177	Hudson Street
+177	info Source
+info Source	Morrison
+177	Morrison
+177	type
+type	Statement
+177	Statement
+177	source
+source	Hudson Street is a quiet street
+177	Hudson Street is a quiet street
+339	source
+source	Henry put the beast out of the cage
+339	Henry put the beast out of the cage
+339	what
+what	beast
+339	beast
+339	has Predicate
+has Predicate	put Out
+339	put Out
+339	subject
+subject	Henry
+339	Henry
+339	type
+type	Situation
+339	Situation
+339	from
+from	cage
+339	cage
+270	has Property
+has Property	reckless
+270	reckless
+270	at the same time
+at the same time	271
+270	271
+270	time
+time	1857-07-09 00:00:00
+270	1857-07-09 00:00:00
+270	info Source
+info Source	Henry
+270	Henry
+270	source
+source	Henry was reckless
+270	Henry was reckless
+270	type
+type	Statement
+270	Statement
+270	at the same time
+at the same time	1857-07-09
+270	1857-07-09
+270	subject
+subject	Henry
+270	Henry
+143	source
+source	Beast is a carnivorous
+143	Beast is a carnivorous
+143	has Property
+has Property	carnivorous
+143	carnivorous
+143	type
+type	Situation
+143	Situation
+143	subject
+subject	beast
+143	beast
+018	source
+source	Nancy is popular with Royal Mallows
+018	Nancy is popular with Royal Mallows
+018	type
+type	Situation
+018	Situation
+018	subject
+subject	Nancy
+018	Nancy
+018	has Property
+has Property	popular
+018	popular
+018	where
+where	Royal Mallows
+018	Royal Mallows
+155	why
+why	fear
+155	fear
+155	type
+type	Thought
+155	Thought
+155	info Source
+info Source	Holmes
+155	Holmes
+155	subject
+subject	Berkeley
+155	Berkeley
+155	has Predicate
+has Predicate	faint
+155	faint
+155	source
+source	Berkeley fainted with fear to the man
+155	Berkeley fainted with fear to the man
+body_of_Henry	of Whole
+of Whole	Henry
+body_of_Henry	Henry
+body_of_Henry	of Part
+of Part	body
+body_of_Henry	body
+body_of_Henry	type
+type	PhysicalObject
+body_of_Henry	PhysicalObject
+body_of_Henry	label
+label	body of Henry
+body_of_Henry	body of Henry
+body_of_Henry	type
+type	OFobj
+body_of_Henry	OFobj
+stick	type
+type	PhysicalObject
+stick	PhysicalObject
+stick	label
+label	stick
+stick	stick
+321	has Predicate
+has Predicate	see
+321	see
+321	then
+then	322
+321	322
+321	subject
+subject	Berkeley
+321	Berkeley
+321	info Source
+info Source	Holmes
+321	Holmes
+321	type
+type	Statement
+321	Statement
+321	what
+what	Henry
+321	Henry
+321	source
+source	Berkeley saw Henry
+321	Berkeley saw Henry
+318	what
+what	86
+318	86
+318	info Source
+info Source	Holmes
+318	Holmes
+318	source
+source	Henry tried to stop the bickering of Nancy and Berkeley
+318	Henry tried to stop the bickering of Nancy and Berkeley
+318	has Predicate
+has Predicate	try To Stop
+318	try To Stop
+318	subject
+subject	Henry
+318	Henry
+318	type
+type	Statement
+318	Statement
+318	then
+then	320
+318	320
+028	what
+what	old soldier
+028	old soldier
+028	has Predicate
+has Predicate	equal To
+028	equal To
+028	type
+type	Situation
+028	Situation
+028	subject
+subject	Berkeley
+028	Berkeley
+028	info Source
+info Source	22
+028	22
+028	source
+source	Berkeley is a light-hearted old soldier
+028	Berkeley is a light-hearted old soldier
+327	what
+what	key of living room
+327	key of living room
+327	type
+type	Statement
+327	Statement
+327	however
+however	328
+327	328
+327	whom
+whom	Nancy
+327	Nancy
+327	info Source
+info Source	Holmes
+327	Holmes
+327	has Predicate
+has Predicate	take
+327	take
+327	source
+source	Henry took the key to the living room of the room from Nancy
+327	Henry took the key to the living room of the room from Nancy
+327	subject
+subject	Henry
+327	Henry
+105	subject
+subject	Berkeley
+105	Berkeley
+105	has Predicate
+has Predicate	be Killed
+105	be Killed
+105	source
+source	Berkeley was killed by a wooden carving stick
+105	Berkeley was killed by a wooden carving stick
+105	type
+type	Situation
+105	Situation
+105	how
+how	stick
+105	stick
+166	type
+type	Situation
+166	Situation
+166	has Property
+has Property	slender
+166	slender
+166	subject
+subject	Morrison
+166	Morrison
+166	source
+source	Morrison is a slender
+166	Morrison is a slender
+247	type
+type	Situation
+247	Situation
+247	has Property
+has Property	handsome
+247	handsome
+247	source
+source	Henry In the old days was a handsome man
+247	Henry In the old days was a handsome man
+247	when
+when	old days
+247	old days
+247	subject
+subject	Henry
+247	Henry
+168	has Property
+has Property	smart
+168	smart
+168	source
+source	Morrison is smart
+168	Morrison is smart
+168	subject
+subject	Morrison
+168	Morrison
+168	type
+type	Situation
+168	Situation
+193	has Property
+has Property	glaringly
+193	glaringly
+193	subject
+subject	eye of Henry
+193	eye of Henry
+193	info Source
+info Source	Morrison
+193	Morrison
+193	type
+type	Statement
+193	Statement
+193	source
+source	The eyes of Henry is to scintillate
+193	The eyes of Henry is to scintillate
+temporarily	label
+label	temporarily
+temporarily	temporarily
+temporarily	type
+type	AbstractTime
+temporarily	AbstractTime
+311	type
+type	Statement
+311	Statement
+311	subject
+subject	Nancy AND Henry
+311	Nancy AND Henry
+311	source
+source	Nancy and Henry noticed the act of Berkeley
+311	Nancy and Henry noticed the act of Berkeley
+311	what
+what	284
+311	284
+311	has Predicate
+has Predicate	understand
+311	understand
+311	info Source
+info Source	Holmes
+311	Holmes
+first	label
+label	first
+first	first
+first	type
+type	AbstractTime
+first	AbstractTime
+158	when
+when	19 30 on Monday
+158	19 30 on Monday
+158	source
+source	Monday 19:30
+158	Monday 19:30
+158	subject
+subject	Nancy
+158	Nancy
+158	when
+when	1887-07-06T19:30:00
+158	1887-07-06T19:30:00
+158	has Property
+has Property	not bad mood
+158	not bad mood
+158	time
+time	1887-07-06 19:30:00
+158	1887-07-06 19:30:00
+158	type
+type	Situation
+158	Situation
+055	subject
+subject	Nancy
+055	Nancy
+055	where
+where	meeting of the St George union
+055	meeting of the St George union
+055	source
+source	Nancy and Morrison went to the meeting of the St George union together
+055	Nancy and Morrison went to the meeting of the St George union together
+055	how
+how	together
+055	together
+055	has Predicate
+has Predicate	go
+055	go
+055	type
+type	Situation
+055	Situation
+055	subject
+subject	Morrison
+055	Morrison
+096	subject
+subject	key of living room
+096	key of living room
+096	type
+type	Situation
+096	Situation
+096	source
+source	There was no room key in the living room
+096	There was no room key in the living room
+096	where
+where	living room
+096	living room
+096	has Predicate
+has Predicate	not Exist
+096	not Exist
+001	subject
+subject	Holmes
+001	Holmes
+001	source
+source	At 23:45
+001	At 23:45
+001	time
+time	1887-07-08 23:45:00
+001	1887-07-08 23:45:00
+001	when
+when	1887-07-08T23:45:00
+001	1887-07-08T23:45:00
+001	then
+then	002
+001	002
+001	type
+type	Situation
+001	Situation
+001	when
+when	23 45
+001	23 45
+001	has Predicate
+has Predicate	visit
+001	visit
+001	what
+what	Watson
+001	Watson
+296	source
+source	Henry went to Punjab
+296	Henry went to Punjab
+296	type
+type	Statement
+296	Statement
+296	to
+to	Punjab
+296	Punjab
+296	subject
+subject	Henry
+296	Henry
+296	has Predicate
+has Predicate	go
+296	go
+296	info Source
+info Source	Henry
+296	Henry
+296	then
+then	296
+296	296
+296	then
+then	297
+296	297
+key_of_living_room	of Part
+of Part	key
+key_of_living_room	key
+key_of_living_room	label
+label	key of living room
+key_of_living_room	key of living room
+key_of_living_room	of Whole
+of Whole	living room
+key_of_living_room	living room
+key_of_living_room	type
+type	PhysicalObject
+key_of_living_room	PhysicalObject
+key_of_living_room	type
+type	OFobj
+key_of_living_room	OFobj
+171	what
+what	193
+171	193
+171	what
+what	197
+171	197
+171	what
+what	208
+171	208
+171	what
+what	189
+171	189
+171	what
+what	179
+171	179
+171	what
+what	187
+171	187
+171	what
+what	172
+171	172
+171	what
+what	177
+171	177
+171	source
+source	Morrison said the following:
+171	Morrison said the following:
+171	has Predicate
+has Predicate	say
+171	say
+171	what
+what	185
+171	185
+171	what
+what	200
+171	200
+171	type
+type	Situation
+171	Situation
+171	what
+what	210
+171	210
+171	what
+what	186
+171	186
+171	what
+what	207
+171	207
+171	what
+what	191
+171	191
+171	what
+what	182
+171	182
+171	what
+what	174
+171	174
+171	what
+what	196
+171	196
+171	what
+what	173
+171	173
+171	what
+what	199
+171	199
+171	what
+what	211
+171	211
+171	what
+what	195
+171	195
+171	what
+what	184
+171	184
+171	what
+what	188
+171	188
+171	what
+what	202
+171	202
+171	subject
+subject	Morison
+171	Morison
+171	what
+what	198
+171	198
+171	what
+what	183
+171	183
+171	what
+what	205
+171	205
+171	what
+what	192
+171	192
+171	what
+what	194
+171	194
+171	what
+what	178
+171	178
+171	what
+what	180
+171	180
+171	what
+what	209
+171	209
+171	what
+what	175
+171	175
+075	subject
+subject	Berkeley
+075	Berkeley
+075	where
+where	dining room
+075	dining room
+075	type
+type	Situation
+075	Situation
+075	source
+source	Berkeley was in the dining room
+075	Berkeley was in the dining room
+075	has Predicate
+has Predicate	exist
+075	exist
+025	whom
+whom	Berkeley
+025	Berkeley
+025	source
+source	Nancy is passionate the Berkeley did not love
+025	Nancy is passionate the Berkeley did not love
+025	how
+how	passionately
+025	passionately
+025	type
+type	Situation
+025	Situation
+025	info Source
+info Source	22
+025	22
+025	has Predicate
+has Predicate	not Love
+025	not Love
+025	subject
+subject	Nancy
+025	Nancy
+130	has Predicate
+has Predicate	find
+130	find
+130	what
+what	footprint of man AND footprint of beast
+130	footprint of man AND footprint of beast
+130	source
+source	Holmes found the footprints of man and beast
+130	Holmes found the footprints of man and beast
+130	type
+type	Situation
+130	Situation
+130	subject
+subject	Holmes
+130	Holmes
+161	type
+type	Object
+161	Object
+161	begin
+begin	1887-07-06T19:30:00
+161	1887-07-06T19:30:00
+161	source
+source	From 19:30 to 21:00 on Monday
+161	From 19:30 to 21:00 on Monday
+161	end
+end	1887-07-06T21:00:00
+161	1887-07-06T21:00:00
+161	what
+what	Berkeley
+161	Berkeley
+161	subject
+subject	Nancy
+161	Nancy
+161	type
+type	Situation
+161	Situation
+161	time
+time	1887-07-06 21:00:00
+161	1887-07-06 21:00:00
+161	when
+when	From 19 30 to 21 00 on Monday
+161	From 19 30 to 21 00 on Monday
+161	has Predicate
+has Predicate	hate
+161	hate
+161	time
+time	1887-07-06 19:30:00
+161	1887-07-06 19:30:00
+161	label
+label	161
+161	161
+weapon	label
+label	weapon
+weapon	weapon
+weapon	type
+type	PhysicalObject
+weapon	PhysicalObject
+21_15_on_Monday	label
+label	21:15 on Monday
+21_15_on_Monday	21:15 on Monday
+21_15_on_Monday	type
+type	AbstractTime
+21_15_on_Monday	AbstractTime
+secret_of_Henry	type
+type	PhysicalObject
+secret_of_Henry	PhysicalObject
+secret_of_Henry	of Part
+of Part	secret
+secret_of_Henry	secret
+secret_of_Henry	label
+label	secret of Henry
+secret_of_Henry	secret of Henry
+secret_of_Henry	type
+type	OFobj
+secret_of_Henry	OFobj
+secret_of_Henry	of Whole
+of Whole	Henry
+secret_of_Henry	Henry
+206	info Source
+info Source	Morrison
+206	Morrison
+206	source
+source	Morrison does not say that of Henry to anyone
+206	Morrison does not say that of Henry to anyone
+206	whom
+whom	anyone
+206	anyone
+206	type
+type	Statement
+206	Statement
+206	has Predicate
+has Predicate	not Say
+206	not Say
+206	subject
+subject	Morrison
+206	Morrison
+206	what
+what	about Henry
+206	about Henry
+297	info Source
+info Source	Henry
+297	Henry
+297	has Predicate
+has Predicate	live
+297	live
+297	where
+where	Punjab
+297	Punjab
+297	subject
+subject	Henry
+297	Henry
+297	type
+type	Statement
+297	Statement
+297	at the same time
+at the same time	298
+297	298
+297	source
+source	Henry lived in Punjab
+297	Henry lived in Punjab
+face_of_Henry	type
+type	PhysicalObject
+face_of_Henry	PhysicalObject
+face_of_Henry	of Whole
+of Whole	Henry
+face_of_Henry	Henry
+face_of_Henry	of Part
+of Part	face
+face_of_Henry	face
+face_of_Henry	label
+label	face of Henry
+face_of_Henry	face of Henry
+face_of_Henry	type
+type	OFobj
+face_of_Henry	OFobj
+373	what
+what	preface of Samuel
+373	preface of Samuel
+373	source
+source	Episodes of Uriah and Bathsheba is in the Postscript written before Samuel
+373	Episodes of Uriah and Bathsheba is in the Postscript written before Samuel
+373	what
+what	postscript of Samuel
+373	postscript of Samuel
+373	has Predicate
+has Predicate	exist
+373	exist
+373	type
+type	Statement
+373	Statement
+373	info Source
+info Source	Holmes
+373	Holmes
+373	subject
+subject	episode of Uriah and Bathsheba
+373	episode of Uriah and Bathsheba
+285	subject
+subject	civilian
+285	civilian
+285	type
+type	Statement
+285	Statement
+285	info Source
+info Source	Henry
+285	Henry
+285	subject
+subject	first battalion of Royal Mallows
+285	first battalion of Royal Mallows
+285	has Predicate
+has Predicate	be Saved
+285	be Saved
+285	source
+source	The first battalion and a civilian of the Royal Mallows was survived
+285	The first battalion and a civilian of the Royal Mallows was survived
+285	at the same time
+at the same time	286
+285	286
+093	subject
+subject	coachman
+093	coachman
+093	what
+what	095
+093	095
+093	source
+source	Coachman saw the following
+093	Coachman saw the following
+093	type
+type	Situation
+093	Situation
+093	has Predicate
+has Predicate	see
+093	see
+093	what
+what	094
+093	094
+060	has Predicate
+has Predicate	have
+060	have
+060	type
+type	Situation
+060	Situation
+060	what
+what	living room
+060	living room
+060	source
+source	Living room is one in Rasheen
+060	Living room is one in Rasheen
+060	subject
+subject	Rasheen
+060	Rasheen
+060	how
+how	one
+060	one
+231	to
+to	living room
+231	living room
+231	type
+type	Thought
+231	Thought
+231	subject
+subject	Henry
+231	Henry
+231	info Source
+info Source	Holmes
+231	Holmes
+231	source
+source	Henry went to the living room of the room
+231	Henry went to the living room of the room
+231	has Predicate
+has Predicate	enter
+231	enter
+271	has Property
+has Property	well Educated
+271	well Educated
+271	at the same time
+at the same time	272
+271	272
+271	info Source
+info Source	Henry
+271	Henry
+271	subject
+subject	Berkeley
+271	Berkeley
+271	source
+source	Berkeley had a liberal arts
+271	Berkeley had a liberal arts
+271	time
+time	1857-07-09 00:00:00
+271	1857-07-09 00:00:00
+271	at the same time
+at the same time	1857-07-09
+271	1857-07-09
+271	type
+type	Statement
+271	Statement
+351	what
+what	Teddy
+351	Teddy
+351	has Predicate
+has Predicate	equal To
+351	equal To
+351	subject
+subject	beast
+351	beast
+351	source
+source	Beast is a Teddy
+351	Beast is a Teddy
+351	type
+type	Situation
+351	Situation
+109	subject
+subject	Jane AND coachman AND cook
+109	Jane AND coachman AND cook
+109	type
+type	Situation
+109	Situation
+109	has Predicate
+has Predicate	not Know
+109	not Know
+109	source
+source	Jane and the coachman and the cook did not know the wood carving of the club
+109	Jane and the coachman and the cook did not know the wood carving of the club
+109	what
+what	stick
+109	stick
+316	has Predicate
+has Predicate	blame
+316	blame
+316	type
+type	Statement
+316	Statement
+316	info Source
+info Source	Holmes
+316	Holmes
+316	source
+source	Nancy condemned the following
+316	Nancy condemned the following
+316	what
+what	317
+316	317
+316	subject
+subject	Nancy
+316	Nancy
+190	has Predicate
+has Predicate	die
+190	die
+190	info Source
+info Source	Nancy
+190	Nancy
+190	source
+source	Henry died 30 years ago
+190	Henry died 30 years ago
+190	when
+when	30 years ago
+190	30 years ago
+190	subject
+subject	Henry
+190	Henry
+190	type
+type	Thought
+190	Thought
+bedroom	type
+type	Place
+bedroom	Place
+bedroom	label
+label	bedroom
+bedroom	bedroom
+184	type
+type	Statement
+184	Statement
+184	subject
+subject	Nancy
+184	Nancy
+184	source
+source	Nancy was a deep blue
+184	Nancy was a deep blue
+184	info Source
+info Source	Morrison
+184	Morrison
+184	has Property
+has Property	turn Pale
+184	turn Pale
+082	has Predicate
+has Predicate	not Respond
+082	not Respond
+082	what
+what	knocking
+082	knocking
+082	where
+where	living room
+082	living room
+082	subject
+subject	Berkeley AND Nancy
+082	Berkeley AND Nancy
+082	source
+source	Berkeley and Nancy did not respond to knocking on the room door in the living room
+082	Berkeley and Nancy did not respond to knocking on the room door in the living room
+082	type
+type	Situation
+082	Situation
+owner_of_lodge_of_Hudson_street	type
+type	Person
+owner_of_lodge_of_Hudson_street	Person
+owner_of_lodge_of_Hudson_street	of Part
+of Part	owner
+owner_of_lodge_of_Hudson_street	owner
+owner_of_lodge_of_Hudson_street	type
+type	OFobj
+owner_of_lodge_of_Hudson_street	OFobj
+owner_of_lodge_of_Hudson_street	label
+label	owner of lodge of Hudson street
+owner_of_lodge_of_Hudson_street	owner of lodge of Hudson street
+owner_of_lodge_of_Hudson_street	of Whole
+of Whole	lodge
+owner_of_lodge_of_Hudson_street	lodge
+owner_of_lodge_of_Hudson_street	of Whole
+of Whole	Hudson street
+owner_of_lodge_of_Hudson_street	Hudson street
+owner_of_lodge_of_Hudson_street	of Whole
+of Whole	lodge of Hudson street
+owner_of_lodge_of_Hudson_street	lodge of Hudson street
+071	time
+time	1887-07-06 21:15:00
+071	1887-07-06 21:15:00
+071	when
+when	1887-07-06T21:15:00
+071	1887-07-06T21:15:00
+071	subject
+subject	living room
+071	living room
+071	has Predicate
+has Predicate	not Have
+071	not Have
+071	when
+when	21:15
+071	21:15
+071	type
+type	Situation
+071	Situation
+071	source
+source	Living room of the room did not have a sunshade to 15 minutes at 21
+071	Living room of the room did not have a sunshade to 15 minutes at 21
+071	what
+what	sunshade
+071	sunshade
+129	type
+type	Situation
+129	Situation
+129	subject
+subject	someone
+129	someone
+129	has Predicate
+has Predicate	enter
+129	enter
+129	from
+from	window of living room
+129	window of living room
+129	to
+to	living room
+129	living room
+129	source
+source	Third party entered from the window to the room in the living room
+129	Third party entered from the window to the room in the living room
+bypath	type
+type	Place
+bypath	Place
+bypath	label
+label	bypath
+bypath	bypath
+022	has Predicate
+has Predicate	tell
+022	tell
+022	source
+source	Murphy said the following
+022	Murphy said the following
+022	subject
+subject	Murphy
+022	Murphy
+022	what
+what	025
+022	025
+022	time
+time	1887-07-08 00:00:00
+022	1887-07-08 00:00:00
+022	what
+what	028
+022	028
+022	whom
+whom	Holmes
+022	Holmes
+022	time
+time	1887-07-08
+022	1887-07-08
+022	type
+type	Situation
+022	Situation
+022	what
+what	024
+022	024
+022	what
+what	023
+022	023
+022	what
+what	026
+022	026
+022	what
+what	027
+022	027
+049	subject
+subject	Nancy
+049	Nancy
+049	type
+type	Situation
+049	Situation
+049	source
+source	Nancy had been involved in the establishment of St George union
+049	Nancy had been involved in the establishment of St George union
+049	has Predicate
+has Predicate	involve
+049	involve
+049	what
+what	St George union
+049	St George union
+026	info Source
+info Source	22
+026	22
+026	subject
+subject	Berkeley AND Nancy
+026	Berkeley AND Nancy
+026	type
+type	Situation
+026	Situation
+026	source
+source	Nancy and Berkeley was the ideal image of a middle-aged couple in the Royal Mallows
+026	Nancy and Berkeley was the ideal image of a middle-aged couple in the Royal Mallows
+026	has Predicate
+has Predicate	ideal image of middle-aged couple
+026	ideal image of middle-aged couple
+026	where
+where	Royal Mallows
+026	Royal Mallows
+149	type
+type	Situation
+149	Situation
+149	what
+what	086
+149	086
+149	has Predicate
+has Predicate	see
+149	see
+149	where
+where	main street
+149	main street
+149	source
+source	The man was watching the bickering of Nancy and Berkeley from the main street
+149	The man was watching the bickering of Nancy and Berkeley from the main street
+149	subject
+subject	man
+149	man
+267	whom
+whom	Nancy
+267	Nancy
+267	at the same time
+at the same time	268
+267	268
+267	has Predicate
+has Predicate	love
+267	love
+267	subject
+subject	Berkeley AND Henry
+267	Berkeley AND Henry
+267	source
+source	Berkeley and Henry loved the Nancy
+267	Berkeley and Henry loved the Nancy
+267	time
+time	1857-07-09 00:00:00
+267	1857-07-09 00:00:00
+267	at the same time
+at the same time	1857-07-09
+267	1857-07-09
+267	info Source
+info Source	Henry
+267	Henry
+267	type
+type	Statement
+267	Statement
+007	where
+where	Aldershot
+007	Aldershot
+007	type
+type	Situation
+007	Situation
+007	subject
+subject	Berkeley
+007	Berkeley
+007	has Predicate
+has Predicate	belong To
+007	belong To
+007	what
+what	Royal Mallows
+007	Royal Mallows
+007	source
+source	Berkeley belongs to the Royal Mallows of Aldershot
+007	Berkeley belongs to the Royal Mallows of Aldershot
+101	has Predicate
+has Predicate	be Moved
+101	be Moved
+101	subject
+subject	Nancy
+101	Nancy
+101	to
+to	room of Nancy
+101	room of Nancy
+101	type
+type	Situation
+101	Situation
+101	source
+source	Nancy was transferred to his room
+101	Nancy was transferred to his room
+furnace_lattice	type
+type	PhysicalObject
+furnace_lattice	PhysicalObject
+furnace_lattice	label
+label	furnace lattice
+furnace_lattice	furnace lattice
+226	source
+source	Henry handed the Indian rupee to the woman of the landlord
+226	Henry handed the Indian rupee to the woman of the landlord
+226	subject
+subject	Henry
+226	Henry
+226	has Predicate
+has Predicate	give
+226	give
+226	what
+what	Indian rupee
+226	Indian rupee
+226	whom
+whom	owner of lodge of Hudson street
+226	owner of lodge of Hudson street
+226	type
+type	Situation
+226	Situation
+preface_of_Samuel	type
+type	PhysicalObject
+preface_of_Samuel	PhysicalObject
+preface_of_Samuel	label
+label	preface of Samuel
+preface_of_Samuel	preface of Samuel
+preface_of_Samuel	of Whole
+of Whole	Samuel
+preface_of_Samuel	Samuel
+preface_of_Samuel	type
+type	OFobj
+preface_of_Samuel	OFobj
+preface_of_Samuel	of Part
+of Part	preface
+preface_of_Samuel	preface
+181	has Predicate
+has Predicate	look Down
+181	look Down
+181	info Source
+info Source	Morrison
+181	Morrison
+181	type
+type	Statement
+181	Statement
+181	source
+source	Henry was looking down
+181	Henry was looking down
+181	subject
+subject	Henry
+181	Henry
+313	type
+type	Statement
+313	Statement
+313	info Source
+info Source	Holmes
+313	Holmes
+313	then
+then	315
+313	315
+313	has Predicate
+has Predicate	see
+313	see
+313	subject
+subject	Henry
+313	Henry
+313	what
+what	086
+313	086
+313	where
+where	main street
+313	main street
+313	source
+source	Henry saw the bickering of Nancy and Berkeley from the main street
+313	Henry saw the bickering of Nancy and Berkeley from the main street
+256	type
+type	Situation
+256	Situation
+256	what
+what	266
+256	266
+256	what
+what	265
+256	265
+256	what
+what	282
+256	282
+256	subject
+subject	Henry
+256	Henry
+256	what
+what	280
+256	280
+256	what
+what	271
+256	271
+256	label
+label	256
+256	256
+256	what
+what	269
+256	269
+256	what
+what	299
+256	299
+256	what
+what	283
+256	283
+256	what
+what	287
+256	287
+256	what
+what	279
+256	279
+256	what
+what	303
+256	303
+256	what
+what	268
+256	268
+256	what
+what	275
+256	275
+256	what
+what	292
+256	292
+256	what
+what	288
+256	288
+256	what
+what	277
+256	277
+256	what
+what	285
+256	285
+256	what
+what	276
+256	276
+256	what
+what	290
+256	290
+256	has Predicate
+has Predicate	tell
+256	tell
+256	what
+what	286
+256	286
+256	source
+source	Henry said the following:
+256	Henry said the following:
+256	what
+what	291
+256	291
+256	what
+what	257
+256	257
+256	what
+what	267
+256	267
+256	what
+what	281
+256	281
+256	what
+what	294
+256	294
+256	what
+what	273
+256	273
+256	type
+type	Object
+256	Object
+256	what
+what	304
+256	304
+256	what
+what	258
+256	258
+256	what
+what	307
+256	307
+256	what
+what	262
+256	262
+256	what
+what	295
+256	295
+256	what
+what	302
+256	302
+256	what
+what	297
+256	297
+256	what
+what	289
+256	289
+256	what
+what	296
+256	296
+256	what
+what	263
+256	263
+256	what
+what	293
+256	293
+256	what
+what	272
+256	272
+256	what
+what	264
+256	264
+256	what
+what	260
+256	260
+256	what
+what	259
+256	259
+256	what
+what	270
+256	270
+256	what
+what	306
+256	306
+256	what
+what	298
+256	298
+037	subject
+subject	Berkeley
+037	Berkeley
+037	has Property
+has Property	heroic personallity AND supple personality
+037	heroic personallity AND supple personality
+037	source
+source	Berkeley has a supple personality and heroic personality
+037	Berkeley has a supple personality and heroic personality
+037	type
+type	Situation
+037	Situation
+370	has Predicate
+has Predicate	commit
+370	commit
+370	what
+what	crime
+370	crime
+370	info Source
+info Source	Holmes
+370	Holmes
+370	type
+type	Statement
+370	Statement
+370	subject
+subject	Davide
+370	Davide
+370	source
+source	Sometimes
+370	Sometimes
+370	how
+how	sometimes
+370	sometimes
+169	what
+what	common sense
+169	common sense
+169	source
+source	Morrison has the common sense
+169	Morrison has the common sense
+169	has Predicate
+has Predicate	have
+169	have
+169	subject
+subject	Morrison
+169	Morrison
+169	type
+type	Situation
+169	Situation
+living_room	label
+label	living room
+living_room	living room
+living_room	type
+type	Object
+living_room	Object
+living_room	type
+type	Place
+living_room	Place
+368	source
+source	Holmes said the following:
+368	Holmes said the following:
+368	type
+type	Situation
+368	Situation
+368	subject
+subject	Holmes
+368	Holmes
+368	has Predicate
+has Predicate	say
+368	say
+368	what
+what	373
+368	373
+368	what
+what	371
+368	371
+368	what
+what	372
+368	372
+368	what
+what	369
+368	369
+368	what
+what	370
+368	370
+144	has Predicate
+has Predicate	try to catch
+144	try to catch
+144	type
+type	Situation
+144	Situation
+144	what
+what	bird
+144	bird
+144	source
+source	Beast tried to catch the bird
+144	Beast tried to catch the bird
+144	subject
+subject	beast
+144	beast
+164	has Predicate
+has Predicate	think
+164	think
+164	source
+source	Holmes thought the following
+164	Holmes thought the following
+164	subject
+subject	Holmes
+164	Holmes
+164	what
+what	165
+164	165
+164	type
+type	Situation
+164	Situation
+192	source
+source	Face of Henry is black
+192	Face of Henry is black
+192	type
+type	Statement
+192	Statement
+192	has Property
+has Property	black
+192	black
+192	subject
+subject	face of Henry
+192	face of Henry
+192	info Source
+info Source	Morrison
+192	Morrison
+337	subject
+subject	Henry
+337	Henry
+337	where
+where	living room
+337	living room
+337	info Source
+info Source	Holmes
+337	Holmes
+337	type
+type	Statement
+337	Statement
+337	source
+source	Henry was away from the living room of the room
+337	Henry was away from the living room of the room
+337	has Predicate
+has Predicate	leave
+337	leave
+daughter_of_former_sergeant_of_armies	type
+type	OFobj
+daughter_of_former_sergeant_of_armies	OFobj
+daughter_of_former_sergeant_of_armies	of Whole
+of Whole	former sergeant of armies
+daughter_of_former_sergeant_of_armies	former sergeant of armies
+daughter_of_former_sergeant_of_armies	of Whole
+of Whole	former sergeant
+daughter_of_former_sergeant_of_armies	former sergeant
+daughter_of_former_sergeant_of_armies	of Part
+of Part	daughter
+daughter_of_former_sergeant_of_armies	daughter
+daughter_of_former_sergeant_of_armies	of Whole
+of Whole	armies
+daughter_of_former_sergeant_of_armies	armies
+daughter_of_former_sergeant_of_armies	type
+type	PhysicalObject
+daughter_of_former_sergeant_of_armies	PhysicalObject
+daughter_of_former_sergeant_of_armies	label
+label	daughter of former sergeant of armies
+daughter_of_former_sergeant_of_armies	daughter of former sergeant of armies
+size_of_Garden	type
+type	PhysicalObject
+size_of_Garden	PhysicalObject
+size_of_Garden	of Part
+of Part	size
+size_of_Garden	size
+size_of_Garden	of Whole
+of Whole	Garden
+size_of_Garden	Garden
+size_of_Garden	type
+type	OFobj
+size_of_Garden	OFobj
+size_of_Garden	label
+label	size of Garden
+size_of_Garden	size of Garden
+240	type
+type	Situation
+240	Situation
+240	has Predicate
+has Predicate	meet
+240	meet
+240	subject
+subject	Holmes AND Watson
+240	Holmes AND Watson
+240	whom
+whom	Henry
+240	Henry
+240	source
+source	Holmes and Watson met Henry
+240	Holmes and Watson met Henry
+rarely	label
+label	rarely
+rarely	rarely
+rarely	type
+type	Object
+rarely	Object
+059	source
+source	Morrison was in front of the Rasheen to 21 o'clock 15 minutes Monday
+059	Morrison was in front of the Rasheen to 21 o'clock 15 minutes Monday
+059	when
+when	21 15 on Monday
+059	21 15 on Monday
+059	time
+time	1887-07-06 21:15:00
+059	1887-07-06 21:15:00
+059	when
+when	1887-07-06T21:15:00
+059	1887-07-06T21:15:00
+059	has Predicate
+has Predicate	exist
+059	exist
+059	type
+type	Situation
+059	Situation
+059	subject
+subject	Morrison
+059	Morrison
+059	where
+where	in front of Rasheen
+059	in front of Rasheen
+269	subject
+subject	Nancy AND Berkeley
+269	Nancy AND Berkeley
+269	whom
+whom	father of Nancy
+269	father of Nancy
+269	at the same time
+at the same time	1857-07-09
+269	1857-07-09
+269	what
+what	marriage
+269	marriage
+269	type
+type	Statement
+269	Statement
+269	source
+source	Nancy and Berkeley had been decided to get married
+269	Nancy and Berkeley had been decided to get married
+269	at the same time
+at the same time	270
+269	270
+269	time
+time	1857-07-09 00:00:00
+269	1857-07-09 00:00:00
+269	info Source
+info Source	Henry
+269	Henry
+269	has Property
+has Property	decided
+269	decided
+eye_of_beast	of Whole
+of Whole	beast
+eye_of_beast	beast
+eye_of_beast	label
+label	eye of beast
+eye_of_beast	eye of beast
+eye_of_beast	of Part
+of Part	eye
+eye_of_beast	eye
+eye_of_beast	type
+type	OFobj
+eye_of_beast	OFobj
+eye_of_beast	type
+type	PhysicalObject
+eye_of_beast	PhysicalObject
+046	source
+source	Berkeley do not have a child
+046	Berkeley do not have a child
+046	type
+type	Situation
+046	Situation
+046	subject
+subject	Berkeley
+046	Berkeley
+046	has Predicate
+has Predicate	not Have
+046	not Have
+046	what
+what	child
+046	child
+man_A N D_footprint_of_beast	label
+label	man AND footprint of beast
+man_A N D_footprint_of_beast	man AND footprint of beast
+man_A N D_footprint_of_beast	of Whole
+of Whole	beast
+man_A N D_footprint_of_beast	beast
+man_A N D_footprint_of_beast	of Part
+of Part	man AND footprint
+man_A N D_footprint_of_beast	man AND footprint
+man_A N D_footprint_of_beast	type
+type	OFobj
+man_A N D_footprint_of_beast	OFobj
+260	type
+type	Statement
+260	Statement
+260	info Source
+info Source	Henry
+260	Henry
+260	source
+source	Henry had a motive for killing Berkeley
+260	Henry had a motive for killing Berkeley
+260	has Predicate
+has Predicate	have
+260	have
+260	subject
+subject	Henry
+260	Henry
+260	what
+what	motive of killing Berkeley
+260	motive of killing Berkeley
+266	has Predicate
+has Predicate	equal To
+266	equal To
+266	subject
+subject	Nancy
+266	Nancy
+266	info Source
+info Source	Henry
+266	Henry
+266	source
+source	Nancy was the daughter of ensign sergeant
+266	Nancy was the daughter of ensign sergeant
+266	type
+type	Statement
+266	Statement
+266	what
+what	daughter of ensign sergeant
+266	daughter of ensign sergeant
+208	source
+source	Monday minutes to 21 o'clock 15
+208	Monday minutes to 21 o'clock 15
+208	info Source
+info Source	Morrison
+208	Morrison
+208	has Predicate
+has Predicate	not Meet
+208	not Meet
+208	whom
+whom	Nancy
+208	Nancy
+208	type
+type	Statement
+208	Statement
+208	when
+when	1887-07-06T21 15 00 ~
+208	1887-07-06T21 15 00 ~
+208	subject
+subject	Morrison
+208	Morrison
+former_sergeant_of_armies	of Part
+of Part	former sergeant
+former_sergeant_of_armies	former sergeant
+former_sergeant_of_armies	of Whole
+of Whole	armies
+former_sergeant_of_armies	armies
+former_sergeant_of_armies	label
+label	former sergeant of armies
+former_sergeant_of_armies	former sergeant of armies
+former_sergeant_of_armies	type
+type	OFobj
+former_sergeant_of_armies	OFobj
+152	subject
+subject	Holmes
+152	Holmes
+152	source
+source	Holmes thought the following
+152	Holmes thought the following
+152	type
+type	Situation
+152	Situation
+152	what
+what	153
+152	153
+152	has Predicate
+has Predicate	think
+152	think
+152	what
+what	156
+152	156
+152	what
+what	155
+152	155
+209	subject
+subject	Morrison
+209	Morrison
+209	info Source
+info Source	Morrison
+209	Morrison
+209	has Predicate
+has Predicate	tell
+209	tell
+209	type
+type	Statement
+209	Statement
+209	what
+what	lie
+209	lie
+209	whom
+whom	police
+209	police
+209	source
+source	Morrison told a lie to the police
+209	Morrison told a lie to the police
+the_St_George_union	label
+label	the St George union
+the_St_George_union	the St George union
+the_St_George_union	type
+type	Object
+the_St_George_union	Object
+244	source
+source	Henry had rounded the whole body
+244	Henry had rounded the whole body
+244	type
+type	Situation
+244	Situation
+244	subject
+subject	Henry
+244	Henry
+244	what
+what	whole body
+244	whole body
+244	has Predicate
+has Predicate	round
+244	round
+232	info Source
+info Source	Holmes
+232	Holmes
+232	subject
+subject	Henry
+232	Henry
+232	type
+type	Thought
+232	Thought
+232	how
+how	box
+232	box
+232	what
+what	beast
+232	beast
+232	source
+source	Henry've been carrying a beast in the box
+232	Henry've been carrying a beast in the box
+232	has Predicate
+has Predicate	carry
+232	carry
+287	whom
+whom	rebels
+287	rebels
+287	subject
+subject	Henry
+287	Henry
+287	info Source
+info Source	Henry
+287	Henry
+287	then
+then	288
+287	288
+287	type
+type	Statement
+287	Statement
+287	source
+source	Henry was tortured to Gyakuto us
+287	Henry was tortured to Gyakuto us
+287	has Predicate
+has Predicate	be Tortured
+287	be Tortured
+the_large_galass	type
+type	Object
+the_large_galass	Object
+the_large_galass	label
+label	the large galass
+the_large_galass	the large galass
+199	type
+type	Statement
+199	Statement
+199	source
+source	Henry was angry
+199	Henry was angry
+199	info Source
+info Source	Morrison
+199	Morrison
+199	subject
+subject	Henry
+199	Henry
+199	has Property
+has Property	angry
+199	angry
+end_of_Darjeeling	type
+type	OFobj
+end_of_Darjeeling	OFobj
+end_of_Darjeeling	of Whole
+of Whole	Darjeeling
+end_of_Darjeeling	Darjeeling
+end_of_Darjeeling	of Part
+of Part	end
+end_of_Darjeeling	end
+end_of_Darjeeling	label
+label	end of Darjeeling
+end_of_Darjeeling	end of Darjeeling
+end_of_Darjeeling	type
+type	Place
+end_of_Darjeeling	Place
+303	has Predicate
+has Predicate	want To Return
+303	want To Return
+303	type
+type	Situation
+303	Situation
+303	info Source
+info Source	256
+303	256
+303	where
+where	England
+303	England
+303	subject
+subject	Henry
+303	Henry
+303	source
+source	Henry wanted to return to England
+303	Henry wanted to return to England
+067	has Predicate
+has Predicate	have
+067	have
+067	subject
+subject	wall
+067	wall
+067	type
+type	Situation
+067	Situation
+067	what
+what	iron fence
+067	iron fence
+067	source
+source	Fence with the iron fence
+067	Fence with the iron fence
+father	label
+label	father
+father	father
+father	type
+type	Object
+father	Object
+009	type
+type	Situation
+009	Situation
+009	has Predicate
+has Predicate	equal To
+009	equal To
+009	subject
+subject	Royal Mallows
+009	Royal Mallows
+009	source
+source	Royal Mallows is one of the Irish regiments
+009	Royal Mallows is one of the Irish regiments
+009	what
+what	one of the Irish regiments
+009	one of the Irish regiments
+286	whom
+whom	rebels
+286	rebels
+286	then
+then	287
+286	287
+286	subject
+subject	Henry
+286	Henry
+286	source
+source	Henry was taken to Gyakuto us
+286	Henry was taken to Gyakuto us
+286	info Source
+info Source	Henry
+286	Henry
+286	has Predicate
+has Predicate	be Taken
+286	be Taken
+286	type
+type	Statement
+286	Statement
+347	has Predicate
+has Predicate	equal To
+347	equal To
+347	info Source
+info Source	Holmes
+347	Holmes
+347	type
+type	Statement
+347	Statement
+347	subject
+subject	beast
+347	beast
+347	source
+source	Beast is a mongoose
+347	Beast is a mongoose
+347	what
+what	mongoose
+347	mongoose
+barrack_of_India	of Part
+of Part	barrack
+barrack_of_India	barrack
+barrack_of_India	type
+type	OFobj
+barrack_of_India	OFobj
+barrack_of_India	label
+label	barrack of India
+barrack_of_India	barrack of India
+barrack_of_India	of Whole
+of Whole	India
+barrack_of_India	India
+barrack_of_India	type
+type	Place
+barrack_of_India	Place
+company_of_first_battalion_of_Royal_Mallows	of Part
+of Part	company
+company_of_first_battalion_of_Royal_Mallows	company
+company_of_first_battalion_of_Royal_Mallows	of Whole
+of Whole	first battalion of Royal Mallows
+company_of_first_battalion_of_Royal_Mallows	first battalion of Royal Mallows
+company_of_first_battalion_of_Royal_Mallows	of Whole
+of Whole	Royal Mallows
+company_of_first_battalion_of_Royal_Mallows	Royal Mallows
+company_of_first_battalion_of_Royal_Mallows	type
+type	OFobj
+company_of_first_battalion_of_Royal_Mallows	OFobj
+company_of_first_battalion_of_Royal_Mallows	of Whole
+of Whole	first battalion
+company_of_first_battalion_of_Royal_Mallows	first battalion
+company_of_first_battalion_of_Royal_Mallows	label
+label	company of first battalion of Royal Mallows
+company_of_first_battalion_of_Royal_Mallows	company of first battalion of Royal Mallows
+company_of_first_battalion_of_Royal_Mallows	type
+type	PhysicalObject
+company_of_first_battalion_of_Royal_Mallows	PhysicalObject
+criminal_of_incident	label
+label	criminal of incident
+criminal_of_incident	criminal of incident
+criminal_of_incident	of Whole
+of Whole	incident
+criminal_of_incident	incident
+criminal_of_incident	of Part
+of Part	criminal
+criminal_of_incident	criminal
+criminal_of_incident	type
+type	Person
+criminal_of_incident	Person
+criminal_of_incident	type
+type	OFobj
+criminal_of_incident	OFobj
+273	info Source
+info Source	Henry
+273	Henry
+273	has Predicate
+has Predicate	think
+273	think
+273	type
+type	Statement
+273	Statement
+273	time
+time	1857-06-09 00:00:00
+273	1857-06-09 00:00:00
+273	subject
+subject	Henry
+273	Henry
+273	what
+what	274
+273	274
+273	source
+source	Henry was wondering the following to a Indian Rebellion
+273	Henry was wondering the following to a Indian Rebellion
+273	when
+when	1857-06-09
+273	1857-06-09
+273	when
+when	Indian Rebellion
+273	Indian Rebellion
+227	has Predicate
+has Predicate	think
+227	think
+227	what
+what	232
+227	232
+227	what
+what	231
+227	231
+227	what
+what	233
+227	233
+227	source
+source	Holmes thought the following
+227	Holmes thought the following
+227	what
+what	229
+227	229
+227	subject
+subject	Holmes
+227	Holmes
+227	type
+type	Situation
+227	Situation
+227	what
+what	228
+227	228
+051	source
+source	Coachman heard the following
+051	Coachman heard the following
+051	subject
+subject	coachman
+051	coachman
+051	what
+what	052
+051	052
+051	type
+type	Situation
+051	Situation
+051	has Predicate
+has Predicate	hear
+051	hear
+197	when
+when	several minutes
+197	several minutes
+197	subject
+subject	Morrison
+197	Morrison
+197	has Predicate
+has Predicate	wait
+197	wait
+197	type
+type	Statement
+197	Statement
+197	source
+source	Morrison was waiting for a few minutes
+197	Morrison was waiting for a few minutes
+197	info Source
+info Source	Morrison
+197	Morrison
+156	info Source
+info Source	Holmes
+156	Holmes
+156	what
+what	head of Berkeley
+156	head of Berkeley
+156	subject
+subject	Berkeley
+156	Berkeley
+156	has Predicate
+has Predicate	hit
+156	hit
+156	source
+source	Berkeley might have hit his head on the furnace grid
+156	Berkeley might have hit his head on the furnace grid
+156	type
+type	Thought
+156	Thought
+156	whom
+whom	furnace lattice
+156	furnace lattice
+Royal_MAllows	label
+label	Royal MAllows
+Royal_MAllows	Royal MAllows
+Royal_MAllows	type
+type	Object
+Royal_MAllows	Object
+214	type
+type	Situation
+214	Situation
+214	what
+what	218
+214	218
+214	what
+what	215
+214	215
+214	what
+what	217
+214	217
+214	what
+what	223
+214	223
+214	what
+what	224
+214	224
+214	what
+what	216
+214	216
+214	what
+what	222
+214	222
+214	subject
+subject	owner of lodge of Hudson street
+214	owner of lodge of Hudson street
+214	source
+source	Woman of the landlord said the following:
+214	Woman of the landlord said the following:
+214	what
+what	220
+214	220
+214	what
+what	221
+214	221
+214	has Predicate
+has Predicate	tell
+214	tell
+292	has Predicate
+has Predicate	become
+292	become
+292	then
+then	293
+292	293
+292	subject
+subject	Henry
+292	Henry
+292	source
+source	Henry became a slave of the mountain people
+292	Henry became a slave of the mountain people
+292	info Source
+info Source	Henry
+292	Henry
+292	type
+type	Statement
+292	Statement
+292	what
+what	slave of dwellers of mountain
+292	slave of dwellers of mountain
+089	source
+source	Nancy screamed
+089	Nancy screamed
+089	type
+type	Situation
+089	Situation
+089	has Predicate
+has Predicate	scream
+089	scream
+089	subject
+subject	Nancy
+089	Nancy
+weasel_O R_marten	type
+type	Animal
+weasel_O R_marten	Animal
+weasel_O R_marten	or Target
+or Target	marten
+weasel_O R_marten	marten
+weasel_O R_marten	type
+type	ORobj
+weasel_O R_marten	ORobj
+weasel_O R_marten	or Target
+or Target	weasel
+weasel_O R_marten	weasel
+weasel_O R_marten	label
+label	weasel OR marten
+weasel_O R_marten	weasel OR marten
+friendly	label
+label	friendly
+friendly	friendly
+friendly	type
+type	Object
+friendly	Object
+gardern	label
+label	gardern
+gardern	gardern
+gardern	type
+type	Place
+gardern	Place
+359	has Predicate
+has Predicate	know
+359	know
+359	source
+source	Henry was aware of the following
+359	Henry was aware of the following
+359	what
+what	360
+359	360
+359	type
+type	Situation
+359	Situation
+359	subject
+subject	Henry
+359	Henry
+86	type
+type	PhysicalObject
+86	PhysicalObject
+86	label
+label	86
+86	86
+220	to
+to	box
+220	box
+220	what
+what	beast
+220	beast
+220	type
+type	Statement
+220	Statement
+220	has Predicate
+has Predicate	put
+220	put
+220	info Source
+info Source	owner of lodge of Hudson street
+220	owner of lodge of Hudson street
+220	source
+source	Henry has put the beast in a box
+220	Henry has put the beast in a box
+220	subject
+subject	Henry
+220	Henry
+066	subject
+subject	garden
+066	garden
+066	how
+how	wall
+066	wall
+066	type
+type	Situation
+066	Situation
+066	subject
+subject	main stree
+066	main stree
+066	has Property
+has Property	separated
+066	separated
+066	source
+source	Garden and main street are separated by fence
+066	Garden and main street are separated by fence
+135	what
+what	long claws
+135	long claws
+135	has Predicate
+has Predicate	have
+135	have
+135	source
+source	Beast had the long claws
+135	Beast had the long claws
+135	type
+type	Situation
+135	Situation
+135	subject
+subject	beast
+135	beast
+father_of_Nancy	of Part
+of Part	father
+father_of_Nancy	father
+father_of_Nancy	type
+type	Person
+father_of_Nancy	Person
+father_of_Nancy	label
+label	father of Nancy
+father_of_Nancy	father of Nancy
+father_of_Nancy	type
+type	OFobj
+father_of_Nancy	OFobj
+father_of_Nancy	of Whole
+of Whole	Nancy
+father_of_Nancy	Nancy
+224	where
+where	bedroom
+224	bedroom
+224	time
+time	1887-07-06 21:00:00
+224	1887-07-06 21:00:00
+224	when
+when	1887-07-07T21:00:00
+224	1887-07-07T21:00:00
+224	source
+source	Henry had been crying or growled in the bedroom on the night of Monday night and Tuesday
+224	Henry had been crying or growled in the bedroom on the night of Monday night and Tuesday
+224	info Source
+info Source	owner of lodge of Hudson street
+224	owner of lodge of Hudson street
+224	subject
+subject	Henry
+224	Henry
+224	type
+type	Statement
+224	Statement
+224	has Predicate
+has Predicate	cry
+224	cry
+224	time
+time	1887-07-07 21:00:00
+224	1887-07-07 21:00:00
+224	when
+when	1887-07-06T21:00:00
+224	1887-07-06T21:00:00
+224	when
+when	Monday night AND Tuesday night
+224	Monday night AND Tuesday night
+163	has Predicate
+has Predicate	know
+163	know
+163	what
+what	cause of 161
+163	cause of 161
+163	source
+source	Morrison knows the moody cause of Nancy
+163	Morrison knows the moody cause of Nancy
+163	type
+type	Situation
+163	Situation
+163	subject
+subject	Morrison
+163	Morrison
+098	type
+type	Situation
+098	Situation
+098	subject
+subject	police
+098	police
+098	has Predicate
+has Predicate	think
+098	think
+098	what
+what	099
+098	099
+098	source
+source	The police thought the following
+098	The police thought the following
+237	source
+source	Holmes let simpson to monitor Henri
+237	Holmes let simpson to monitor Henri
+237	whom
+whom	Simpson
+237	Simpson
+237	has Predicate
+has Predicate	let
+237	let
+237	type
+type	Situation
+237	Situation
+237	subject
+subject	Holmes
+237	Holmes
+237	what
+what	monitoring Henri
+237	monitoring Henri
+233	type
+type	Thought
+233	Thought
+233	info Source
+info Source	Holmes
+233	Holmes
+233	source
+source	Beast ran away
+233	Beast ran away
+233	has Predicate
+has Predicate	escape
+233	escape
+233	subject
+subject	beast
+233	beast
+294	info Source
+info Source	Henry
+294	Henry
+294	to
+to	Afghanistan
+294	Afghanistan
+294	has Predicate
+has Predicate	go
+294	go
+294	subject
+subject	Henry
+294	Henry
+294	type
+type	Statement
+294	Statement
+294	source
+source	Henry went to Afghanistan
+294	Henry went to Afghanistan
+294	then
+then	295
+294	295
+238	when
+when	Thursday
+238	Thursday
+238	whom
+whom	Simpson
+238	Simpson
+238	subject
+subject	Holmes
+238	Holmes
+238	source
+source	Holmes meet in Simpson Hudson Street on Thursday
+238	Holmes meet in Simpson Hudson Street on Thursday
+238	type
+type	Situation
+238	Situation
+238	when
+when	1887-07-09
+238	1887-07-09
+238	has Predicate
+has Predicate	meet
+238	meet
+238	time
+time	1887-07-09 00:00:00
+238	1887-07-09 00:00:00
+238	where
+where	Hudson street
+238	Hudson street
+Darjeeling	type
+type	Object
+Darjeeling	Object
+Darjeeling	label
+label	Darjeeling
+Darjeeling	Darjeeling
+245	what
+what	wrinkle
+245	wrinkle
+245	source
+source	Face of Henry wrinkles there were many
+245	Face of Henry wrinkles there were many
+245	type
+type	Situation
+245	Situation
+245	subject
+subject	face of Henry
+245	face of Henry
+245	has Predicate
+has Predicate	have
+245	have
+end	label
+label	end
+end	end
+end	type
+type	Object
+end	Object
+05_miles_from_the_northern_camp	label
+label	05 miles from the northern camp
+05_miles_from_the_northern_camp	05 miles from the northern camp
+05_miles_from_the_northern_camp	type
+type	Place
+05_miles_from_the_northern_camp	Place
+012	then
+then	013
+012	013
+012	when
+when	first
+012	first
+012	subject
+subject	Berkeley
+012	Berkeley
+012	source
+source	Berkeley was a soldier at first
+012	Berkeley was a soldier at first
+012	when
+when	1856-07-06
+012	1856-07-06
+012	time
+time	1856-07-06 00:00:00
+012	1856-07-06 00:00:00
+012	has Predicate
+has Predicate	soldier
+012	soldier
+012	type
+type	Situation
+012	Situation
+002	has Predicate
+has Predicate	visit
+002	visit
+002	what
+what	003
+002	003
+002	subject
+subject	Holmes
+002	Holmes
+002	whom
+whom	Watson
+002	Watson
+002	type
+type	Situation
+002	Situation
+002	source
+source	Holmes asked Watson
+002	Holmes asked Watson
+006	has Predicate
+has Predicate	be Killed
+006	be Killed
+006	source
+source	Berkeley was killed
+006	Berkeley was killed
+006	subject
+subject	Berkeley
+006	Berkeley
+006	type
+type	Situation
+006	Situation
+long_claws	label
+label	long claws
+long_claws	long claws
+long_claws	type
+type	PhysicalObject
+long_claws	PhysicalObject
+328	info Source
+info Source	Holmes
+328	Holmes
+328	what
+what	help
+328	help
+328	why
+why	329
+328	329
+328	type
+type	Statement
+328	Statement
+328	subject
+subject	Henry
+328	Henry
+328	has Predicate
+has Predicate	not Call
+328	not Call
+328	source
+source	Henry was not called for help
+328	Henry was not called for help
+349	source
+source	Mongoose is also referred to as a Ikunumon
+349	Mongoose is also referred to as a Ikunumon
+349	has Predicate
+has Predicate	equal To
+349	equal To
+349	subject
+subject	mongoose
+349	mongoose
+349	info Source
+info Source	Henry
+349	Henry
+349	what
+what	ichneumon
+349	ichneumon
+349	type
+type	Statement
+349	Statement
+048	when
+when	1887-07-06T21:00:00
+048	1887-07-06T21:00:00
+048	when
+when	22 o clock from Monday 21 o clock
+048	22 o clock from Monday 21 o clock
+048	has Predicate
+has Predicate	happen
+048	happen
+048	source
+source	The incident happened in the 22 o'clock from Monday 21 o'clock in Rasheen
+048	The incident happened in the 22 o'clock from Monday 21 o'clock in Rasheen
+048	type
+type	Situation
+048	Situation
+048	where
+where	Rasheen
+048	Rasheen
+048	subject
+subject	incident
+048	incident
+048	time
+time	1887-07-06 21:00:00
+048	1887-07-06 21:00:00
+hair_of_Morrison	label
+label	hair of Morrison
+hair_of_Morrison	hair of Morrison
+hair_of_Morrison	type
+type	PhysicalObject
+hair_of_Morrison	PhysicalObject
+hair_of_Morrison	of Whole
+of Whole	Morrison
+hair_of_Morrison	Morrison
+hair_of_Morrison	type
+type	OFobj
+hair_of_Morrison	OFobj
+hair_of_Morrison	of Part
+of Part	hair
+hair_of_Morrison	hair
+old_days	label
+label	old days
+old_days	old days
+old_days	type
+type	AbstractTime
+old_days	AbstractTime
+257	type
+type	Statement
+257	Statement
+257	subject
+subject	Nancy
+257	Nancy
+257	has Property
+has Property	not Criminal
+257	not Criminal
+257	source
+source	Nancy is not a criminal
+257	Nancy is not a criminal
+257	info Source
+info Source	Henry
+257	Henry
+first_battalion_of_Royal_M Allows	of Part
+of Part	first battalion
+first_battalion_of_Royal_M Allows	first battalion
+first_battalion_of_Royal_M Allows	label
+label	first battalion of Royal MAllows
+first_battalion_of_Royal_M Allows	first battalion of Royal MAllows
+first_battalion_of_Royal_M Allows	of Whole
+of Whole	Royal MAllows
+first_battalion_of_Royal_M Allows	Royal MAllows
+first_battalion_of_Royal_M Allows	type
+type	OFobj
+first_battalion_of_Royal_M Allows	OFobj
+first_battalion_of_Royal_M Allows	type
+type	PhysicalObject
+first_battalion_of_Royal_M Allows	PhysicalObject
+127	type
+type	Situation
+127	Situation
+127	subject
+subject	key of living room
+127	key of living room
+127	whom
+whom	someone
+127	someone
+127	source
+source	The key to living room of the room was taken away to someone
+127	The key to living room of the room was taken away to someone
+127	has Predicate
+has Predicate	take
+127	take
+172	has Predicate
+has Predicate	want To Help
+172	want To Help
+172	subject
+subject	Morrison
+172	Morrison
+172	source
+source	Morrison want to help Nancy
+172	Morrison want to help Nancy
+172	type
+type	Statement
+172	Statement
+172	what
+what	Nancy
+172	Nancy
+172	info Source
+info Source	Morrison
+172	Morrison
+288	subject
+subject	Henry
+288	Henry
+288	then
+then	289
+288	289
+288	type
+type	Statement
+288	Statement
+288	source
+source	Henry's body was bent
+288	Henry's body was bent
+288	why
+why	287
+288	287
+288	has Predicate
+has Predicate	be Bent
+288	be Bent
+288	info Source
+info Source	Henry
+288	Henry
+099	subject
+subject	Nancy
+099	Nancy
+099	what
+what	criminal
+099	criminal
+099	type
+type	Situation
+099	Situation
+099	source
+source	Nancy is close to criminal
+099	Nancy is close to criminal
+099	has Property
+has Property	close
+099	close
+283	has Predicate
+has Predicate	hear
+283	hear
+283	what
+what	284
+283	284
+283	source
+source	Henry heard the following
+283	Henry heard the following
+283	subject
+subject	Henry
+283	Henry
+283	info Source
+info Source	Henry
+283	Henry
+283	type
+type	Statement
+283	Statement
+165	info Source
+info Source	Holmes
+165	Holmes
+165	subject
+subject	Berkeley AND Morrison
+165	Berkeley AND Morrison
+165	what
+what	love relationship
+165	love relationship
+165	has Predicate
+has Predicate	not Have
+165	not Have
+165	type
+type	Thought
+165	Thought
+165	source
+source	Berkeley and Morrison do not have a love relationship
+165	Berkeley and Morrison do not have a love relationship
+043	has Predicate
+has Predicate	be Located
+043	be Located
+043	subject
+subject	Rasheen
+043	Rasheen
+043	type
+type	Situation
+043	Situation
+043	source
+source	Rasheen is located 05 miles from the northern camp
+043	Rasheen is located 05 miles from the northern camp
+043	where
+where	05 miles from the northern camp
+043	05 miles from the northern camp
+145	what
+what	weasel OR marten
+145	weasel OR marten
+145	subject
+subject	beast
+145	beast
+145	source
+source	Beast is a kind of beast of weasel and marten
+145	Beast is a kind of beast of weasel and marten
+145	type
+type	Situation
+145	Situation
+004	type
+type	Situation
+004	Situation
+004	subject
+subject	Holmes AND Watson
+004	Holmes AND Watson
+004	to
+to	Aldershot
+004	Aldershot
+004	from
+from	Waterloo
+004	Waterloo
+004	source
+source	On Thursday at 11:10
+004	On Thursday at 11:10
+004	time
+time	1887-07-09 11:10:00
+004	1887-07-09 11:10:00
+004	when
+when	1887-07-09T11:10:00
+004	1887-07-09T11:10:00
+004	when
+when	On Thursday at 11 10
+004	On Thursday at 11 10
+004	has Predicate
+has Predicate	go
+004	go
+017	subject
+subject	Berkeley AND Nancy
+017	Berkeley AND Nancy
+017	source
+source	Berkeley and Nancy could not get along
+017	Berkeley and Nancy could not get along
+017	has Property
+has Property	not Sociable
+017	not Sociable
+017	type
+type	Situation
+017	Situation
+306	what
+what	magic
+306	magic
+306	subject
+subject	Henry
+306	Henry
+306	then
+then	307
+306	307
+306	whom
+whom	soldier
+306	soldier
+306	source
+source	Henry is shown to the soldier magic tricks
+306	Henry is shown to the soldier magic tricks
+306	type
+type	Situation
+306	Situation
+306	info Source
+info Source	256
+306	256
+306	has Predicate
+has Predicate	show
+306	show
+280	source
+source	Henry went out to the outside
+280	Henry went out to the outside
+280	has Predicate
+has Predicate	go
+280	go
+280	how
+how	bypath
+280	bypath
+280	to
+to	outside
+280	outside
+280	info Source
+info Source	Henry
+280	Henry
+280	from
+from	barrack
+280	barrack
+280	subject
+subject	Henry
+280	Henry
+280	then
+then	281
+280	281
+280	type
+type	Statement
+280	Statement
+008	when
+when	Monday
+008	Monday
+008	type
+type	Situation
+008	Situation
+008	source
+source	The incident happened on Monday
+008	The incident happened on Monday
+008	subject
+subject	incident
+008	incident
+008	when
+when	1887-07-06
+008	1887-07-06
+008	time
+time	1887-07-06 00:00:00
+008	1887-07-06 00:00:00
+008	has Predicate
+has Predicate	happen
+008	happen
+147	info Source
+info Source	Holmes
+147	Holmes
+147	type
+type	Thought
+147	Thought
+147	subject
+subject	beast
+147	beast
+147	what
+what	incident
+147	incident
+147	source
+source	Beast might be related to the incident
+147	Beast might be related to the incident
+147	has Predicate
+has Predicate	relate
+147	relate
+063	to
+to	garden
+063	garden
+063	source
+source	Residents will be out in the garden from the living room of the room
+063	Residents will be out in the garden from the living room of the room
+063	type
+type	Situation
+063	Situation
+063	subject
+subject	resident
+063	resident
+063	from
+from	living room
+063	living room
+063	has Predicate
+has Predicate	can Go
+063	can Go
+366	has Predicate
+has Predicate	die
+366	die
+366	info Source
+info Source	Murphy
+366	Murphy
+366	source
+source	Berkeley died of stroke
+366	Berkeley died of stroke
+366	why
+why	apoplexia
+366	apoplexia
+366	type
+type	Statement
+366	Statement
+366	subject
+subject	Berkeley
+366	Berkeley
+108	what
+what	stick
+108	stick
+108	has Predicate
+has Predicate	collect
+108	collect
+108	subject
+subject	Berkeley
+108	Berkeley
+108	info Source
+info Source	police
+108	police
+108	type
+type	Thought
+108	Thought
+108	source
+source	Wood carving of the club is Berkeley has collected
+108	Wood carving of the club is Berkeley has collected
+299	label
+label	299
+299	299
+299	subject
+subject	Henry
+299	Henry
+299	source
+source	Henry was hope the following
+299	Henry was hope the following
+299	info Source
+info Source	Henry
+299	Henry
+299	type
+type	Object
+299	Object
+299	type
+type	Statement
+299	Statement
+299	what
+what	300
+299	300
+299	has Predicate
+has Predicate	hope
+299	hope
+146	has Property
+has Property	larger than
+146	larger than
+146	type
+type	Situation
+146	Situation
+146	subject
+subject	beast
+146	beast
+146	source
+source	Beast is greater than the weasel and Sandiaojiao
+146	Beast is greater than the weasel and Sandiaojiao
+146	what
+what	weasel OR marten
+146	weasel OR marten
+solider	type
+type	PhysicalObject
+solider	PhysicalObject
+solider	label
+label	solider
+solider	solider
+meeting_of_the_St_George_union	type
+type	OFobj
+meeting_of_the_St_George_union	OFobj
+meeting_of_the_St_George_union	of Whole
+of Whole	the St George union
+meeting_of_the_St_George_union	the St George union
+meeting_of_the_St_George_union	label
+label	meeting of the St George union
+meeting_of_the_St_George_union	meeting of the St George union
+meeting_of_the_St_George_union	of Part
+of Part	meeting
+meeting_of_the_St_George_union	meeting
+meeting_of_the_St_George_union	type
+type	PhysicalObject
+meeting_of_the_St_George_union	PhysicalObject
+356	has Predicate
+has Predicate	help
+356	help
+356	subject
+subject	Henry
+356	Henry
+356	if
+if	357
+356	357
+356	what
+what	Holmes
+356	Holmes
+356	type
+type	Situation
+356	Situation
+356	source
+source	At the time of the following
+356	At the time of the following
+094	subject
+subject	Nancy
+094	Nancy
+094	has Predicate
+has Predicate	faint
+094	faint
+094	source
+source	Nancy had fainted
+094	Nancy had fainted
+094	type
+type	Situation
+094	Situation
+many_days	type
+type	AbstractTime
+many_days	AbstractTime
+many_days	label
+label	many days
+many_days	many days
+212	when
+when	Wednesday night
+212	Wednesday night
+212	when
+when	1887-07-08T21:00:00
+212	1887-07-08T21:00:00
+212	source
+source	Holmes found a home of Henry on Wednesday night
+212	Holmes found a home of Henry on Wednesday night
+212	what
+what	house of Henry
+212	house of Henry
+212	time
+time	1887-07-08 21:00:00
+212	1887-07-08 21:00:00
+212	type
+type	Situation
+212	Situation
+212	subject
+subject	Holmes
+212	Holmes
+212	has Predicate
+has Predicate	find
+212	find
+175	has Predicate
+has Predicate	go
+175	go
+175	type
+type	Statement
+175	Statement
+175	subject
+subject	Morrison AND Nancy
+175	Morrison AND Nancy
+175	to
+to	Rasheen
+175	Rasheen
+175	from
+from	Hudson Street
+175	Hudson Street
+175	from
+from	Watts Street
+175	Watts Street
+175	info Source
+info Source	Morrison
+175	Morrison
+175	source
+source	Morrison and Nancy went to Rasheen through the Hudson Street from Watts Street
+175	Morrison and Nancy went to Rasheen through the Hudson Street from Watts Street
+passionately	type
+type	Object
+passionately	Object
+passionately	label
+label	passionately
+passionately	passionately
+289	to
+to	Nepal
+289	Nepal
+289	has Predicate
+has Predicate	be Taken
+289	be Taken
+289	then
+then	290
+289	290
+289	subject
+subject	Henry
+289	Henry
+289	type
+type	Statement
+289	Statement
+289	info Source
+info Source	Henry
+289	Henry
+289	source
+source	Henry made their way brought to Nepal to Gyakuto us
+289	Henry made their way brought to Nepal to Gyakuto us
+289	whom
+whom	rebels
+289	rebels
+slave_of_dwellers_of_mountain	of Whole
+of Whole	dwellers of mountain
+slave_of_dwellers_of_mountain	dwellers of mountain
+slave_of_dwellers_of_mountain	type
+type	Person
+slave_of_dwellers_of_mountain	Person
+slave_of_dwellers_of_mountain	of Part
+of Part	slave
+slave_of_dwellers_of_mountain	slave
+slave_of_dwellers_of_mountain	label
+label	slave of dwellers of mountain
+slave_of_dwellers_of_mountain	slave of dwellers of mountain
+slave_of_dwellers_of_mountain	type
+type	OFobj
+slave_of_dwellers_of_mountain	OFobj
+slave_of_dwellers_of_mountain	of Whole
+of Whole	dwellers
+slave_of_dwellers_of_mountain	dwellers
+slave_of_dwellers_of_mountain	of Whole
+of Whole	mountain
+slave_of_dwellers_of_mountain	mountain
+180	type
+type	Statement
+180	Statement
+180	source
+source	Henry has a box
+180	Henry has a box
+180	subject
+subject	Henry
+180	Henry
+180	info Source
+info Source	Morrison
+180	Morrison
+180	has Predicate
+has Predicate	have
+180	have
+180	what
+what	box
+180	box
+223	subject
+subject	Henry
+223	Henry
+223	type
+type	Statement
+223	Statement
+223	has Predicate
+has Predicate	speak
+223	speak
+223	info Source
+info Source	owner of lodge of Hudson street
+223	owner of lodge of Hudson street
+223	source
+source	Henry sometimes
+223	Henry sometimes
+223	what
+what	strange word
+223	strange word
+223	when
+when	sometimes
+223	sometimes
+073	what
+what	tea
+073	tea
+073	source
+source	Jane was asked a tea Nancy
+073	Jane was asked a tea Nancy
+073	whom
+whom	Nancy
+073	Nancy
+073	subject
+subject	Jane
+073	Jane
+073	has Predicate
+has Predicate	be Asked
+073	be Asked
+073	type
+type	Situation
+073	Situation
+104	what
+what	105
+104	105
+104	type
+type	Situation
+104	Situation
+104	has Predicate
+has Predicate	think
+104	think
+104	subject
+subject	police
+104	police
+104	source
+source	The police thought the following
+104	The police thought the following
+309	what
+what	332
+309	332
+309	type
+type	Situation
+309	Situation
+309	what
+what	315
+309	315
+309	what
+what	322
+309	322
+309	what
+what	329
+309	329
+309	what
+what	310
+309	310
+309	what
+what	321
+309	321
+309	what
+what	312
+309	312
+309	has Predicate
+has Predicate	say
+309	say
+309	what
+what	327
+309	327
+309	what
+what	328
+309	328
+309	what
+what	324
+309	324
+309	what
+what	318
+309	318
+309	what
+what	334
+309	334
+309	what
+what	311
+309	311
+309	source
+source	Holmes said the following:
+309	Holmes said the following:
+309	what
+what	331
+309	331
+309	what
+what	333
+309	333
+309	subject
+subject	Holmes
+309	Holmes
+309	what
+what	336
+309	336
+309	what
+what	320
+309	320
+309	what
+what	337
+309	337
+309	what
+what	325
+309	325
+309	what
+what	335
+309	335
+309	what
+what	313
+309	313
+302	source
+source	Henry does not want to take revenge on Berkeley
+302	Henry does not want to take revenge on Berkeley
+302	has Predicate
+has Predicate	not Want To Revenge
+302	not Want To Revenge
+302	info Source
+info Source	256
+302	256
+302	type
+type	Situation
+302	Situation
+302	whom
+whom	Berkeley
+302	Berkeley
+302	subject
+subject	Henry
+302	Henry
+weasel	type
+type	Object
+weasel	Object
+weasel	label
+label	weasel
+weasel	weasel
+259	subject
+subject	Berkeley
+259	Berkeley
+259	source
+source	Berkeley was suicide for the sake of penance
+259	Berkeley was suicide for the sake of penance
+259	why
+why	atonement
+259	atonement
+259	type
+type	Statement
+259	Statement
+259	has Predicate
+has Predicate	commit Suicide
+259	commit Suicide
+259	info Source
+info Source	Henry
+259	Henry
+crime_of_Davide	of Part
+of Part	crime
+crime_of_Davide	crime
+crime_of_Davide	type
+type	OFobj
+crime_of_Davide	OFobj
+crime_of_Davide	type
+type	PhysicalObject
+crime_of_Davide	PhysicalObject
+crime_of_Davide	label
+label	crime of Davide
+crime_of_Davide	crime of Davide
+crime_of_Davide	of Whole
+of Whole	Davide
+crime_of_Davide	Davide
+151	source
+source	The man was with small animals
+151	The man was with small animals
+151	how
+how	together
+151	together
+151	type
+type	Situation
+151	Situation
+151	has Predicate
+has Predicate	exist
+151	exist
+151	subject
+subject	beast
+151	beast
+151	subject
+subject	man
+151	man
+278	type
+type	Statement
+278	Statement
+278	info Source
+info Source	Henry
+278	Henry
+278	subject
+subject	Henry
+278	Henry
+278	has Predicate
+has Predicate	contact
+278	contact
+278	source
+source	To contact Henry is an outer
+278	To contact Henry is an outer
+278	whom
+whom	outside
+278	outside
+meeting	label
+label	meeting
+meeting	meeting
+meeting	type
+type	Object
+meeting	Object
+162	end
+end	1887-07-06T21:00:00
+162	1887-07-06T21:00:00
+162	begin
+begin	1887-07-06T19:30:00
+162	1887-07-06T19:30:00
+162	source
+source	Monday 19 at 30 minutes to 21 o'clock
+162	Monday 19 at 30 minutes to 21 o'clock
+162	when
+when	From 19 30 to 21 00 on Monday
+162	From 19 30 to 21 00 on Monday
+162	has Predicate
+has Predicate	exist
+162	exist
+162	time
+time	1887-07-06 21:00:00
+162	1887-07-06 21:00:00
+162	subject
+subject	Morrison AND Nancy
+162	Morrison AND Nancy
+162	type
+type	Situation
+162	Situation
+162	how
+how	together
+162	together
+162	time
+time	1887-07-06 19:30:00
+162	1887-07-06 19:30:00
+221	source
+source	Henry use the beast at the time of magic
+221	Henry use the beast at the time of magic
+221	info Source
+info Source	owner of lodge of Hudson street
+221	owner of lodge of Hudson street
+221	when
+when	magic
+221	magic
+221	type
+type	Statement
+221	Statement
+221	what
+what	beast
+221	beast
+221	subject
+subject	Henry
+221	Henry
+221	has Predicate
+has Predicate	use
+221	use
+106	type
+type	Situation
+106	Situation
+106	has Predicate
+has Predicate	collect
+106	collect
+106	what
+what	weapon
+106	weapon
+106	subject
+subject	Berkeley
+106	Berkeley
+106	source
+source	Berkeley had collected the weapons on the go
+106	Berkeley had collected the weapons on the go
+239	time
+time	1887-07-09 00:00:00
+239	1887-07-09 00:00:00
+239	has Predicate
+has Predicate	go
+239	go
+239	subject
+subject	Holmes AND Watson
+239	Holmes AND Watson
+239	source
+source	Holmes and Watson went to Hudson Street on Thursday
+239	Holmes and Watson went to Hudson Street on Thursday
+239	when
+when	Thursday
+239	Thursday
+239	where
+where	Hudson street
+239	Hudson street
+239	when
+when	1887-07-09
+239	1887-07-09
+239	type
+type	Situation
+239	Situation
+179	info Source
+info Source	Morrison
+179	Morrison
+179	has Property
+has Property	stoop
+179	stoop
+179	source
+source	Henry is a stoop
+179	Henry is a stoop
+179	type
+type	Statement
+179	Statement
+179	subject
+subject	Henry
+179	Henry
+367	what
+what	Davide
+367	Davide
+367	source
+source	Watson was asked about Davide to Holmes
+367	Watson was asked about Davide to Holmes
+367	has Predicate
+has Predicate	ask
+367	ask
+367	whom
+whom	Holmes
+367	Holmes
+367	subject
+subject	Watson
+367	Watson
+367	type
+type	Situation
+367	Situation
+241	where
+where	fireplace
+241	fireplace
+241	type
+type	Situation
+241	Situation
+241	source
+source	Henry is in the warm climate
+241	Henry is in the warm climate
+241	subject
+subject	Henry
+241	Henry
+241	has Predicate
+has Predicate	warm
+241	warm
+196	type
+type	Statement
+196	Statement
+196	at the same time
+at the same time	197
+196	197
+196	source
+source	Nancy and Henry spoke for several minutes with two people
+196	Nancy and Henry spoke for several minutes with two people
+196	then
+then	198
+196	198
+196	subject
+subject	Nancy AND Henry
+196	Nancy AND Henry
+196	has Predicate
+has Predicate	talk
+196	talk
+196	info Source
+info Source	Morrison
+196	Morrison
+196	when
+when	several minutes
+196	several minutes
+357	subject
+subject	Nancy
+357	Nancy
+357	has Predicate
+has Predicate	be Arrested
+357	be Arrested
+357	type
+type	Situation
+357	Situation
+357	source
+source	Nancy is arrested
+357	Nancy is arrested
+322	type
+type	Statement
+322	Statement
+322	source
+source	Berkeley was suicide
+322	Berkeley was suicide
+322	info Source
+info Source	Holmes
+322	Holmes
+322	has Predicate
+has Predicate	kill
+322	kill
+322	subject
+subject	Berkeley
+322	Berkeley
+322	whom
+whom	Berkeley
+322	Berkeley
+322	then
+then	324
+322	324
+Rasheen	type
+type	Object
+Rasheen	Object
+Rasheen	label
+label	Rasheen
+Rasheen	Rasheen
+131	subject
+subject	man
+131	man
+131	to
+to	living room
+131	living room
+131	source
+source	The man entered from the garden to the living room of the room
+131	The man entered from the garden to the living room of the room
+131	has Predicate
+has Predicate	enter
+131	enter
+131	type
+type	Situation
+131	Situation
+131	from
+from	garden
+131	garden
+nose_of_beast	type
+type	PhysicalObject
+nose_of_beast	PhysicalObject
+nose_of_beast	label
+label	nose of beast
+nose_of_beast	nose of beast
+nose_of_beast	type
+type	OFobj
+nose_of_beast	OFobj
+nose_of_beast	of Whole
+of Whole	beast
+nose_of_beast	beast
+nose_of_beast	of Part
+of Part	nose
+nose_of_beast	nose
+251	whom
+whom	Henry
+251	Henry
+251	what
+what	252
+251	252
+251	source
+source	Holmes told the following to Henry
+251	Holmes told the following to Henry
+251	subject
+subject	Holmes
+251	Holmes
+251	type
+type	Situation
+251	Situation
+251	has Predicate
+has Predicate	tell
+251	tell
+22	type
+type	Object
+22	Object
+22	label
+label	22
+22	22
+346	what
+what	347
+346	347
+346	has Predicate
+has Predicate	say
+346	say
+346	source
+source	Holmes said the following:
+346	Holmes said the following:
+346	type
+type	Situation
+346	Situation
+346	subject
+subject	Holmes
+346	Holmes
+250	how
+how	agreeable
+250	agreeable
+250	type
+type	Situation
+250	Situation
+250	subject
+subject	Holmes
+250	Holmes
+250	has Predicate
+has Predicate	speak
+250	speak
+250	source
+source	Holmes spoke agreeable Henry
+250	Holmes spoke agreeable Henry
+255	has Predicate
+has Predicate	be Arrested
+255	be Arrested
+255	type
+type	Statement
+255	Statement
+255	source
+source	Nancy is arrested
+255	Nancy is arrested
+255	subject
+subject	Nancy
+255	Nancy
+255	info Source
+info Source	Holmes
+255	Holmes
+several_minutes	label
+label	several minutes
+several_minutes	several minutes
+several_minutes	type
+type	AbstractTime
+several_minutes	AbstractTime
+211	whom
+whom	Nancy
+211	Nancy
+211	type
+type	Statement
+211	Statement
+211	has Predicate
+has Predicate	want To Help
+211	want To Help
+211	info Source
+info Source	Morrison
+211	Morrison
+211	subject
+subject	Morrison
+211	Morrison
+211	source
+source	Morrison want to help Nancy
+211	Morrison want to help Nancy
+317	time
+time	1857-07-09 00:00:00
+317	1857-07-09 00:00:00
+317	what
+what	Henry
+317	Henry
+317	subject
+subject	Berkeley
+317	Berkeley
+317	whom
+whom	rebels
+317	rebels
+317	info Source
+info Source	Holmes
+317	Holmes
+317	source
+source	Berkeley has sold Henry to Gyakuto
+317	Berkeley has sold Henry to Gyakuto
+317	type
+type	Statement
+317	Statement
+317	when
+when	1857-07-09
+317	1857-07-09
+317	has Predicate
+has Predicate	sell
+317	sell
+021	has Property
+has Property	happy
+021	happy
+021	type
+type	Situation
+021	Situation
+021	subject
+subject	Berkeley
+021	Berkeley
+021	source
+source	Berkeley was happy
+021	Berkeley was happy
+084	subject
+subject	Jane
+084	Jane
+084	type
+type	Situation
+084	Situation
+084	source
+source	Jane called the cook
+084	Jane called the cook
+084	has Predicate
+has Predicate	call
+084	call
+084	what
+what	cook
+084	cook
+soldiers	type
+type	Person
+soldiers	Person
+soldiers	label
+label	soldiers
+soldiers	soldiers
+061	what
+what	main street
+061	main street
+061	subject
+subject	living room
+061	living room
+061	type
+type	Situation
+061	Situation
+061	source
+source	Living room of the rooms are facing the main street
+061	Living room of the rooms are facing the main street
+061	has Predicate
+has Predicate	face
+061	face
+052	how
+how	early
+052	early
+052	subject
+subject	Nancy
+052	Nancy
+052	source
+source	Nancy is go home early from the meeting
+052	Nancy is go home early from the meeting
+052	to
+to	home
+052	home
+052	type
+type	Situation
+052	Situation
+052	has Predicate
+has Predicate	go
+052	go
+052	from
+from	meeting of the St George union
+052	meeting of the St George union
+298	subject
+subject	Henry
+298	Henry
+298	source
+source	Henry earned money in the magic
+298	Henry earned money in the magic
+298	has Predicate
+has Predicate	earn
+298	earn
+298	type
+type	Statement
+298	Statement
+298	info Source
+info Source	Henry
+298	Henry
+298	what
+what	money
+298	money
+298	how
+how	magic
+298	magic
+281	type
+type	Statement
+281	Statement
+281	then
+then	282
+281	282
+281	why
+why	284
+281	284
+281	subject
+subject	Henry
+281	Henry
+281	info Source
+info Source	Henry
+281	Henry
+281	has Predicate
+has Predicate	be Ambushed
+281	be Ambushed
+281	whom
+whom	rebels
+281	rebels
+281	source
+source	Henry had been ambushed in Gyakuto us with loophole
+281	Henry had been ambushed in Gyakuto us with loophole
+281	where
+where	bypath
+281	bypath
+133	type
+type	Situation
+133	Situation
+133	source
+source	The man ran the garden
+133	The man ran the garden
+133	has Predicate
+has Predicate	run
+133	run
+133	subject
+subject	man
+133	man
+133	where
+where	garden
+133	garden
+343	type
+type	Situation
+343	Situation
+343	subject
+subject	beast
+343	beast
+343	has Predicate
+has Predicate	have
+343	have
+343	source
+source	Beast has a foot of ermine
+343	Beast has a foot of ermine
+343	what
+what	foot of ermine
+343	foot of ermine
+dining_room	label
+label	dining room
+dining_room	dining room
+dining_room	type
+type	Object
+dining_room	Object
+dining_room	type
+type	Place
+dining_room	Place
+200	type
+type	Statement
+200	Statement
+200	whom
+whom	Morrison
+200	Morrison
+200	has Predicate
+has Predicate	ask
+200	ask
+200	subject
+subject	Nancy
+200	Nancy
+200	source
+source	Nancy asked the following to Morrison
+200	Nancy asked the following to Morrison
+200	what
+what	201
+200	201
+200	info Source
+info Source	Morrison
+200	Morrison
+304	source
+source	Henry went to Hudson Street
+304	Henry went to Hudson Street
+304	has Predicate
+has Predicate	go
+304	go
+304	subject
+subject	Henry
+304	Henry
+304	to
+to	Hudson street
+304	Hudson street
+304	info Source
+info Source	256
+304	256
+304	type
+type	Situation
+304	Situation
+338	what
+what	Teddy
+338	Teddy
+338	subject
+subject	Holmes
+338	Holmes
+338	whom
+whom	Henry
+338	Henry
+338	type
+type	Situation
+338	Situation
+338	has Predicate
+has Predicate	ask
+338	ask
+338	source
+source	Holmes was asked about Teddy to Henry
+338	Holmes was asked about Teddy to Henry
+long_torso	label
+label	long torso
+long_torso	long torso
+long_torso	type
+type	PhysicalObject
+long_torso	PhysicalObject
+killing_Berkeley	label
+label	killing Berkeley
+killing_Berkeley	killing Berkeley
+killing_Berkeley	type
+type	Object
+killing_Berkeley	Object
+201	source
+source	Morrison do not say that of Henry to anyone
+201	Morrison do not say that of Henry to anyone
+201	type
+type	Situation
+201	Situation
+201	subject
+subject	Morrison
+201	Morrison
+201	whom
+whom	anyone
+201	anyone
+201	has Predicate
+has Predicate	not Tell
+201	not Tell
+201	what
+what	about Henry
+201	about Henry
+window_of_living_room	of Part
+of Part	window
+window_of_living_room	window
+window_of_living_room	label
+label	window of living room
+window_of_living_room	window of living room
+window_of_living_room	type
+type	OFobj
+window_of_living_room	OFobj
+window_of_living_room	type
+type	PhysicalObject
+window_of_living_room	PhysicalObject
+window_of_living_room	of Whole
+of Whole	living room
+window_of_living_room	living room
+main_stree	type
+type	Place
+main_stree	Place
+main_stree	label
+label	main stree
+main_stree	main stree
+024	how
+how	passionately
+024	passionately
+024	subject
+subject	Berkeley
+024	Berkeley
+024	source
+source	Berkeley had loved passionately the Nancy
+024	Berkeley had loved passionately the Nancy
+024	has Predicate
+has Predicate	love
+024	love
+024	whom
+whom	Nancy
+024	Nancy
+024	type
+type	Situation
+024	Situation
+024	info Source
+info Source	22
+024	22
+360	when
+when	30 years
+360	30 years
+360	type
+type	Situation
+360	Situation
+360	has Predicate
+has Predicate	suffer
+360	suffer
+360	what
+what	guilt
+360	guilt
+360	source
+source	30 years
+360	30 years
+360	subject
+subject	Berkeley
+360	Berkeley
+twice	type
+type	Object
+twice	Object
+twice	label
+label	twice
+twice	twice
+254	type
+type	Situation
+254	Situation
+254	subject
+subject	Holmes
+254	Holmes
+254	what
+what	255
+254	255
+254	whom
+whom	Henry
+254	Henry
+254	has Predicate
+has Predicate	tell
+254	tell
+254	source
+source	Holmes told the following to Henry
+254	Holmes told the following to Henry
+157	source
+source	The man took the key to the living room of the room
+157	The man took the key to the living room of the room
+157	subject
+subject	man
+157	man
+157	type
+type	Situation
+157	Situation
+157	what
+what	key of living room
+157	key of living room
+157	has Predicate
+has Predicate	take
+157	take
+134	has Predicate
+has Predicate	have
+134	have
+134	source
+source	Beast had five paws
+134	Beast had five paws
+134	subject
+subject	beast
+134	beast
+134	type
+type	Situation
+134	Situation
+134	what
+what	5 paws
+134	5 paws
+264	type
+type	Statement
+264	Statement
+264	subject
+subject	Berkeley AND Henry
+264	Berkeley AND Henry
+264	where
+where	company of first battalion of Royal Mallows
+264	company of first battalion of Royal Mallows
+264	info Source
+info Source	Henry
+264	Henry
+264	has Property
+has Property	sergeant
+264	sergeant
+264	at the same time
+at the same time	265
+264	265
+264	source
+source	Berkeley and Henry was a sergeant in the company of the first battalion of the Royal Mallows
+264	Berkeley and Henry was a sergeant in the company of the first battalion of the Royal Mallows
+137	type
+type	Situation
+137	Situation
+137	what
+what	2 feet
+137	2 feet
+137	subject
+subject	total length of beast
+137	total length of beast
+137	source
+source	The total length of the beast is a 2 ft
+137	The total length of the beast is a 2 ft
+137	has Predicate
+has Predicate	equal To
+137	equal To
+owner	type
+type	Object
+owner	Object
+owner	label
+label	owner
+owner	owner
+total_length_of_beast	of Part
+of Part	total length
+total_length_of_beast	total length
+total_length_of_beast	of Whole
+of Whole	beast
+total_length_of_beast	beast
+total_length_of_beast	label
+label	total length of beast
+total_length_of_beast	total length of beast
+total_length_of_beast	type
+type	PhysicalObject
+total_length_of_beast	PhysicalObject
+total_length_of_beast	type
+type	OFobj
+total_length_of_beast	OFobj
+139	what
+what	long torso
+139	long torso
+139	type
+type	Situation
+139	Situation
+139	source
+source	Beast has a long torso
+139	Beast has a long torso
+139	has Predicate
+has Predicate	have
+139	have
+139	subject
+subject	beast
+139	beast
+330	what
+what	criminal
+330	criminal
+330	has Predicate
+has Predicate	be Suspected
+330	be Suspected
+330	type
+type	Thought
+330	Thought
+330	source
+source	Henry seems to be the culprit
+330	Henry seems to be the culprit
+330	subject
+subject	Henry
+330	Henry
+330	info Source
+info Source	Henry
+330	Henry
+310	info Source
+info Source	Holmes
+310	Holmes
+310	type
+type	Statement
+310	Statement
+310	source
+source	Nancy and Henry talked
+310	Nancy and Henry talked
+310	then
+then	311
+310	311
+310	has Predicate
+has Predicate	talk
+310	talk
+310	subject
+subject	Nancy
+310	Nancy
+310	whom
+whom	Henry
+310	Henry
+056	when
+when	1887-07-06T20:00:00
+056	1887-07-06T20:00:00
+056	subject
+subject	meeting of the St George union
+056	meeting of the St George union
+056	has Predicate
+has Predicate	start
+056	start
+056	type
+type	Situation
+056	Situation
+056	source
+source	Meeting of the St George union was started at Monday 20
+056	Meeting of the St George union was started at Monday 20
+056	time
+time	1887-07-06 20:00:00
+056	1887-07-06 20:00:00
+056	when
+when	20 am on Monday
+056	20 am on Monday
+dwellers_of_mountain	type
+type	Person
+dwellers_of_mountain	Person
+dwellers_of_mountain	type
+type	OFobj
+dwellers_of_mountain	OFobj
+dwellers_of_mountain	of Whole
+of Whole	mountain
+dwellers_of_mountain	mountain
+dwellers_of_mountain	label
+label	dwellers of mountain
+dwellers_of_mountain	dwellers of mountain
+dwellers_of_mountain	of Part
+of Part	dwellers
+dwellers_of_mountain	dwellers
+153	subject
+subject	man
+153	man
+153	whom
+whom	Berkeley
+153	Berkeley
+153	info Source
+info Source	Holmes
+153	Holmes
+153	has Predicate
+has Predicate	kill
+153	kill
+153	source
+source	The man might have killed Berkeley
+153	The man might have killed Berkeley
+153	type
+type	Thought
+153	Thought
+020	time
+time	1856-07-06 00:00:00
+020	1856-07-06 00:00:00
+020	has Property
+has Property	beautiful
+020	beautiful
+020	subject
+subject	Nancy
+020	Nancy
+020	source
+source	For over 30 years
+020	For over 30 years
+020	when
+when	over 30 years
+020	over 30 years
+020	begin
+begin	1856-07-06
+020	1856-07-06
+020	type
+type	Situation
+020	Situation
+witness	type
+type	Object
+witness	Object
+witness	label
+label	witness
+witness	witness
+195	has Predicate
+has Predicate	have
+195	have
+195	info Source
+info Source	Morrison
+195	Morrison
+195	type
+type	Statement
+195	Statement
+195	what
+what	wrinkle
+195	wrinkle
+195	subject
+subject	face of Henry
+195	face of Henry
+195	source
+source	Face of Henry has wrinkles
+195	Face of Henry has wrinkles
+198	has Property
+has Property	angry
+198	angry
+198	info Source
+info Source	Morrison
+198	Morrison
+198	at the same time
+at the same time	199
+198	199
+198	type
+type	Statement
+198	Statement
+198	subject
+subject	Nancy
+198	Nancy
+198	source
+source	Nancy got angry
+198	Nancy got angry
+198	then
+then	200
+198	200
+foot	label
+label	foot
+foot	foot
+foot	type
+type	Object
+foot	Object
+272	type
+type	Statement
+272	Statement
+272	source
+source	Berkeley was able to get ahead
+272	Berkeley was able to get ahead
+272	has Predicate
+has Predicate	can Get Ahead
+272	can Get Ahead
+272	subject
+subject	Berkeley
+272	Berkeley
+272	because
+because	271
+272	271
+272	info Source
+info Source	Henry
+272	Henry
+276	type
+type	Statement
+276	Statement
+276	info Source
+info Source	Henry
+276	Henry
+276	subject
+subject	civilian
+276	civilian
+276	then
+then	277
+276	277
+276	source
+source	The first battalion and a civilian of the Royal Mallows had been surrounded by the ferocious Gyakuto our one million people
+276	The first battalion and a civilian of the Royal Mallows had been surrounded by the ferocious Gyakuto our one million people
+276	subject
+subject	first battalion of Royal Mallows
+276	first battalion of Royal Mallows
+276	whom
+whom	10000 rebels
+276	10000 rebels
+276	has Predicate
+has Predicate	be Surrounded
+276	be Surrounded
+207	source
+source	Nancy was kissed Morrison
+207	Nancy was kissed Morrison
+207	info Source
+info Source	Morrison
+207	Morrison
+207	has Predicate
+has Predicate	kiss
+207	kiss
+207	type
+type	Statement
+207	Statement
+207	subject
+subject	Nancy
+207	Nancy
+207	whom
+whom	Morrison
+207	Morrison
+070	type
+type	Situation
+070	Situation
+070	how
+how	usually
+070	usually
+070	when
+when	night
+070	night
+070	source
+source	Living room of the room is not rarely used at night
+070	Living room of the room is not rarely used at night
+070	has Predicate
+has Predicate	not Be Used
+070	not Be Used
+070	subject
+subject	living room
+070	living room
+22_o_clock_from_Monday_21_o_clock	type
+type	AbstractTime
+22_o_clock_from_Monday_21_o_clock	AbstractTime
+22_o_clock_from_Monday_21_o_clock	label
+label	22 o'clock from Monday 21 o'clock
+22_o_clock_from_Monday_21_o_clock	22 o'clock from Monday 21 o'clock
+282	has Predicate
+has Predicate	be Caught
+282	be Caught
+282	subject
+subject	Henry
+282	Henry
+282	whom
+whom	rebels
+282	rebels
+282	type
+type	Statement
+282	Statement
+282	then
+then	286
+282	286
+282	info Source
+info Source	Henry
+282	Henry
+282	source
+source	Henry was caught in Gyakuto us
+282	Henry was caught in Gyakuto us
+076	type
+type	Situation
+076	Situation
+076	what
+what	077
+076	077
+076	has Predicate
+has Predicate	see
+076	see
+076	source
+source	Coachman saw the following
+076	Coachman saw the following
+076	subject
+subject	coachman
+076	coachman
+face_of_Berkeley	label
+label	face of Berkeley
+face_of_Berkeley	face of Berkeley
+face_of_Berkeley	of Whole
+of Whole	Berkeley
+face_of_Berkeley	Berkeley
+face_of_Berkeley	type
+type	OFobj
+face_of_Berkeley	OFobj
+face_of_Berkeley	of Part
+of Part	face
+face_of_Berkeley	face
+face_of_Berkeley	type
+type	PhysicalObject
+face_of_Berkeley	PhysicalObject
+many_times	type
+type	Object
+many_times	Object
+many_times	label
+label	many times
+many_times	many times
+3_inches	type
+type	PhysicalObject
+3_inches	PhysicalObject
+3_inches	label
+label	3 inches
+3_inches	3 inches
+265	where
+where	first battalion of Royal Mallows
+265	first battalion of Royal Mallows
+265	type
+type	Statement
+265	Statement
+265	info Source
+info Source	Henry
+265	Henry
+265	subject
+subject	Nancy
+265	Nancy
+265	source
+source	Nancy was the most beautiful woman in the first battalion of the Royal Mallows
+265	Nancy was the most beautiful woman in the first battalion of the Royal Mallows
+265	has Property
+has Property	beautiful
+265	beautiful
+265	at the same time
+at the same time	267
+265	267
+strange_word	type
+type	PhysicalObject
+strange_word	PhysicalObject
+strange_word	label
+label	strange word
+strange_word	strange word
+185	type
+type	Statement
+185	Statement
+185	info Source
+info Source	Morrison
+185	Morrison
+185	source
+source	Nancy became ramshackle
+185	Nancy became ramshackle
+185	how
+how	almost
+185	almost
+185	has Predicate
+has Predicate	fall
+185	fall
+185	subject
+subject	Nancy
+185	Nancy
+incedent	label
+label	incedent
+incedent	incedent
+incedent	type
+type	Object
+incedent	Object
+268	has Predicate
+has Predicate	love
+268	love
+268	info Source
+info Source	Henry
+268	Henry
+268	source
+source	Nancy had loved Henry
+268	Nancy had loved Henry
+268	at the same time
+at the same time	269
+268	269
+268	type
+type	Statement
+268	Statement
+268	at the same time
+at the same time	1857-07-09
+268	1857-07-09
+268	what
+what	Henry
+268	Henry
+268	subject
+subject	Nancy
+268	Nancy
+268	time
+time	1857-07-09 00:00:00
+268	1857-07-09 00:00:00
+045	where
+where	Rasheen
+045	Rasheen
+045	has Predicate
+has Predicate	live
+045	live
+045	source
+source	Coachman and Jane and cooking people and Berkeley and Nancy live in Rasheen
+045	Coachman and Jane and cooking people and Berkeley and Nancy live in Rasheen
+045	subject
+subject	Berkeley AND Nancy AND coachman AND Jane AND cook
+045	Berkeley AND Nancy AND coachman AND Jane AND cook
+045	type
+type	Situation
+045	Situation
+20_am_on_Monday	type
+type	AbstractTime
+20_am_on_Monday	AbstractTime
+20_am_on_Monday	label
+label	20 am on Monday
+20_am_on_Monday	20 am on Monday
+290	whom
+whom	rebels
+290	rebels
+290	to
+to	end of Darjeeling
+290	end of Darjeeling
+290	from
+from	Nepal
+290	Nepal
+290	info Source
+info Source	Henry
+290	Henry
+290	then
+then	291
+290	291
+290	type
+type	Statement
+290	Statement
+290	has Predicate
+has Predicate	be Taken
+290	be Taken
+290	subject
+subject	Henry
+290	Henry
+290	source
+source	Henry made their way brought to Darjeeling earlier Gyakuto us
+290	Henry made their way brought to Darjeeling earlier Gyakuto us
+lodge_of_Hudson_street	type
+type	OFobj
+lodge_of_Hudson_street	OFobj
+lodge_of_Hudson_street	of Whole
+of Whole	Hudson street
+lodge_of_Hudson_street	Hudson street
+lodge_of_Hudson_street	label
+label	lodge of Hudson street
+lodge_of_Hudson_street	lodge of Hudson street
+lodge_of_Hudson_street	type
+type	Place
+lodge_of_Hudson_street	Place
+lodge_of_Hudson_street	of Part
+of Part	lodge
+lodge_of_Hudson_street	lodge
+363	subject
+subject	Holmes
+363	Holmes
+363	why
+why	progress of incedent
+363	progress of incedent
+363	source
+source	Holmes went to listen to the progress of the subsequent incident Wednesday Murphy
+363	Holmes went to listen to the progress of the subsequent incident Wednesday Murphy
+363	type
+type	Situation
+363	Situation
+363	whom
+whom	Murphy
+363	Murphy
+363	when
+when	1887-07-08 ~
+363	1887-07-08 ~
+363	has Predicate
+has Predicate	ask
+363	ask
+1887-07-08_~	label
+label	1887-07-08 ~
+1887-07-08_~	1887-07-08 ~
+1887-07-08_~	type
+type	AbstractTime
+1887-07-08_~	AbstractTime
+107	source
+source	The police thought the following
+107	The police thought the following
+107	what
+what	108
+107	108
+107	subject
+subject	police
+107	police
+107	type
+type	Situation
+107	Situation
+107	has Predicate
+has Predicate	think
+107	think
+074	has Property
+has Property	not Habit
+074	not Habit
+074	subject
+subject	073
+074	073
+074	type
+type	Situation
+074	Situation
+074	source
+source	The above is not a habit
+074	The above is not a habit
+336	what
+what	Teddy
+336	Teddy
+336	info Source
+info Source	Holmes
+336	Holmes
+336	type
+type	Statement
+336	Statement
+336	source
+source	Henry was put Teddy into the box
+336	Henry was put Teddy into the box
+336	has Predicate
+has Predicate	put Into
+336	put Into
+336	subject
+subject	Henry
+336	Henry
+336	where
+where	box
+336	box
+336	then
+then	337
+336	337
+early	label
+label	early
+early	early
+early	type
+type	Object
+early	Object
+sergeant	label
+label	sergeant
+sergeant	sergeant
+sergeant	type
+type	Person
+sergeant	Person
+118	type
+type	Thought
+118	Thought
+118	has Predicate
+has Predicate	not Contradict
+118	not Contradict
+118	subject
+subject	Nancy
+118	Nancy
+118	what
+what	criminal
+118	criminal
+118	info Source
+info Source	Holmes
+118	Holmes
+118	source
+source	Nancy does not have a conflict of as criminal
+118	Nancy does not have a conflict of as criminal
+first_battalion_of_Royal_Mallows	label
+label	first battalion of Royal Mallows
+first_battalion_of_Royal_Mallows	first battalion of Royal Mallows
+first_battalion_of_Royal_Mallows	of Whole
+of Whole	Royal Mallows
+first_battalion_of_Royal_Mallows	Royal Mallows
+first_battalion_of_Royal_Mallows	type
+type	PhysicalObject
+first_battalion_of_Royal_Mallows	PhysicalObject
+first_battalion_of_Royal_Mallows	type
+type	OFobj
+first_battalion_of_Royal_Mallows	OFobj
+first_battalion_of_Royal_Mallows	of Part
+of Part	first battalion
+first_battalion_of_Royal_Mallows	first battalion
+house_of_Berkeley	label
+label	house of Berkeley
+house_of_Berkeley	house of Berkeley
+house_of_Berkeley	of Whole
+of Whole	Berkeley
+house_of_Berkeley	Berkeley
+house_of_Berkeley	of Part
+of Part	house
+house_of_Berkeley	house
+house_of_Berkeley	type
+type	OFobj
+house_of_Berkeley	OFobj
+350	has Predicate
+has Predicate	call
+350	call
+350	subject
+subject	Henry
+350	Henry
+350	what
+what	snake killer
+350	snake killer
+350	type
+type	Situation
+350	Situation
+350	what
+what	beast
+350	beast
+350	source
+source	Henry is calling the Hebitori the beast
+350	Henry is calling the Hebitori the beast
+307	type
+type	Situation
+307	Situation
+307	what
+what	money
+307	money
+307	subject
+subject	Henry
+307	Henry
+307	has Predicate
+has Predicate	earn
+307	earn
+307	info Source
+info Source	256
+307	256
+307	source
+source	So
+307	So
+over_30_years	type
+type	AbstractTime
+over_30_years	AbstractTime
+over_30_years	label
+label	over 30 years
+over_30_years	over 30 years
+back_of_head_of_Berkeley	type
+type	OFobj
+back_of_head_of_Berkeley	OFobj
+back_of_head_of_Berkeley	of Whole
+of Whole	head
+back_of_head_of_Berkeley	head
+back_of_head_of_Berkeley	of Part
+of Part	back
+back_of_head_of_Berkeley	back
+back_of_head_of_Berkeley	of Whole
+of Whole	head of Berkeley
+back_of_head_of_Berkeley	head of Berkeley
+back_of_head_of_Berkeley	type
+type	PhysicalObject
+back_of_head_of_Berkeley	PhysicalObject
+back_of_head_of_Berkeley	label
+label	back of head of Berkeley
+back_of_head_of_Berkeley	back of head of Berkeley
+back_of_head_of_Berkeley	of Whole
+of Whole	Berkeley
+back_of_head_of_Berkeley	Berkeley
+lamp_of_living_room	of Whole
+of Whole	living room
+lamp_of_living_room	living room
+lamp_of_living_room	type
+type	PhysicalObject
+lamp_of_living_room	PhysicalObject
+lamp_of_living_room	type
+type	OFobj
+lamp_of_living_room	OFobj
+lamp_of_living_room	label
+label	lamp of living room
+lamp_of_living_room	lamp of living room
+lamp_of_living_room	of Part
+of Part	lamp
+lamp_of_living_room	lamp
+room_of_Henry	type
+type	Place
+room_of_Henry	Place
+room_of_Henry	label
+label	room of Henry
+room_of_Henry	room of Henry
+room_of_Henry	of Part
+of Part	room
+room_of_Henry	room
+room_of_Henry	type
+type	OFobj
+room_of_Henry	OFobj
+room_of_Henry	of Whole
+of Whole	Henry
+room_of_Henry	Henry
+047	subject
+subject	Berkeley
+047	Berkeley
+047	has Predicate
+has Predicate	have
+047	have
+047	what
+what	guest
+047	guest
+047	type
+type	Situation
+047	Situation
+047	source
+source	Berkeley is rarely not stay overnight guests
+047	Berkeley is rarely not stay overnight guests
+047	how
+how	rarely
+047	rarely
+man_A N D_footprint	label
+label	man AND footprint
+man_A N D_footprint	man AND footprint
+man_A N D_footprint	type
+type	Object
+man_A N D_footprint	Object
+315	then
+then	318
+315	318
+315	has Predicate
+has Predicate	see
+315	see
+315	what
+what	316
+315	316
+315	type
+type	Statement
+315	Statement
+315	subject
+subject	Henry
+315	Henry
+315	source
+source	Henry saw the following
+315	Henry saw the following
+315	info Source
+info Source	Holmes
+315	Holmes
+015	time
+time	1859-07-06 00:00:00
+015	1859-07-06 00:00:00
+015	subject
+subject	Berkeley
+015	Berkeley
+015	type
+type	Situation
+015	Situation
+015	when
+when	1859-07-06
+015	1859-07-06
+015	what
+what	sergeant
+015	sergeant
+015	source
+source	At that time
+015	At that time
+015	when
+when	at that time
+015	at that time
+015	has Predicate
+has Predicate	equal To
+015	equal To
+30_years_ago	type
+type	AbstractTime
+30_years_ago	AbstractTime
+30_years_ago	label
+label	30 years ago
+30_years_ago	30 years ago
+218	what
+what	beast
+218	beast
+218	source
+source	Woman of the landlord have not seen the beast
+218	Woman of the landlord have not seen the beast
+218	type
+type	Statement
+218	Statement
+218	info Source
+info Source	owner of lodge of Hudson street
+218	owner of lodge of Hudson street
+218	subject
+subject	owner of lodge of Hudson street
+218	owner of lodge of Hudson street
+218	has Predicate
+has Predicate	not See
+218	not See
+in_front_of_Rasheen	type
+type	Place
+in_front_of_Rasheen	Place
+in_front_of_Rasheen	type
+type	OFobj
+in_front_of_Rasheen	OFobj
+in_front_of_Rasheen	of Part
+of Part	in front
+in_front_of_Rasheen	in front
+in_front_of_Rasheen	label
+label	in front of Rasheen
+in_front_of_Rasheen	in front of Rasheen
+in_front_of_Rasheen	of Whole
+of Whole	Rasheen
+in_front_of_Rasheen	Rasheen
+30_yards	type
+type	PhysicalObject
+30_yards	PhysicalObject
+30_yards	label
+label	30 yards
+30_yards	30 yards
+Uriah_and_Bathsheba	label
+label	Uriah and Bathsheba
+Uriah_and_Bathsheba	Uriah and Bathsheba
+Uriah_and_Bathsheba	type
+type	Object
+Uriah_and_Bathsheba	Object
+criminal	label
+label	criminal
+criminal	criminal
+criminal	type
+type	Person
+criminal	Person
+footprint_of_man_A N D_footprint_of_beast	label
+label	footprint of man AND footprint of beast
+footprint_of_man_A N D_footprint_of_beast	footprint of man AND footprint of beast
+footprint_of_man_A N D_footprint_of_beast	type
+type	OFobj
+footprint_of_man_A N D_footprint_of_beast	OFobj
+footprint_of_man_A N D_footprint_of_beast	of Part
+of Part	footprint
+footprint_of_man_A N D_footprint_of_beast	footprint
+footprint_of_man_A N D_footprint_of_beast	of Whole
+of Whole	man AND footprint of beast
+footprint_of_man_A N D_footprint_of_beast	man AND footprint of beast
+footprint_of_man_A N D_footprint_of_beast	of Whole
+of Whole	man AND footprint
+footprint_of_man_A N D_footprint_of_beast	man AND footprint
+footprint_of_man_A N D_footprint_of_beast	type
+type	PhysicalObject
+footprint_of_man_A N D_footprint_of_beast	PhysicalObject
+footprint_of_man_A N D_footprint_of_beast	of Whole
+of Whole	beast
+footprint_of_man_A N D_footprint_of_beast	beast
+total_length	type
+type	Object
+total_length	Object
+total_length	label
+label	total length
+total_length	total length
+138	has Predicate
+has Predicate	equal To
+138	equal To
+138	source
+source	Stride of the beast is a 3 inches
+138	Stride of the beast is a 3 inches
+138	subject
+subject	stride of beast
+138	stride of beast
+138	type
+type	Situation
+138	Situation
+138	what
+what	3 inches
+138	3 inches
+police	type
+type	Person
+police	Person
+police	label
+label	police
+police	police
+034	has Predicate
+has Predicate	believe
+034	believe
+034	source
+source	Berkeley believe in superstition
+034	Berkeley believe in superstition
+034	type
+type	Situation
+034	Situation
+034	what
+what	superstition
+034	superstition
+034	subject
+subject	Berkeley
+034	Berkeley
+333	has Predicate
+has Predicate	suppress
+333	suppress
+333	type
+type	Statement
+333	Statement
+333	info Source
+info Source	Holmes
+333	Holmes
+333	subject
+subject	Henry
+333	Henry
+333	what
+what	Teddy
+333	Teddy
+333	source
+source	Henry was suppressed Teddy
+333	Henry was suppressed Teddy
+333	then
+then	334
+333	334
+148	has Predicate
+has Predicate	think
+148	think
+148	subject
+subject	Holmes
+148	Holmes
+148	type
+type	Situation
+148	Situation
+148	what
+what	149
+148	149
+148	source
+source	Holmes thought the following
+148	Holmes thought the following
+5_paws	label
+label	5 paws
+5_paws	5 paws
+5_paws	type
+type	PhysicalObject
+5_paws	PhysicalObject
+019	subject
+subject	Nancy
+019	Nancy
+019	source
+source	Nancy is a beauty
+019	Nancy is a beauty
+019	has Property
+has Property	beautiful
+019	beautiful
+019	type
+type	Situation
+019	Situation
+2-inch_tear	label
+label	2-inch tear
+2-inch_tear	2-inch tear
+2-inch_tear	type
+type	PhysicalObject
+2-inch_tear	PhysicalObject
+213	where
+where	lodge of Hudson street
+213	lodge of Hudson street
+213	type
+type	Situation
+213	Situation
+213	when
+when	Friday
+213	Friday
+213	subject
+subject	Henry
+213	Henry
+213	has Predicate
+has Predicate	live
+213	live
+213	source
+source	Henry has been living in Hudson Town's lodging since Friday
+213	Henry has been living in Hudson Town's lodging since Friday
+187	has Predicate
+has Predicate	talk
+187	talk
+187	info Source
+info Source	Morrison
+187	Morrison
+187	subject
+subject	Nancy
+187	Nancy
+187	subject
+subject	Henry
+187	Henry
+187	how
+how	friendly
+187	friendly
+187	type
+type	Statement
+187	Statement
+187	source
+source	Nancy and Henry told friends
+187	Nancy and Henry told friends
+097	type
+type	Situation
+097	Situation
+097	source
+source	Coachman have called the police and a doctor
+097	Coachman have called the police and a doctor
+097	what
+what	police AND doctor
+097	police AND doctor
+097	has Predicate
+has Predicate	call
+097	call
+097	subject
+subject	coachman
+097	coachman
+eye_of_Henry	label
+label	eye of Henry
+eye_of_Henry	eye of Henry
+eye_of_Henry	type
+type	PhysicalObject
+eye_of_Henry	PhysicalObject
+eye_of_Henry	of Part
+of Part	eye
+eye_of_Henry	eye
+eye_of_Henry	of Whole
+of Whole	Henry
+eye_of_Henry	Henry
+eye_of_Henry	type
+type	OFobj
+eye_of_Henry	OFobj
+hair	type
+type	Object
+hair	Object
+hair	label
+label	hair
+hair	hair
+iron_fence	type
+type	PhysicalObject
+iron_fence	PhysicalObject
+iron_fence	label
+label	iron fence
+iron_fence	iron fence
+lamp	type
+type	Object
+lamp	Object
+lamp	label
+label	lamp
+lamp	lamp
+in_front	type
+type	Object
+in_front	Object
+in_front	label
+label	in front
+in_front	in front
+apoplexia	label
+label	apoplexia
+apoplexia	apoplexia
+apoplexia	type
+type	PhysicalObject
+apoplexia	PhysicalObject
+331	has Predicate
+has Predicate	not Want To Reveal
+331	not Want To Reveal
+331	type
+type	Statement
+331	Statement
+331	subject
+subject	Henry
+331	Henry
+331	source
+source	Henry did not want to reveal the secrets of Henry
+331	Henry did not want to reveal the secrets of Henry
+331	info Source
+info Source	Holmes
+331	Holmes
+331	what
+what	secret of Henry
+331	secret of Henry
+115	type
+type	Situation
+115	Situation
+115	how
+how	extreme
+115	extreme
+115	has Predicate
+has Predicate	distort
+115	distort
+115	subject
+subject	face of Berkeley
+115	face of Berkeley
+115	source
+source	Face of Berkeley was distorted in extreme
+115	Face of Berkeley was distorted in extreme
+fear	label
+label	fear
+fear	fear
+fear	type
+type	Object
+fear	Object
+348	has Predicate
+has Predicate	say
+348	say
+348	type
+type	Situation
+348	Situation
+348	what
+what	349
+348	349
+348	source
+source	Henry said the following:
+348	Henry said the following:
+348	subject
+subject	Henry
+348	Henry
+186	info Source
+info Source	Morrison
+186	Morrison
+186	source
+source	Henry has supported the Nancy
+186	Henry has supported the Nancy
+186	has Predicate
+has Predicate	support
+186	support
+186	type
+type	Statement
+186	Statement
+186	subject
+subject	Henry
+186	Henry
+186	what
+what	Nancy
+186	Nancy
+man	label
+label	man
+man	man
+man	type
+type	Person
+man	Person
+291	whom
+whom	dwellers of mountain
+291	dwellers of mountain
+291	has Predicate
+has Predicate	be Killed
+291	be Killed
+291	source
+source	Gyakuto who was killed the people of the mountain
+291	Gyakuto who was killed the people of the mountain
+291	subject
+subject	rebels
+291	rebels
+291	then
+then	292
+291	292
+291	type
+type	Statement
+291	Statement
+291	info Source
+info Source	Henry
+291	Henry
+motive_of_killing_Berkeley	label
+label	motive of killing Berkeley
+motive_of_killing_Berkeley	motive of killing Berkeley
+motive_of_killing_Berkeley	of Whole
+of Whole	killing Berkeley
+motive_of_killing_Berkeley	killing Berkeley
+motive_of_killing_Berkeley	type
+type	PhysicalObject
+motive_of_killing_Berkeley	PhysicalObject
+motive_of_killing_Berkeley	type
+type	OFobj
+motive_of_killing_Berkeley	OFobj
+motive_of_killing_Berkeley	of Part
+of Part	motive
+motive_of_killing_Berkeley	motive
+dwelleers_of_mountain	of Part
+of Part	dwelleers
+dwelleers_of_mountain	dwelleers
+dwelleers_of_mountain	label
+label	dwelleers of mountain
+dwelleers_of_mountain	dwelleers of mountain
+dwelleers_of_mountain	type
+type	Person
+dwelleers_of_mountain	Person
+dwelleers_of_mountain	of Whole
+of Whole	mountain
+dwelleers_of_mountain	mountain
+dwelleers_of_mountain	type
+type	OFobj
+dwelleers_of_mountain	OFobj
+cook	label
+label	cook
+cook	cook
+cook	type
+type	Person
+cook	Person
+182	what
+what	knee of Henry
+182	knee of Henry
+182	subject
+subject	Henry
+182	Henry
+182	source
+source	Henry was bending the knee
+182	Henry was bending the knee
+182	info Source
+info Source	Morrison
+182	Morrison
+182	has Predicate
+has Predicate	bend
+182	bend
+182	type
+type	Statement
+182	Statement
+large_glass_door	label
+label	large glass door
+large_glass_door	large glass door
+large_glass_door	type
+type	Object
+large_glass_door	Object
+knee_of_Henry	of Whole
+of Whole	Henry
+knee_of_Henry	Henry
+knee_of_Henry	type
+type	PhysicalObject
+knee_of_Henry	PhysicalObject
+knee_of_Henry	label
+label	knee of Henry
+knee_of_Henry	knee of Henry
+knee_of_Henry	of Part
+of Part	knee
+knee_of_Henry	knee
+knee_of_Henry	type
+type	OFobj
+knee_of_Henry	OFobj
+361	subject
+subject	Henry
+361	Henry
+361	why
+why	359
+361	359
+361	type
+type	Situation
+361	Situation
+361	source
+source	Henry is happy
+361	Henry is happy
+361	has Property
+has Property	happy
+361	happy
+369	source
+source	Davide in the Old Testament
+369	Davide in the Old Testament
+369	subject
+subject	Davide
+369	Davide
+369	type
+type	Statement
+369	Statement
+369	has Predicate
+has Predicate	equal To
+369	equal To
+369	where
+where	Old Testament
+369	Old Testament
+369	what
+what	David
+369	David
+369	info Source
+info Source	Holmes
+369	Holmes
+215	has Property
+has Property	magician AND entertainer
+215	magician AND entertainer
+215	type
+type	Statement
+215	Statement
+215	subject
+subject	Henry
+215	Henry
+215	source
+source	Henry is a magician and entertainer
+215	Henry is a magician and entertainer
+215	info Source
+info Source	owner of lodge of Hudson street
+215	owner of lodge of Hudson street
+same_type_of_crime	type
+type	OFobj
+same_type_of_crime	OFobj
+same_type_of_crime	label
+label	same type of crime
+same_type_of_crime	same type of crime
+same_type_of_crime	type
+type	PhysicalObject
+same_type_of_crime	PhysicalObject
+same_type_of_crime	of Whole
+of Whole	crime
+same_type_of_crime	crime
+same_type_of_crime	of Part
+of Part	same type
+same_type_of_crime	same type
+295	type
+type	Statement
+295	Statement
+295	source
+source	Several years
+295	Several years
+295	has Predicate
+has Predicate	wander
+295	wander
+295	where
+where	Afghanistan
+295	Afghanistan
+295	when
+when	several years
+295	several years
+295	info Source
+info Source	Henry
+295	Henry
+295	subject
+subject	Henry
+295	Henry
+at_that_time	label
+label	at that time
+at_that_time	at that time
+at_that_time	type
+type	AbstractTime
+at_that_time	AbstractTime
+19_30_on_Monday	type
+type	AbstractTime
+19_30_on_Monday	AbstractTime
+19_30_on_Monday	label
+label	19:30 on Monday
+19_30_on_Monday	19:30 on Monday
+173	where
+where	Watts Street Church
+173	Watts Street Church
+173	subject
+subject	meeting of the St George union
+173	meeting of the St George union
+173	source
+source	Meeting of the St George union took place in Watts Street Church
+173	Meeting of the St George union took place in Watts Street Church
+173	info Source
+info Source	Morrison
+173	Morrison
+173	type
+type	Statement
+173	Statement
+173	has Predicate
+has Predicate	take Place
+173	take Place
+222	source
+source	Henry's body is bent
+222	Henry's body is bent
+222	info Source
+info Source	owner of lodge of Hudson street
+222	owner of lodge of Hudson street
+222	type
+type	Statement
+222	Statement
+222	has Property
+has Property	bent
+222	bent
+222	subject
+subject	body of Henry
+222	body of Henry
+guest	type
+type	Person
+guest	Person
+guest	label
+label	guest
+guest	guest
+postscript_of_Samuel	type
+type	PhysicalObject
+postscript_of_Samuel	PhysicalObject
+postscript_of_Samuel	of Whole
+of Whole	Samuel
+postscript_of_Samuel	Samuel
+postscript_of_Samuel	label
+label	postscript of Samuel
+postscript_of_Samuel	postscript of Samuel
+postscript_of_Samuel	type
+type	OFobj
+postscript_of_Samuel	OFobj
+postscript_of_Samuel	of Part
+of Part	postscript
+postscript_of_Samuel	postscript
+160	whom
+whom	Berkeley
+160	Berkeley
+160	subject
+subject	Nancy
+160	Nancy
+160	when
+when	21 15 on Monday
+160	21 15 on Monday
+160	when
+when	1887-07-06T21:15:00
+160	1887-07-06T21:15:00
+160	source
+source	Monday 15 pm 21
+160	Monday 15 pm 21
+160	time
+time	1887-07-06 21:15:00
+160	1887-07-06 21:15:00
+160	type
+type	Situation
+160	Situation
+160	has Predicate
+has Predicate	accuse
+160	accuse
+126	info Source
+info Source	125
+126	125
+126	subject
+subject	127
+126	127
+126	has Predicate
+has Predicate	equal To
+126	equal To
+126	what
+what	important event of incident
+126	important event of incident
+126	subject
+subject	129
+126	129
+126	source
+source	It is an important event of the incident the following
+126	It is an important event of the incident the following
+126	subject
+subject	128
+126	128
+126	type
+type	Situation
+126	Situation
+275	source
+source	The first battalion and a civilian of the Royal Mallows was siege to Bute
+275	The first battalion and a civilian of the Royal Mallows was siege to Bute
+275	time
+time	1857-07-09
+275	1857-07-09
+275	subject
+subject	civilian
+275	civilian
+275	type
+type	Statement
+275	Statement
+275	has Predicate
+has Predicate	be Besieged
+275	be Besieged
+275	then
+then	276
+275	276
+275	where
+where	barrack
+275	barrack
+275	time
+time	1857-07-09 00:00:00
+275	1857-07-09 00:00:00
+275	subject
+subject	first battalion of Royal Mallows
+275	first battalion of Royal Mallows
+275	info Source
+info Source	Henry
+275	Henry
+cause	label
+label	cause
+cause	cause
+cause	type
+type	Object
+cause	Object
+mongoose	label
+label	mongoose
+mongoose	mongoose
+mongoose	type
+type	Animal
+mongoose	Animal
+210	has Predicate
+has Predicate	tell
+210	tell
+210	type
+type	Statement
+210	Statement
+210	subject
+subject	Morrison
+210	Morrison
+210	because
+because	211
+210	211
+210	what
+what	truth
+210	truth
+210	whom
+whom	Holmes
+210	Holmes
+210	source
+source	Morrison told the truth to Holmes
+210	Morrison told the truth to Holmes
+210	info Source
+info Source	Morrison
+210	Morrison
+hair_of_beast	type
+type	PhysicalObject
+hair_of_beast	PhysicalObject
+hair_of_beast	of Whole
+of Whole	beast
+hair_of_beast	beast
+hair_of_beast	of Part
+of Part	hair
+hair_of_beast	hair
+hair_of_beast	type
+type	OFobj
+hair_of_beast	OFobj
+hair_of_beast	label
+label	hair of beast
+hair_of_beast	hair of beast
+036	source
+source	At night
+036	At night
+036	has Property
+has Property	alone
+036	alone
+036	subject
+subject	Berkeley
+036	Berkeley
+036	when
+when	night
+036	night
+036	type
+type	Situation
+036	Situation
+365	source
+source	Murphy said the following:
+365	Murphy said the following:
+365	type
+type	Situation
+365	Situation
+365	has Predicate
+has Predicate	say
+365	say
+365	subject
+subject	Murphy
+365	Murphy
+365	what
+what	366
+365	366
+170	what
+what	story
+170	story
+170	subject
+subject	Holmes
+170	Holmes
+170	has Predicate
+has Predicate	hear
+170	hear
+170	type
+type	Situation
+170	Situation
+170	whom
+whom	Morison
+170	Morison
+170	source
+source	Holmes heard the story from Morrison
+170	Holmes heard the story from Morrison
+235	type
+type	Situation
+235	Situation
+235	subject
+subject	Watson
+235	Watson
+235	what
+what	witness of Henry AND witness of Holmes
+235	witness of Henry AND witness of Holmes
+235	has Predicate
+has Predicate	become
+235	become
+235	source
+source	Watson is the witness of Henry Holmes
+235	Watson is the witness of Henry Holmes
+atonement	type
+type	Object
+atonement	Object
+atonement	label
+label	atonement
+atonement	atonement
+183	info Source
+info Source	Morrison
+183	Morrison
+183	type
+type	Statement
+183	Statement
+183	subject
+subject	Henry
+183	Henry
+183	has Predicate
+has Predicate	shout
+183	shout
+183	source
+source	Henry cried Nancy
+183	Henry cried Nancy
+183	what
+what	_Nancy__
+183	_Nancy__
+marten	type
+type	Object
+marten	Object
+marten	label
+label	marten
+marten	marten
+footprint	type
+type	Object
+footprint	Object
+footprint	label
+label	footprint
+footprint	footprint
+ensign_sergeant	label
+label	ensign sergeant
+ensign_sergeant	ensign sergeant
+ensign_sergeant	type
+type	Object
+ensign_sergeant	Object
+069	when
+when	21:15
+069	21:15
+069	when
+when	1887-07-06T21:15:00
+069	1887-07-06T21:15:00
+069	source
+source	Nancy was in the living room of the room in 15 minutes at 21
+069	Nancy was in the living room of the room in 15 minutes at 21
+069	subject
+subject	Nancy
+069	Nancy
+069	where
+where	living room
+069	living room
+069	time
+time	1887-07-06 21:15:00
+069	1887-07-06 21:15:00
+069	has Predicate
+has Predicate	exist
+069	exist
+069	type
+type	Situation
+069	Situation
+progress	label
+label	progress
+progress	progress
+progress	type
+type	Object
+progress	Object
+Holmes	type
+type	Object
+Holmes	Object
+Holmes	label
+label	Holmes
+Holmes	Holmes
+senior_rank	type
+type	PhysicalObject
+senior_rank	PhysicalObject
+senior_rank	label
+label	senior rank
+senior_rank	senior rank
+332	source
+source	Henry fled with a key
+332	Henry fled with a key
+332	how
+how	with key
+332	with key
+332	subject
+subject	Henry
+332	Henry
+332	type
+type	Statement
+332	Statement
+332	info Source
+info Source	Holmes
+332	Holmes
+332	has Predicate
+has Predicate	escape
+332	escape
+041	type
+type	Situation
+041	Situation
+041	what
+what	Rasheen
+041	Rasheen
+041	source
+source	The name of the house of Berkeley is a Rasheen
+041	The name of the house of Berkeley is a Rasheen
+041	subject
+subject	name of house of Berkeley
+041	name of house of Berkeley
+077	where
+where	living room
+077	living room
+077	has Predicate
+has Predicate	meet
+077	meet
+077	type
+type	Situation
+077	Situation
+077	source
+source	Berkeley met Nancy in the living room of the room
+077	Berkeley met Nancy in the living room of the room
+077	subject
+subject	Berkeley
+077	Berkeley
+077	whom
+whom	Nancy
+077	Nancy
+136	source
+source	Beast has a length between forefoot and hind 15-inch
+136	Beast has a length between forefoot and hind 15-inch
+136	has Predicate
+has Predicate	have
+136	have
+136	type
+type	Situation
+136	Situation
+136	subject
+subject	beast
+136	beast
+136	what
+what	15-inch body
+136	15-inch body
+258	source
+source	Henry is not a criminal
+258	Henry is not a criminal
+258	info Source
+info Source	Henry
+258	Henry
+258	has Property
+has Property	not Criminal
+258	not Criminal
+258	subject
+subject	Henry
+258	Henry
+258	type
+type	Statement
+258	Statement
+320	where
+where	living room
+320	living room
+320	info Source
+info Source	Holmes
+320	Holmes
+320	has Predicate
+has Predicate	enter
+320	enter
+320	source
+source	Henry entered the room in the living room
+320	Henry entered the room in the living room
+320	subject
+subject	Henry
+320	Henry
+320	type
+type	Statement
+320	Statement
+334	what
+what	stick
+334	stick
+334	type
+type	Statement
+334	Statement
+334	has Predicate
+has Predicate	drop
+334	drop
+334	subject
+subject	Henry
+334	Henry
+334	source
+source	Henry dropped his cane
+334	Henry dropped his cane
+334	info Source
+info Source	Holmes
+334	Holmes
+334	then
+then	335
+334	335
+128	type
+type	Situation
+128	Situation
+128	has Predicate
+has Predicate	cannot Take
+128	cannot Take
+128	source
+source	Berkeley and Nancy can not take out the room room key
+128	Berkeley and Nancy can not take out the room room key
+128	what
+what	key of living room
+128	key of living room
+128	subject
+subject	Berkeley AND Nancy
+128	Berkeley AND Nancy
+police_A N D_doctor	type
+type	Person
+police_A N D_doctor	Person
+police_A N D_doctor	label
+label	police AND doctor
+police_A N D_doctor	police AND doctor
+249	subject
+subject	Henry
+249	Henry
+249	has Predicate
+has Predicate	scare
+249	scare
+249	source
+source	Henry was frightened to Holmes and Watson
+249	Henry was frightened to Holmes and Watson
+249	whom
+whom	Holmes AND Watson
+249	Holmes AND Watson
+249	type
+type	Situation
+249	Situation
+resident	type
+type	Person
+resident	Person
+resident	label
+label	resident
+resident	resident
+140	type
+type	Situation
+140	Situation
+140	what
+what	short leg
+140	short leg
+140	has Predicate
+has Predicate	have
+140	have
+140	source
+source	Beast has a short leg
+140	Beast has a short leg
+140	subject
+subject	beast
+140	beast
+117	has Predicate
+has Predicate	think
+117	think
+117	subject
+subject	Holmes
+117	Holmes
+117	what
+what	118
+117	118
+117	type
+type	Situation
+117	Situation
+117	source
+source	Holmes thought the following
+117	Holmes thought the following
+058	where
+where	Rasheen
+058	Rasheen
+058	when
+when	21 15 on Monday
+058	21 15 on Monday
+058	when
+when	1887-07-06T21:15:00
+058	1887-07-06T21:15:00
+058	subject
+subject	Nancy
+058	Nancy
+058	time
+time	1887-07-06 21:15:00
+058	1887-07-06 21:15:00
+058	source
+source	Nancy went back to Rasheen at 21:15 on Monday
+058	Nancy went back to Rasheen at 21:15 on Monday
+058	has Predicate
+has Predicate	arrive
+058	arrive
+058	type
+type	Situation
+058	Situation
+113	what
+what	David
+113	David
+113	how
+how	twice
+113	twice
+113	info Source
+info Source	Jane
+113	Jane
+113	has Predicate
+has Predicate	say
+113	say
+113	type
+type	Statement
+113	Statement
+113	subject
+subject	Nancy
+113	Nancy
+113	source
+source	Nancy said David twice
+113	Nancy said David twice
+242	has Property
+has Property	humid
+242	humid
+242	source
+source	Henry of the room is hot and humid
+242	Henry of the room is hot and humid
+242	type
+type	Situation
+242	Situation
+242	subject
+subject	room of Henry
+242	room of Henry
+truth	label
+label	truth
+truth	truth
+truth	type
+type	PhysicalObject
+truth	PhysicalObject
+about_Henry	type
+type	PhysicalObject
+about_Henry	PhysicalObject
+about_Henry	label
+label	about Henry
+about_Henry	about Henry
+371	source
+source	Davide and Berkeley had committed the same type of crime
+371	Davide and Berkeley had committed the same type of crime
+371	subject
+subject	Berkeley
+371	Berkeley
+371	subject
+subject	Davide
+371	Davide
+371	info Source
+info Source	Holmes
+371	Holmes
+371	type
+type	Statement
+371	Statement
+371	what
+what	same type of crime
+371	same type of crime
+371	has Predicate
+has Predicate	commit
+371	commit
+057	when
+when	20 40 on Monday
+057	20 40 on Monday
+057	subject
+subject	meeting of the St George union
+057	meeting of the St George union
+057	type
+type	Situation
+057	Situation
+057	source
+source	Meeting of the St George union was completed in 20 hours 40 minutes Monday
+057	Meeting of the St George union was completed in 20 hours 40 minutes Monday
+057	time
+time	1887-07-06 20:40:00
+057	1887-07-06 20:40:00
+057	when
+when	1887-07-06T20:40:00
+057	1887-07-06T20:40:00
+057	has Predicate
+has Predicate	end
+057	end
+short_leg	type
+type	PhysicalObject
+short_leg	PhysicalObject
+short_leg	label
+label	short leg
+short_leg	short leg
+home	type
+type	PhysicalObject
+home	PhysicalObject
+home	label
+label	home
+home	home
+062	type
+type	Situation
+062	Situation
+062	has Predicate
+has Predicate	have
+062	have
+062	what
+what	door of the large galass
+062	door of the large galass
+062	subject
+subject	living room
+062	living room
+062	source
+source	Living room of the room has a door of the large glass
+062	Living room of the room has a door of the large glass
+078	source
+source	Berkeley died in the living room of the room
+078	Berkeley died in the living room of the room
+078	subject
+subject	Berkeley
+078	Berkeley
+078	has Predicate
+has Predicate	die
+078	die
+078	type
+type	Situation
+078	Situation
+078	where
+where	living room
+078	living room
+085	subject
+subject	Jane AND cook AND coachman
+085	Jane AND cook AND coachman
+085	type
+type	Situation
+085	Situation
+085	has Predicate
+has Predicate	hear
+085	hear
+085	what
+what	086
+085	086
+085	what
+what	088
+085	088
+085	what
+what	087
+085	087
+085	what
+what	089
+085	089
+085	source
+source	Jane and the cook and the coachman heard the following
+085	Jane and the cook and the coachman heard the following
+072	source
+source	Nancy turned on the lamp in the living room of the room
+072	Nancy turned on the lamp in the living room of the room
+072	type
+type	Situation
+072	Situation
+072	subject
+subject	Nancy
+072	Nancy
+072	has Predicate
+has Predicate	turn On
+072	turn On
+072	what
+what	lamp of living room
+072	lamp of living room
+050	subject
+subject	Nancy
+050	Nancy
+050	what
+what	meeting of the St George union
+050	meeting of the St George union
+050	source
+source	Nancy attended the meeting of the St George's union
+050	Nancy attended the meeting of the St George's union
+050	type
+type	Situation
+050	Situation
+050	has Predicate
+has Predicate	attend
+050	attend
+329	what
+what	330
+329	330
+329	info Source
+info Source	Holmes
+329	Holmes
+329	subject
+subject	Henry
+329	Henry
+329	source
+source	Henry was afraid the following
+329	Henry was afraid the following
+329	type
+type	Statement
+329	Statement
+329	has Predicate
+has Predicate	afraid
+329	afraid
+almost	type
+type	Object
+almost	Object
+almost	label
+label	almost
+almost	almost
+234	what
+what	story
+234	story
+234	subject
+subject	Holmes
+234	Holmes
+234	source
+source	Holmes hear from Henry
+234	Holmes hear from Henry
+234	whom
+whom	Henry
+234	Henry
+234	has Predicate
+has Predicate	hear
+234	hear
+234	type
+type	Situation
+234	Situation
+performance	type
+type	PhysicalObject
+performance	PhysicalObject
+performance	label
+label	performance
+performance	performance
+daughter	type
+type	Object
+daughter	Object
+daughter	label
+label	daughter
+daughter	daughter
+090	to
+to	large glass door of living room
+090	large glass door of living room
+090	type
+type	Situation
+090	Situation
+090	source
+source	Coachman went to the door of the large glass in the living room of the room
+090	Coachman went to the door of the large glass in the living room of the room
+090	has Predicate
+has Predicate	go
+090	go
+090	subject
+subject	coachman
+090	coachman
+former_sergeant	type
+type	Object
+former_sergeant	Object
+former_sergeant	label
+label	former sergeant
+former_sergeant	former sergeant
+079	source
+source	Jane took tea in the living room of the room in 25 minutes at 21
+079	Jane took tea in the living room of the room in 25 minutes at 21
+079	when
+when	21:25
+079	21:25
+079	time
+time	1887-07-06 21:25:00
+079	1887-07-06 21:25:00
+079	has Predicate
+has Predicate	take
+079	take
+079	type
+type	Situation
+079	Situation
+079	when
+when	1887-07-06T21:25:00
+079	1887-07-06T21:25:00
+079	subject
+subject	Jane
+079	Jane
+079	what
+what	tea
+079	tea
+079	to
+to	living room
+079	living room
+soldier	label
+label	soldier
+soldier	soldier
+soldier	type
+type	Person
+soldier	Person
+stride	label
+label	stride
+stride	stride
+stride	type
+type	Object
+stride	Object
+088	subject
+subject	Berkeley
+088	Berkeley
+088	source
+source	Berkeley shouted
+088	Berkeley shouted
+088	type
+type	Situation
+088	Situation
+088	has Predicate
+has Predicate	shout
+088	shout
+284	has Predicate
+has Predicate	sell
+284	sell
+284	what
+what	Henry
+284	Henry
+284	info Source
+info Source	Henry
+284	Henry
+284	type
+type	Statement
+284	Statement
+284	source
+source	Berkeley was selling Henry to Gyakuto us
+284	Berkeley was selling Henry to Gyakuto us
+284	subject
+subject	Berkeley
+284	Berkeley
+284	whom
+whom	rebels
+284	rebels
+2_feet	label
+label	2 feet
+2_feet	2 feet
+2_feet	type
+type	PhysicalObject
+2_feet	PhysicalObject
+252	info Source
+info Source	Holmes
+252	Holmes
+252	type
+type	Statement
+252	Statement
+252	what
+what	criminal of incident
+252	criminal of incident
+252	subject
+subject	Nancy
+252	Nancy
+252	source
+source	Nancy are suspected of criminal incidents
+252	Nancy are suspected of criminal incidents
+252	has Predicate
+has Predicate	be Suspected
+252	be Suspected
+information	type
+type	PhysicalObject
+information	PhysicalObject
+information	label
+label	information
+information	information
+daughter_of_ensign_sergeant	of Part
+of Part	daughter
+daughter_of_ensign_sergeant	daughter
+daughter_of_ensign_sergeant	label
+label	daughter of ensign sergeant
+daughter_of_ensign_sergeant	daughter of ensign sergeant
+daughter_of_ensign_sergeant	type
+type	OFobj
+daughter_of_ensign_sergeant	OFobj
+daughter_of_ensign_sergeant	of Whole
+of Whole	ensign sergeant
+daughter_of_ensign_sergeant	ensign sergeant
+daughter_of_ensign_sergeant	type
+type	Person
+daughter_of_ensign_sergeant	Person
+episode	label
+label	episode
+episode	episode
+episode	type
+type	Object
+episode	Object
+189	subject
+subject	Nancy
+189	Nancy
+189	has Predicate
+has Predicate	think
+189	think
+189	what
+what	190
+189	190
+189	type
+type	Statement
+189	Statement
+189	info Source
+info Source	Morrison
+189	Morrison
+189	source
+source	Nancy was wondering the following:
+189	Nancy was wondering the following:
+110	has Predicate
+has Predicate	overlook
+110	overlook
+110	what
+what	stick
+110	stick
+110	type
+type	Situation
+110	Situation
+110	source
+source	Jane and the coachman and the cook have overlooked a wood carving of the club
+110	Jane and the coachman and the cook have overlooked a wood carving of the club
+110	subject
+subject	Jane AND coachman AND cook
+110	Jane AND coachman AND cook
+hero	type
+type	Person
+hero	Person
+hero	label
+label	hero
+hero	hero
+039	source
+source	The first battalion Royal Mallows are stationed in Aldershot
+039	The first battalion Royal Mallows are stationed in Aldershot
+039	where
+where	Aldershot
+039	Aldershot
+039	subject
+subject	first battalion of Royal MAllows
+039	first battalion of Royal MAllows
+039	has Predicate
+has Predicate	station
+039	station
+039	type
+type	Situation
+039	Situation
+10000_rebels	type
+type	Person
+10000_rebels	Person
+10000_rebels	label
+label	10000 rebels
+10000_rebels	10000 rebels
+188	subject
+subject	voice of Nancy
+188	voice of Nancy
+188	source
+source	Voice of Nancy had been trembling
+188	Voice of Nancy had been trembling
+188	has Property
+has Property	shaky
+188	shaky
+188	type
+type	Statement
+188	Statement
+188	info Source
+info Source	Morrison
+188	Morrison
+246	type
+type	Situation
+246	Situation
+246	has Property
+has Property	dirty
+246	dirty
+246	subject
+subject	face of Henry
+246	face of Henry
+246	source
+source	Face of Henry was dirty
+246	Face of Henry was dirty
+important_event_of_incident	of Part
+of Part	important event
+important_event_of_incident	important event
+important_event_of_incident	type
+type	PhysicalObject
+important_event_of_incident	PhysicalObject
+important_event_of_incident	of Whole
+of Whole	incident
+important_event_of_incident	incident
+important_event_of_incident	label
+label	important event of incident
+important_event_of_incident	important event of incident
+important_event_of_incident	type
+type	OFobj
+important_event_of_incident	OFobj
+065	what
+what	30 yards
+065	30 yards
+065	subject
+subject	size of Garden
+065	size of Garden
+065	source
+source	Garden has a size of 30 yards
+065	Garden has a size of 30 yards
+065	has Predicate
+has Predicate	equal To
+065	equal To
+065	type
+type	Situation
+065	Situation
+police_A   N   D_coachman_A   N   D_Jane_A   N   D_cook	type
+type	Person
+police_A   N   D_coachman_A   N   D_Jane_A   N   D_cook	Person
+police_A   N   D_coachman_A   N   D_Jane_A   N   D_cook	label
+label	police AND coachman AND Jane AND cook
+police_A   N   D_coachman_A   N   D_Jane_A   N   D_cook	police AND coachman AND Jane AND cook
+crime	type
+type	PhysicalObject
+crime	PhysicalObject
+crime	label
+label	crime
+crime	crime
+342	has Property
+has Property	supple
+342	supple
+342	type
+type	Situation
+342	Situation
+342	source
+source	Beast is a supple
+342	Beast is a supple
+342	subject
+subject	beast
+342	beast
+one_of_the_Irish_regiments	of Part
+of Part	one
+one_of_the_Irish_regiments	one
+one_of_the_Irish_regiments	of Whole
+of Whole	the Irish regiments
+one_of_the_Irish_regiments	the Irish regiments
+one_of_the_Irish_regiments	type
+type	PhysicalObject
+one_of_the_Irish_regiments	PhysicalObject
+one_of_the_Irish_regiments	label
+label	one of the Irish regiments
+one_of_the_Irish_regiments	one of the Irish regiments
+one_of_the_Irish_regiments	type
+type	OFobj
+one_of_the_Irish_regiments	OFobj
+beast	type
+type	Animal
+beast	Animal
+beast	label
+label	beast
+beast	beast
+005	subject
+subject	Holmes
+005	Holmes
+005	source
+source	Holmes is examining
+005	Holmes is examining
+005	has Predicate
+has Predicate	examine
+005	examine
+005	type
+type	Situation
+005	Situation
+005	what
+what	006
+005	006
+outside	label
+label	outside
+outside	outside
+outside	type
+type	Place
+outside	Place
+124	time
+time	1887-07-06 21:15:00
+124	1887-07-06 21:15:00
+124	type
+type	Situation
+124	Situation
+124	has Property
+has Property	bad mood
+124	bad mood
+124	when
+when	1887-07-06T21:15:00
+124	1887-07-06T21:15:00
+124	source
+source	Nancy was grumpy at 21:15 on Monday
+124	Nancy was grumpy at 21:15 on Monday
+124	when
+when	21 15 on Monday
+124	21 15 on Monday
+124	subject
+subject	Nancy
+124	Nancy
+312	subject
+subject	Henry
+312	Henry
+312	then
+then	313
+312	313
+312	whom
+whom	Nancy
+312	Nancy
+312	info Source
+info Source	Holmes
+312	Holmes
+312	type
+type	Statement
+312	Statement
+312	source
+source	Henry went with the Nancy
+312	Henry went with the Nancy
+312	has Predicate
+has Predicate	follow
+312	follow
+one	label
+label	one
+one	one
+one	type
+type	Object
+one	Object
+extreme	type
+type	Object
+extreme	Object
+extreme	label
+label	extreme
+extreme	extreme
+anyone	type
+type	Person
+anyone	Person
+anyone	label
+label	anyone
+anyone	anyone
+box	type
+type	PhysicalObject
+box	PhysicalObject
+box	label
+label	box
+box	box
+123	has Predicate
+has Predicate	not Understand
+123	not Understand
+123	subject
+subject	Morrison
+123	Morrison
+123	source
+source	Morrison do not know the following:
+123	Morrison do not know the following:
+123	info Source
+info Source	police
+123	police
+123	type
+type	Statement
+123	Statement
+123	what
+what	124
+123	124
+lie	label
+label	lie
+lie	lie
+lie	type
+type	PhysicalObject
+lie	PhysicalObject
+243	on
+on	chair
+243	chair
+243	subject
+subject	Henry
+243	Henry
+243	type
+type	Situation
+243	Situation
+243	has Predicate
+has Predicate	sit
+243	sit
+243	source
+source	Henry was sitting in a chair
+243	Henry was sitting in a chair
+witness_of_Henry_A N D_witness_of_Holmes	of Whole
+of Whole	Holmes
+witness_of_Henry_A N D_witness_of_Holmes	Holmes
+witness_of_Henry_A N D_witness_of_Holmes	of Whole
+of Whole	Henry AND witness
+witness_of_Henry_A N D_witness_of_Holmes	Henry AND witness
+witness_of_Henry_A N D_witness_of_Holmes	type
+type	Person
+witness_of_Henry_A N D_witness_of_Holmes	Person
+witness_of_Henry_A N D_witness_of_Holmes	of Part
+of Part	witness
+witness_of_Henry_A N D_witness_of_Holmes	witness
+witness_of_Henry_A N D_witness_of_Holmes	of Whole
+of Whole	Henry AND witness of Holmes
+witness_of_Henry_A N D_witness_of_Holmes	Henry AND witness of Holmes
+witness_of_Henry_A N D_witness_of_Holmes	label
+label	witness of Henry AND witness of Holmes
+witness_of_Henry_A N D_witness_of_Holmes	witness of Henry AND witness of Holmes
+witness_of_Henry_A N D_witness_of_Holmes	type
+type	OFobj
+witness_of_Henry_A N D_witness_of_Holmes	OFobj
+340	subject
+subject	hair of beast
+340	hair of beast
+340	type
+type	Situation
+340	Situation
+340	source
+source	Beast has the hair of red tea
+340	Beast has the hair of red tea
+340	has Property
+has Property	reddish brown
+340	reddish brown
+wall	type
+type	PhysicalObject
+wall	PhysicalObject
+wall	label
+label	wall
+wall	wall
+103	has Predicate
+has Predicate	have
+103	have
+103	subject
+subject	Berkeley
+103	Berkeley
+103	where
+where	back of head of Berkeley
+103	back of head of Berkeley
+103	type
+type	Situation
+103	Situation
+103	what
+what	2-inch tear
+103	2-inch tear
+103	source
+source	Berkeley had suffered a two-inch laceration to the back of the head
+103	Berkeley had suffered a two-inch laceration to the back of the head
+114	type
+type	Situation
+114	Situation
+114	source
+source	Police and coachman and Jane and cook saw the following
+114	Police and coachman and Jane and cook saw the following
+114	has Predicate
+has Predicate	see
+114	see
+114	what
+what	115
+114	115
+114	subject
+subject	police AND coachman AND Jane AND cook
+114	police AND coachman AND Jane AND cook
+087	subject
+subject	Nancy
+087	Nancy
+087	what
+what	coward
+087	coward
+087	has Predicate
+has Predicate	shout
+087	shout
+087	source
+source	Nancy cried the cowards many times
+087	Nancy cried the cowards many times
+087	type
+type	Situation
+087	Situation
+087	how
+how	many times
+087	many times
+035	has Predicate
+has Predicate	not Like
+035	not Like
+035	subject
+subject	Berkeley
+035	Berkeley
+035	type
+type	Situation
+035	Situation
+035	what
+what	036
+035	036
+035	source
+source	Berkeley dislike the following
+035	Berkeley dislike the following
+the_Irish_regiments	label
+label	the Irish regiments
+the_Irish_regiments	the Irish regiments
+the_Irish_regiments	type
+type	Object
+the_Irish_regiments	Object
+122	source
+source	Police said the following:
+122	Police said the following:
+122	subject
+subject	police
+122	police
+122	has Predicate
+has Predicate	say
+122	say
+122	what
+what	123
+122	123
+122	type
+type	Situation
+122	Situation
+Davide	type
+type	Object
+Davide	Object
+Davide	label
+label	Davide
+Davide	Davide
+old_soldier	label
+label	old soldier
+old_soldier	old soldier
+old_soldier	type
+type	Person
+old_soldier	Person
+agreeable	label
+label	agreeable
+agreeable	agreeable
+agreeable	type
+type	Object
+agreeable	Object
+garden	type
+type	Place
+garden	Place
+garden	label
+label	garden
+garden	garden
+086	has Predicate
+has Predicate	argue
+086	argue
+086	source
+source	Berkeley and Nancy had been arguing
+086	Berkeley and Nancy had been arguing
+086	subject
+subject	Berkeley AND Nancy
+086	Berkeley AND Nancy
+086	type
+type	Situation
+086	Situation
+coachman	type
+type	Person
+coachman	Person
+coachman	label
+label	coachman
+coachman	coachman
+help	label
+label	help
+help	help
+help	type
+type	PhysicalObject
+help	PhysicalObject
+033	has Predicate
+has Predicate	feel Down
+033	feel Down
+033	when
+when	many days
+033	many days
+033	type
+type	Situation
+033	Situation
+033	source
+source	Berkeley feels down for many days
+033	Berkeley feels down for many days
+033	subject
+subject	Berkeley
+033	Berkeley
+016	subject
+subject	Nancy
+016	Nancy
+016	type
+type	Situation
+016	Situation
+016	source
+source	Nancy is the daughter of former sergeant of armies of Royal Mallows
+016	Nancy is the daughter of former sergeant of armies of Royal Mallows
+016	has Predicate
+has Predicate	equal To
+016	equal To
+016	where
+where	Royal Mallows
+016	Royal Mallows
+016	what
+what	daughter of former sergeant of armies
+016	daughter of former sergeant of armies
+324	info Source
+info Source	Holmes
+324	Holmes
+324	type
+type	Statement
+324	Statement
+324	subject
+subject	Nancy
+324	Nancy
+324	has Predicate
+has Predicate	faint
+324	faint
+324	source
+source	Nancy fainted
+324	Nancy fainted
+knee	type
+type	Object
+knee	Object
+knee	label
+label	knee
+knee	knee
+money	label
+label	money
+money	money
+money	type
+type	PhysicalObject
+money	PhysicalObject
+031	whom
+whom	Nancy
+031	Nancy
+031	has Property
+has Property	not Violent
+031	not Violent
+031	subject
+subject	Berkeley
+031	Berkeley
+031	source
+source	Berkeley won't go bad at Nancy
+031	Berkeley won't go bad at Nancy
+031	type
+type	Situation
+031	Situation
+name	label
+label	name
+name	name
+name	type
+type	Object
+name	Object
+coward	label
+label	coward
+coward	coward
+coward	type
+type	Person
+coward	Person
+204	type
+type	Statement
+204	Statement
+204	source
+source	Henry came down
+204	Henry came down
+204	subject
+subject	Herny
+204	Herny
+204	info Source
+info Source	Nancy
+204	Nancy
+204	has Predicate
+has Predicate	come Down
+204	come Down
+042	type
+type	Situation
+042	Situation
+042	source
+source	Rasheen is surrounded by garden
+042	Rasheen is surrounded by garden
+042	has Predicate
+has Predicate	be Surrounded
+042	be Surrounded
+042	subject
+subject	Rasheen
+042	Rasheen
+042	what
+what	gardern
+042	gardern
+112	what
+what	113
+112	113
+112	source
+source	Jane heard the following
+112	Jane heard the following
+112	subject
+subject	Jane
+112	Jane
+112	type
+type	Situation
+112	Situation
+112	has Predicate
+has Predicate	hear
+112	hear
+119	subject
+subject	Nancy
+119	Nancy
+119	type
+type	Situation
+119	Situation
+119	what
+what	information
+119	information
+119	source
+source	Nancy could not speak information
+119	Nancy could not speak information
+119	has Predicate
+has Predicate	cannot Speak
+119	cannot Speak
+with_key	type
+type	Object
+with_key	Object
+with_key	label
+label	with key
+with_key	with key
+027	info Source
+info Source	22
+027	22
+027	has Property
+has Property	unusual
+027	unusual
+027	subject
+subject	character of Berkeley
+027	character of Berkeley
+027	source
+source	Berkeley is the unusual character
+027	Berkeley is the unusual character
+027	type
+type	Situation
+027	Situation
+usually	label
+label	usually
+usually	usually
+usually	type
+type	Object
+usually	Object
+205	source
+source	Morrison vowed following the Nancy
+205	Morrison vowed following the Nancy
+205	what
+what	206
+205	206
+205	subject
+subject	Morrison
+205	Morrison
+205	whom
+whom	Nancy
+205	Nancy
+205	info Source
+info Source	Morrison
+205	Morrison
+205	type
+type	Statement
+205	Statement
+205	has Predicate
+has Predicate	swear
+205	swear
+1857-07-09	label
+label	1857-07-09
+1857-07-09	1857-07-09
+1857-07-09	type
+type	AbstractTime
+1857-07-09	AbstractTime
+Royal_Mallows	label
+label	Royal Mallows
+Royal_Mallows	Royal Mallows
+Royal_Mallows	type
+type	Object
+Royal_Mallows	Object
+progress_of_incedent	of Whole
+of Whole	incedent
+progress_of_incedent	incedent
+progress_of_incedent	of Part
+of Part	progress
+progress_of_incedent	progress
+progress_of_incedent	label
+label	progress of incedent
+progress_of_incedent	progress of incedent
+progress_of_incedent	type
+type	OFobj
+progress_of_incedent	OFobj
+progress_of_incedent	type
+type	PhysicalObject
+progress_of_incedent	PhysicalObject
+foot_of_ermine	of Whole
+of Whole	ermine
+foot_of_ermine	ermine
+foot_of_ermine	label
+label	foot of ermine
+foot_of_ermine	foot of ermine
+foot_of_ermine	type
+type	OFobj
+foot_of_ermine	OFobj
+foot_of_ermine	type
+type	PhysicalObject
+foot_of_ermine	PhysicalObject
+foot_of_ermine	of Part
+of Part	foot
+foot_of_ermine	foot
+203	source
+source	Nancy and Henry are old friends
+203	Nancy and Henry are old friends
+203	has Property
+has Property	old friend
+203	old friend
+203	subject
+subject	Nancy AND Henry
+203	Nancy AND Henry
+203	info Source
+info Source	Nancy
+203	Nancy
+203	type
+type	Statement
+203	Statement
+large_glass_door_of_living_room	of Part
+of Part	large glass door
+large_glass_door_of_living_room	large glass door
+large_glass_door_of_living_room	type
+type	OFobj
+large_glass_door_of_living_room	OFobj
+large_glass_door_of_living_room	of Whole
+of Whole	living room
+large_glass_door_of_living_room	living room
+large_glass_door_of_living_room	label
+label	large glass door of living room
+large_glass_door_of_living_room	large glass door of living room
+large_glass_door_of_living_room	type
+type	PhysicalObject
+large_glass_door_of_living_room	PhysicalObject
+191	has Predicate
+has Predicate	scare
+191	scare
+191	source
+source	Morrison is horrible Henry
+191	Morrison is horrible Henry
+191	subject
+subject	Morrison
+191	Morrison
+191	info Source
+info Source	Morrison
+191	Morrison
+191	what
+what	Henry
+191	Henry
+191	type
+type	Statement
+191	Statement
+277	has Predicate
+has Predicate	offer
+277	offer
+277	subject
+subject	Henry
+277	Henry
+277	source
+source	Henry was offered the following
+277	Henry was offered the following
+277	what
+what	278
+277	278
+277	type
+type	Statement
+277	Statement
+277	info Source
+info Source	Henry
+277	Henry
+277	then
+then	279
+277	279
+326	type
+type	Thought
+326	Thought
+326	has Predicate
+has Predicate	call
+326	call
+326	source
+source	Henry is call for help
+326	Henry is call for help
+326	what
+what	help
+326	help
+326	info Source
+info Source	Henry
+326	Henry
+326	subject
+subject	Henry
+326	Henry
+room_of_Nancy	of Part
+of Part	room
+room_of_Nancy	room
+room_of_Nancy	of Whole
+of Whole	Nancy
+room_of_Nancy	Nancy
+room_of_Nancy	type
+type	OFobj
+room_of_Nancy	OFobj
+room_of_Nancy	type
+type	Place
+room_of_Nancy	Place
+room_of_Nancy	label
+label	room of Nancy
+room_of_Nancy	room of Nancy
+111	source
+source	Berkeley and Nancy did not have the key
+111	Berkeley and Nancy did not have the key
+111	subject
+subject	Berkeley AND Nancy
+111	Berkeley AND Nancy
+111	type
+type	Situation
+111	Situation
+111	what
+what	key of living room
+111	key of living room
+111	has Predicate
+has Predicate	not Have
+111	not Have
+every_night	label
+label	every night
+every_night	every night
+every_night	type
+type	AbstractTime
+every_night	AbstractTime
+marriage	label
+label	marriage
+marriage	marriage
+marriage	type
+type	PhysicalObject
+marriage	PhysicalObject
+someone	label
+label	someone
+someone	someone
+someone	type
+type	Person
+someone	Person
+character_of_Berkeley	label
+label	character of Berkeley
+character_of_Berkeley	character of Berkeley
+character_of_Berkeley	of Whole
+of Whole	Berkeley
+character_of_Berkeley	Berkeley
+character_of_Berkeley	type
+type	OFobj
+character_of_Berkeley	OFobj
+character_of_Berkeley	type
+type	PhysicalObject
+character_of_Berkeley	PhysicalObject
+character_of_Berkeley	of Part
+of Part	character
+character_of_Berkeley	character
+India	label
+label	India
+India	India
+India	type
+type	Object
+India	Object
+044	where
+where	30 yards from the main street
+044	30 yards from the main street
+044	type
+type	Situation
+044	Situation
+044	subject
+subject	Rasheen
+044	Rasheen
+044	source
+source	Rasheen is located within 30 yards from the main street
+044	Rasheen is located within 30 yards from the main street
+044	has Predicate
+has Predicate	be Located
+044	be Located
+story	label
+label	story
+story	story
+story	type
+type	PhysicalObject
+story	PhysicalObject
+030	source
+source	Berkeley is sometimes obsessive
+030	Berkeley is sometimes obsessive
+030	type
+type	Situation
+030	Situation
+030	subject
+subject	Berkeley
+030	Berkeley
+030	when
+when	sometimes
+030	sometimes
+030	has Property
+has Property	obsessive
+030	obsessive
+fireplace	type
+type	PhysicalObject
+fireplace	PhysicalObject
+fireplace	label
+label	fireplace
+fireplace	fireplace
+door	label
+label	door
+door	door
+door	type
+type	Object
+door	Object
+stride_of_beast	label
+label	stride of beast
+stride_of_beast	stride of beast
+stride_of_beast	type
+type	OFobj
+stride_of_beast	OFobj
+stride_of_beast	of Part
+of Part	stride
+stride_of_beast	stride
+stride_of_beast	type
+type	PhysicalObject
+stride_of_beast	PhysicalObject
+stride_of_beast	of Whole
+of Whole	beast
+stride_of_beast	beast
+345	subject
+subject	eye of beast
+345	eye of beast
+345	has Property
+has Property	red
+345	red
+345	type
+type	Situation
+345	Situation
+345	source
+source	Beast has a bright red eyes
+345	Beast has a bright red eyes
+353	subject
+subject	Teddy
+353	Teddy
+353	source
+source	Every night
+353	Every night
+353	has Predicate
+has Predicate	hunt
+353	hunt
+353	when
+when	every night
+353	every night
+353	type
+type	Situation
+353	Situation
+353	what
+what	cobra
+353	cobra
+216	type
+type	Statement
+216	Statement
+216	source
+source	Henry is a sideshow at the soldiers of the dining room
+216	Henry is a sideshow at the soldiers of the dining room
+216	info Source
+info Source	owner of lodge of Hudson street
+216	owner of lodge of Hudson street
+216	where
+where	dining room of lodge
+216	dining room of lodge
+216	has Predicate
+has Predicate	do
+216	do
+216	what
+what	performance
+216	performance
+216	subject
+subject	Henry
+216	Henry
+362	type
+type	Situation
+362	Situation
+362	subject
+subject	Murphy
+362	Murphy
+362	has Predicate
+has Predicate	walk
+362	walk
+362	where
+where	Hudson street
+362	Hudson street
+362	source
+source	Murphy is walking down the Hudson Street
+362	Murphy is walking down the Hudson Street
+character	type
+type	Object
+character	Object
+character	label
+label	character
+character	character
+236	subject
+subject	Simpson
+236	Simpson
+236	has Property
+has Property	boy scout
+236	boy scout
+236	where
+where	Baker Street
+236	Baker Street
+236	type
+type	Situation
+236	Situation
+236	source
+source	Simpson is one of the Baker Street Boy Scouts
+236	Simpson is one of the Baker Street Boy Scouts
+Garden	type
+type	Object
+Garden	Object
+Garden	label
+label	Garden
+Garden	Garden
+room	label
+label	room
+room	room
+room	type
+type	Object
+room	Object
+217	what
+what	beast
+217	beast
+217	has Predicate
+has Predicate	keep
+217	keep
+217	type
+type	Statement
+217	Statement
+217	subject
+subject	Henry
+217	Henry
+217	info Source
+info Source	owner of lodge of Hudson street
+217	owner of lodge of Hudson street
+217	source
+source	Henry keeps a beast
+217	Henry keeps a beast
+face	label
+label	face
+face	face
+face	type
+type	Object
+face	Object
+lodge	type
+type	Object
+lodge	Object
+lodge	label
+label	lodge
+lodge	lodge
+armies	type
+type	Object
+armies	Object
+armies	label
+label	armies
+armies	armies
+snake_killer	label
+label	snake killer
+snake_killer	snake killer
+snake_killer	type
+type	Animal
+snake_killer	Animal
+068	has Property
+has Property	low
+068	low
+068	subject
+subject	wall
+068	wall
+068	type
+type	Situation
+068	Situation
+068	source
+source	Fence is low
+068	Fence is low
+voice	label
+label	voice
+voice	voice
+voice	type
+type	Object
+voice	Object
+common_sense	label
+label	common sense
+common_sense	common sense
+common_sense	type
+type	PhysicalObject
+common_sense	PhysicalObject
+several_years	type
+type	AbstractTime
+several_years	AbstractTime
+several_years	label
+label	several years
+several_years	several years
+023	info Source
+info Source	22
+023	22
+023	type
+type	Situation
+023	Situation
+023	source
+source	Barkeley and Nancy did not argue
+023	Barkeley and Nancy did not argue
+023	subject
+subject	Berkeley AND Nancy
+023	Berkeley AND Nancy
+023	has Predicate
+has Predicate	not Argue
+023	not Argue
+sometimes	type
+type	AbstractTime
+sometimes	AbstractTime
+sometimes	label
+label	sometimes
+sometimes	sometimes
+ichneumon	type
+type	Animal
+ichneumon	Animal
+ichneumon	label
+label	ichneumon
+ichneumon	ichneumon
+monitoring_Henri	type
+type	PhysicalObject
+monitoring_Henri	PhysicalObject
+monitoring_Henri	label
+label	monitoring Henri
+monitoring_Henri	monitoring Henri
+159	when
+when	19 30 on Monday
+159	19 30 on Monday
+159	source
+source	Monday 19:30
+159	Monday 19:30
+159	type
+type	Situation
+159	Situation
+159	has Property
+has Property	close
+159	close
+159	subject
+subject	Berkeley AND Nancy
+159	Berkeley AND Nancy
+081	where
+where	living room
+081	living room
+081	subject
+subject	Berkeley AND Nancy
+081	Berkeley AND Nancy
+081	source
+source	Berkeley and Nancy had been arguing in the living room of the room
+081	Berkeley and Nancy had been arguing in the living room of the room
+081	type
+type	Situation
+081	Situation
+081	has Predicate
+has Predicate	argue
+081	argue
+chair	type
+type	PhysicalObject
+chair	PhysicalObject
+chair	label
+label	chair
+chair	chair
+003	type
+type	Situation
+003	Situation
+003	has Predicate
+has Predicate	follow
+003	follow
+003	subject
+subject	Watson
+003	Watson
+003	what
+what	Holmes
+003	Holmes
+003	source
+source	'
+003	'
+274	source
+source	Henry can marry Nancy
+274	Henry can marry Nancy
+274	info Source
+info Source	Henry
+274	Henry
+274	has Predicate
+has Predicate	can Marry
+274	can Marry
+274	type
+type	Thought
+274	Thought
+274	whom
+whom	Nancy
+274	Nancy
+274	subject
+subject	Henry
+274	Henry
+door_of_the_large_galass	type
+type	PhysicalObject
+door_of_the_large_galass	PhysicalObject
+door_of_the_large_galass	label
+label	door of the large galass
+door_of_the_large_galass	door of the large galass
+door_of_the_large_galass	of Part
+of Part	door
+door_of_the_large_galass	door
+door_of_the_large_galass	type
+type	OFobj
+door_of_the_large_galass	OFobj
+door_of_the_large_galass	of Whole
+of Whole	the large galass
+door_of_the_large_galass	the large galass
+30_years	type
+type	AbstractTime
+30_years	AbstractTime
+30_years	label
+label	30 years
+30_years	30 years
+same_type	type
+type	Object
+same_type	Object
+same_type	label
+label	same type
+same_type	same type
+352	source
+source	Teddy catch a cobra
+352	Teddy catch a cobra
+352	subject
+subject	Teddy
+352	Teddy
+352	what
+what	cobra
+352	cobra
+352	type
+type	Situation
+352	Situation
+352	has Predicate
+has Predicate	hunt
+352	hunt
+040	has Predicate
+has Predicate	rent
+040	rent
+040	subject
+subject	Berkeley
+040	Berkeley
+040	what
+what	house
+040	house
+040	source
+source	Berkeley had rented a house
+040	Berkeley had rented a house
+040	type
+type	Situation
+040	Situation
+head	type
+type	Object
+head	Object
+head	label
+label	head
+head	head
+364	source
+source	Holmes and Watson caught up with Murphy
+364	Holmes and Watson caught up with Murphy
+364	has Predicate
+has Predicate	catch
+364	catch
+364	subject
+subject	Holmes AND Watson
+364	Holmes AND Watson
+364	type
+type	Situation
+364	Situation
+364	whom
+whom	Murphy
+364	Murphy
+dining_room_of_lodge	type
+type	OFobj
+dining_room_of_lodge	OFobj
+dining_room_of_lodge	of Part
+of Part	dining room
+dining_room_of_lodge	dining room
+dining_room_of_lodge	of Whole
+of Whole	lodge
+dining_room_of_lodge	lodge
+dining_room_of_lodge	label
+label	dining room of lodge
+dining_room_of_lodge	dining room of lodge
+dining_room_of_lodge	type
+type	Place
+dining_room_of_lodge	Place
+Morrison	type
+type	Object
+Morrison	Object
+Morrison	label
+label	Morrison
+Morrison	Morrison
+cause_of_161	label
+label	cause of 161
+cause_of_161	cause of 161
+cause_of_161	of Part
+of Part	cause
+cause_of_161	cause
+cause_of_161	type
+type	OFobj
+cause_of_161	OFobj
+cause_of_161	of Whole
+of Whole	161
+cause_of_161	161
+postscript	label
+label	postscript
+postscript	postscript
+postscript	type
+type	Object
+postscript	Object
+back	label
+label	back
+back	back
+back	type
+type	Object
+back	Object
+301	subject
+subject	Henry
+301	Henry
+301	source
+source	Henry died
+301	Henry died
+301	info Source
+info Source	300
+301	300
+301	has Predicate
+has Predicate	die
+301	die
+301	type
+type	Situation
+301	Situation
+032	has Property
+has Property	not Obsessive
+032	not Obsessive
+032	type
+type	Situation
+032	Situation
+032	subject
+subject	Berkeley
+032	Berkeley
+032	source
+source	Berkeley is not obsessive to Nancy
+032	Berkeley is not obsessive to Nancy
+032	whom
+whom	Nancy
+032	Nancy
+bird	label
+label	bird
+bird	bird
+bird	type
+type	Animal
+bird	Animal
+main_street	label
+label	main street
+main_street	main street
+main_street	type
+type	Place
+main_street	Place
+30_yards_from_the_main_street	type
+type	Place
+30_yards_from_the_main_street	Place
+30_yards_from_the_main_street	label
+label	30 yards from the main street
+30_yards_from_the_main_street	30 yards from the main street
+incident	label
+label	incident
+incident	incident
+incident	type
+type	PhysicalObject
+incident	PhysicalObject
+voice_of_Nancy	of Part
+of Part	voice
+voice_of_Nancy	voice
+voice_of_Nancy	of Whole
+of Whole	Nancy
+voice_of_Nancy	Nancy
+voice_of_Nancy	label
+label	voice of Nancy
+voice_of_Nancy	voice of Nancy
+voice_of_Nancy	type
+type	PhysicalObject
+voice_of_Nancy	PhysicalObject
+voice_of_Nancy	type
+type	OFobj
+voice_of_Nancy	OFobj
+house	label
+label	house
+house	house
+house	type
+type	PhysicalObject
+house	PhysicalObject
+preface	label
+label	preface
+preface	preface
+preface	type
+type	Object
+preface	Object
+178	has Predicate
+has Predicate	meet
+178	meet
+178	info Source
+info Source	Morrison
+178	Morrison
+178	source
+source	Morrison and Nancy met Henry Hudson Street
+178	Morrison and Nancy met Henry Hudson Street
+178	whom
+whom	Henry
+178	Henry
+178	subject
+subject	Morrison AND Nancy
+178	Morrison AND Nancy
+178	where
+where	Hudson Street
+178	Hudson Street
+178	type
+type	Statement
+178	Statement
+civilian	label
+label	civilian
+civilian	civilian
+civilian	type
+type	Person
+civilian	Person
+ermine	label
+label	ermine
+ermine	ermine
+ermine	type
+type	Object
+ermine	Object
+head_of_Berkeley	of Whole
+of Whole	Berkeley
+head_of_Berkeley	Berkeley
+head_of_Berkeley	label
+label	head of Berkeley
+head_of_Berkeley	head of Berkeley
+head_of_Berkeley	type
+type	OFobj
+head_of_Berkeley	OFobj
+head_of_Berkeley	type
+type	PhysicalObject
+head_of_Berkeley	PhysicalObject
+head_of_Berkeley	of Part
+of Part	head
+head_of_Berkeley	head
+dwelleers	label
+label	dwelleers
+dwelleers	dwelleers
+dwelleers	type
+type	Object
+dwelleers	Object
+344	subject
+subject	nose of beast
+344	nose of beast
+344	has Property
+has Property	long
+344	long
+344	source
+source	Beast has a long thin nose
+344	Beast has a long thin nose
+344	type
+type	Situation
+344	Situation
+rebels	label
+label	rebels
+rebels	rebels
+rebels	type
+type	Person
+rebels	Person
+cage	type
+type	PhysicalObject
+cage	PhysicalObject
+cage	label
+label	cage
+cage	cage
+1887-07-06T21_15_00_~	label
+label	1887-07-06T21:15:00 ~
+1887-07-06T21_15_00_~	1887-07-06T21:15:00 ~
+1887-07-06T21_15_00_~	type
+type	AbstractTime
+1887-07-06T21_15_00_~	AbstractTime
+barrack	type
+type	Place
+barrack	Place
+barrack	label
+label	barrack
+barrack	barrack
+episode_of_Uriah_and_Bathsheba	label
+label	episode of Uriah and Bathsheba
+episode_of_Uriah_and_Bathsheba	episode of Uriah and Bathsheba
+episode_of_Uriah_and_Bathsheba	of Whole
+of Whole	Uriah and Bathsheba
+episode_of_Uriah_and_Bathsheba	Uriah and Bathsheba
+episode_of_Uriah_and_Bathsheba	type
+type	PhysicalObject
+episode_of_Uriah_and_Bathsheba	PhysicalObject
+episode_of_Uriah_and_Bathsheba	type
+type	OFobj
+episode_of_Uriah_and_Bathsheba	OFobj
+episode_of_Uriah_and_Bathsheba	of Part
+of Part	episode
+episode_of_Uriah_and_Bathsheba	episode
+cobra	type
+type	Animal
+cobra	Animal
+cobra	label
+label	cobra
+cobra	cobra
+029	type
+type	Situation
+029	Situation
+029	has Property
+has Property	violent
+029	violent
+029	source
+source	Berkeley sometimes become violent
+029	Berkeley sometimes become violent
+029	when
+when	sometimes
+029	sometimes
+029	subject
+subject	Berkeley
+029	Berkeley
+motive	label
+label	motive
+motive	motive
+motive	type
+type	Object
+motive	Object
+secret	label
+label	secret
+secret	secret
+secret	type
+type	Object
+secret	Object
+slave	type
+type	Object
+slave	Object
+slave	label
+label	slave
+slave	slave
+358	has Predicate
+has Predicate	play Foul
+358	play Foul
+358	type
+type	Situation
+358	Situation
+358	source
+source	Berkeley was a despicable deeds
+358	Berkeley was a despicable deeds
+358	subject
+subject	Berkeley
+358	Berkeley
+superstition	type
+type	PhysicalObject
+superstition	PhysicalObject
+superstition	label
+label	superstition
+superstition	superstition
+window	label
+label	window
+window	window
+window	type
+type	Object
+window	Object
+Samuel	type
+type	Object
+Samuel	Object
+Samuel	label
+label	Samuel
+Samuel	Samuel
+Henry	label
+label	Henry
+Henry	Henry
+Henry	type
+type	Object
+Henry	Object
+key	label
+label	key
+key	key
+key	type
+type	Object
+key	Object
+mountain	label
+label	mountain
+mountain	mountain
+mountain	type
+type	Object
+mountain	Object
+child	label
+label	child
+child	child
+child	type
+type	Person
+child	Person
+curtain	label
+label	curtain
+curtain	curtain
+curtain	type
+type	PhysicalObject
+curtain	PhysicalObject
+Berkeley	label
+label	Berkeley
+Berkeley	Berkeley
+Berkeley	type
+type	Object
+Berkeley	Object
+23_45	type
+type	AbstractTime
+23_45	AbstractTime
+23_45	label
+label	23:45
+23_45	23:45
+eye	type
+type	Object
+eye	Object
+eye	label
+label	eye
+eye	eye
+20_40_on_Monday	type
+type	AbstractTime
+20_40_on_Monday	AbstractTime
+20_40_on_Monday	label
+label	20:40 on Monday
+20_40_on_Monday	20:40 on Monday
+whole_body	type
+type	PhysicalObject
+whole_body	PhysicalObject
+whole_body	label
+label	whole body
+whole_body	whole body
+248	source
+source	Henry is grumpy
+248	Henry is grumpy
+248	has Property
+has Property	grumpy
+248	grumpy
+248	subject
+subject	Henry
+248	Henry
+248	type
+type	Situation
+248	Situation
+size	label
+label	size
+size	size
+size	type
+type	Object
+size	Object
+15-inch_body	label
+label	15-inch body
+15-inch_body	15-inch body
+15-inch_body	type
+type	PhysicalObject
+15-inch_body	PhysicalObject
+Hudson_street	type
+type	Object
+Hudson_street	Object
+Hudson_street	label
+label	Hudson street
+Hudson_street	Hudson street
+first_battalion	type
+type	Object
+first_battalion	Object
+first_battalion	label
+label	first battalion
+first_battalion	first battalion
+company	type
+type	Object
+company	Object
+company	label
+label	company
+company	company
+together	label
+label	together
+together	together
+together	type
+type	Object
+together	Object
+nose	label
+label	nose
+nose	nose
+nose	type
+type	Object
+nose	Object
+blunt_weapon	label
+label	blunt weapon
+blunt_weapon	blunt weapon
+blunt_weapon	type
+type	Object
+blunt_weapon	Object
+tea	label
+label	tea
+tea	tea
+tea	type
+type	PhysicalObject
+tea	PhysicalObject
+important_event	type
+type	Object
+important_event	Object
+important_event	label
+label	important event
+important_event	important event
+sunshade	type
+type	Object
+sunshade	Object
+sunshade	label
+label	sunshade
+sunshade	sunshade
+Nancy	type
+type	Object
+Nancy	Object
+Nancy	label
+label	Nancy
+Nancy	Nancy
+guilt	type
+type	PhysicalObject
+guilt	PhysicalObject
+guilt	label
+label	guilt
+guilt	guilt
+knocking	label
+label	knocking
+knocking	knocking
+knocking	type
+type	PhysicalObject
+knocking	PhysicalObject
+love_relationship	label
+label	love relationship
+love_relationship	love relationship
+love_relationship	type
+type	PhysicalObject
+love_relationship	PhysicalObject

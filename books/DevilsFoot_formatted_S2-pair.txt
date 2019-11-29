@@ -1,0 +1,9897 @@
+478	subject
+subject	Mortimer
+478	Mortimer
+478	has Predicate
+has Predicate	Crumbled
+478	Crumbled
+478	on
+on	Chair
+478	Chair
+478	info Source
+info Source	Standale s remarks
+478	Standale s remarks
+478	source
+source	Mortimer fell into a chair
+478	Mortimer fell into a chair
+478	type
+type	Statement
+478	Statement
+014	type
+type	Statement
+014	Statement
+014	info Source
+info Source	Roundhay
+014	Roundhay
+014	source
+source	The incident is tragic
+014	The incident is tragic
+014	has Predicate
+has Predicate	It is tragic
+014	It is tragic
+014	subject
+subject	Incident
+014	Incident
+155	subject
+subject	Living room window
+155	Living room window
+155	has Predicate
+has Predicate	Face
+155	Face
+155	type
+type	Situation
+155	Situation
+155	to
+to	garden
+155	garden
+155	source
+source	The window in the living room faces the garden
+155	The window in the living room faces the garden
+036	source
+source	The card was on the table
+036	The card was on the table
+036	has Predicate
+has Predicate	there were
+036	there were
+036	on
+on	table
+036	table
+036	type
+type	Statement
+036	Statement
+036	info Source
+info Source	Roundhay
+036	Roundhay
+036	subject
+subject	card
+036	card
+488	has Predicate
+has Predicate	It was not
+488	It was not
+488	subject
+subject	gravel
+488	gravel
+488	where
+where	Pastor s Garden
+488	Pastor s Garden
+488	type
+type	Situation
+488	Situation
+488	source
+source	There was no gravel in the parishion garden
+488	There was no gravel in the parishion garden
+072	type
+type	Statement
+072	Statement
+072	source
+source	Mortimer had a meal at Trigenis
+072	Mortimer had a meal at Trigenis
+072	info Source
+info Source	Mortimer s statement
+072	Mortimer s statement
+072	where
+where	Trigenis House
+072	Trigenis House
+072	subject
+subject	Mortimer
+072	Mortimer
+072	has Predicate
+has Predicate	Ate
+072	Ate
+165	subject
+subject	Porter
+165	Porter
+165	type
+type	Statement
+165	Statement
+165	then
+then	166
+165	166
+165	has Predicate
+has Predicate	Recovered
+165	Recovered
+165	info Source
+info Source	Porter s statement
+165	Porter s statement
+165	source
+source	Porter regained consciousness
+165	Porter regained consciousness
+165	what
+what	Consciousness
+165	Consciousness
+259	subject
+subject	lamp
+259	lamp
+259	what
+what	flame
+259	flame
+259	has Predicate
+has Predicate	I was raising
+259	I was raising
+259	what
+what	smoke
+259	smoke
+259	type
+type	Situation
+259	Situation
+259	source
+source	The lamp was raising fire and smoke
+259	The lamp was raising fire and smoke
+259	info Source
+info Source	Watson s guess
+259	Watson s guess
+418	when
+when	Many years ago
+418	Many years ago
+418	type
+type	Statement
+418	Statement
+418	subject
+subject	Former wife
+418	Former wife
+418	info Source
+info Source	Standale s remarks
+418	Standale s remarks
+418	source
+source	My ex-wife came out many years ago
+418	My ex-wife came out many years ago
+418	has Predicate
+has Predicate	Went out
+418	Went out
+167	subject
+subject	Porter
+167	Porter
+167	has Predicate
+has Predicate	Ran down
+167	Ran down
+167	source
+source	The porter ran down the path
+167	The porter ran down the path
+167	type
+type	Statement
+167	Statement
+167	info Source
+info Source	Porter s statement
+167	Porter s statement
+167	then
+then	168
+167	168
+167	what
+what	Path
+167	Path
+181	type
+type	Situation
+181	Situation
+181	source
+source	At the table there were four burning candle
+181	At the table there were four burning candle
+181	on
+on	table
+181	table
+181	subject
+subject	Four burning candle
+181	Four burning candle
+181	has Predicate
+has Predicate	there were
+181	there were
+025	when
+when	Past 10 o clock
+025	Past 10 o clock
+025	subject
+subject	Owen
+025	Owen
+025	has Predicate
+has Predicate	Was
+025	Was
+025	info Source
+info Source	Roundhay
+025	Roundhay
+025	subject
+subject	Brenda
+025	Brenda
+025	source
+source	After 10 o'clock
+025	After 10 o'clock
+025	subject
+subject	George
+025	George
+025	what
+what	Card game
+025	Card game
+025	type
+type	Statement
+025	Statement
+459	why
+why	For money
+459	For money
+459	subject
+subject	Mortimer
+459	Mortimer
+459	info Source
+info Source	Standale s guess
+459	Standale s guess
+459	type
+type	Situation
+459	Situation
+459	has Predicate
+has Predicate	Killed
+459	Killed
+459	source
+source	Mortimer killed for money
+459	Mortimer killed for money
+430	has Predicate
+has Predicate	Was written
+430	Was written
+430	what
+what	Radix pedis diaboli
+430	Radix pedis diaboli
+430	source
+source	Paper parcel was written as Radix pedis diaboli
+430	Paper parcel was written as Radix pedis diaboli
+430	subject
+subject	Paper package
+430	Paper package
+430	type
+type	Situation
+430	Situation
+145	type
+type	Situation
+145	Situation
+145	has Predicate
+has Predicate	It was wrong
+145	It was wrong
+145	subject
+subject	Holmes
+145	Holmes
+145	source
+source	Holmes
+145	Holmes
+145	subject
+subject	Watson
+145	Watson
+145	what
+what	Carriage
+145	Carriage
+145	subject
+subject	Mortimer
+145	Mortimer
+104	source
+source	The problem was forgotten
+104	The problem was forgotten
+104	subject
+subject	problem
+104	problem
+104	info Source
+info Source	Mortimer s statement
+104	Mortimer s statement
+104	has Predicate
+has Predicate	Forgotten
+104	Forgotten
+104	type
+type	Statement
+104	Statement
+261	subject
+subject	Mortimer
+261	Mortimer
+261	has Predicate
+has Predicate	I was reclining
+261	I was reclining
+261	on
+on	Chair
+261	Chair
+261	type
+type	Situation
+261	Situation
+261	source
+source	Mortimer was leaning on a chair
+261	Mortimer was leaning on a chair
+027	what
+what	Get up early
+027	Get up early
+027	subject
+subject	Mortimer
+027	Mortimer
+027	info Source
+info Source	Roundhay
+027	Roundhay
+027	has Predicate
+has Predicate	did
+027	did
+027	type
+type	Statement
+027	Statement
+027	then
+then	028
+027	028
+027	source
+source	Mortimer got up early this morning
+027	Mortimer got up early this morning
+027	when
+when	this morning
+027	this morning
+471	info Source
+info Source	Standale s remarks
+471	Standale s remarks
+471	source
+source	Mortimer gets the same fate as Owen
+471	Mortimer gets the same fate as Owen
+471	has Predicate
+has Predicate	Become
+471	Become
+471	subject
+subject	Mortimer
+471	Mortimer
+471	type
+type	Statement
+471	Statement
+471	what
+what	In the same fate as Owen and George and Brenda
+471	In the same fate as Owen and George and Brenda
+291	how
+how	With a magnifying glass
+291	With a magnifying glass
+291	subject
+subject	Holmes
+291	Holmes
+291	source
+source	Holmes examined the exterior of the flue with a magnifying glass
+291	Holmes examined the exterior of the flue with a magnifying glass
+291	has Predicate
+has Predicate	Examined
+291	Examined
+291	type
+type	Situation
+291	Situation
+291	what
+what	Exhaust part exterior
+291	Exhaust part exterior
+410	has Predicate
+has Predicate	I pulled up
+410	I pulled up
+410	type
+type	Statement
+410	Statement
+410	source
+source	Finally
+410	Finally
+410	subject
+subject	Standale
+410	Standale
+410	info Source
+info Source	Holmes s statement
+410	Holmes s statement
+410	when
+when	last
+410	last
+283	subject
+subject	Holmes
+283	Holmes
+283	then
+then	284
+283	284
+283	type
+type	Situation
+283	Situation
+283	where
+where	Bedroom
+283	Bedroom
+283	has Predicate
+has Predicate	Came out
+283	Came out
+283	source
+source	Holmes got out of the bedroom
+283	Holmes got out of the bedroom
+112	source
+source	Mortimer looked back
+112	Mortimer looked back
+112	info Source
+info Source	Mortimer s statement
+112	Mortimer s statement
+112	type
+type	Statement
+112	Statement
+112	has Predicate
+has Predicate	I turned around
+112	I turned around
+112	subject
+subject	Mortimer
+112	Mortimer
+235	type
+type	Situation
+235	Situation
+235	source
+source	A telegram arrived from a hotel in Plymouth
+235	A telegram arrived from a hotel in Plymouth
+235	subject
+subject	telegram
+235	telegram
+235	has Predicate
+has Predicate	Arrived
+235	Arrived
+235	from
+from	Plymouth Hotels
+235	Plymouth Hotels
+383	has Predicate
+has Predicate	went
+383	went
+383	then
+then	384
+383	384
+383	info Source
+info Source	Holmes s statement
+383	Holmes s statement
+383	type
+type	Statement
+383	Statement
+383	subject
+subject	Standale
+383	Standale
+383	source
+source	And Standale went to the pastor
+383	And Standale went to the pastor
+383	to
+to	Pastor s Hall
+383	Pastor s Hall
+018	what
+what	019
+018	019
+018	subject
+subject	Holmes
+018	Holmes
+018	type
+type	Situation
+018	Situation
+018	source
+source	Holmes said the following
+018	Holmes said the following
+018	has Predicate
+has Predicate	say
+018	say
+311	when
+when	Case 2
+311	Case 2
+311	info Source
+info Source	Holmes s statement
+311	Holmes s statement
+311	source
+source	In Case 1 and Case 2
+311	In Case 1 and Case 2
+311	when
+when	Case 1
+311	Case 1
+311	type
+type	Statement
+311	Statement
+311	subject
+subject	Toxic air
+311	Toxic air
+311	has Predicate
+has Predicate	I was waiting
+311	I was waiting
+047	info Source
+info Source	Roundhay
+047	Roundhay
+047	has Predicate
+has Predicate	It was
+047	It was
+047	type
+type	Statement
+047	Statement
+047	source
+source	There was a porter at home
+047	There was a porter at home
+047	subject
+subject	Porter
+047	Porter
+047	where
+where	House
+047	House
+038	has Predicate
+has Predicate	I was leaning
+038	I was leaning
+038	source
+source	Brenda was leaning on a chair
+038	Brenda was leaning on a chair
+038	info Source
+info Source	Roundhay
+038	Roundhay
+038	subject
+subject	Brenda
+038	Brenda
+038	where
+where	Chair
+038	Chair
+038	type
+type	Statement
+038	Statement
+462	type
+type	Thought
+462	Thought
+462	source
+source	If your parents become mentally ill
+462	If your parents become mentally ill
+462	whom
+whom	To the mentally ill
+462	To the mentally ill
+462	subject
+subject	Immediate family
+462	Immediate family
+462	info Source
+info Source	Mortimer s thoughts
+462	Mortimer s thoughts
+462	has Predicate
+has Predicate	Become
+462	Become
+357	what
+what	358
+357	358
+357	subject
+subject	Mortimer
+357	Mortimer
+357	type
+type	Situation
+357	Situation
+357	has Predicate
+has Predicate	Wanted
+357	Wanted
+357	source
+source	Mortimer wanted to
+357	Mortimer wanted to
+449	type
+type	Thought
+449	Thought
+449	has Predicate
+has Predicate	It was
+449	It was
+449	where
+where	Sea
+449	Sea
+449	subject
+subject	Standale
+449	Standale
+449	before
+before	450
+449	450
+449	source
+source	Standale went to the sea
+449	Standale went to the sea
+449	info Source
+info Source	Mortimer s thoughts
+449	Mortimer s thoughts
+470	info Source
+info Source	Standale s remarks
+470	Standale s remarks
+470	subject
+subject	Standale
+470	Standale
+470	source
+source	Standale made the following decisions
+470	Standale made the following decisions
+470	what
+what	471
+470	471
+470	has Predicate
+has Predicate	I made a decision
+470	I made a decision
+470	type
+type	Statement
+470	Statement
+458	has Predicate
+has Predicate	Guessed
+458	Guessed
+458	what
+what	459
+458	459
+458	info Source
+info Source	Standale s remarks
+458	Standale s remarks
+458	subject
+subject	Standale
+458	Standale
+458	type
+type	Statement
+458	Statement
+458	source
+source	Standale guessed that
+458	Standale guessed that
+458	what
+what	460
+458	460
+217	type
+type	Statement
+217	Statement
+217	subject
+subject	Standale
+217	Standale
+217	source
+source	Standale does not trust local police
+217	Standale does not trust local police
+217	has Predicate
+has Predicate	Do not trust
+217	Do not trust
+217	what
+what	Local police
+217	Local police
+217	info Source
+info Source	Standale s remarks
+217	Standale s remarks
+081	subject
+subject	Mortimer
+081	Mortimer
+081	how
+how	Behind you
+081	Behind you
+081	info Source
+info Source	Mortimer s statement
+081	Mortimer s statement
+081	has Predicate
+has Predicate	Closed
+081	Closed
+081	what
+what	door
+081	door
+081	source
+source	Mortimer closed the door behind
+081	Mortimer closed the door behind
+081	type
+type	Statement
+081	Statement
+194	has Predicate
+has Predicate	Guessed
+194	Guessed
+194	type
+type	Situation
+194	Situation
+194	what
+what	196
+194	196
+194	what
+what	195
+194	195
+194	what
+what	197
+194	197
+194	subject
+subject	Holmes
+194	Holmes
+194	source
+source	Holmes guessed the following
+194	Holmes guessed the following
+465	info Source
+info Source	Standale s remarks
+465	Standale s remarks
+465	has Predicate
+has Predicate	I know
+465	I know
+465	subject
+subject	truth
+465	truth
+465	type
+type	Statement
+465	Statement
+465	source
+source	Standale knows the truth
+465	Standale knows the truth
+465	subject
+subject	Standale
+465	Standale
+197	source
+source	Within a few minutes
+197	Within a few minutes
+197	type
+type	Situation
+197	Situation
+197	has Predicate
+has Predicate	woke up
+197	woke up
+197	when
+when	Within a few minutes
+197	Within a few minutes
+197	subject
+subject	Incident
+197	Incident
+197	info Source
+info Source	Holmes guess
+197	Holmes guess
+473	what
+what	477
+473	477
+473	what
+what	479
+473	479
+473	what
+what	486
+473	486
+473	what
+what	476
+473	476
+473	has Predicate
+has Predicate	Said
+473	Said
+473	what
+what	481
+473	481
+473	what
+what	483
+473	483
+473	type
+type	Situation
+473	Situation
+473	what
+what	474
+473	474
+473	what
+what	475
+473	475
+473	what
+what	485
+473	485
+473	what
+what	482
+473	482
+473	what
+what	484
+473	484
+473	what
+what	478
+473	478
+473	subject
+subject	Standale
+473	Standale
+473	source
+source	Standale said
+473	Standale said
+473	what
+what	480
+473	480
+279	subject
+subject	Holmes
+279	Holmes
+279	type
+type	Situation
+279	Situation
+279	has Predicate
+has Predicate	I overlooked
+279	I overlooked
+279	source
+source	Holmes overlooked the bedroom
+279	Holmes overlooked the bedroom
+279	where
+where	Bedroom
+279	Bedroom
+279	then_
+then_	280
+279	280
+077	what
+what	George
+077	George
+077	source
+source	Mortimer broke up with Owen
+077	Mortimer broke up with Owen
+077	info Source
+info Source	Mortimer s statement
+077	Mortimer s statement
+077	type
+type	Statement
+077	Statement
+077	has Predicate
+has Predicate	Broke up
+077	Broke up
+077	what
+what	Owen
+077	Owen
+077	what
+what	Brenda
+077	Brenda
+077	subject
+subject	Mortimer
+077	Mortimer
+244	source
+source	Roundhay said the following
+244	Roundhay said the following
+244	has Predicate
+has Predicate	Said
+244	Said
+244	type
+type	Situation
+244	Situation
+244	subject
+subject	Roundhay
+244	Roundhay
+244	what
+what	Less than
+244	Less than
+we	label
+label	we
+we	we
+we	type
+type	Object
+we	Object
+100	what
+what	Sufficient funds
+100	Sufficient funds
+100	source
+source	Tin miners got enough money
+100	Tin miners got enough money
+100	type
+type	Statement
+100	Statement
+100	info Source
+info Source	Mortimer s statement
+100	Mortimer s statement
+100	has Predicate
+has Predicate	Obtained
+100	Obtained
+100	subject
+subject	Tin miner
+100	Tin miner
+331	source
+source	Holmes guessed the following
+331	Holmes guessed the following
+331	what
+what	332
+331	332
+331	type
+type	Situation
+331	Situation
+331	has Predicate
+has Predicate	Guessed
+331	Guessed
+331	subject
+subject	Holmes
+331	Holmes
+318	what
+what	321
+318	321
+318	source
+source	Holmes said:
+318	Holmes said:
+318	what
+what	334
+318	334
+318	type
+type	Situation
+318	Situation
+318	what
+what	329
+318	329
+318	what
+what	335
+318	335
+318	what
+what	323
+318	323
+318	what
+what	325
+318	325
+318	what
+what	320
+318	320
+318	has Predicate
+has Predicate	Thought
+318	Thought
+318	what
+what	328
+318	328
+318	what
+what	324
+318	324
+318	what
+what	330
+318	330
+318	what
+what	336
+318	336
+318	what
+what	322
+318	322
+318	what
+what	319
+318	319
+318	subject
+subject	Holmes
+318	Holmes
+318	what
+what	333
+318	333
+031	info Source
+info Source	Roundhay
+031	Roundhay
+031	subject
+subject	Doctor Richard
+031	Doctor Richard
+031	has Predicate
+has Predicate	Received
+031	Received
+031	what
+what	Emergency call
+031	Emergency call
+031	source
+source	Doctor Richard got an emergency call
+031	Doctor Richard got an emergency call
+031	type
+type	Statement
+031	Statement
+179	subject
+subject	fireplace
+179	fireplace
+179	type
+type	Situation
+179	Situation
+179	source
+source	The fireplace was open all night
+179	The fireplace was open all night
+179	has Predicate
+has Predicate	I was scolded
+179	I was scolded
+179	when
+when	All night
+179	All night
+380	to
+to	Poldew Bay Cottage
+380	Poldew Bay Cottage
+380	type
+type	Statement
+380	Statement
+380	then
+then	381
+380	381
+380	info Source
+info Source	Holmes s statement
+380	Holmes s statement
+380	subject
+subject	Standale
+380	Standale
+380	has Predicate
+has Predicate	Came
+380	Came
+380	source
+source	Standale came to a cottage in the Pordeux Bay
+380	Standale came to a cottage in the Pordeux Bay
+377	type
+type	Statement
+377	Statement
+377	to
+to	Africa
+377	Africa
+377	source
+source	Standale sent his belongings to Africa
+377	Standale sent his belongings to Africa
+377	what
+what	Possession
+377	Possession
+377	then
+then	378
+377	378
+377	has Predicate
+has Predicate	sent
+377	sent
+377	subject
+subject	Standale
+377	Standale
+377	info Source
+info Source	Holmes s statement
+377	Holmes s statement
+320	type
+type	Statement
+320	Statement
+320	source
+source	In Case 1
+320	In Case 1
+320	when
+when	Case 1
+320	Case 1
+320	has Predicate
+has Predicate	there were
+320	there were
+320	info Source
+info Source	Holmes s statement
+320	Holmes s statement
+320	where
+where	fireplace
+320	fireplace
+320	subject
+subject	Drug
+320	Drug
+296	type
+type	Situation
+296	Situation
+296	has Predicate
+has Predicate	Turn
+296	Turn
+296	info Source
+info Source	Holmes request
+296	Holmes request
+296	to
+to	lamp
+296	lamp
+296	source
+source	Detective pays attention to windows and lamps
+296	Detective pays attention to windows and lamps
+296	to
+to	window
+296	window
+296	subject
+subject	Criminal
+296	Criminal
+296	what
+what	Note
+296	Note
+043	subject
+subject	George
+043	George
+043	subject
+subject	Owen
+043	Owen
+043	source
+source	Owen and George were summoning
+043	Owen and George were summoning
+043	info Source
+info Source	Roundhay
+043	Roundhay
+043	type
+type	Statement
+043	Statement
+043	has Predicate
+has Predicate	I was calling
+043	I was calling
+096	has Predicate
+has Predicate	Misplaced
+096	Misplaced
+096	source
+source	Once upon a time
+096	Once upon a time
+096	info Source
+info Source	Mortimer s statement
+096	Mortimer s statement
+096	what
+what	Brenda s opinion
+096	Brenda s opinion
+096	what
+what	George s opinion
+096	George s opinion
+096	subject
+subject	Mortimer s opinion
+096	Mortimer s opinion
+096	what
+what	Owen s opinion
+096	Owen s opinion
+096	type
+type	Statement
+096	Statement
+096	when
+when	Long time ago
+096	Long time ago
+345	has Predicate
+has Predicate	stood
+345	stood
+345	type
+type	Situation
+345	Situation
+345	from
+from	Chair
+345	Chair
+345	subject
+subject	Watson
+345	Watson
+345	source
+source	Watson stood out of the chair
+345	Watson stood out of the chair
+413	source
+source	Standale has loved Brenda for years
+413	Standale has loved Brenda for years
+413	info Source
+info Source	Standale s remarks
+413	Standale s remarks
+413	subject
+subject	Standale
+413	Standale
+413	therefore
+therefore	415
+413	415
+413	type
+type	Statement
+413	Statement
+413	what
+what	Brenda
+413	Brenda
+413	has Predicate
+has Predicate	I have loved
+413	I have loved
+413	when
+when	What year
+413	What year
+107	type
+type	Situation
+107	Situation
+107	what
+what	111
+107	111
+107	what
+what	115
+107	115
+107	what
+what	134
+107	134
+107	what
+what	108
+107	108
+107	what
+what	127
+107	127
+107	subject
+subject	Mortimer
+107	Mortimer
+107	what
+what	119
+107	119
+107	what
+what	130
+107	130
+107	what
+what	113
+107	113
+107	what
+what	124
+107	124
+107	what
+what	122
+107	122
+107	what
+what	136
+107	136
+107	what
+what	125
+107	125
+107	what
+what	110
+107	110
+107	what
+what	128
+107	128
+107	what
+what	112
+107	112
+107	what
+what	116
+107	116
+107	what
+what	131
+107	131
+107	what
+what	132
+107	132
+107	what
+what	135
+107	135
+107	what
+what	126
+107	126
+107	what
+what	129
+107	129
+107	what
+what	123
+107	123
+107	what
+what	118
+107	118
+107	what
+what	139
+107	139
+107	what
+what	140
+107	140
+107	source
+source	Mortimer said the following
+107	Mortimer said the following
+107	what
+what	109
+107	109
+107	what
+what	138
+107	138
+107	what
+what	114
+107	114
+107	what
+what	121
+107	121
+107	has Predicate
+has Predicate	Said
+107	Said
+107	what
+what	137
+107	137
+107	what
+what	133
+107	133
+107	what
+what	117
+107	117
+107	what
+what	141
+107	141
+107	what
+what	120
+107	120
+436	subject
+subject	Owen
+436	Owen
+436	subject
+subject	George
+436	George
+436	has Predicate
+has Predicate	I was good friends
+436	I was good friends
+436	source
+source	Standale got along well with Owen and George
+436	Standale got along well with Owen and George
+436	subject
+subject	Standale
+436	Standale
+436	info Source
+info Source	Standale s remarks
+436	Standale s remarks
+436	type
+type	Statement
+436	Statement
+024	type
+type	Statement
+024	Statement
+024	when
+when	Past 10 o clock
+024	Past 10 o clock
+024	has Predicate
+has Predicate	Went back
+024	Went back
+024	subject
+subject	Mortimer
+024	Mortimer
+024	source
+source	After 10 o'clock
+024	After 10 o'clock
+024	from
+from	Trigenis House
+024	Trigenis House
+024	info Source
+info Source	Roundhay
+024	Roundhay
+316	source
+source	Holmes guessed the following
+316	Holmes guessed the following
+316	has Predicate
+has Predicate	Guessed
+316	Guessed
+316	what
+what	317
+316	317
+316	type
+type	Situation
+316	Situation
+316	subject
+subject	Holmes
+316	Holmes
+022	subject
+subject	Owen
+022	Owen
+022	has Predicate
+has Predicate	It is a family of Mortimer
+022	It is a family of Mortimer
+022	type
+type	Statement
+022	Statement
+022	info Source
+info Source	Roundhay
+022	Roundhay
+022	source
+source	Owen
+022	Owen
+022	subject
+subject	George
+022	George
+022	subject
+subject	Brenda
+022	Brenda
+poison	type
+type	Object
+poison	Object
+poison	label
+label	poison
+poison	poison
+382	subject
+subject	Holmes
+382	Holmes
+382	type
+type	Statement
+382	Statement
+382	what
+what	Suspect
+382	Suspect
+382	has Predicate
+has Predicate	Did not answer
+382	Did not answer
+382	info Source
+info Source	Holmes s statement
+382	Holmes s statement
+382	then
+then	383
+382	383
+382	source
+source	Holmes did not answer the suspect
+382	Holmes did not answer the suspect
+200	subject
+subject	Brenda
+200	Brenda
+200	what
+what	posture
+200	posture
+200	has Predicate
+has Predicate	I did not change
+200	I did not change
+200	type
+type	Situation
+200	Situation
+200	subject
+subject	Owen
+200	Owen
+200	subject
+subject	George
+200	George
+200	source
+source	Owen
+200	Owen
+125	source
+source	This morning
+125	This morning
+125	when
+when	this morning
+125	this morning
+125	how
+how	In the four-wheeled carriage
+125	In the four-wheeled carriage
+125	what
+what	Doctor Richard
+125	Doctor Richard
+125	has Predicate
+has Predicate	Caught up
+125	Caught up
+125	subject
+subject	Mortimer
+125	Mortimer
+125	info Source
+info Source	Mortimer s statement
+125	Mortimer s statement
+125	type
+type	Statement
+125	Statement
+216	what
+what	219
+216	219
+216	what
+what	223
+216	223
+216	what
+what	224
+216	224
+216	what
+what	220
+216	220
+216	what
+what	226
+216	226
+216	has Predicate
+has Predicate	Said
+216	Said
+216	subject
+subject	Standale
+216	Standale
+216	what
+what	225
+216	225
+216	type
+type	Situation
+216	Situation
+216	what
+what	218
+216	218
+216	what
+what	217
+216	217
+216	source
+source	Standale said
+216	Standale said
+216	what
+what	221
+216	221
+216	what
+what	222
+216	222
+451	type
+type	Statement
+451	Statement
+451	source
+source	Standale wanders Africa for several years
+451	Standale wanders Africa for several years
+451	where
+where	Africa
+451	Africa
+451	when
+when	For several years
+451	For several years
+451	subject
+subject	Standale
+451	Standale
+451	info Source
+info Source	Standale s remarks
+451	Standale s remarks
+451	has Predicate
+has Predicate	Wander
+451	Wander
+432	info Source
+info Source	Standale s remarks
+432	Standale s remarks
+432	has Property
+has Property	It is a magic foot
+432	It is a magic foot
+432	type
+type	Statement
+432	Statement
+432	source
+source	The drug is a magic foot
+432	The drug is a magic foot
+432	subject
+subject	Drug
+432	Drug
+342	source
+source	Watson felt fear
+342	Watson felt fear
+342	subject
+subject	Watson
+342	Watson
+342	what
+what	Fear
+342	Fear
+342	has Predicate
+has Predicate	Felt
+342	Felt
+342	type
+type	Situation
+342	Situation
+324	how
+how	Than the air of Toxicity of Incident 2
+324	Than the air of Toxicity of Incident 2
+324	info Source
+info Source	Holmes s statement
+324	Holmes s statement
+324	type
+type	Statement
+324	Statement
+324	source
+source	In Case 1
+324	In Case 1
+324	has Predicate
+has Predicate	thin
+324	thin
+324	subject
+subject	Toxic air
+324	Toxic air
+324	when
+when	Case 1
+324	Case 1
+126	info Source
+info Source	Mortimer s statement
+126	Mortimer s statement
+126	has Predicate
+has Predicate	Said
+126	Said
+126	what
+what	127
+126	127
+126	subject
+subject	Doctor Richard
+126	Doctor Richard
+126	source
+source	Dr Richard said
+126	Dr Richard said
+126	type
+type	Statement
+126	Statement
+166	type
+type	Statement
+166	Statement
+166	then
+then	167
+166	167
+166	source
+source	Porter opened the window
+166	Porter opened the window
+166	info Source
+info Source	Porter s statement
+166	Porter s statement
+166	subject
+subject	Porter
+166	Porter
+166	has Predicate
+has Predicate	Opened
+166	Opened
+166	what
+what	window
+166	window
+196	has Predicate
+has Predicate	Came out
+196	Came out
+196	then_
+then_	197
+196	197
+196	source
+source	Mortimer left the room
+196	Mortimer left the room
+196	type
+type	Situation
+196	Situation
+196	info Source
+info Source	Holmes guess
+196	Holmes guess
+196	subject
+subject	Mortimer
+196	Mortimer
+196	what
+what	room
+196	room
+467	source
+source	I believe in a story that a jury has fancy
+467	I believe in a story that a jury has fancy
+467	subject
+subject	Jury member
+467	Jury member
+467	info Source
+info Source	Standale s remarks
+467	Standale s remarks
+467	what
+what	A fantasy story
+467	A fantasy story
+467	type
+type	Statement
+467	Statement
+467	has Predicate
+has Predicate	believe
+467	believe
+021	what
+what	045
+021	045
+021	what
+what	029
+021	029
+021	what
+what	050
+021	050
+021	what
+what	025
+021	025
+021	what
+what	037
+021	037
+021	what
+what	033
+021	033
+021	what
+what	027
+021	027
+021	what
+what	056
+021	056
+021	what
+what	048
+021	048
+021	what
+what	030
+021	030
+021	subject
+subject	Roundhay
+021	Roundhay
+021	what
+what	026
+021	026
+021	what
+what	041
+021	041
+021	type
+type	Situation
+021	Situation
+021	what
+what	047
+021	047
+021	what
+what	040
+021	040
+021	what
+what	024
+021	024
+021	what
+what	046
+021	046
+021	what
+what	023
+021	023
+021	what
+what	038
+021	038
+021	what
+what	042
+021	042
+021	what
+what	039
+021	039
+021	what
+what	054
+021	054
+021	what
+what	049
+021	049
+021	has Predicate
+has Predicate	Said
+021	Said
+021	what
+what	051
+021	051
+021	what
+what	036
+021	036
+021	what
+what	032
+021	032
+021	source
+source	Roundhay said the following
+021	Roundhay said the following
+021	what
+what	031
+021	031
+021	what
+what	053
+021	053
+021	what
+what	035
+021	035
+021	what
+what	052
+021	052
+021	what
+what	022
+021	022
+021	what
+what	043
+021	043
+021	what
+what	028
+021	028
+021	what
+what	034
+021	034
+021	what
+what	044
+021	044
+021	what
+what	055
+021	055
+039	subject
+subject	Brenda
+039	Brenda
+039	source
+source	Brenda was dead
+039	Brenda was dead
+039	info Source
+info Source	Roundhay
+039	Roundhay
+039	has Predicate
+has Predicate	It was dead
+039	It was dead
+039	type
+type	Statement
+039	Statement
+435	type
+type	Situation
+435	Situation
+435	subject
+subject	Powder medicine
+435	Powder medicine
+435	has Predicate
+has Predicate	It was in
+435	It was in
+435	source
+source	Powder medicine was in the paper package
+435	Powder medicine was in the paper package
+435	how
+how	In a paper packet
+435	In a paper packet
+206	where
+where	In the flower bed under the window
+206	In the flower bed under the window
+206	source
+source	There is no footprint on the flower bed under the window
+206	There is no footprint on the flower bed under the window
+206	has Predicate
+has Predicate	There is no
+206	There is no
+206	what
+what	Footprints
+206	Footprints
+206	type
+type	Situation
+206	Situation
+474	type
+type	Statement
+474	Statement
+474	subject
+subject	Standale
+474	Standale
+474	has Property
+has Property	Be a judge
+474	Be a judge
+474	info Source
+info Source	Standale s remarks
+474	Standale s remarks
+474	source
+source	Standale is a judge
+474	Standale is a judge
+450	info Source
+info Source	Mortimer s thoughts
+450	Mortimer s thoughts
+450	type
+type	Thought
+450	Thought
+450	subject
+subject	Standale
+450	Standale
+450	has Predicate
+has Predicate	receive
+450	receive
+450	what
+what	Information
+450	Information
+450	source
+source	Standale receives the news
+450	Standale receives the news
+416	info Source
+info Source	Standale s remarks
+416	Standale s remarks
+416	what
+what	marriage
+416	marriage
+416	has Predicate
+has Predicate	could not
+416	could not
+416	source
+source	Standale couldn't get married
+416	Standale couldn't get married
+416	subject
+subject	Standale
+416	Standale
+416	type
+type	Statement
+416	Statement
+332	type
+type	Situation
+332	Situation
+332	info Source
+info Source	Holmes guess
+332	Holmes guess
+332	subject
+subject	Drug
+332	Drug
+332	has Predicate
+has Predicate	Act
+332	Act
+332	when
+when	At the time of combustion
+332	At the time of combustion
+332	source
+source	Drugs act when burning
+332	Drugs act when burning
+428	source
+source	Standale took out the paper packet
+428	Standale took out the paper packet
+428	type
+type	Situation
+428	Situation
+428	has Predicate
+has Predicate	Picked up
+428	Picked up
+428	what
+what	Paper package
+428	Paper package
+428	subject
+subject	Standale
+428	Standale
+472	has Predicate
+has Predicate	Told
+472	Told
+472	source
+source	Standale told Mortimer the crime of Mortimer
+472	Standale told Mortimer the crime of Mortimer
+472	type
+type	Statement
+472	Statement
+472	subject
+subject	Standale
+472	Standale
+472	info Source
+info Source	Standale s remarks
+472	Standale s remarks
+472	what
+what	Mortimer s Sin
+472	Mortimer s Sin
+472	whom
+whom	Mortimer
+472	Mortimer
+392	near
+near	gate
+392	gate
+392	info Source
+info Source	Holmes s statement
+392	Holmes s statement
+392	source
+source	Red gravel was by the gate
+392	Red gravel was by the gate
+392	subject
+subject	Red gravel
+392	Red gravel
+392	type
+type	Statement
+392	Statement
+392	has Predicate
+has Predicate	there were
+392	there were
+plan	label
+label	plan
+plan	plan
+plan	type
+type	Object
+plan	Object
+045	source
+source	Owen and George's nerve was damaged
+045	Owen and George's nerve was damaged
+045	what
+what	Nerve
+045	Nerve
+045	has Predicate
+has Predicate	It was damaged
+045	It was damaged
+045	info Source
+info Source	Roundhay
+045	Roundhay
+045	subject
+subject	Owen
+045	Owen
+045	type
+type	Statement
+045	Statement
+045	subject
+subject	George
+045	George
+075	subject
+subject	Mortimer
+075	Mortimer
+075	when
+when	Around 9 o clock
+075	Around 9 o clock
+075	subject
+subject	Owen
+075	Owen
+075	has Predicate
+has Predicate	Sat down
+075	Sat down
+075	subject
+subject	George
+075	George
+075	subject
+subject	Brenda
+075	Brenda
+075	info Source
+info Source	Mortimer s statement
+075	Mortimer s statement
+075	source
+source	Around 9 o'clock
+075	Around 9 o'clock
+075	type
+type	Statement
+075	Statement
+071	what
+what	104
+071	104
+071	what
+what	090
+071	090
+071	what
+what	082
+071	082
+071	what
+what	096
+071	096
+071	type
+type	Situation
+071	Situation
+071	what
+what	087
+071	087
+071	what
+what	085
+071	085
+071	what
+what	097
+071	097
+071	what
+what	098
+071	098
+071	what
+what	084
+071	084
+071	what
+what	094
+071	094
+071	what
+what	081
+071	081
+071	what
+what	088
+071	088
+071	has Predicate
+has Predicate	Said
+071	Said
+071	what
+what	076
+071	076
+071	what
+what	095
+071	095
+071	what
+what	080
+071	080
+071	what
+what	092
+071	092
+071	what
+what	077
+071	077
+071	what
+what	103
+071	103
+071	what
+what	072
+071	072
+071	what
+what	089
+071	089
+071	what
+what	074
+071	074
+071	what
+what	075
+071	075
+071	what
+what	102
+071	102
+071	what
+what	105
+071	105
+071	what
+what	101
+071	101
+071	what
+what	083
+071	083
+071	what
+what	086
+071	086
+071	what
+what	073
+071	073
+071	what
+what	100
+071	100
+071	subject
+subject	Mortimer
+071	Mortimer
+071	what
+what	091
+071	091
+071	what
+what	099
+071	099
+071	what
+what	093
+071	093
+071	what
+what	078
+071	078
+071	what
+what	079
+071	079
+071	source
+source	Mortimer said the following
+071	Mortimer said the following
+326	has Predicate
+has Predicate	Guessed
+326	Guessed
+326	subject
+subject	Holmes
+326	Holmes
+326	what
+what	327
+326	327
+326	type
+type	Situation
+326	Situation
+326	source
+source	Holmes guessed the following
+326	Holmes guessed the following
+312	when
+when	Case 1
+312	Case 1
+312	type
+type	Statement
+312	Statement
+312	where
+where	In the room
+312	In the room
+312	when
+when	Case 2
+312	Case 2
+312	info Source
+info Source	Holmes s statement
+312	Holmes s statement
+312	has Predicate
+has Predicate	It was burning
+312	It was burning
+312	source
+source	In Case 1 and Case 2
+312	In Case 1 and Case 2
+312	subject
+subject	thing
+312	thing
+252	source
+source	The air in the room was full of fear and melancholy
+252	The air in the room was full of fear and melancholy
+252	subject
+subject	Room air
+252	Room air
+252	what
+what	Melancholy
+252	Melancholy
+252	has Predicate
+has Predicate	It was full
+252	It was full
+252	type
+type	Situation
+252	Situation
+252	what
+what	Fear
+252	Fear
+103	whom
+whom	Owen
+103	Owen
+103	type
+type	Statement
+103	Statement
+103	info Source
+info Source	Mortimer s statement
+103	Mortimer s statement
+103	whom
+whom	Brenda
+103	Brenda
+103	has Predicate
+has Predicate	Had
+103	Had
+103	what
+what	problem
+103	problem
+103	subject
+subject	Mortimer
+103	Mortimer
+103	source
+source	Mortimer had problems with Owen and George and Brenda
+103	Mortimer had problems with Owen and George and Brenda
+103	whom
+whom	George
+103	George
+068	type
+type	Situation
+068	Situation
+068	what
+what	069
+068	069
+068	has Predicate
+has Predicate	thought
+068	thought
+068	source
+source	Watson thought the following
+068	Watson thought the following
+068	subject
+subject	Watson
+068	Watson
+068	what
+what	070
+068	070
+313	type
+type	Statement
+313	Statement
+313	info Source
+info Source	Holmes s statement
+313	Holmes s statement
+313	subject
+subject	lamp
+313	lamp
+313	source
+source	The lamp was lit after a long time after dawn
+313	The lamp was lit after a long time after dawn
+313	has Predicate
+has Predicate	Turned on
+313	Turned on
+044	type
+type	Statement
+044	Statement
+044	source
+source	Owen and George were singing
+044	Owen and George were singing
+044	subject
+subject	George
+044	George
+044	has Predicate
+has Predicate	I was singing
+044	I was singing
+044	info Source
+info Source	Roundhay
+044	Roundhay
+044	subject
+subject	Owen
+044	Owen
+092	info Source
+info Source	Mortimer s statement
+092	Mortimer s statement
+092	type
+type	Statement
+092	Statement
+092	subject
+subject	Brenda
+092	Brenda
+092	source
+source	Brenda was dead
+092	Brenda was dead
+092	has Predicate
+has Predicate	It was dead
+092	It was dead
+263	to
+to	On the forehead
+263	On the forehead
+263	subject
+subject	Mortimer
+263	Mortimer
+263	what
+what	glasses
+263	glasses
+263	type
+type	Situation
+263	Situation
+263	source
+source	Mortimer was pushing the glasses to the forehead
+263	Mortimer was pushing the glasses to the forehead
+263	has Predicate
+has Predicate	It was pushing up
+263	It was pushing up
+286	has Predicate
+has Predicate	Rubbed
+286	Rubbed
+286	then
+then	287
+286	287
+286	to
+to	lawn
+286	lawn
+286	type
+type	Situation
+286	Situation
+286	source
+source	Holmes rubbed her face on the grass
+286	Holmes rubbed her face on the grass
+286	what
+what	face
+286	face
+286	subject
+subject	Holmes
+286	Holmes
+122	type
+type	Thought
+122	Thought
+122	has Property
+has Property	It does not matter
+122	It does not matter
+122	subject
+subject	something
+122	something
+122	info Source
+info Source	Mortimer s thoughts
+122	Mortimer s thoughts
+122	source
+source	Something is not important
+122	Something is not important
+363	source
+source	No visitors at 10 o'clock in Cornwall
+363	No visitors at 10 o'clock in Cornwall
+363	type
+type	Statement
+363	Statement
+363	when
+when	After 10 o clock
+363	After 10 o clock
+363	subject
+subject	Visitor
+363	Visitor
+363	info Source
+info Source	Holmes s statement
+363	Holmes s statement
+363	has Predicate
+has Predicate	do not come
+363	do not come
+363	where
+where	Cornwall
+363	Cornwall
+051	subject
+subject	Porter
+051	Porter
+051	has Predicate
+has Predicate	I was in deep sleep
+051	I was in deep sleep
+051	type
+type	Statement
+051	Statement
+051	source
+source	The porter had a deep sleep last night
+051	The porter had a deep sleep last night
+051	info Source
+info Source	Porter s statement
+051	Porter s statement
+051	when
+when	Last night
+051	Last night
+378	subject
+subject	Standale
+378	Standale
+378	info Source
+info Source	Holmes s statement
+378	Holmes s statement
+378	type
+type	Statement
+378	Statement
+378	has Predicate
+has Predicate	Turned back
+378	Turned back
+378	source
+source	And Standale turned back from Plymouth
+378	And Standale turned back from Plymouth
+378	from
+from	Plymouth
+378	Plymouth
+444	what
+what	Magic foot
+444	Magic foot
+444	subject
+subject	European chemistry
+444	European chemistry
+444	has Predicate
+has Predicate	Do not detect
+444	Do not detect
+444	source
+source	European chemistry does not detect the magic foot
+444	European chemistry does not detect the magic foot
+444	type
+type	Statement
+444	Statement
+444	info Source
+info Source	Standale s remarks
+444	Standale s remarks
+408	source
+source	Standale stood on the grass
+408	Standale stood on the grass
+408	info Source
+info Source	Holmes s statement
+408	Holmes s statement
+408	where
+where	lawn
+408	lawn
+408	subject
+subject	Standale
+408	Standale
+408	type
+type	Statement
+408	Statement
+408	has Predicate
+has Predicate	Stood up
+408	Stood up
+158	what
+what	162
+158	162
+158	what
+what	172
+158	172
+158	what
+what	161
+158	161
+158	has Predicate
+has Predicate	Said
+158	Said
+158	what
+what	175
+158	175
+158	what
+what	174
+158	174
+158	what
+what	166
+158	166
+158	source
+source	The porter said
+158	The porter said
+158	what
+what	164
+158	164
+158	what
+what	165
+158	165
+158	what
+what	159
+158	159
+158	what
+what	167
+158	167
+158	what
+what	160
+158	160
+158	what
+what	168
+158	168
+158	type
+type	Situation
+158	Situation
+158	what
+what	169
+158	169
+158	subject
+subject	Porter
+158	Porter
+158	what
+what	171
+158	171
+158	what
+what	163
+158	163
+158	what
+what	170
+158	170
+158	what
+what	173
+158	173
+384	then_
+then_	385
+384	385
+384	has Predicate
+has Predicate	waited
+384	waited
+384	type
+type	Statement
+384	Statement
+384	info Source
+info Source	Holmes s statement
+384	Holmes s statement
+384	where
+where	Outside
+384	Outside
+384	subject
+subject	Standale
+384	Standale
+384	source
+source	Standale waited outside
+384	Standale waited outside
+041	type
+type	Statement
+041	Statement
+041	info Source
+info Source	Roundhay
+041	Roundhay
+041	source
+source	Owen and George sat on both sides of Brenda
+041	Owen and George sat on both sides of Brenda
+041	where
+where	Brenda s both sides
+041	Brenda s both sides
+041	has Predicate
+has Predicate	Sat
+041	Sat
+041	subject
+subject	George
+041	George
+041	subject
+subject	Owen
+041	Owen
+posture	label
+label	posture
+posture	posture
+posture	type
+type	Object
+posture	Object
+412	has Predicate
+has Predicate	Said
+412	Said
+412	what
+what	426
+412	426
+412	what
+what	421
+412	421
+412	what
+what	415
+412	415
+412	what
+what	420
+412	420
+412	source
+source	Standale said
+412	Standale said
+412	what
+what	417
+412	417
+412	subject
+subject	Standale
+412	Standale
+412	what
+what	425
+412	425
+412	type
+type	Situation
+412	Situation
+412	what
+what	427
+412	427
+412	what
+what	422
+412	422
+412	what
+what	413
+412	413
+412	what
+what	419
+412	419
+412	what
+what	423
+412	423
+412	what
+what	424
+412	424
+412	what
+what	416
+412	416
+412	what
+what	418
+412	418
+412	what
+what	414
+412	414
+414	type
+type	Statement
+414	Statement
+414	source
+source	Brenda has loved Standale for many years
+414	Brenda has loved Standale for many years
+414	has Predicate
+has Predicate	I have loved
+414	I have loved
+414	info Source
+info Source	Standale s remarks
+414	Standale s remarks
+414	therefore
+therefore	415
+414	415
+414	what
+what	Standale
+414	Standale
+414	subject
+subject	Brenda
+414	Brenda
+414	when
+when	What year
+414	What year
+362	info Source
+info Source	Holmes s statement
+362	Holmes s statement
+362	subject
+subject	others
+362	others
+362	source
+source	If others come into the room
+362	If others come into the room
+362	has Predicate
+has Predicate	Come in
+362	Come in
+362	type
+type	Statement
+362	Statement
+362	to
+to	room
+362	room
+153	has Predicate
+has Predicate	Have
+153	Have
+153	source
+source	The Trigenis have a large garden
+153	The Trigenis have a large garden
+153	subject
+subject	Trigenis House
+153	Trigenis House
+153	type
+type	Situation
+153	Situation
+153	subject
+subject	Considerable garden
+153	Considerable garden
+391	to
+to	pocket
+391	pocket
+391	what
+what	Red gravel
+391	Red gravel
+391	subject
+subject	Standale
+391	Standale
+391	source
+source	Standale stuffed red gravel in his pocket
+391	Standale stuffed red gravel in his pocket
+391	has Predicate
+has Predicate	Stuffed
+391	Stuffed
+391	type
+type	Statement
+391	Statement
+391	info Source
+info Source	Holmes s statement
+391	Holmes s statement
+391	then_
+then_	393
+391	393
+487	type
+type	Situation
+487	Situation
+487	has Property
+has Property	It was gravel
+487	It was gravel
+487	source
+source	The starting point of the investigation was the gravel on the window frame
+487	The starting point of the investigation was the gravel on the window frame
+487	subject
+subject	Starting point of investigation
+487	Starting point of investigation
+487	on
+on	Window frame
+487	Window frame
+114	info Source
+info Source	Mortimer s statement
+114	Mortimer s statement
+114	has Predicate
+has Predicate	It was rising
+114	It was rising
+114	source
+source	The blind was rising
+114	The blind was rising
+114	type
+type	Statement
+114	Statement
+114	subject
+subject	blind
+114	blind
+093	info Source
+info Source	Mortimer s statement
+093	Mortimer s statement
+093	type
+type	Statement
+093	Statement
+093	subject
+subject	Criminal
+093	Criminal
+093	has Property
+has Property	Be a demon
+093	Be a demon
+093	source
+source	The criminal is a demon
+093	The criminal is a demon
+163	has Predicate
+has Predicate	saw
+163	saw
+163	then
+then	164
+163	164
+163	source
+source	Porter saw a disastrous sight
+163	Porter saw a disastrous sight
+163	what
+what	Miserable sight
+163	Miserable sight
+163	subject
+subject	Porter
+163	Porter
+163	type
+type	Statement
+163	Statement
+163	info Source
+info Source	Porter s statement
+163	Porter s statement
+110	type
+type	Statement
+110	Statement
+110	what
+what	George
+110	George
+110	how
+how	Face to face
+110	Face to face
+110	source
+source	Mortimer sat opposite George
+110	Mortimer sat opposite George
+110	subject
+subject	Mortimer
+110	Mortimer
+110	has Predicate
+has Predicate	Sat
+110	Sat
+110	info Source
+info Source	Mortimer s statement
+110	Mortimer s statement
+341	source
+source	Watson lost his freedom and imagination
+341	Watson lost his freedom and imagination
+341	type
+type	Situation
+341	Situation
+341	what
+what	Imagination
+341	Imagination
+341	what
+what	Brain freedom
+341	Brain freedom
+341	subject
+subject	Watson
+341	Watson
+341	has Predicate
+has Predicate	lost
+341	lost
+335	subject
+subject	Ash
+335	Ash
+335	on
+on	Smoke protection of the lamp
+335	Smoke protection of the lamp
+335	type
+type	Statement
+335	Statement
+335	source
+source	There was ash in the smokeproof part of the lamp and the exterior made of talc
+335	There was ash in the smokeproof part of the lamp and the exterior made of talc
+335	info Source
+info Source	Holmes s statement
+335	Holmes s statement
+335	has Predicate
+has Predicate	there were
+335	there were
+335	on
+on	Talc sheath
+335	Talc sheath
+195	what
+what	Mortimer s Story
+195	Mortimer s Story
+195	source
+source	Make Mortimer's Story True
+195	Make Mortimer's Story True
+195	what
+what	It s true
+195	It s true
+195	type
+type	Situation
+195	Situation
+195	has Predicate
+has Predicate	Do
+195	Do
+195	info Source
+info Source	Holmes guess
+195	Holmes guess
+065	where
+where	Inland from the cottages of Pordeux Bay
+065	Inland from the cottages of Pordeux Bay
+065	type
+type	Statement
+065	Statement
+065	info Source
+info Source	Roundhay
+065	Roundhay
+065	subject
+subject	Trigenis House
+065	Trigenis House
+065	has Predicate
+has Predicate	is there
+065	is there
+065	source
+source	The Turgenis family is inland from a cottage in the Gulf of Pordeux
+065	The Turgenis family is inland from a cottage in the Gulf of Pordeux
+308	has Predicate
+has Predicate	Opened
+308	Opened
+308	subject
+subject	Porter
+308	Porter
+308	what
+what	window
+308	window
+308	source
+source	Porter opened the window
+308	Porter opened the window
+308	info Source
+info Source	Holmes s statement
+308	Holmes s statement
+308	type
+type	Statement
+308	Statement
+156	subject
+subject	Mortimer
+156	Mortimer
+156	source
+source	Mortimer said the following
+156	Mortimer said the following
+156	what
+what	157
+156	157
+156	has Predicate
+has Predicate	Said
+156	Said
+156	type
+type	Situation
+156	Situation
+017	info Source
+info Source	Mortimer s question
+017	Mortimer s question
+017	what
+what	Talk
+017	Talk
+017	type
+type	Situation
+017	Situation
+017	has Predicate
+has Predicate	Do
+017	Do
+017	source
+source	Mortimer talks
+017	Mortimer talks
+017	subject
+subject	Mortimer
+017	Mortimer
+375	when
+when	1 hour ago
+375	1 hour ago
+375	type
+type	Situation
+375	Situation
+375	subject
+subject	Standale
+375	Standale
+375	source
+source	An hour ago
+375	An hour ago
+375	has Predicate
+has Predicate	received
+375	received
+375	what
+what	Holmes s note
+375	Holmes s note
+309	has Predicate
+has Predicate	I was jealous
+309	I was jealous
+309	subject
+subject	Room air
+309	Room air
+309	source
+source	In Case 2
+309	In Case 2
+309	when
+when	Case 2
+309	Case 2
+309	info Source
+info Source	Holmes s statement
+309	Holmes s statement
+309	when
+when	310
+309	310
+309	type
+type	Statement
+309	Statement
+325	has Predicate
+has Predicate	killed
+325	killed
+325	source
+source	Brenda was killed in Case 1
+325	Brenda was killed in Case 1
+325	when
+when	Case 1
+325	Case 1
+325	type
+type	Statement
+325	Statement
+325	info Source
+info Source	Holmes s statement
+325	Holmes s statement
+325	subject
+subject	Brenda
+325	Brenda
+face	label
+label	face
+face	face
+face	type
+type	Object
+face	Object
+175	type
+type	Situation
+175	Situation
+175	subject
+subject	Mortimer
+175	Mortimer
+175	what
+what	Stairs
+175	Stairs
+175	subject
+subject	Watson
+175	Watson
+175	has Predicate
+has Predicate	Went up
+175	Went up
+175	subject
+subject	Holmes
+175	Holmes
+175	source
+source	Holmes
+175	Holmes
+301	what
+what	308
+301	308
+301	what
+what	302
+301	302
+301	what
+what	311
+301	311
+301	what
+what	307
+301	307
+301	what
+what	314
+301	314
+301	type
+type	Situation
+301	Situation
+301	has Predicate
+has Predicate	Said
+301	Said
+301	what
+what	310
+301	310
+301	what
+what	313
+301	313
+301	what
+what	306
+301	306
+301	what
+what	305
+301	305
+301	what
+what	309
+301	309
+301	what
+what	304
+301	304
+301	what
+what	312
+301	312
+301	subject
+subject	Holmes
+301	Holmes
+301	what
+what	303
+301	303
+301	source
+source	Holmes said the following
+301	Holmes said the following
+113	subject
+subject	window
+113	window
+113	source
+source	The window was closed
+113	The window was closed
+113	has Predicate
+has Predicate	I was locked up
+113	I was locked up
+113	info Source
+info Source	Mortimer s statement
+113	Mortimer s statement
+113	type
+type	Statement
+113	Statement
+407	type
+type	Statement
+407	Statement
+407	subject
+subject	Standale
+407	Standale
+407	has Predicate
+has Predicate	Closed
+407	Closed
+407	info Source
+info Source	Holmes s statement
+407	Holmes s statement
+407	what
+what	window
+407	window
+407	source
+source	Standale closed the window
+407	Standale closed the window
+180	subject
+subject	Charred ash
+180	Charred ash
+180	source
+source	Burnt ashes remained in the fireplace
+180	Burnt ashes remained in the fireplace
+180	type
+type	Situation
+180	Situation
+180	where
+where	Inside the fireplace
+180	Inside the fireplace
+180	has Predicate
+has Predicate	It was left
+180	It was left
+115	what
+what	Bushes of grass
+115	Bushes of grass
+115	type
+type	Statement
+115	Statement
+115	source
+source	Mortimer saw a bush of grass
+115	Mortimer saw a bush of grass
+115	info Source
+info Source	Mortimer s statement
+115	Mortimer s statement
+115	has Predicate
+has Predicate	saw
+115	saw
+115	subject
+subject	Mortimer
+115	Mortimer
+447	has Predicate
+has Predicate	Guessed
+447	Guessed
+447	type
+type	Situation
+447	Situation
+447	what
+what	448
+447	448
+447	source
+source	Standale guessed that
+447	Standale guessed that
+447	subject
+subject	Standale
+447	Standale
+246	how
+how	With the same symptoms as Brenda
+246	With the same symptoms as Brenda
+246	type
+type	Statement
+246	Statement
+246	when
+when	Last night
+246	Last night
+246	subject
+subject	Mortimer
+246	Mortimer
+246	has Predicate
+has Predicate	Passed away
+246	Passed away
+246	source
+source	Last night Mortimer died with the same symptoms as Brenda
+246	Last night Mortimer died with the same symptoms as Brenda
+246	info Source
+info Source	Roundhay
+246	Roundhay
+198	has Predicate
+has Predicate	It was scattered
+198	It was scattered
+198	type
+type	Situation
+198	Situation
+198	on
+on	table
+198	table
+198	subject
+subject	card
+198	card
+198	source
+source	Cards were scattered on the table
+198	Cards were scattered on the table
+381	source
+source	Standale asked Holmes for the suspect
+381	Standale asked Holmes for the suspect
+381	what
+what	Suspect
+381	Suspect
+381	info Source
+info Source	Holmes s statement
+381	Holmes s statement
+381	then
+then	382
+381	382
+381	whom
+whom	Holmes
+381	Holmes
+381	type
+type	Statement
+381	Statement
+381	subject
+subject	Standale
+381	Standale
+381	has Predicate
+has Predicate	Asked
+381	Asked
+401	subject
+subject	Mortimer
+401	Mortimer
+401	source
+source	Mortimer comes down
+401	Mortimer comes down
+401	has Predicate
+has Predicate	come down
+401	come down
+401	type
+type	Situation
+401	Situation
+401	info Source
+info Source	Standale s Sign
+401	Standale s Sign
+443	has Predicate
+has Predicate	Taught
+443	Taught
+443	subject
+subject	Standale
+443	Standale
+443	source
+source	Standale taught Mortimer:
+443	Standale taught Mortimer:
+443	what
+what	Less than
+443	Less than
+443	type
+type	Situation
+443	Situation
+443	what
+what	To Mortimer
+443	To Mortimer
+215	type
+type	Situation
+215	Situation
+215	has Predicate
+has Predicate	heard
+215	heard
+215	what
+what	Holmes
+215	Holmes
+215	subject
+subject	Standale
+215	Standale
+215	what
+what	Progress
+215	Progress
+215	source
+source	Standale heard Holmes progress
+215	Standale heard Holmes progress
+131	type
+type	Statement
+131	Statement
+131	subject
+subject	With Owen
+131	With Owen
+131	info Source
+info Source	Mortimer s statement
+131	Mortimer s statement
+131	source
+source	Owen and George sat until dawn
+131	Owen and George sat until dawn
+131	has Predicate
+has Predicate	Sat
+131	Sat
+131	when
+when	Until dawn
+131	Until dawn
+131	type
+type	Situation
+131	Situation
+131	subject
+subject	George
+131	George
+116	has Predicate
+has Predicate	Felt
+116	Felt
+116	info Source
+info Source	Mortimer s statement
+116	Mortimer s statement
+116	type
+type	Statement
+116	Statement
+116	source
+source	Mortimer felt the following
+116	Mortimer felt the following
+116	what
+what	117
+116	117
+116	subject
+subject	Mortimer
+116	Mortimer
+111	has Predicate
+has Predicate	sent
+111	sent
+111	subject
+subject	George
+111	George
+111	what
+what	Steep eyes
+111	Steep eyes
+111	to
+to	window
+111	window
+111	then
+then	112
+111	112
+111	info Source
+info Source	Mortimer s statement
+111	Mortimer s statement
+111	type
+type	Statement
+111	Statement
+111	source
+source	Once
+111	Once
+015	source
+source	Roundhay and Mortimer were not comfortable
+015	Roundhay and Mortimer were not comfortable
+015	type
+type	Situation
+015	Situation
+015	has Predicate
+has Predicate	I was not calm
+015	I was not calm
+015	subject
+subject	Roundhay
+015	Roundhay
+015	subject
+subject	Mortimer
+015	Mortimer
+460	what
+what	462
+460	462
+460	type
+type	Situation
+460	Situation
+460	info Source
+info Source	Standale s guess
+460	Standale s guess
+460	source
+source	Mortimer thought that
+460	Mortimer thought that
+460	has Predicate
+has Predicate	thought
+460	thought
+460	what
+what	461
+460	461
+460	subject
+subject	Mortimer
+460	Mortimer
+431	has Predicate
+has Predicate	It was pasted
+431	It was pasted
+431	type
+type	Situation
+431	Situation
+431	source
+source	Paper parcel was labeled with poison
+431	Paper parcel was labeled with poison
+431	what
+what	Poison label
+431	Poison label
+431	subject
+subject	Paper package
+431	Paper package
+317	subject
+subject	combustion
+317	combustion
+317	subject
+subject	air
+317	air
+317	info Source
+info Source	Holmes guess
+317	Holmes guess
+317	subject
+subject	Madness
+317	Madness
+317	source
+source	Burning
+317	Burning
+317	type
+type	Situation
+317	Situation
+317	subject
+subject	death
+317	death
+317	has Predicate
+has Predicate	linked
+317	linked
+365	source
+source	Watson said the following
+365	Watson said the following
+365	type
+type	Situation
+365	Situation
+365	subject
+subject	Watson
+365	Watson
+365	what
+what	366
+365	366
+365	has Predicate
+has Predicate	Said
+365	Said
+371	why
+why	By regret
+371	By regret
+371	source
+source	Mortimer may have committed suicide due to regret
+371	Mortimer may have committed suicide due to regret
+371	type
+type	Statement
+371	Statement
+371	info Source
+info Source	Holmes s statement
+371	Holmes s statement
+371	has Predicate
+has Predicate	May have committed suicide
+371	May have committed suicide
+371	however
+however	372
+371	372
+371	subject
+subject	Mortimer
+371	Mortimer
+277	has Predicate
+has Predicate	I walked around
+277	I walked around
+277	type
+type	Situation
+277	Situation
+277	source
+source	Holmes walked around the living room
+277	Holmes walked around the living room
+277	where
+where	Living room
+277	Living room
+277	subject
+subject	Holmes
+277	Holmes
+277	then_
+then_	278
+277	278
+108	type
+type	Statement
+108	Statement
+108	source
+source	Mortimer remembered a fact
+108	Mortimer remembered a fact
+108	subject
+subject	Mortimer
+108	Mortimer
+108	what
+what	A fact
+108	A fact
+108	info Source
+info Source	Mortimer s statement
+108	Mortimer s statement
+108	has Predicate
+has Predicate	I remembered
+108	I remembered
+298	what
+what	Reproduction of lamp
+298	Reproduction of lamp
+298	subject
+subject	Holmes
+298	Holmes
+298	type
+type	Situation
+298	Situation
+298	source
+source	Holmes has bought a duplicate of the lamp
+298	Holmes has bought a duplicate of the lamp
+298	has Predicate
+has Predicate	I bought it
+298	I bought it
+245	source
+source	The demon is attached to Cornwall
+245	The demon is attached to Cornwall
+245	type
+type	Statement
+245	Statement
+245	has Predicate
+has Predicate	I m stuck
+245	I m stuck
+245	info Source
+info Source	Roundhay
+245	Roundhay
+245	where
+where	Cornwall
+245	Cornwall
+245	subject
+subject	Devil
+245	Devil
+329	subject
+subject	Madness
+329	Madness
+329	has Property
+has Property	It is an early symptom of the drug
+329	It is an early symptom of the drug
+329	source
+source	Madness is an initial symptom of drugs
+329	Madness is an initial symptom of drugs
+329	type
+type	Statement
+329	Statement
+329	info Source
+info Source	Holmes s statement
+329	Holmes s statement
+1_hour_ago	label
+label	1 hour ago
+1_hour_ago	1 hour ago
+1_hour_ago	type
+type	AbstractTime
+1_hour_ago	AbstractTime
+299	has Predicate
+has Predicate	Replenished
+299	Replenished
+299	subject
+subject	Holmes
+299	Holmes
+299	source
+source	Holmes refilled with the same oil as the pastor
+299	Holmes refilled with the same oil as the pastor
+299	type
+type	Situation
+299	Situation
+299	what
+what	Same oil as the pastor s hall
+299	Same oil as the pastor s hall
+078	subject
+subject	George
+078	George
+078	type
+type	Statement
+078	Statement
+078	subject
+subject	Mortimer
+078	Mortimer
+078	has Predicate
+has Predicate	was
+078	was
+078	subject
+subject	Brenda
+078	Brenda
+078	info Source
+info Source	Mortimer s statement
+078	Mortimer s statement
+078	how
+how	good atmosphere
+078	good atmosphere
+078	source
+source	Mortimer
+078	Mortimer
+078	subject
+subject	Owen
+078	Owen
+fire	type
+type	Object
+fire	Object
+fire	label
+label	fire
+fire	fire
+fireplace	label
+label	fireplace
+fireplace	fireplace
+fireplace	type
+type	Object
+fireplace	Object
+439	has Predicate
+has Predicate	came
+439	came
+439	to
+to	In a cottage in Standale
+439	In a cottage in Standale
+439	when
+when	2 weeks ago
+439	2 weeks ago
+439	type
+type	Statement
+439	Statement
+439	info Source
+info Source	Standale s remarks
+439	Standale s remarks
+439	subject
+subject	Mortimer
+439	Mortimer
+439	source
+source	Two weeks ago
+439	Two weeks ago
+464	subject
+subject	Mortimer
+464	Mortimer
+464	what
+what	Brenda
+464	Brenda
+464	source
+source	Mortimer killed Brenda
+464	Mortimer killed Brenda
+464	has Predicate
+has Predicate	Killed
+464	Killed
+464	info Source
+info Source	Standale s remarks
+464	Standale s remarks
+464	type
+type	Statement
+464	Statement
+485	source
+source	Standale got a gun
+485	Standale got a gun
+485	then
+then	486
+485	486
+485	what
+what	gun
+485	gun
+485	has Predicate
+has Predicate	Got ready
+485	Got ready
+485	subject
+subject	Standale
+485	Standale
+485	type
+type	Statement
+485	Statement
+485	info Source
+info Source	Standale s remarks
+485	Standale s remarks
+177	source
+source	Brenda had a look of fear
+177	Brenda had a look of fear
+177	what
+what	Expression of fear
+177	Expression of fear
+177	subject
+subject	Brenda
+177	Brenda
+177	type
+type	Situation
+177	Situation
+177	has Predicate
+has Predicate	had
+177	had
+1_mile	label
+label	1 mile
+1_mile	1 mile
+1_mile	type
+type	Object
+1_mile	Object
+344	source
+source	Holmes' face had a look of fear
+344	Holmes' face had a look of fear
+344	what
+what	Expression of fear
+344	Expression of fear
+344	type
+type	Situation
+344	Situation
+344	has Predicate
+has Predicate	Had
+344	Had
+344	subject
+subject	Holmes face
+344	Holmes face
+084	has Predicate
+has Predicate	It was up
+084	It was up
+084	type
+type	Statement
+084	Statement
+084	subject
+subject	blind
+084	blind
+084	source
+source	The blinds were up
+084	The blinds were up
+084	info Source
+info Source	Mortimer s statement
+084	Mortimer s statement
+a_cottage_in_the_Pordeux_Bay	type
+type	Place
+a_cottage_in_the_Pordeux_Bay	Place
+a_cottage_in_the_Pordeux_Bay	label
+label	a cottage in the Pordeux Bay
+a_cottage_in_the_Pordeux_Bay	a cottage in the Pordeux Bay
+089	type
+type	Statement
+089	Statement
+089	has Predicate
+has Predicate	Sat
+089	Sat
+089	subject
+subject	Owen
+089	Owen
+089	source
+source	Owen and George sat
+089	Owen and George sat
+089	subject
+subject	George
+089	George
+089	info Source
+info Source	Mortimer s statement
+089	Mortimer s statement
+253	type
+type	Situation
+253	Situation
+253	what
+what	window
+253	window
+253	has Predicate
+has Predicate	Opened
+253	Opened
+253	subject
+subject	Servant
+253	Servant
+253	source
+source	After the incident
+253	After the incident
+253	when
+when	After the incident
+253	After the incident
+287	subject
+subject	Holmes
+287	Holmes
+287	to
+to	Living room
+287	Living room
+287	then
+then	288
+287	288
+287	source
+source	Holmes entered the living room
+287	Holmes entered the living room
+287	type
+type	Situation
+287	Situation
+287	has Predicate
+has Predicate	Has entered
+287	Has entered
+033	where
+where	Toridnik Wasa
+033	Toridnik Wasa
+033	subject
+subject	Doctor Richard
+033	Doctor Richard
+033	type
+type	Situation
+033	Situation
+033	info Source
+info Source	Roundhay
+033	Roundhay
+033	subject
+subject	With Mortimer
+033	With Mortimer
+033	type
+type	Statement
+033	Statement
+033	has Predicate
+has Predicate	Arrived
+033	Arrived
+033	source
+source	Mortimer and Dr Richard arrived at Toridanic Wortha
+033	Mortimer and Dr Richard arrived at Toridanic Wortha
+059	source
+source	Roundhay said the following
+059	Roundhay said the following
+059	what
+what	062
+059	062
+059	what
+what	061
+059	061
+059	subject
+subject	Roundhay
+059	Roundhay
+059	what
+what	064
+059	064
+059	type
+type	Situation
+059	Situation
+059	has Predicate
+has Predicate	Said
+059	Said
+059	what
+what	065
+059	065
+059	what
+what	060
+059	060
+059	what
+what	063
+059	063
+409	has Predicate
+has Predicate	Observed
+409	Observed
+409	what
+what	In the room
+409	In the room
+409	info Source
+info Source	Holmes s statement
+409	Holmes s statement
+409	type
+type	Statement
+409	Statement
+409	source
+source	Standale observed the room
+409	Standale observed the room
+409	subject
+subject	Standale
+409	Standale
+243	from
+from	Garden path
+243	Garden path
+243	has Predicate
+has Predicate	Came
+243	Came
+243	type
+type	Situation
+243	Situation
+243	when
+when	That morning
+243	That morning
+243	source
+source	That morning
+243	That morning
+243	subject
+subject	Roundhay
+243	Roundhay
+446	when
+when	Until you receive a telegram
+446	Until you receive a telegram
+446	what
+what	440
+446	440
+446	subject
+subject	Standale
+446	Standale
+446	what
+what	444
+446	444
+446	what
+what	441
+446	441
+446	info Source
+info Source	Standale s remarks
+446	Standale s remarks
+446	source
+source	Standale did not think above until he received a telegram
+446	Standale did not think above until he received a telegram
+446	type
+type	Statement
+446	Statement
+446	what
+what	442
+446	442
+446	what
+what	443
+446	443
+446	what
+what	445
+446	445
+446	has Predicate
+has Predicate	I did not think
+446	I did not think
+446	what
+what	439
+446	439
+this_morning	label
+label	this morning
+this_morning	this morning
+this_morning	type
+type	AbstractTime
+this_morning	AbstractTime
+glasses	type
+type	Object
+glasses	Object
+glasses	label
+label	glasses
+glasses	glasses
+395	source
+source	Standale went under the window of Mortimer
+395	Standale went under the window of Mortimer
+395	type
+type	Statement
+395	Statement
+395	info Source
+info Source	Holmes s statement
+395	Holmes s statement
+395	subject
+subject	Standale
+395	Standale
+395	has Predicate
+has Predicate	went
+395	went
+395	to
+to	Under the window of Mortimer
+395	Under the window of Mortimer
+349	subject
+subject	Motive
+349	Motive
+349	source
+source	The motive is vague
+349	The motive is vague
+349	type
+type	Statement
+349	Statement
+349	has Property
+has Property	Ambiguous
+349	Ambiguous
+349	info Source
+info Source	Holmes s statement
+349	Holmes s statement
+056	info Source
+info Source	Roundhay
+056	Roundhay
+056	has Predicate
+has Predicate	do not know
+056	do not know
+056	type
+type	Statement
+056	Statement
+056	source
+source	Roundhay does not know the reason for Owen and George's madness
+056	Roundhay does not know the reason for Owen and George's madness
+056	subject
+subject	Roundhay
+056	Roundhay
+056	what
+what	Owen and George s reason for the madness
+056	Owen and George s reason for the madness
+095	what
+what	George s reason
+095	George s reason
+095	type
+type	Statement
+095	Statement
+095	what
+what	Brenda s Reason
+095	Brenda s Reason
+095	subject
+subject	Criminal
+095	Criminal
+095	what
+what	Owen s Reason
+095	Owen s Reason
+095	has Predicate
+has Predicate	Crushed
+095	Crushed
+095	source
+source	The perpetrator shattered Owen and George and Brenda's reason
+095	The perpetrator shattered Owen and George and Brenda's reason
+095	info Source
+info Source	Mortimer s statement
+095	Mortimer s statement
+370	type
+type	Statement
+370	Statement
+370	subject
+subject	Mortimer
+370	Mortimer
+370	what
+what	Immediate family
+370	Immediate family
+370	info Source
+info Source	Holmes s statement
+370	Holmes s statement
+370	source
+source	Mortimer ruined his immediate family
+370	Mortimer ruined his immediate family
+370	has Predicate
+has Predicate	Ruined
+370	Ruined
+411	subject
+subject	Mortimer
+411	Mortimer
+411	after
+after	410
+411	410
+411	type
+type	Statement
+411	Statement
+411	has Predicate
+has Predicate	Died
+411	Died
+411	source
+source	Mortimer died
+411	Mortimer died
+411	info Source
+info Source	Holmes s statement
+411	Holmes s statement
+376	what
+what	407
+376	407
+376	what
+what	387
+376	387
+376	what
+what	391
+376	391
+376	what
+what	389
+376	389
+376	what
+what	411
+376	411
+376	what
+what	395
+376	395
+376	what
+what	397
+376	397
+376	source
+source	Holmes said the following
+376	Holmes said the following
+376	what
+what	404
+376	404
+376	what
+what	398
+376	398
+376	what
+what	378
+376	378
+376	what
+what	386
+376	386
+376	what
+what	402
+376	402
+376	has Predicate
+has Predicate	Said
+376	Said
+376	what
+what	409
+376	409
+376	what
+what	400
+376	400
+376	what
+what	377
+376	377
+376	what
+what	405
+376	405
+376	what
+what	392
+376	392
+376	subject
+subject	Holmes
+376	Holmes
+376	what
+what	401
+376	401
+376	what
+what	384
+376	384
+376	what
+what	381
+376	381
+376	what
+what	388
+376	388
+376	what
+what	385
+376	385
+376	what
+what	406
+376	406
+376	what
+what	390
+376	390
+376	what
+what	393
+376	393
+376	what
+what	383
+376	383
+376	what
+what	403
+376	403
+376	what
+what	399
+376	399
+376	what
+what	379
+376	379
+376	what
+what	394
+376	394
+376	what
+what	382
+376	382
+376	type
+type	Situation
+376	Situation
+376	what
+what	408
+376	408
+376	what
+what	396
+376	396
+376	what
+what	380
+376	380
+376	what
+what	410
+376	410
+400	type
+type	Statement
+400	Statement
+400	has Predicate
+has Predicate	Signaled
+400	Signaled
+400	source
+source	Standale signaled that
+400	Standale signaled that
+400	info Source
+info Source	Holmes s statement
+400	Holmes s statement
+400	what
+what	401
+400	401
+400	subject
+subject	Standale
+400	Standale
+275	subject
+subject	Holmes
+275	Holmes
+275	to
+to	lawn
+275	lawn
+275	then_
+then_	276
+275	276
+275	has Predicate
+has Predicate	Came out
+275	Came out
+275	type
+type	Situation
+275	Situation
+275	source
+source	Holmes went out to the grass
+275	Holmes went out to the grass
+door	label
+label	door
+door	door
+door	type
+type	Object
+door	Object
+300	what
+what	Burning time
+300	Burning time
+300	source
+source	Holmes measured the burn time
+300	Holmes measured the burn time
+300	subject
+subject	Holmes
+300	Holmes
+300	has Predicate
+has Predicate	I measured
+300	I measured
+300	type
+type	Situation
+300	Situation
+048	info Source
+info Source	Roundhay
+048	Roundhay
+048	type
+type	Statement
+048	Statement
+048	has Property
+has Property	Be a cook
+048	Be a cook
+048	source
+source	The porter is a cook
+048	The porter is a cook
+048	subject
+subject	Porter
+048	Porter
+129	type
+type	Statement
+129	Statement
+129	subject
+subject	Doctor Richard
+129	Doctor Richard
+129	info Source
+info Source	Mortimer s statement
+129	Mortimer s statement
+129	what
+what	room
+129	room
+129	source
+source	Mortimer and Doctor Richard examined the room
+129	Mortimer and Doctor Richard examined the room
+129	subject
+subject	Mortimer
+129	Mortimer
+129	has Predicate
+has Predicate	Examined
+129	Examined
+351	source
+source	Mortimer is the victim of Case 2
+351	Mortimer is the victim of Case 2
+351	has Property
+has Property	I am the victim of Case 2
+351	I am the victim of Case 2
+351	subject
+subject	Mortimer
+351	Mortimer
+351	type
+type	Statement
+351	Statement
+351	info Source
+info Source	Holmes s statement
+351	Holmes s statement
+427	source
+source	Standale is back
+427	Standale is back
+427	type
+type	Statement
+427	Statement
+427	has Predicate
+has Predicate	Came back
+427	Came back
+427	subject
+subject	Standale
+427	Standale
+427	info Source
+info Source	Standale s remarks
+427	Standale s remarks
+334	source
+source	Holmes looked at the lamp's smoke protection and the talc exterior
+334	Holmes looked at the lamp's smoke protection and the talc exterior
+334	info Source
+info Source	Holmes s statement
+334	Holmes s statement
+334	what
+what	Smoke protection of the lamp
+334	Smoke protection of the lamp
+334	has Predicate
+has Predicate	saw
+334	saw
+334	what
+what	Talc sheath
+334	Talc sheath
+334	type
+type	Statement
+334	Statement
+334	subject
+subject	Holmes
+334	Holmes
+for_a_while	label
+label	for a while
+for_a_while	for a while
+for_a_while	type
+type	Object
+for_a_while	Object
+366	has Property
+has Property	It is suicide
+366	It is suicide
+366	source
+source	Mortimer's cause of death is suicide
+366	Mortimer's cause of death is suicide
+366	info Source
+info Source	Watson s remarks
+366	Watson s remarks
+366	subject
+subject	Mortimer s cause of death
+366	Mortimer s cause of death
+366	type
+type	Statement
+366	Statement
+193	source
+source	Owen
+193	Owen
+193	why
+why	Human intention
+193	Human intention
+193	subject
+subject	George
+193	George
+193	subject
+subject	Owen
+193	Owen
+193	why
+why	Negligence
+193	Negligence
+193	what
+what	suffering
+193	suffering
+193	has Predicate
+has Predicate	Tasted
+193	Tasted
+193	type
+type	Situation
+193	Situation
+193	subject
+subject	Brenda
+193	Brenda
+193	info Source
+info Source	Holmes guess
+193	Holmes guess
+162	when
+when	this morning
+162	this morning
+162	to
+to	room
+162	room
+162	has Predicate
+has Predicate	Has entered
+162	Has entered
+162	info Source
+info Source	Porter s statement
+162	Porter s statement
+162	type
+type	Statement
+162	Statement
+162	then
+then	163
+162	163
+162	source
+source	Porter entered the room this morning
+162	Porter entered the room this morning
+162	subject
+subject	Porter
+162	Porter
+257	has Property
+has Property	Is
+257	Is
+257	source
+source	The cause is the following
+257	The cause is the following
+257	what
+what	258
+257	258
+257	subject
+subject	Cause
+257	Cause
+257	what
+what	259
+257	259
+257	type
+type	Situation
+257	Situation
+390	what
+what	room
+390	room
+390	info Source
+info Source	Holmes s statement
+390	Holmes s statement
+390	when
+when	When the sun rises
+390	When the sun rises
+390	has Predicate
+has Predicate	Came out
+390	Came out
+390	source
+source	By the time the sun rose
+390	By the time the sun rose
+390	subject
+subject	Standale
+390	Standale
+390	type
+type	Statement
+390	Statement
+388	has Predicate
+has Predicate	Executed
+388	Executed
+388	source
+source	Early in the morning
+388	Early in the morning
+388	type
+type	Statement
+388	Statement
+388	what
+what	plan
+388	plan
+388	when
+when	early morning
+388	early morning
+388	subject
+subject	Standale
+388	Standale
+388	info Source
+info Source	Holmes s statement
+388	Holmes s statement
+272	how
+how	Quickly
+272	Quickly
+272	source
+source	Mortimer got dressed quickly
+272	Mortimer got dressed quickly
+272	type
+type	Situation
+272	Situation
+272	has Predicate
+has Predicate	worn
+272	worn
+272	what
+what	clothes
+272	clothes
+272	subject
+subject	Mortimer
+272	Mortimer
+489	has Predicate
+has Predicate	I found it
+489	I found it
+489	source
+source	In the yard of the cottage in Standale
+489	In the yard of the cottage in Standale
+489	type
+type	Situation
+489	Situation
+489	where
+where	Cottage garden in Standale
+489	Cottage garden in Standale
+489	subject
+subject	Holmes
+489	Holmes
+489	what
+what	gravel
+489	gravel
+333	where
+where	Pastor s Hall
+333	Pastor s Hall
+333	source
+source	Holmes looked for drug debris at the pastor
+333	Holmes looked for drug debris at the pastor
+333	info Source
+info Source	Holmes s statement
+333	Holmes s statement
+333	type
+type	Statement
+333	Statement
+333	subject
+subject	Holmes
+333	Holmes
+333	what
+what	Drug remnants
+333	Drug remnants
+333	has Predicate
+has Predicate	looked for
+333	looked for
+137	type
+type	Statement
+137	Statement
+137	info Source
+info Source	Mortimer s statement
+137	Mortimer s statement
+137	subject
+subject	Owen
+137	Owen
+137	subject
+subject	George
+137	George
+137	has Predicate
+has Predicate	I was crawling
+137	I was crawling
+137	what
+what	Unintelligible thing
+137	Unintelligible thing
+137	source
+source	George and Owen were talking about something unclear
+137	George and Owen were talking about something unclear
+117	has Predicate
+has Predicate	moving
+117	moving
+117	type
+type	Situation
+117	Situation
+117	where
+where	In the bush
+117	In the bush
+117	info Source
+info Source	Mortimer s guess
+117	Mortimer s guess
+117	subject
+subject	something
+117	something
+117	source
+source	Something is moving in the bush
+117	Something is moving in the bush
+265	source
+source	Mortimer had a look of fear
+265	Mortimer had a look of fear
+265	type
+type	Situation
+265	Situation
+265	what
+what	Expression of fear
+265	Expression of fear
+265	subject
+subject	Mortimer
+265	Mortimer
+265	has Predicate
+has Predicate	had
+265	had
+456	has Predicate
+has Predicate	I checked
+456	I checked
+456	what
+what	Another interpretation
+456	Another interpretation
+456	subject
+subject	Standale
+456	Standale
+456	source
+source	Standale confirmed another interpretation
+456	Standale confirmed another interpretation
+456	info Source
+info Source	Standale s remarks
+456	Standale s remarks
+456	type
+type	Statement
+456	Statement
+456	however
+however	457
+456	457
+469	source
+source	Standale's heart was screaming revenge
+469	Standale's heart was screaming revenge
+469	subject
+subject	Standale s heart
+469	Standale s heart
+469	info Source
+info Source	Standale s remarks
+469	Standale s remarks
+469	has Predicate
+has Predicate	Shouted
+469	Shouted
+469	what
+what	revenge
+469	revenge
+469	type
+type	Statement
+469	Statement
+020	whom
+whom	Roundhay
+020	Roundhay
+020	what
+what	Talk
+020	Talk
+020	has Predicate
+has Predicate	Recommended
+020	Recommended
+020	source
+source	I recommended talk to Roundhay
+020	I recommended talk to Roundhay
+020	type
+type	Situation
+020	Situation
+035	info Source
+info Source	Roundhay
+035	Roundhay
+035	where
+where	table
+035	table
+035	subject
+subject	Brenda
+035	Brenda
+035	subject
+subject	Owen
+035	Owen
+035	has Predicate
+has Predicate	Sat
+035	Sat
+035	source
+source	Owen and George and Brenda sat at a table
+035	Owen and George and Brenda sat at a table
+035	subject
+subject	George
+035	George
+035	type
+type	Statement
+035	Statement
+202	source
+source	Holmes guessed the following
+202	Holmes guessed the following
+202	has Predicate
+has Predicate	Guessed
+202	Guessed
+202	subject
+subject	Holmes
+202	Holmes
+202	type
+type	Situation
+202	Situation
+202	what
+what	203
+202	203
+454	subject
+subject	Standale
+454	Standale
+454	type
+type	Statement
+454	Statement
+454	has Predicate
+has Predicate	Came
+454	Came
+454	to
+to	In a cottage in the Pordeux Bay
+454	In a cottage in the Pordeux Bay
+454	source
+source	Standale came to a cottage in the Pordeux Bay
+454	Standale came to a cottage in the Pordeux Bay
+454	info Source
+info Source	Standale s remarks
+454	Standale s remarks
+232	subject
+subject	Research
+232	Research
+232	type
+type	Situation
+232	Situation
+232	source
+source	Survey did not progress
+232	Survey did not progress
+232	has Predicate
+has Predicate	Did not progress
+232	Did not progress
+232	info Source
+info Source	Watson s guess
+232	Watson s guess
+229	from
+from	From the cottages of Pordeux Bay
+229	From the cottages of Pordeux Bay
+229	type
+type	Situation
+229	Situation
+229	subject
+subject	Standale
+229	Standale
+229	has Predicate
+has Predicate	Went out
+229	Went out
+229	source
+source	Standale got out of a cottage in the Pordeux Bay
+229	Standale got out of a cottage in the Pordeux Bay
+229	then_
+then_	230
+229	230
+135	what
+what	Expression of fear
+135	Expression of fear
+135	info Source
+info Source	Mortimer s statement
+135	Mortimer s statement
+135	type
+type	Statement
+135	Statement
+135	subject
+subject	Brenda
+135	Brenda
+135	has Predicate
+has Predicate	had
+135	had
+135	source
+source	Brenda had a look of fear
+135	Brenda had a look of fear
+278	has Predicate
+has Predicate	went
+278	went
+278	source
+source	Holmes went to the bedroom
+278	Holmes went to the bedroom
+278	where
+where	Bedroom
+278	Bedroom
+278	subject
+subject	Holmes
+278	Holmes
+278	then_
+then_	279
+278	279
+278	type
+type	Situation
+278	Situation
+144	subject
+subject	Watson
+144	Watson
+144	has Predicate
+has Predicate	waited
+144	waited
+144	type
+type	Situation
+144	Situation
+144	subject
+subject	Holmes
+144	Holmes
+144	subject
+subject	Mortimer
+144	Mortimer
+144	source
+source	Holmes
+144	Holmes
+144	what
+what	Passing of a carriage
+144	Passing of a carriage
+170	what
+what	George
+170	George
+170	has Predicate
+has Predicate	Put on
+170	Put on
+170	on
+on	Horse carriage in a mental hospital
+170	Horse carriage in a mental hospital
+170	type
+type	Statement
+170	Statement
+170	info Source
+info Source	Porter s statement
+170	Porter s statement
+170	what
+what	Owen
+170	Owen
+170	source
+source	I put Owen and George on a carriage in a mental hospital
+170	I put Owen and George on a carriage in a mental hospital
+170	subject
+subject	Porter
+170	Porter
+034	has Property
+has Property	It was abnormal
+034	It was abnormal
+034	subject
+subject	Trigenis House
+034	Trigenis House
+034	info Source
+info Source	Roundhay
+034	Roundhay
+034	source
+source	Trigenis was unusual
+034	Trigenis was unusual
+034	type
+type	Statement
+034	Statement
+good_atmosphere	type
+type	Object
+good_atmosphere	Object
+good_atmosphere	label
+label	good atmosphere
+good_atmosphere	good atmosphere
+348	what
+what	349
+348	349
+348	what
+what	352
+348	352
+348	what
+what	364
+348	364
+348	source
+source	Holmes said the following
+348	Holmes said the following
+348	what
+what	350
+348	350
+348	what
+what	354
+348	354
+348	type
+type	Situation
+348	Situation
+348	has Predicate
+has Predicate	Said
+348	Said
+348	what
+what	361
+348	361
+348	subject
+subject	Holmes
+348	Holmes
+348	what
+what	363
+348	363
+348	what
+what	359
+348	359
+348	what
+what	351
+348	351
+348	what
+what	353
+348	353
+348	what
+what	362
+348	362
+348	what
+what	360
+348	360
+242	type
+type	Situation
+242	Situation
+242	info Source
+info Source	Roundhay s Telegram
+242	Roundhay s Telegram
+242	when
+when	afternoon
+242	afternoon
+242	to
+to	Africa
+242	Africa
+242	subject
+subject	Standale
+242	Standale
+242	then_
+then_	243
+242	243
+242	what
+what	Baggage
+242	Baggage
+242	source
+source	In the afternoon
+242	In the afternoon
+242	has Predicate
+has Predicate	sent
+242	sent
+367	what
+what	369
+367	369
+367	what
+what	368
+367	368
+367	type
+type	Situation
+367	Situation
+367	has Predicate
+has Predicate	Said
+367	Said
+367	subject
+subject	Holmes
+367	Holmes
+367	what
+what	372
+367	372
+367	what
+what	374
+367	374
+367	what
+what	370
+367	370
+367	what
+what	371
+367	371
+367	what
+what	373
+367	373
+367	source
+source	Holmes said the following
+367	Holmes said the following
+064	type
+type	Statement
+064	Statement
+064	info Source
+info Source	Roundhay
+064	Roundhay
+064	subject
+subject	Trigenis House
+064	Trigenis House
+064	has Predicate
+has Predicate	is seperated
+064	is seperated
+064	from
+from	Cottage in the Bay of Pordeux
+064	Cottage in the Bay of Pordeux
+064	source
+source	The Trigenis are a mile from a cottage in the Gulf of Pordew
+064	The Trigenis are a mile from a cottage in the Gulf of Pordew
+064	how
+how	1 mile
+064	1 mile
+438	type
+type	Statement
+438	Statement
+438	source
+source	Standale then met with Owen
+438	Standale then met with Owen
+438	info Source
+info Source	Standale s remarks
+438	Standale s remarks
+438	whom
+whom	Owen
+438	Owen
+438	subject
+subject	Standale
+438	Standale
+438	whom
+whom	George
+438	George
+438	whom
+whom	Mortimer
+438	Mortimer
+438	has Predicate
+has Predicate	Met
+438	Met
+205	subject
+subject	Porter
+205	Porter
+205	has Predicate
+has Predicate	is not
+205	is not
+205	what
+what	Criminal
+205	Criminal
+205	source
+source	Porter is not a criminal
+205	Porter is not a criminal
+205	type
+type	Situation
+205	Situation
+room	type
+type	Object
+room	Object
+room	label
+label	room
+room	room
+086	info Source
+info Source	Mortimer s statement
+086	Mortimer s statement
+086	source
+source	The blind was up this morning
+086	The blind was up this morning
+086	subject
+subject	blind
+086	blind
+086	has Predicate
+has Predicate	It was up
+086	It was up
+086	when
+when	this morning
+086	this morning
+086	type
+type	Statement
+086	Statement
+482	subject
+subject	Standale
+482	Standale
+482	to
+to	lamp
+482	lamp
+482	has Predicate
+has Predicate	Wearing
+482	Wearing
+482	source
+source	Standale lit the lamp
+482	Standale lit the lamp
+482	info Source
+info Source	Standale s remarks
+482	Standale s remarks
+482	type
+type	Statement
+482	Statement
+482	what
+what	fire
+482	fire
+019	type
+type	Statement
+019	Statement
+019	info Source
+info Source	Holmes
+019	Holmes
+019	source
+source	Mortimer was the first finder
+019	Mortimer was the first finder
+019	subject
+subject	Mortimer
+019	Mortimer
+019	has Property
+has Property	the first discoverer
+019	the first discoverer
+130	has Predicate
+has Predicate	Burned out
+130	Burned out
+130	subject
+subject	candle
+130	candle
+130	info Source
+info Source	Mortimer s statement
+130	Mortimer s statement
+130	source
+source	Candles and fireplaces burned out hours ago
+130	Candles and fireplaces burned out hours ago
+130	type
+type	Statement
+130	Statement
+130	subject
+subject	fireplace
+130	fireplace
+130	when
+when	Many hours ago
+130	Many hours ago
+006	what
+what	property
+006	property
+006	source
+source	Mortimer had possessions
+006	Mortimer had possessions
+006	has Predicate
+has Predicate	Have
+006	Have
+006	subject
+subject	Mortimer
+006	Mortimer
+006	type
+type	Situation
+006	Situation
+289	subject
+subject	Holmes
+289	Holmes
+289	has Predicate
+has Predicate	Inspected
+289	Inspected
+289	what
+what	lamp
+289	lamp
+289	source
+source	Holmes inspected the lamp
+289	Holmes inspected the lamp
+289	type
+type	Situation
+289	Situation
+109	when
+when	In the middle of the card
+109	In the middle of the card
+109	source
+source	During the card
+109	During the card
+109	type
+type	Statement
+109	Statement
+109	info Source
+info Source	Mortimer s statement
+109	Mortimer s statement
+109	opposite
+opposite	window
+109	window
+109	subject
+subject	Mortimer
+109	Mortimer
+109	has Predicate
+has Predicate	I was turning my back
+109	I was turning my back
+069	subject
+subject	Mortimer
+069	Mortimer
+069	type
+type	Situation
+069	Situation
+069	info Source
+info Source	Watson s guess
+069	Watson s guess
+069	source
+source	Mortimer was in self-control
+069	Mortimer was in self-control
+069	has Predicate
+has Predicate	I was in control
+069	I was in control
+426	subject
+subject	Roundhay
+426	Roundhay
+426	info Source
+info Source	Standale s remarks
+426	Standale s remarks
+426	type
+type	Statement
+426	Statement
+426	whom
+whom	Standale
+426	Standale
+426	has Predicate
+has Predicate	sent
+426	sent
+426	what
+what	telegram
+426	telegram
+426	source
+source	So
+426	So
+054	source
+source	The Trigenis family was not ruined
+054	The Trigenis family was not ruined
+054	has Predicate
+has Predicate	It was not ruined
+054	It was not ruined
+054	type
+type	Statement
+054	Statement
+054	subject
+subject	Trigenis House
+054	Trigenis House
+054	info Source
+info Source	Roundhay
+054	Roundhay
+012	info Source
+info Source	Roundhay
+012	Roundhay
+012	time
+time	1897-03-15 20:00:00
+012	1897-03-15 20:00:00
+012	type
+type	Statement
+012	Statement
+012	when
+when	1897-03-15T20
+012	1897-03-15T20
+012	when
+when	Yesterday night
+012	Yesterday night
+012	source
+source	An incident happened yesterday night
+012	An incident happened yesterday night
+012	subject
+subject	Incident
+012	Incident
+012	has Predicate
+has Predicate	woke up
+012	woke up
+394	type
+type	Statement
+394	Statement
+394	source
+source	Standale wore tennis shoes
+394	Standale wore tennis shoes
+394	subject
+subject	Standale
+394	Standale
+394	has Predicate
+has Predicate	It was said
+394	It was said
+394	info Source
+info Source	Holmes s statement
+394	Holmes s statement
+394	what
+what	Tennis shoes
+394	Tennis shoes
+445	whom
+whom	Standale
+445	Standale
+445	type
+type	Statement
+445	Statement
+445	how
+how	Eagerly
+445	Eagerly
+445	has Predicate
+has Predicate	I was asking a question
+445	I was asking a question
+445	source
+source	Mortimer was keen to ask Standale
+445	Mortimer was keen to ask Standale
+445	info Source
+info Source	Standale s remarks
+445	Standale s remarks
+445	subject
+subject	Mortimer
+445	Mortimer
+448	subject
+subject	Mortimer
+448	Mortimer
+448	what
+what	449
+448	449
+448	has Predicate
+has Predicate	thought
+448	thought
+448	what
+what	451
+448	451
+448	source
+source	Mortimer thought that
+448	Mortimer thought that
+448	info Source
+info Source	Standale s guess
+448	Standale s guess
+448	what
+what	450
+448	450
+448	type
+type	Situation
+448	Situation
+461	info Source
+info Source	Mortimer s thoughts
+461	Mortimer s thoughts
+461	type
+type	Thought
+461	Thought
+461	source
+source	Mortimer Becomes Exclusive Manager of Shared Property
+461	Mortimer Becomes Exclusive Manager of Shared Property
+461	whom
+whom	Exclusive manager of shared property
+461	Exclusive manager of shared property
+461	subject
+subject	Mortimer
+461	Mortimer
+461	has Predicate
+has Predicate	Become
+461	Become
+461	if
+if	462
+461	462
+437	whom
+whom	Brother
+437	Brother
+437	source
+source	Mortimer had made up with his brother
+437	Mortimer had made up with his brother
+437	subject
+subject	Mortimer
+437	Mortimer
+437	info Source
+info Source	Standale s remarks
+437	Standale s remarks
+437	has Predicate
+has Predicate	I had made up my mind
+437	I had made up my mind
+437	type
+type	Statement
+437	Statement
+437	then
+then	438
+437	438
+185	after
+after	187
+185	187
+185	info Source
+info Source	Mortimer s statement
+185	Mortimer s statement
+185	has Predicate
+has Predicate	Turned on
+185	Turned on
+185	type
+type	Statement
+185	Statement
+185	subject
+subject	fireplace
+185	fireplace
+185	source
+source	Therefore
+185	Therefore
+6_hours	label
+label	6 hours
+6_hours	6 hours
+6_hours	type
+type	Object
+6_hours	Object
+481	from
+from	room
+481	room
+481	type
+type	Statement
+481	Statement
+481	has Predicate
+has Predicate	Go out
+481	Go out
+481	info Source
+info Source	Standale s remarks
+481	Standale s remarks
+481	source
+source	If the Mortimer leaves the room
+481	If the Mortimer leaves the room
+481	subject
+subject	Mortimer
+481	Mortimer
+281	source
+source	Watson thought the following
+281	Watson thought the following
+281	has Predicate
+has Predicate	thought
+281	thought
+281	subject
+subject	Watson
+281	Watson
+281	type
+type	Situation
+281	Situation
+281	what
+what	282
+281	282
+058	type
+type	Thought
+058	Thought
+058	what
+what	Unusual nature
+058	Unusual nature
+058	info Source
+info Source	Holmes s thoughts
+058	Holmes s thoughts
+058	subject
+subject	Incident
+058	Incident
+058	source
+source	Incidents have an unusual nature
+058	Incidents have an unusual nature
+058	has Predicate
+has Predicate	Have
+058	Have
+330	info Source
+info Source	Holmes s statement
+330	Holmes s statement
+330	type
+type	Statement
+330	Statement
+330	has Predicate
+has Predicate	It was perfect
+330	It was perfect
+330	subject
+subject	effect
+330	effect
+330	source
+source	In Case 2
+330	In Case 2
+330	when
+when	Case 2
+330	Case 2
+361	info Source
+info Source	Holmes s statement
+361	Holmes s statement
+361	source
+source	Owen and George and Brenda stand at a table
+361	Owen and George and Brenda stand at a table
+361	type
+type	Statement
+361	Statement
+361	subject
+subject	George
+361	George
+361	if
+if	362
+361	362
+361	subject
+subject	Brenda
+361	Brenda
+361	what
+what	table
+361	table
+361	has Predicate
+has Predicate	stand
+361	stand
+361	subject
+subject	Owen
+361	Owen
+420	what
+what	marriage
+420	marriage
+420	type
+type	Statement
+420	Statement
+420	has Predicate
+has Predicate	waited
+420	waited
+420	subject
+subject	Brenda
+420	Brenda
+420	when
+when	What year
+420	What year
+420	info Source
+info Source	Standale s remarks
+420	Standale s remarks
+420	source
+source	Brenda has been waiting for marriage for years
+420	Brenda has been waiting for marriage for years
+404	source
+source	Standale came in through the window
+404	Standale came in through the window
+404	from
+from	window
+404	window
+404	subject
+subject	Standale
+404	Standale
+404	has Predicate
+has Predicate	Has entered
+404	Has entered
+404	then
+then	405
+404	405
+404	info Source
+info Source	Holmes s statement
+404	Holmes s statement
+404	type
+type	Statement
+404	Statement
+354	type
+type	Statement
+354	Statement
+354	subject
+subject	Mortimer
+354	Mortimer
+354	source
+source	Mortimer is not generous
+354	Mortimer is not generous
+354	has Predicate
+has Predicate	Not generous
+354	Not generous
+354	info Source
+info Source	Holmes s statement
+354	Holmes s statement
+monkey	label
+label	monkey
+monkey	monkey
+monkey	type
+type	Object
+monkey	Object
+453	subject
+subject	Magic foot
+453	Magic foot
+453	has Predicate
+has Predicate	was used by
+453	was used by
+453	info Source
+info Source	Standale s guess
+453	Standale s guess
+453	type
+type	Situation
+453	Situation
+453	source
+source	The magic foot was used
+453	The magic foot was used
+010	source
+source	Roundhay was upset
+010	Roundhay was upset
+010	subject
+subject	Roundhay
+010	Roundhay
+010	type
+type	Situation
+010	Situation
+010	has Predicate
+has Predicate	upset
+010	upset
+240	info Source
+info Source	Holmes s statement
+240	Holmes s statement
+240	type
+type	Statement
+240	Statement
+240	source
+source	Standale's explanation is correct
+240	Standale's explanation is correct
+240	subject
+subject	Description of Standale
+240	Description of Standale
+240	has Predicate
+has Predicate	correct
+240	correct
+057	subject
+subject	Holmes
+057	Holmes
+057	what
+what	058
+057	058
+057	type
+type	Situation
+057	Situation
+057	source
+source	Holmes thought the following
+057	Holmes thought the following
+057	has Predicate
+has Predicate	thought
+057	thought
+174	type
+type	Statement
+174	Statement
+174	to
+to	St Ives
+174	St Ives
+174	subject
+subject	Porter
+174	Porter
+174	source
+source	Porter returns to St Ives
+174	Porter returns to St Ives
+174	info Source
+info Source	Porter s statement
+174	Porter s statement
+174	has Predicate
+has Predicate	Go back
+174	Go back
+105	source
+source	Currently
+105	Currently
+105	when
+when	Current
+105	Current
+105	whom
+whom	Brenda
+105	Brenda
+105	what
+what	friendship
+105	friendship
+105	has Predicate
+has Predicate	Had
+105	Had
+105	info Source
+info Source	Mortimer s statement
+105	Mortimer s statement
+105	whom
+whom	Owen
+105	Owen
+105	type
+type	Statement
+105	Statement
+105	whom
+whom	George
+105	George
+105	subject
+subject	Mortimer
+105	Mortimer
+225	subject
+subject	Standale
+225	Standale
+225	has Predicate
+has Predicate	Came back
+225	Came back
+225	source
+source	Standale is back
+225	Standale is back
+225	info Source
+info Source	Standale s remarks
+225	Standale s remarks
+225	type
+type	Statement
+225	Statement
+399	source
+source	Mortimer came
+399	Mortimer came
+399	info Source
+info Source	Holmes s statement
+399	Holmes s statement
+399	subject
+subject	Mortimer
+399	Mortimer
+399	type
+type	Statement
+399	Statement
+399	has Predicate
+has Predicate	came
+399	came
+190	source
+source	Holmes guesses
+190	Holmes guesses
+190	what
+what	193
+190	193
+190	subject
+subject	Holmes
+190	Holmes
+190	type
+type	Situation
+190	Situation
+190	what
+what	191
+190	191
+190	what
+what	192
+190	192
+190	has Predicate
+has Predicate	Infer
+190	Infer
+161	what
+what	Good mood
+161	Good mood
+161	subject
+subject	Brenda
+161	Brenda
+161	subject
+subject	Owen
+161	Owen
+161	has Predicate
+has Predicate	had
+161	had
+161	source
+source	Owen and George and Brenda had a good mood
+161	Owen and George and Brenda had a good mood
+161	subject
+subject	George
+161	George
+161	type
+type	Statement
+161	Statement
+161	info Source
+info Source	Porter s statement
+161	Porter s statement
+from_now_on	type
+type	AbstractTime
+from_now_on	AbstractTime
+from_now_on	label
+label	from now on
+from_now_on	from now on
+327	type
+type	Situation
+327	Situation
+327	what
+what	Irritated constitution
+327	Irritated constitution
+327	source
+source	Brenda had a sensitive constitution
+327	Brenda had a sensitive constitution
+327	info Source
+info Source	Holmes guess
+327	Holmes guess
+327	subject
+subject	Brenda
+327	Brenda
+327	has Predicate
+has Predicate	had
+327	had
+169	where
+where	My bed
+169	My bed
+169	has Predicate
+has Predicate	Lying down
+169	Lying down
+169	type
+type	Statement
+169	Statement
+169	info Source
+info Source	Porter s statement
+169	Porter s statement
+169	subject
+subject	Brenda
+169	Brenda
+169	source
+source	Brenda is lying in his bed
+169	Brenda is lying in his bed
+023	source
+source	The Trigenis are in Toridanic Wasa
+023	The Trigenis are in Toridanic Wasa
+023	subject
+subject	Trigenis House
+023	Trigenis House
+023	where
+where	Toridnik Wasa
+023	Toridnik Wasa
+023	type
+type	Statement
+023	Statement
+023	info Source
+info Source	Roundhay
+023	Roundhay
+023	has Predicate
+has Predicate	is there
+023	is there
+neck	label
+label	neck
+neck	neck
+neck	type
+type	Object
+neck	Object
+money	label
+label	money
+money	money
+money	type
+type	Object
+money	Object
+477	info Source
+info Source	Standale s remarks
+477	Standale s remarks
+477	type
+type	Statement
+477	Statement
+477	subject
+subject	Mortimer
+477	Mortimer
+477	source
+source	Mortimer was paralyzed
+477	Mortimer was paralyzed
+477	has Predicate
+has Predicate	I was paralyzed
+477	I was paralyzed
+080	type
+type	Statement
+080	Statement
+080	subject
+subject	Mortimer
+080	Mortimer
+080	has Predicate
+has Predicate	Came out
+080	Came out
+080	from
+from	From the hall
+080	From the hall
+080	how
+how	alone
+080	alone
+080	info Source
+info Source	Mortimer s statement
+080	Mortimer s statement
+080	source
+source	Mortimer went out of the hall alone
+080	Mortimer went out of the hall alone
+483	has Predicate
+has Predicate	Put on
+483	Put on
+483	subject
+subject	Standale
+483	Standale
+483	info Source
+info Source	Standale s remarks
+483	Standale s remarks
+483	type
+type	Statement
+483	Statement
+483	what
+what	Powder medicine
+483	Powder medicine
+483	source
+source	Standale loaded powder
+483	Standale loaded powder
+323	info Source
+info Source	Holmes s statement
+323	Holmes s statement
+323	type
+type	Statement
+323	Statement
+323	when
+when	Case 2
+323	Case 2
+323	has Predicate
+has Predicate	Did not come out
+323	Did not come out
+323	source
+source	In Incident 2
+323	In Incident 2
+323	subject
+subject	Toxic air
+323	Toxic air
+gun	type
+type	Object
+gun	Object
+gun	label
+label	gun
+gun	gun
+285	to
+to	lawn
+285	lawn
+285	then_
+then_	286
+285	286
+285	source
+source	Holmes came out of the window to the grass
+285	Holmes came out of the window to the grass
+285	from
+from	window
+285	window
+285	has Predicate
+has Predicate	Came out
+285	Came out
+285	type
+type	Situation
+285	Situation
+285	subject
+subject	Holmes
+285	Holmes
+029	then
+then	030
+029	030
+029	info Source
+info Source	Roundhay
+029	Roundhay
+029	whom
+whom	Doctor Richard
+029	Doctor Richard
+029	source
+source	Mortimer was caught up by Dr Richard's four-wheeled carriage
+029	Mortimer was caught up by Dr Richard's four-wheeled carriage
+029	type
+type	Statement
+029	Statement
+029	subject
+subject	Mortimer
+029	Mortimer
+029	how
+how	Four-wheeled carriage
+029	Four-wheeled carriage
+029	has Predicate
+has Predicate	Caught up
+029	Caught up
+marriage	type
+type	Object
+marriage	Object
+marriage	label
+label	marriage
+marriage	marriage
+183	what
+what	187
+183	187
+183	source
+source	Mortimer said the following
+183	Mortimer said the following
+183	has Predicate
+has Predicate	Said
+183	Said
+183	subject
+subject	Mortimer
+183	Mortimer
+183	what
+what	186
+183	186
+183	type
+type	Situation
+183	Situation
+183	what
+what	184
+183	184
+183	what
+what	185
+183	185
+321	type
+type	Statement
+321	Statement
+321	has Predicate
+has Predicate	I was locked up
+321	I was locked up
+321	subject
+subject	window
+321	window
+321	source
+source	The window was closed
+321	The window was closed
+321	info Source
+info Source	Holmes s statement
+321	Holmes s statement
+171	why
+why	Carry owen
+171	Carry owen
+171	has Predicate
+has Predicate	It was necessary
+171	It was necessary
+171	subject
+subject	Four men
+171	Four men
+171	type
+type	Statement
+171	Statement
+171	source
+source	I needed four men for Owen and George
+171	I needed four men for Owen and George
+171	why
+why	Carry george
+171	Carry george
+171	info Source
+info Source	Porter s statement
+171	Porter s statement
+352	source
+source	Mortimer is a wolf
+352	Mortimer is a wolf
+352	info Source
+info Source	Holmes s statement
+352	Holmes s statement
+352	type
+type	Statement
+352	Statement
+352	subject
+subject	Mortimer
+352	Mortimer
+352	has Property
+has Property	I am jealous
+352	I am jealous
+028	info Source
+info Source	Roundhay
+028	Roundhay
+028	source
+source	Before breakfast
+028	Before breakfast
+028	has Predicate
+has Predicate	I was taking a walk
+028	I was taking a walk
+028	subject
+subject	Mortimer
+028	Mortimer
+028	type
+type	Statement
+028	Statement
+028	then
+then	029
+028	029
+028	when
+when	Before breakfast
+028	Before breakfast
+028	to
+to	Towards Toridan Wasa
+028	Towards Toridan Wasa
+090	info Source
+info Source	Mortimer s statement
+090	Mortimer s statement
+090	has Predicate
+has Predicate	I was crazy
+090	I was crazy
+090	why
+why	For fear
+090	For fear
+090	source
+source	Owen and George were crazy for fear
+090	Owen and George were crazy for fear
+090	subject
+subject	Owen
+090	Owen
+090	type
+type	Statement
+090	Statement
+090	subject
+subject	George
+090	George
+379	source
+source	Standale is an element of the incident
+379	Standale is an element of the incident
+379	info Source
+info Source	Holmes s statement
+379	Holmes s statement
+379	type
+type	Statement
+379	Statement
+379	has Property
+has Property	It is an element of the case
+379	It is an element of the case
+379	subject
+subject	Standale
+379	Standale
+067	source
+source	Roundhay brought emotions to the fore
+067	Roundhay brought emotions to the fore
+067	type
+type	Situation
+067	Situation
+067	subject
+subject	Roundhay
+067	Roundhay
+067	what
+what	Emotion
+067	Emotion
+067	has Predicate
+has Predicate	Came out
+067	Came out
+067	how
+how	On the front
+067	On the front
+199	has Predicate
+has Predicate	It was over
+199	It was over
+199	source
+source	Owen
+199	Owen
+199	subject
+subject	Brenda
+199	Brenda
+199	what
+what	Bedtime
+199	Bedtime
+199	type
+type	Situation
+199	Situation
+199	subject
+subject	George
+199	George
+199	subject
+subject	Owen
+199	Owen
+402	has Predicate
+has Predicate	worn
+402	worn
+402	source
+source	Mortimer got dressed quickly
+402	Mortimer got dressed quickly
+402	type
+type	Statement
+402	Statement
+402	subject
+subject	Mortimer
+402	Mortimer
+402	what
+what	clothes
+402	clothes
+402	info Source
+info Source	Holmes s statement
+402	Holmes s statement
+402	how
+how	Quickly
+402	Quickly
+425	type
+type	Statement
+425	Statement
+425	info Source
+info Source	Roundhay
+425	Roundhay
+425	has Property
+has Property	Be an angel
+425	Be an angel
+425	subject
+subject	Brenda
+425	Brenda
+425	source
+source	Brenda is an angel
+425	Brenda is an angel
+094	to
+to	room
+094	room
+094	source
+source	The criminal entered the room
+094	The criminal entered the room
+094	subject
+subject	Criminal
+094	Criminal
+094	type
+type	Statement
+094	Statement
+094	info Source
+info Source	Mortimer s statement
+094	Mortimer s statement
+094	has Predicate
+has Predicate	Entered
+094	Entered
+220	source
+source	Standale was shocked
+220	Standale was shocked
+220	type
+type	Statement
+220	Statement
+220	info Source
+info Source	Standale s remarks
+220	Standale s remarks
+220	subject
+subject	Standale
+220	Standale
+220	has Predicate
+has Predicate	Received
+220	Received
+220	what
+what	shock
+220	shock
+142	subject
+subject	Watson
+142	Watson
+142	has Predicate
+has Predicate	heard
+142	heard
+142	type
+type	Situation
+142	Situation
+142	subject
+subject	Mortimer
+142	Mortimer
+142	what
+what	Running noise of a four-wheeled carriage
+142	Running noise of a four-wheeled carriage
+142	when
+when	Morning of the first day
+142	Morning of the first day
+142	subject
+subject	Holmes
+142	Holmes
+142	source
+source	On the morning of the first day
+142	On the morning of the first day
+231	has Predicate
+has Predicate	thought
+231	thought
+231	what
+what	232
+231	232
+231	source
+source	Watson thought the following
+231	Watson thought the following
+231	subject
+subject	Watson
+231	Watson
+231	type
+type	Situation
+231	Situation
+030	subject
+subject	Mortimer
+030	Mortimer
+030	has Predicate
+has Predicate	met
+030	met
+030	type
+type	Statement
+030	Statement
+030	what
+what	Doctor Richard
+030	Doctor Richard
+030	info Source
+info Source	Roundhay
+030	Roundhay
+030	source
+source	Mortimer met Dr Richard
+030	Mortimer met Dr Richard
+236	what
+what	239
+236	239
+236	has Predicate
+has Predicate	Said
+236	Said
+236	what
+what	240
+236	240
+236	what
+what	242
+236	242
+236	type
+type	Situation
+236	Situation
+236	what
+what	238
+236	238
+236	what
+what	237
+236	237
+236	subject
+subject	Holmes
+236	Holmes
+236	what
+what	241
+236	241
+236	source
+source	Holmes said the following
+236	Holmes said the following
+209	subject
+subject	Watson
+209	Watson
+209	has Predicate
+has Predicate	Returned
+209	Returned
+209	type
+type	Situation
+209	Situation
+209	subject
+subject	Holmes
+209	Holmes
+209	when
+when	afternoon
+209	afternoon
+209	where
+where	In a cottage in the Pordeux Bay
+209	In a cottage in the Pordeux Bay
+209	source
+source	In the afternoon
+209	In the afternoon
+106	has Predicate
+has Predicate	Thought
+106	Thought
+106	what
+what	for a while
+106	for a while
+106	type
+type	Statement
+106	Statement
+106	subject
+subject	Mortimer
+106	Mortimer
+106	source
+source	Mortimer thought for a while
+106	Mortimer thought for a while
+106	info Source
+info Source	Mortimer s statement
+106	Mortimer s statement
+396	has Predicate
+has Predicate	It was not active
+396	It was not active
+396	info Source
+info Source	Holmes s statement
+396	Holmes s statement
+396	subject
+subject	Family
+396	Family
+396	type
+type	Statement
+396	Statement
+396	source
+source	The family was not active
+396	The family was not active
+406	subject
+subject	Standale
+406	Standale
+406	info Source
+info Source	Holmes s statement
+406	Holmes s statement
+406	has Predicate
+has Predicate	Came out
+406	Came out
+406	source
+source	Then Standale left the room
+406	Then Standale left the room
+406	type
+type	Statement
+406	Statement
+406	what
+what	room
+406	room
+424	subject
+subject	Roundhay
+424	Roundhay
+424	has Predicate
+has Predicate	Said
+424	Said
+424	what
+what	Less than
+424	Less than
+424	info Source
+info Source	Standale s remarks
+424	Standale s remarks
+424	type
+type	Statement
+424	Statement
+424	source
+source	Roundhay said the following
+424	Roundhay said the following
+241	where
+where	Plymouth
+241	Plymouth
+241	when
+when	Last night
+241	Last night
+241	source
+source	Last night
+241	Last night
+241	subject
+subject	Standale
+241	Standale
+241	has Predicate
+has Predicate	It was
+241	It was
+241	type
+type	Situation
+241	Situation
+241	info Source
+info Source	Roundhay s Telegram
+241	Roundhay s Telegram
+009	subject
+subject	Roundhay
+009	Roundhay
+009	has Predicate
+has Predicate	Came
+009	Came
+009	time
+time	1897-03-16 08:00:00
+009	1897-03-16 08:00:00
+009	subject
+subject	Mortimer
+009	Mortimer
+009	when
+when	1897-03-16T08
+009	1897-03-16T08
+009	type
+type	Situation
+009	Situation
+009	source
+source	Roundhay and Mortimer came to the Pordeux Bay cottages just after breakfast on March 16
+009	Roundhay and Mortimer came to the Pordeux Bay cottages just after breakfast on March 16
+009	when
+when	Immediately after breakfast on March 16
+009	Immediately after breakfast on March 16
+009	where
+where	In a cottage in the Pordeux Bay
+009	In a cottage in the Pordeux Bay
+239	has Predicate
+has Predicate	heard
+239	heard
+239	what
+what	Roundhay
+239	Roundhay
+239	source
+source	I heard the following from Roundhay
+239	I heard the following from Roundhay
+239	what
+what	Less than
+239	Less than
+239	subject
+subject	Holmes
+239	Holmes
+239	info Source
+info Source	Holmes s statement
+239	Holmes s statement
+239	type
+type	Statement
+239	Statement
+466	source
+source	Standale suspected the following
+466	Standale suspected the following
+466	info Source
+info Source	Standale s remarks
+466	Standale s remarks
+466	has Predicate
+has Predicate	Suspected
+466	Suspected
+466	subject
+subject	Standale
+466	Standale
+466	what
+what	467
+466	467
+466	type
+type	Statement
+466	Statement
+440	has Predicate
+has Predicate	showed
+440	showed
+440	info Source
+info Source	Standale s remarks
+440	Standale s remarks
+440	type
+type	Statement
+440	Statement
+440	source
+source	Standale showed off some of Africa's curiosities
+440	Standale showed off some of Africa's curiosities
+440	what
+what	Some of Africa s curiosities
+440	Some of Africa s curiosities
+440	subject
+subject	Standale
+440	Standale
+172	subject
+subject	Porter
+172	Porter
+172	where
+where	House
+172	House
+172	has Predicate
+has Predicate	Do not stay
+172	Do not stay
+172	when
+when	from now on
+172	from now on
+172	info Source
+info Source	Porter s statement
+172	Porter s statement
+172	type
+type	Statement
+172	Statement
+172	source
+source	The porter doesn't feel like staying at home for a day
+172	The porter doesn't feel like staying at home for a day
+139	info Source
+info Source	Mortimer s statement
+139	Mortimer s statement
+139	source
+source	Dr Richard's face was deep blue
+139	Dr Richard's face was deep blue
+139	type
+type	Statement
+139	Statement
+139	has Property
+has Property	It was deep blue
+139	It was deep blue
+139	subject
+subject	Doctor Richard s face
+139	Doctor Richard s face
+side	type
+type	Object
+side	Object
+side	label
+label	side
+side	side
+097	subject
+subject	Owen
+097	Owen
+097	subject
+subject	Brenda
+097	Brenda
+097	where
+where	Tin miner s house
+097	Tin miner s house
+097	has Predicate
+has Predicate	was born
+097	was born
+097	info Source
+info Source	Mortimer s statement
+097	Mortimer s statement
+097	type
+type	Statement
+097	Statement
+097	subject
+subject	George
+097	George
+097	source
+source	Mortimer
+097	Mortimer
+097	subject
+subject	Mortimer
+097	Mortimer
+264	has Predicate
+has Predicate	I was facing
+264	I was facing
+264	source
+source	Mortimer's face was facing the window
+264	Mortimer's face was facing the window
+264	type
+type	Situation
+264	Situation
+264	to
+to	window
+264	window
+264	subject
+subject	Mortimer s face
+264	Mortimer s face
+016	whom
+whom	Roundhay
+016	Roundhay
+016	what
+what	017
+016	017
+016	has Predicate
+has Predicate	Asked
+016	Asked
+016	subject
+subject	Mortimer
+016	Mortimer
+016	source
+source	Mortimer asked Roundhey:
+016	Mortimer asked Roundhey:
+016	type
+type	Situation
+016	Situation
+260	type
+type	Situation
+260	Situation
+260	subject
+subject	Mortimer
+260	Mortimer
+260	near
+near	lamp
+260	lamp
+260	source
+source	Mortimer sat near the ramp
+260	Mortimer sat near the ramp
+260	has Predicate
+has Predicate	Sat
+260	Sat
+005	has Predicate
+has Predicate	Have
+005	Have
+005	type
+type	Situation
+005	Situation
+005	what
+what	Knowledge of folklore
+005	Knowledge of folklore
+005	subject
+subject	Roundhay
+005	Roundhay
+005	source
+source	Roundhay has the knowledge of folklore
+005	Roundhay has the knowledge of folklore
+085	subject
+subject	window
+085	window
+085	info Source
+info Source	Mortimer s statement
+085	Mortimer s statement
+085	when
+when	this morning
+085	this morning
+085	has Predicate
+has Predicate	It was closed
+085	It was closed
+085	type
+type	Statement
+085	Statement
+085	source
+source	The window was closed this morning
+085	The window was closed this morning
+322	info Source
+info Source	Holmes s statement
+322	Holmes s statement
+322	source
+source	Toxic air came out of the chimney
+322	Toxic air came out of the chimney
+322	subject
+subject	Toxic air
+322	Toxic air
+322	type
+type	Statement
+322	Statement
+322	from
+from	chimney
+322	chimney
+322	has Predicate
+has Predicate	Came out
+322	Came out
+121	subject
+subject	Mortimer
+121	Mortimer
+121	source
+source	Mortimer thought that
+121	Mortimer thought that
+121	type
+type	Statement
+121	Statement
+121	what
+what	122
+121	122
+121	info Source
+info Source	Mortimer s statement
+121	Mortimer s statement
+121	has Predicate
+has Predicate	thought
+121	thought
+248	source
+source	The lower room is the living room
+248	The lower room is the living room
+248	has Property
+has Property	In the living room
+248	In the living room
+248	type
+type	Situation
+248	Situation
+248	subject
+subject	Lower room
+248	Lower room
+484	type
+type	Statement
+484	Statement
+484	source
+source	Standale stood out of the window
+484	Standale stood out of the window
+484	info Source
+info Source	Standale s remarks
+484	Standale s remarks
+484	where
+where	Out of the window
+484	Out of the window
+484	has Predicate
+has Predicate	stood
+484	stood
+484	subject
+subject	Standale
+484	Standale
+227	whom
+whom	Holmes
+227	Holmes
+227	subject
+subject	Standale
+227	Standale
+227	has Predicate
+has Predicate	heard
+227	heard
+227	type
+type	Situation
+227	Situation
+227	what
+what	Suspect
+227	Suspect
+227	source
+source	Standale heard Holmes suspect
+227	Standale heard Holmes suspect
+307	has Predicate
+has Predicate	Has entered
+307	Has entered
+307	type
+type	Statement
+307	Statement
+307	subject
+subject	Porter
+307	Porter
+307	info Source
+info Source	Holmes s statement
+307	Holmes s statement
+307	to
+to	room
+307	room
+307	source
+source	Porter entered the room
+307	Porter entered the room
+118	has Predicate
+has Predicate	thought
+118	thought
+118	subject
+subject	George
+118	George
+118	type
+type	Statement
+118	Statement
+118	info Source
+info Source	Mortimer s statement
+118	Mortimer s statement
+118	source
+source	George thought that
+118	George thought that
+118	what
+what	119
+118	119
+364	source
+source	All evidence shows Mortimer's offense
+364	All evidence shows Mortimer's offense
+364	type
+type	Statement
+364	Statement
+364	info Source
+info Source	Holmes s statement
+364	Holmes s statement
+364	what
+what	Mortimer s offense
+364	Mortimer s offense
+364	has Predicate
+has Predicate	Show
+364	Show
+364	subject
+subject	All the evidence
+364	All the evidence
+business	label
+label	business
+business	business
+business	type
+type	Object
+business	Object
+188	subject
+subject	Holmes
+188	Holmes
+188	to
+to	Cottage in the Bay of Pordeux
+188	Cottage in the Bay of Pordeux
+188	type
+type	Situation
+188	Situation
+188	source
+source	Holmes returned to a cottage in the Gulf of Pordew
+188	Holmes returned to a cottage in the Gulf of Pordew
+188	has Predicate
+has Predicate	Went back
+188	Went back
+340	has Predicate
+has Predicate	Felt
+340	Felt
+340	what
+what	nausea
+340	nausea
+340	source
+source	Watson felt nausea
+340	Watson felt nausea
+340	type
+type	Situation
+340	Situation
+340	subject
+subject	Watson
+340	Watson
+157	info Source
+info Source	Mortimer s statement
+157	Mortimer s statement
+157	subject
+subject	Evil thing
+157	Evil thing
+157	from
+from	window
+157	window
+157	type
+type	Statement
+157	Statement
+157	has Predicate
+has Predicate	Came in
+157	Came in
+157	source
+source	Evil things came in through the window
+157	Evil things came in through the window
+143	subject
+subject	Holmes
+143	Holmes
+143	subject
+subject	Mortimer
+143	Mortimer
+143	has Predicate
+has Predicate	Abstained
+143	Abstained
+143	subject
+subject	Watson
+143	Watson
+143	type
+type	Situation
+143	Situation
+143	source
+source	Holmes
+143	Holmes
+143	to
+to	side
+143	side
+203	when
+when	Before 11 00 last night
+203	Before 11 00 last night
+203	type
+type	Situation
+203	Situation
+203	subject
+subject	Incident
+203	Incident
+203	source
+source	The incident happened before 11:00 last night
+203	The incident happened before 11:00 last night
+203	has Predicate
+has Predicate	woke up
+203	woke up
+083	source
+source	The window was closed
+083	The window was closed
+083	subject
+subject	window
+083	window
+083	info Source
+info Source	Mortimer s statement
+083	Mortimer s statement
+083	type
+type	Statement
+083	Statement
+083	has Predicate
+has Predicate	It was closed
+083	It was closed
+305	subject
+subject	Doctor Richard
+305	Doctor Richard
+305	type
+type	Statement
+305	Statement
+305	info Source
+info Source	Mortimer s statement
+305	Mortimer s statement
+305	to
+to	room
+305	room
+305	source
+source	Doctor Richard entered the room
+305	Doctor Richard entered the room
+305	has Predicate
+has Predicate	Has entered
+305	Has entered
+049	type
+type	Statement
+049	Statement
+049	subject
+subject	Porter
+049	Porter
+049	source
+source	Porter is a housekeeper
+049	Porter is a housekeeper
+049	info Source
+info Source	Roundhay
+049	Roundhay
+049	has Property
+has Property	I am a housekeeper
+049	I am a housekeeper
+233	what
+what	telegram
+233	telegram
+233	subject
+subject	Holmes
+233	Holmes
+233	source
+source	Holmes saw a telegram
+233	Holmes saw a telegram
+233	has Predicate
+has Predicate	saw
+233	saw
+233	type
+type	Situation
+233	Situation
+neighbor	type
+type	Object
+neighbor	Object
+neighbor	label
+label	neighbor
+neighbor	neighbor
+319	source
+source	Drug was burned in Case 1 and Case 2
+319	Drug was burned in Case 1 and Case 2
+319	type
+type	Statement
+319	Statement
+319	info Source
+info Source	Holmes s statement
+319	Holmes s statement
+319	when
+when	Case 1
+319	Case 1
+319	when
+when	Case 2
+319	Case 2
+319	has Predicate
+has Predicate	Burned
+319	Burned
+319	subject
+subject	Drug
+319	Drug
+178	subject
+subject	Watson
+178	Watson
+178	has Predicate
+has Predicate	went
+178	went
+178	type
+type	Situation
+178	Situation
+178	source
+source	Holmes
+178	Holmes
+178	subject
+subject	Mortimer
+178	Mortimer
+178	to
+to	Living room
+178	Living room
+178	subject
+subject	Holmes
+178	Holmes
+name	label
+label	name
+name	name
+name	type
+type	Object
+name	Object
+219	info Source
+info Source	Standale s remarks
+219	Standale s remarks
+219	type
+type	Statement
+219	Statement
+219	what
+what	With the House of Trigenis
+219	With the House of Trigenis
+219	subject
+subject	Standale
+219	Standale
+219	has Predicate
+has Predicate	Became familiar
+219	Became familiar
+219	source
+source	Standale gets close to the Trigenis family
+219	Standale gets close to the Trigenis family
+397	has Predicate
+has Predicate	Taken out
+397	Taken out
+397	type
+type	Statement
+397	Statement
+397	source
+source	Standale took gravel out of his pocket
+397	Standale took gravel out of his pocket
+397	from
+from	pocket
+397	pocket
+397	info Source
+info Source	Holmes s statement
+397	Holmes s statement
+397	subject
+subject	Standale
+397	Standale
+397	what
+what	gravel
+397	gravel
+042	subject
+subject	George
+042	George
+042	subject
+subject	Owen
+042	Owen
+042	type
+type	Statement
+042	Statement
+042	info Source
+info Source	Roundhay
+042	Roundhay
+042	has Predicate
+has Predicate	I was laughing
+042	I was laughing
+042	source
+source	Owen and George were laughing
+042	Owen and George were laughing
+237	subject
+subject	Holmes
+237	Holmes
+237	has Predicate
+has Predicate	hit
+237	hit
+237	type
+type	Statement
+237	Statement
+237	source
+source	Holmes sent a telegram
+237	Holmes sent a telegram
+237	what
+what	telegram
+237	telegram
+237	info Source
+info Source	Holmes s statement
+237	Holmes s statement
+403	has Predicate
+has Predicate	Got off
+403	Got off
+403	type
+type	Statement
+403	Statement
+403	subject
+subject	Mortimer
+403	Mortimer
+403	to
+to	Living room
+403	Living room
+403	source
+source	Mortimer got down into the living room
+403	Mortimer got down into the living room
+403	info Source
+info Source	Holmes s statement
+403	Holmes s statement
+405	then
+then	406
+405	406
+405	info Source
+info Source	Holmes s statement
+405	Holmes s statement
+405	source
+source	Standale looked at the room
+405	Standale looked at the room
+405	has Predicate
+has Predicate	Jealous
+405	Jealous
+405	type
+type	Statement
+405	Statement
+405	subject
+subject	Standale
+405	Standale
+405	what
+what	room
+405	room
+295	what
+what	297
+295	297
+295	whom
+whom	Criminal
+295	Criminal
+295	what
+what	296
+295	296
+295	source
+source	Roundhay said the following to the detective
+295	Roundhay said the following to the detective
+295	type
+type	Situation
+295	Situation
+295	info Source
+info Source	Holmes request
+295	Holmes request
+295	has Predicate
+has Predicate	Said
+295	Said
+295	subject
+subject	Roundhay
+295	Roundhay
+050	source
+source	The porter said
+050	The porter said
+050	subject
+subject	Porter
+050	Porter
+050	has Predicate
+has Predicate	Said
+050	Said
+050	info Source
+info Source	Roundhay
+050	Roundhay
+050	what
+what	052
+050	052
+050	what
+what	051
+050	051
+050	type
+type	Statement
+050	Statement
+369	info Source
+info Source	Holmes s statement
+369	Holmes s statement
+369	type
+type	Statement
+369	Statement
+369	source
+source	Mortimer may have felt guilty of
+369	Mortimer may have felt guilty of
+369	what
+what	Sense of guilt
+369	Sense of guilt
+369	subject
+subject	Mortimer
+369	Mortimer
+369	has Predicate
+has Predicate	May have held
+369	May have held
+369	what
+what	370
+369	370
+pocket	type
+type	Object
+pocket	Object
+pocket	label
+label	pocket
+pocket	pocket
+268	type
+type	Situation
+268	Situation
+268	what
+what	269
+268	269
+268	has Predicate
+has Predicate	Guessed
+268	Guessed
+268	subject
+subject	Watson
+268	Watson
+268	source
+source	Watson inferred that
+268	Watson inferred that
+102	has Predicate
+has Predicate	I was dissatisfied
+102	I was dissatisfied
+102	info Source
+info Source	Mortimer s statement
+102	Mortimer s statement
+102	subject
+subject	Mortimer
+102	Mortimer
+102	type
+type	Statement
+102	Statement
+102	what
+what	For the distribution of money
+102	For the distribution of money
+102	source
+source	Mortimer was unhappy with the distribution of money
+102	Mortimer was unhappy with the distribution of money
+052	has Predicate
+has Predicate	I did not hear
+052	I did not hear
+052	when
+when	Last night
+052	Last night
+052	source
+source	Last night
+052	Last night
+052	what
+what	nothing
+052	nothing
+052	subject
+subject	Porter
+052	Porter
+052	info Source
+info Source	Porter s statement
+052	Porter s statement
+052	type
+type	Statement
+052	Statement
+421	type
+type	Statement
+421	Statement
+421	source
+source	Standale also waited for marriage for years
+421	Standale also waited for marriage for years
+421	what
+what	marriage
+421	marriage
+421	has Predicate
+has Predicate	waited
+421	waited
+421	when
+when	What year
+421	What year
+421	info Source
+info Source	Standale s remarks
+421	Standale s remarks
+421	subject
+subject	Standale
+421	Standale
+150	source
+source	Owen and George are taken to Helston
+150	Owen and George are taken to Helston
+150	subject
+subject	George
+150	George
+150	type
+type	Statement
+150	Statement
+150	has Predicate
+has Predicate	Be taken away
+150	Be taken away
+150	info Source
+info Source	Mortimer s statement
+150	Mortimer s statement
+150	where
+where	Hellston
+150	Hellston
+150	subject
+subject	Owen
+150	Owen
+303	type
+type	Statement
+303	Statement
+303	has Predicate
+has Predicate	Said
+303	Said
+303	source
+source	Mortimer said the following
+303	Mortimer said the following
+303	info Source
+info Source	Holmes s statement
+303	Holmes s statement
+303	subject
+subject	Mortimer
+303	Mortimer
+303	what
+what	305
+303	305
+303	what
+what	304
+303	304
+297	subject
+subject	window
+297	window
+297	type
+type	Statement
+297	Statement
+297	info Source
+info Source	Holmes s statement
+297	Holmes s statement
+297	source
+source	Windows and lamps are important
+297	Windows and lamps are important
+297	subject
+subject	lamp
+297	lamp
+297	has Property
+has Property	is important
+297	is important
+problem	type
+type	Object
+problem	Object
+problem	label
+label	problem
+problem	problem
+441	info Source
+info Source	Standale s remarks
+441	Standale s remarks
+441	type
+type	Statement
+441	Statement
+441	what
+what	Some of Africa s curiosities
+441	Some of Africa s curiosities
+441	has Property
+has Property	was
+441	was
+441	subject
+subject	Powdered medicine was part of a rarity in Africa
+441	Powdered medicine was part of a rarity in Africa
+441	source
+source	Powdered medicine was part of a rarity in Africa
+441	Powdered medicine was part of a rarity in Africa
+079	info Source
+info Source	Mortimer s statement
+079	Mortimer s statement
+079	type
+type	Statement
+079	Statement
+079	has Predicate
+has Predicate	was sleeping
+079	was sleeping
+079	subject
+subject	Porter
+079	Porter
+079	source
+source	The porter was sleeping
+079	The porter was sleeping
+101	has Predicate
+has Predicate	Retired
+101	Retired
+101	info Source
+info Source	Mortimer s statement
+101	Mortimer s statement
+101	source
+source	Tin miner retired
+101	Tin miner retired
+101	type
+type	Statement
+101	Statement
+101	subject
+subject	Tin miner
+101	Tin miner
+087	type
+type	Statement
+087	Statement
+087	info Source
+info Source	Mortimer s statement
+087	Mortimer s statement
+087	source
+source	Outsiders are not in and out
+087	Outsiders are not in and out
+087	has Predicate
+has Predicate	Not going out
+087	Not going out
+087	subject
+subject	Outsider
+087	Outsider
+353	type
+type	Statement
+353	Statement
+353	has Property
+has Property	Greedy
+353	Greedy
+353	source
+source	Mortimer is greedy
+353	Mortimer is greedy
+353	info Source
+info Source	Holmes s statement
+353	Holmes s statement
+353	subject
+subject	Mortimer
+353	Mortimer
+effect	type
+type	Object
+effect	Object
+effect	label
+label	effect
+effect	effect
+221	subject
+subject	Standale
+221	Standale
+221	info Source
+info Source	Standale s remarks
+221	Standale s remarks
+221	type
+type	Statement
+221	Statement
+221	what
+what	Owen s fate
+221	Owen s fate
+221	what
+what	Brenda s Fate
+221	Brenda s Fate
+221	what
+what	George s fate
+221	George s fate
+221	source
+source	Standale heard the fate of Owen and George and Brenda
+221	Standale heard the fate of Owen and George and Brenda
+221	has Predicate
+has Predicate	heard
+221	heard
+422	type
+type	Statement
+422	Statement
+422	source
+source	Roundhaye knew above
+422	Roundhaye knew above
+422	what
+what	419
+422	419
+422	what
+what	416
+422	416
+422	what
+what	417
+422	417
+422	subject
+subject	Roundhay
+422	Roundhay
+422	what
+what	418
+422	418
+422	what
+what	415
+422	415
+422	what
+what	420
+422	420
+422	what
+what	421
+422	421
+422	what
+what	413
+422	413
+422	has Predicate
+has Predicate	I knew
+422	I knew
+422	info Source
+info Source	Standale s remarks
+422	Standale s remarks
+422	what
+what	414
+422	414
+373	has Predicate
+has Predicate	know
+373	know
+373	subject
+subject	Standale
+373	Standale
+373	what
+what	Ground
+373	Ground
+373	type
+type	Statement
+373	Statement
+373	info Source
+info Source	Holmes s statement
+373	Holmes s statement
+373	source
+source	Standale knows the grounds
+373	Standale knows the grounds
+chimney	label
+label	chimney
+chimney	chimney
+chimney	type
+type	Object
+chimney	Object
+234	type
+type	Situation
+234	Situation
+234	has Predicate
+has Predicate	Thrown in
+234	Thrown in
+234	source
+source	Holmes threw a telegram into the fireplace
+234	Holmes threw a telegram into the fireplace
+234	what
+what	telegram
+234	telegram
+234	to
+to	fireplace
+234	fireplace
+234	subject
+subject	Holmes
+234	Holmes
+168	subject
+subject	Porter
+168	Porter
+168	info Source
+info Source	Porter s statement
+168	Porter s statement
+168	source
+source	Porter sent a farmer boy to Dr Richard
+168	Porter sent a farmer boy to Dr Richard
+168	whom
+whom	Doctor Richard
+168	Doctor Richard
+168	has Predicate
+has Predicate	sent
+168	sent
+168	what
+what	Farmer boy
+168	Farmer boy
+168	type
+type	Statement
+168	Statement
+133	subject
+subject	6 hours
+133	6 hours
+133	source
+source	At least six hours have passed since Brenda's death
+133	At least six hours have passed since Brenda's death
+133	when
+when	After Brenda s death
+133	After Brenda s death
+133	type
+type	Statement
+133	Statement
+133	has Predicate
+has Predicate	It has passed
+133	It has passed
+133	info Source
+info Source	Dr Richard s remark
+133	Dr Richard s remark
+garden	label
+label	garden
+garden	garden
+garden	type
+type	Object
+garden	Object
+132	type
+type	Statement
+132	Statement
+132	what
+what	Less than
+132	Less than
+132	source
+source	Dr Richard said
+132	Dr Richard said
+132	subject
+subject	Doctor Richard
+132	Doctor Richard
+132	has Predicate
+has Predicate	Said
+132	Said
+132	info Source
+info Source	Mortimer s statement
+132	Mortimer s statement
+026	source
+source	After 10 o'clock Owen
+026	After 10 o'clock Owen
+026	when
+when	Past 10 o clock
+026	Past 10 o clock
+026	subject
+subject	Owen
+026	Owen
+026	subject
+subject	George
+026	George
+026	info Source
+info Source	Roundhay
+026	Roundhay
+026	has Predicate
+has Predicate	How have you been
+026	How have you been
+026	type
+type	Statement
+026	Statement
+026	subject
+subject	Brenda
+026	Brenda
+290	subject
+subject	Holmes
+290	Holmes
+290	has Predicate
+has Predicate	confirmed
+290	confirmed
+290	type
+type	Situation
+290	Situation
+290	source
+source	Holmes confirmed the volume of oil
+290	Holmes confirmed the volume of oil
+290	what
+what	Oil capacity
+290	Oil capacity
+254	source
+source	Watson thought the following
+254	Watson thought the following
+254	type
+type	Situation
+254	Situation
+254	has Predicate
+has Predicate	thought
+254	thought
+254	subject
+subject	Watson
+254	Watson
+254	what
+what	Less than
+254	Less than
+159	subject
+subject	Porter
+159	Porter
+159	has Predicate
+has Predicate	I did not hear
+159	I did not hear
+159	when
+when	Yesterday night
+159	Yesterday night
+159	source
+source	The porter did not hear anything yesterday night
+159	The porter did not hear anything yesterday night
+159	info Source
+info Source	Porter s statement
+159	Porter s statement
+159	what
+what	nothing
+159	nothing
+159	type
+type	Statement
+159	Statement
+141	info Source
+info Source	Mortimer s statement
+141	Mortimer s statement
+141	type
+type	Statement
+141	Statement
+141	has Predicate
+has Predicate	Sat down
+141	Sat down
+141	subject
+subject	Doctor Richard
+141	Doctor Richard
+141	source
+source	Dr Richard sat in a chair
+141	Dr Richard sat in a chair
+141	what
+what	In the chair
+141	In the chair
+374	what
+what	Standale
+374	Standale
+374	has Predicate
+has Predicate	called
+374	called
+374	source
+source	I called Standale this afternoon
+374	I called Standale this afternoon
+374	type
+type	Statement
+374	Statement
+374	info Source
+info Source	Holmes s statement
+374	Holmes s statement
+374	when
+when	This afternoon
+374	This afternoon
+120	type
+type	Statement
+120	Statement
+120	subject
+subject	Mortimer
+120	Mortimer
+120	info Source
+info Source	Mortimer s statement
+120	Mortimer s statement
+120	what
+what	something
+120	something
+120	source
+source	Mortimer didn't check something
+120	Mortimer didn't check something
+120	has Predicate
+has Predicate	I did not check
+120	I did not check
+250	what
+what	lawn
+250	lawn
+250	type
+type	Situation
+250	Situation
+250	subject
+subject	Living room
+250	Living room
+250	source
+source	Living room and bedroom can see the lawn from the window
+250	Living room and bedroom can see the lawn from the window
+250	subject
+subject	Bedroom
+250	Bedroom
+250	where
+where	From the window
+250	From the window
+250	has Predicate
+has Predicate	Can see
+250	Can see
+082	type
+type	Statement
+082	Statement
+082	source
+source	Windows are near Owen and George
+082	Windows are near Owen and George
+082	near
+near	Owen
+082	Owen
+082	info Source
+info Source	Mortimer s statement
+082	Mortimer s statement
+082	subject
+subject	window
+082	window
+082	has Predicate
+has Predicate	is there
+082	is there
+082	near
+near	George
+082	George
+revenge	type
+type	Object
+revenge	Object
+revenge	label
+label	revenge
+revenge	revenge
+138	subject
+subject	Owen
+138	Owen
+138	what
+what	monkey
+138	monkey
+138	type
+type	Statement
+138	Statement
+138	info Source
+info Source	Mortimer s statement
+138	Mortimer s statement
+138	has Predicate
+has Predicate	It was similar
+138	It was similar
+138	source
+source	Owen and George were like monkeys
+138	Owen and George were like monkeys
+138	subject
+subject	George
+138	George
+284	subject
+subject	Holmes
+284	Holmes
+284	then
+then	285
+284	285
+284	type
+type	Situation
+284	Situation
+284	what
+what	Stairs
+284	Stairs
+284	source
+source	Holmes went down the stairs
+284	Holmes went down the stairs
+284	has Predicate
+has Predicate	Went down
+284	Went down
+164	type
+type	Statement
+164	Statement
+164	source
+source	The porter fell
+164	The porter fell
+164	subject
+subject	Porter
+164	Porter
+164	has Predicate
+has Predicate	collapsed
+164	collapsed
+164	info Source
+info Source	Porter s statement
+164	Porter s statement
+310	subject
+subject	Watson
+310	Watson
+310	has Predicate
+has Predicate	Arrived
+310	Arrived
+310	info Source
+info Source	Holmes s statement
+310	Holmes s statement
+310	source
+source	Holmes and Watson have arrived
+310	Holmes and Watson have arrived
+310	subject
+subject	Holmes
+310	Holmes
+310	type
+type	Statement
+310	Statement
+455	has Predicate
+has Predicate	met
+455	met
+455	type
+type	Statement
+455	Statement
+455	whom
+whom	Holmes
+455	Holmes
+455	source
+source	Standale met Holmes
+455	Standale met Holmes
+455	subject
+subject	Standale
+455	Standale
+455	info Source
+info Source	Standale s remarks
+455	Standale s remarks
+146	type
+type	Situation
+146	Situation
+146	has Predicate
+has Predicate	Felt
+146	Felt
+146	subject
+subject	Watson
+146	Watson
+146	source
+source	Watson felt the sight from the window
+146	Watson felt the sight from the window
+146	what
+what	Gaze
+146	Gaze
+146	from
+from	From the window
+146	From the window
+258	source
+source	The lamp is on the table
+258	The lamp is on the table
+258	on
+on	table
+258	table
+258	has Predicate
+has Predicate	is there
+258	is there
+258	type
+type	Situation
+258	Situation
+258	subject
+subject	lamp
+258	lamp
+258	info Source
+info Source	Watson s guess
+258	Watson s guess
+238	type
+type	Statement
+238	Statement
+238	what
+what	name
+238	name
+238	has Predicate
+has Predicate	I heard it
+238	I heard it
+238	subject
+subject	Holmes
+238	Holmes
+238	from
+from	Roundhay
+238	Roundhay
+238	info Source
+info Source	Holmes s statement
+238	Holmes s statement
+238	source
+source	I heard my name from Roundhay
+238	I heard my name from Roundhay
+452	type
+type	Situation
+452	Situation
+452	what
+what	453
+452	453
+452	has Predicate
+has Predicate	thought
+452	thought
+452	source
+source	Standale thought that
+452	Standale thought that
+452	subject
+subject	Standale
+452	Standale
+218	subject
+subject	Standale
+218	Standale
+218	info Source
+info Source	Standale s remarks
+218	Standale s remarks
+218	type
+type	Statement
+218	Statement
+218	source
+source	Standale stayed many times in the Trigemnis family
+218	Standale stayed many times in the Trigemnis family
+218	has Predicate
+has Predicate	stayed
+218	stayed
+218	where
+where	Trigenis House
+218	Trigenis House
+218	how
+how	Many times
+218	Many times
+061	subject
+subject	Mortimer
+061	Mortimer
+061	where
+where	To the pastoral hall
+061	To the pastoral hall
+061	type
+type	Statement
+061	Statement
+061	has Predicate
+has Predicate	Came
+061	Came
+061	source
+source	Mortimer came to the pastor to explain
+061	Mortimer came to the pastor to explain
+061	why
+why	For explanation
+061	For explanation
+061	info Source
+info Source	Roundhay
+061	Roundhay
+294	subject
+subject	Holmes
+294	Holmes
+294	what
+what	295
+294	295
+294	source
+source	Holmes asked for
+294	Holmes asked for
+294	what
+what	296
+294	296
+294	what
+what	297
+294	297
+294	type
+type	Situation
+294	Situation
+294	has Predicate
+has Predicate	Begged
+294	Begged
+147	type
+type	Situation
+147	Situation
+147	has Predicate
+has Predicate	there were
+147	there were
+147	source
+source	The window had a face of fear
+147	The window had a face of fear
+147	where
+where	In the window
+147	In the window
+147	subject
+subject	Face of fear
+147	Face of fear
+386	source
+source	Standale couldn't sleep in the cottage
+386	Standale couldn't sleep in the cottage
+386	subject
+subject	Standale
+386	Standale
+386	type
+type	Statement
+386	Statement
+386	has Predicate
+has Predicate	I could not sleep
+386	I could not sleep
+386	info Source
+info Source	Holmes s statement
+386	Holmes s statement
+386	where
+where	Cottage
+386	Cottage
+123	has Predicate
+has Predicate	I did not have
+123	I did not have
+123	subject
+subject	something
+123	something
+123	info Source
+info Source	Mortimer s statement
+123	Mortimer s statement
+123	source
+source	Something did not have an unpleasant sign
+123	Something did not have an unpleasant sign
+123	what
+what	Disgusting sign
+123	Disgusting sign
+123	type
+type	Statement
+123	Statement
+032	type
+type	Statement
+032	Statement
+032	subject
+subject	Mortimer
+032	Mortimer
+032	subject
+subject	Doctor Richard
+032	Doctor Richard
+032	info Source
+info Source	Roundhay
+032	Roundhay
+032	has Predicate
+has Predicate	Headed
+032	Headed
+032	to
+to	Toridnik Wasa
+032	Toridnik Wasa
+032	source
+source	Mortimer and Dr Richard headed for Toridanic Wasa
+032	Mortimer and Dr Richard headed for Toridanic Wasa
+387	type
+type	Statement
+387	Statement
+387	source
+source	Standale made a plan
+387	Standale made a plan
+387	info Source
+info Source	Holmes s statement
+387	Holmes s statement
+387	subject
+subject	Standale
+387	Standale
+387	what
+what	plan
+387	plan
+387	has Predicate
+has Predicate	Kneaded
+387	Kneaded
+182	type
+type	Situation
+182	Situation
+182	has Predicate
+has Predicate	It was scattered
+182	It was scattered
+182	source
+source	Cards were scattered on the table
+182	Cards were scattered on the table
+182	on
+on	table
+182	table
+182	subject
+subject	card
+182	card
+247	has Predicate
+has Predicate	I borrowed
+247	I borrowed
+247	source
+source	Mortimer had rented two rooms in the pastoral building
+247	Mortimer had rented two rooms in the pastoral building
+247	type
+type	Situation
+247	Situation
+247	what
+what	Two rooms in the pastoral hall
+247	Two rooms in the pastoral hall
+247	subject
+subject	Mortimer
+247	Mortimer
+070	has Predicate
+has Predicate	I was excited
+070	I was excited
+070	info Source
+info Source	Watson s guess
+070	Watson s guess
+070	type
+type	Situation
+070	Situation
+070	how
+how	From Roundhay
+070	From Roundhay
+070	source
+source	Mortimer was more excited than Roundhay
+070	Mortimer was more excited than Roundhay
+070	subject
+subject	Mortimer
+070	Mortimer
+276	source
+source	Holmes entered the living room through the window
+276	Holmes entered the living room through the window
+276	to
+to	Living room
+276	Living room
+276	has Predicate
+has Predicate	Has entered
+276	Has entered
+276	from
+from	window
+276	window
+276	subject
+subject	Holmes
+276	Holmes
+276	then_
+then_	277
+276	277
+276	type
+type	Situation
+276	Situation
+table	label
+label	table
+table	table
+table	type
+type	Object
+table	Object
+419	why
+why	For the laws of the United Kingdom
+419	For the laws of the United Kingdom
+419	has Predicate
+has Predicate	I can not divorce
+419	I can not divorce
+419	subject
+subject	Standale
+419	Standale
+419	type
+type	Statement
+419	Statement
+419	info Source
+info Source	Standale s remarks
+419	Standale s remarks
+419	source
+source	Standale can not divorce because of English law
+419	Standale can not divorce because of English law
+336	what
+what	Burnt powder
+336	Burnt powder
+336	has Predicate
+has Predicate	It was attached
+336	It was attached
+336	source
+source	The rim was covered with unburned powder
+336	The rim was covered with unburned powder
+336	info Source
+info Source	Holmes s statement
+336	Holmes s statement
+336	subject
+subject	edge
+336	edge
+336	type
+type	Statement
+336	Statement
+398	to
+to	Bedroom window
+398	Bedroom window
+398	subject
+subject	Standale
+398	Standale
+398	source
+source	Standale threw into the bedroom window
+398	Standale threw into the bedroom window
+398	has Predicate
+has Predicate	Threw
+398	Threw
+398	info Source
+info Source	Holmes s statement
+398	Holmes s statement
+398	type
+type	Statement
+398	Statement
+476	subject
+subject	Mortimer
+476	Mortimer
+476	type
+type	Statement
+476	Statement
+476	source
+source	Mortimer saw a revolver
+476	Mortimer saw a revolver
+476	what
+what	revolver
+476	revolver
+476	has Predicate
+has Predicate	saw
+476	saw
+476	info Source
+info Source	Standale s remarks
+476	Standale s remarks
+046	subject
+subject	Owen
+046	Owen
+046	has Predicate
+has Predicate	Was
+046	Was
+046	info Source
+info Source	Roundhay
+046	Roundhay
+046	source
+source	Owen and George and Brenda had a look of fear
+046	Owen and George and Brenda had a look of fear
+046	subject
+subject	George
+046	George
+046	subject
+subject	Brenda
+046	Brenda
+046	what
+what	Expression of fear
+046	Expression of fear
+046	type
+type	Statement
+046	Statement
+282	source
+source	Holmes found a new stimulus
+282	Holmes found a new stimulus
+282	has Predicate
+has Predicate	I found it
+282	I found it
+282	subject
+subject	Holmes
+282	Holmes
+282	type
+type	Situation
+282	Situation
+282	info Source
+info Source	Watson s guess
+282	Watson s guess
+282	what
+what	New stimulus
+282	New stimulus
+210	subject
+subject	Standale
+210	Standale
+210	source
+source	Standale was in a cottage in the Pordeux Bay
+210	Standale was in a cottage in the Pordeux Bay
+210	type
+type	Situation
+210	Situation
+210	where
+where	Poldew Bay Cottage
+210	Poldew Bay Cottage
+210	has Predicate
+has Predicate	It was
+210	It was
+267	type
+type	Situation
+267	Situation
+267	has Predicate
+has Predicate	It was twisted
+267	It was twisted
+267	source
+source	Mortimer's finger was twisted
+267	Mortimer's finger was twisted
+267	subject
+subject	Mortimer s finger
+267	Mortimer s finger
+463	subject
+subject	Mortimer
+463	Mortimer
+463	source
+source	Mortimer blew off Owen and George's reasoning at the foot of the demon
+463	Mortimer blew off Owen and George's reasoning at the foot of the demon
+463	info Source
+info Source	Standale s remarks
+463	Standale s remarks
+463	how
+how	Magic foot
+463	Magic foot
+463	has Predicate
+has Predicate	Blown away
+463	Blown away
+463	type
+type	Statement
+463	Statement
+463	what
+what	Owen and George s Reason
+463	Owen and George s Reason
+314	type
+type	Situation
+314	Situation
+314	when
+when	After the night has come a long time
+314	After the night has come a long time
+314	what
+what	fire
+314	fire
+160	subject
+subject	George
+160	George
+160	info Source
+info Source	Porter s statement
+160	Porter s statement
+160	has Predicate
+has Predicate	had
+160	had
+160	what
+what	Good mental condition
+160	Good mental condition
+160	subject
+subject	Owen
+160	Owen
+160	subject
+subject	Brenda
+160	Brenda
+160	type
+type	Statement
+160	Statement
+160	source
+source	Owen and George and Brenda had a good mental state
+160	Owen and George and Brenda had a good mental state
+099	type
+type	Situation
+099	Situation
+099	what
+what	business
+099	business
+099	has Predicate
+has Predicate	Sold
+099	Sold
+214	where
+where	Cornwall
+214	Cornwall
+214	has Predicate
+has Predicate	Is isolated
+214	Is isolated
+214	subject
+subject	Standale
+214	Standale
+214	source
+source	Standale is isolated in Cornwall
+214	Standale is isolated in Cornwall
+214	type
+type	Situation
+214	Situation
+417	has Predicate
+has Predicate	had
+417	had
+417	info Source
+info Source	Standale s remarks
+417	Standale s remarks
+417	subject
+subject	Standale
+417	Standale
+417	what
+what	Former wife
+417	Former wife
+417	type
+type	Statement
+417	Statement
+417	source
+source	Standale had a former wife
+417	Standale had a former wife
+066	subject
+subject	Mortimer
+066	Mortimer
+066	source
+source	Mortimer was silent
+066	Mortimer was silent
+066	has Predicate
+has Predicate	I was silent
+066	I was silent
+066	type
+type	Situation
+066	Situation
+475	source
+source	Standale is the executioner
+475	Standale is the executioner
+475	info Source
+info Source	Standale s remarks
+475	Standale s remarks
+475	type
+type	Statement
+475	Statement
+475	subject
+subject	Standale
+475	Standale
+475	has Property
+has Property	It is an executioner
+475	It is an executioner
+480	info Source
+info Source	Standale s remarks
+480	Standale s remarks
+480	if
+if	481
+480	481
+480	source
+source	Standale shoots Mortimer
+480	Standale shoots Mortimer
+480	type
+type	Statement
+480	Statement
+480	has Predicate
+has Predicate	shoot
+480	shoot
+480	subject
+subject	Standale
+480	Standale
+480	what
+what	Mortimer
+480	Mortimer
+134	info Source
+info Source	Mortimer s statement
+134	Mortimer s statement
+134	has Predicate
+has Predicate	Not violent
+134	Not violent
+134	source
+source	Brenda is not violent
+134	Brenda is not violent
+134	subject
+subject	Brenda
+134	Brenda
+134	type
+type	Statement
+134	Statement
+candle	type
+type	Object
+candle	Object
+candle	label
+label	candle
+candle	candle
+293	has Predicate
+has Predicate	Paid
+293	Paid
+293	to
+to	envelope
+293	envelope
+293	subject
+subject	Holmes
+293	Holmes
+293	type
+type	Situation
+293	Situation
+293	source
+source	Holmes put in an envelope
+293	Holmes put in an envelope
+356	info Source
+info Source	Mortimer s statement
+356	Mortimer s statement
+356	where
+where	garden
+356	garden
+356	source
+source	Something was moving in the garden
+356	Something was moving in the garden
+356	subject
+subject	something
+356	something
+356	type
+type	Statement
+356	Statement
+356	has Predicate
+has Predicate	It was moving
+356	It was moving
+076	source
+source	After 10:15
+076	After 10:15
+076	type
+type	Statement
+076	Statement
+076	subject
+subject	Mortimer
+076	Mortimer
+076	when
+when	10 15 past
+076	10 15 past
+076	has Predicate
+has Predicate	Got up
+076	Got up
+076	then
+then	077
+076	077
+076	info Source
+info Source	Mortimer s statement
+076	Mortimer s statement
+457	subject
+subject	Another interpretation
+457	Another interpretation
+457	source
+source	But there was no other interpretation
+457	But there was no other interpretation
+457	info Source
+info Source	Standale s remarks
+457	Standale s remarks
+457	type
+type	Statement
+457	Statement
+457	has Predicate
+has Predicate	It was not
+457	It was not
+140	info Source
+info Source	Mortimer s statement
+140	Mortimer s statement
+140	type
+type	Statement
+140	Statement
+140	subject
+subject	Doctor Richard
+140	Doctor Richard
+140	source
+source	Dr Richard went fainting
+140	Dr Richard went fainting
+140	has Predicate
+has Predicate	I was fainting
+140	I was fainting
+154	has Predicate
+has Predicate	It was filled up
+154	It was filled up
+154	type
+type	Situation
+154	Situation
+154	what
+what	With flowers
+154	With flowers
+154	subject
+subject	Garden of Trigenis
+154	Garden of Trigenis
+154	source
+source	The Garden of the Trigenis was filled with flowers
+154	The Garden of the Trigenis was filled with flowers
+393	type
+type	Statement
+393	Statement
+393	to
+to	Pastor s Hall
+393	Pastor s Hall
+393	info Source
+info Source	Holmes s statement
+393	Holmes s statement
+393	source
+source	And then Standale went to the pastor
+393	And then Standale went to the pastor
+393	has Predicate
+has Predicate	Headed
+393	Headed
+393	subject
+subject	Standale
+393	Standale
+360	subject
+subject	Case 1
+360	Case 1
+360	when
+when	After his exit
+360	After his exit
+360	has Predicate
+has Predicate	Happened
+360	Happened
+360	type
+type	Statement
+360	Statement
+360	source
+source	Case 1 happened after his exit
+360	Case 1 happened after his exit
+360	info Source
+info Source	Holmes s statement
+360	Holmes s statement
+358	what
+what	Watson
+358	Watson
+358	info Source
+info Source	Mortimer s wish
+358	Mortimer s wish
+358	subject
+subject	Mortimer
+358	Mortimer
+358	what
+what	Holmes
+358	Holmes
+358	type
+type	Situation
+358	Situation
+358	source
+source	Mortimer misleads Holmes and Watson
+358	Mortimer misleads Holmes and Watson
+358	has Predicate
+has Predicate	Mislead
+358	Mislead
+224	info Source
+info Source	Standale s remarks
+224	Standale s remarks
+224	has Predicate
+has Predicate	heard
+224	heard
+224	source
+source	This morning
+224	This morning
+224	subject
+subject	Standale
+224	Standale
+224	type
+type	Statement
+224	Statement
+224	what
+what	news
+224	news
+224	when
+when	this morning
+224	this morning
+152	type
+type	Situation
+152	Situation
+152	source
+source	The Trigenis are comfortable
+152	The Trigenis are comfortable
+152	subject
+subject	Trigenis House
+152	Trigenis House
+152	has Predicate
+has Predicate	It is comfortable
+152	It is comfortable
+304	info Source
+info Source	Mortimer s statement
+304	Mortimer s statement
+304	type
+type	Statement
+304	Statement
+304	subject
+subject	Doctor Richard
+304	Doctor Richard
+304	has Predicate
+has Predicate	collapsed
+304	collapsed
+304	source
+source	Dr Richard fell
+304	Dr Richard fell
+304	when
+when	305
+304	305
+124	has Predicate
+has Predicate	Took a walk
+124	Took a walk
+124	when
+when	this morning
+124	this morning
+124	source
+source	Mortimer took a walk this morning
+124	Mortimer took a walk this morning
+124	info Source
+info Source	Mortimer s statement
+124	Mortimer s statement
+124	type
+type	Statement
+124	Statement
+124	subject
+subject	Mortimer
+124	Mortimer
+274	has Predicate
+has Predicate	Passed away
+274	Passed away
+274	when
+when	Early this morning
+274	Early this morning
+274	source
+source	Mortimer died early this morning
+274	Mortimer died early this morning
+274	type
+type	Situation
+274	Situation
+274	subject
+subject	Mortimer
+274	Mortimer
+148	what
+what	Thin smile
+148	Thin smile
+148	source
+source	The face had a faint smile
+148	The face had a faint smile
+148	subject
+subject	face
+148	face
+148	type
+type	Situation
+148	Situation
+148	has Predicate
+has Predicate	had
+148	had
+249	type
+type	Situation
+249	Situation
+249	subject
+subject	Above room
+249	Above room
+249	has Property
+has Property	It is a bedroom
+249	It is a bedroom
+249	source
+source	The room is a bedroom
+249	The room is a bedroom
+339	source
+source	And Watson had the smell of musk
+339	And Watson had the smell of musk
+339	what
+what	Scent of musk
+339	Scent of musk
+339	subject
+subject	Watson
+339	Watson
+339	has Predicate
+has Predicate	clean hit
+339	clean hit
+339	type
+type	Situation
+339	Situation
+226	info Source
+info Source	Standale s remarks
+226	Standale s remarks
+226	has Predicate
+has Predicate	sent
+226	sent
+226	whoｍ
+whoｍ	Standale
+226	Standale
+226	what
+what	telegram
+226	telegram
+226	source
+source	Roundhay telegraphed Standale
+226	Roundhay telegraphed Standale
+226	type
+type	Statement
+226	Statement
+226	subject
+subject	Roundhay
+226	Roundhay
+003	has Property
+has Property	Sociable
+003	Sociable
+003	type
+type	Situation
+003	Situation
+003	source
+source	Roundhay is sociable
+003	Roundhay is sociable
+003	subject
+subject	Roundhay
+003	Roundhay
+338	has Predicate
+has Predicate	placed
+338	placed
+338	on
+on	lamp
+338	lamp
+338	what
+what	Drug
+338	Drug
+338	source
+source	I put the drug on the lamp
+338	I put the drug on the lamp
+338	type
+type	Situation
+338	Situation
+338	then
+then	339
+338	339
+119	has Predicate
+has Predicate	Are
+119	Are
+119	subject
+subject	something
+119	something
+119	type
+type	Situation
+119	Situation
+119	where
+where	In the bush
+119	In the bush
+119	info Source
+info Source	George s guess
+119	George s guess
+119	source
+source	Something is in the bush
+119	Something is in the bush
+302	what
+what	Same air
+302	Same air
+302	type
+type	Statement
+302	Statement
+302	has Predicate
+has Predicate	Have
+302	Have
+302	info Source
+info Source	Holmes s statement
+302	Holmes s statement
+302	subject
+subject	Case 1 and Case 2 room
+302	Case 1 and Case 2 room
+302	source
+source	Cases 1 and 2 have the same air
+302	Cases 1 and 2 have the same air
+098	type
+type	Situation
+098	Situation
+098	subject
+subject	Tin miner
+098	Tin miner
+098	source
+source	Tin miners sold their business to a company
+098	Tin miners sold their business to a company
+098	info Source
+info Source	Mortimer s statement
+098	Mortimer s statement
+098	to
+to	To the company
+098	To the company
+098	type
+type	Statement
+098	Statement
+184	type
+type	Statement
+184	Statement
+184	therefore
+therefore	185
+184	185
+184	subject
+subject	Yesterday evening
+184	Yesterday evening
+184	has Predicate
+has Predicate	it was cold
+184	it was cold
+184	source
+source	It was cold yesterday night
+184	It was cold yesterday night
+184	info Source
+info Source	Mortimer s statement
+184	Mortimer s statement
+479	has Predicate
+has Predicate	Threatened
+479	Threatened
+479	info Source
+info Source	Standale s remarks
+479	Standale s remarks
+479	source
+source	Standale threatened as follows
+479	Standale threatened as follows
+479	type
+type	Statement
+479	Statement
+479	how
+how	480
+479	480
+479	subject
+subject	Standale
+479	Standale
+053	has Predicate
+has Predicate	I was not stolen
+053	I was not stolen
+053	subject
+subject	Owen
+053	Owen
+053	type
+type	Statement
+053	Statement
+053	info Source
+info Source	Roundhay
+053	Roundhay
+053	subject
+subject	George
+053	George
+053	source
+source	Owen
+053	Owen
+053	subject
+subject	Brenda
+053	Brenda
+053	what
+what	nothing
+053	nothing
+211	source
+source	Standale is a lion hunter
+211	Standale is a lion hunter
+211	has Property
+has Property	I am a lion hunter
+211	I am a lion hunter
+211	type
+type	Situation
+211	Situation
+211	subject
+subject	Standale
+211	Standale
+alone	type
+type	Object
+alone	Object
+alone	label
+label	alone
+alone	alone
+347	has Predicate
+has Predicate	I went to bed
+347	I went to bed
+347	source
+source	Holmes and Watson lay on the grass
+347	Holmes and Watson lay on the grass
+347	subject
+subject	Watson
+347	Watson
+347	where
+where	Grassland
+347	Grassland
+347	subject
+subject	Holmes
+347	Holmes
+347	type
+type	Situation
+347	Situation
+212	source
+source	Standale is an explorer
+212	Standale is an explorer
+212	type
+type	Situation
+212	Situation
+212	has Property
+has Property	I m an explorer
+212	I m an explorer
+212	subject
+subject	Standale
+212	Standale
+002	source
+source	Roundhay is a middle age man
+002	Roundhay is a middle age man
+002	has Property
+has Property	Middle-aged man
+002	Middle-aged man
+002	type
+type	Situation
+002	Situation
+002	subject
+subject	Roundhay
+002	Roundhay
+blind	label
+label	blind
+blind	blind
+blind	type
+type	Object
+blind	Object
+013	has Property
+has Property	abnormal
+013	abnormal
+013	info Source
+info Source	Roundhay
+013	Roundhay
+013	subject
+subject	Incident
+013	Incident
+013	source
+source	The incident is unusual
+013	The incident is unusual
+013	type
+type	Statement
+013	Statement
+007	subject
+subject	Mortimer
+007	Mortimer
+007	therefore
+therefore	008
+007	008
+007	what
+what	Room
+007	Room
+007	type
+type	Situation
+007	Situation
+007	source
+source	Mortimer had rented a chaplain's room from Roundhay
+007	Mortimer had rented a chaplain's room from Roundhay
+007	has Predicate
+has Predicate	rent
+007	rent
+007	from
+from	Roundhay
+007	Roundhay
+176	subject
+subject	Watson
+176	Watson
+176	source
+source	Holmes
+176	Holmes
+176	subject
+subject	Holmes
+176	Holmes
+176	has Predicate
+has Predicate	saw
+176	saw
+176	subject
+subject	Mortimer
+176	Mortimer
+176	what
+what	cadaver
+176	cadaver
+176	type
+type	Situation
+176	Situation
+328	info Source
+info Source	Holmes s statement
+328	Holmes s statement
+328	type
+type	Statement
+328	Statement
+328	subject
+subject	George
+328	George
+328	source
+source	Owen and George went crazy
+328	Owen and George went crazy
+328	subject
+subject	Owen
+328	Owen
+328	has Predicate
+has Predicate	gone crazy
+328	gone crazy
+368	info Source
+info Source	Holmes s statement
+368	Holmes s statement
+368	type
+type	Statement
+368	Statement
+368	has Predicate
+has Predicate	It may be suicide
+368	It may be suicide
+368	source
+source	Mortimer's cause of death may be suicide
+368	Mortimer's cause of death may be suicide
+368	subject
+subject	Mortimer s cause of death
+368	Mortimer s cause of death
+207	has Predicate
+has Predicate	I can not wake up
+207	I can not wake up
+207	type
+type	Situation
+207	Situation
+207	source
+source	Outsiders can not make an incident
+207	Outsiders can not make an incident
+207	subject
+subject	Outsider
+207	Outsider
+207	what
+what	Incident
+207	Incident
+468	source
+source	Failure is troubled
+468	Failure is troubled
+468	has Predicate
+has Predicate	Be troubled
+468	Be troubled
+468	type
+type	Statement
+468	Statement
+468	subject
+subject	Failure
+468	Failure
+468	info Source
+info Source	Standale s remarks
+468	Standale s remarks
+151	type
+type	Situation
+151	Situation
+151	has Predicate
+has Predicate	wide
+151	wide
+151	source
+source	The Turgenis family is large
+151	The Turgenis family is large
+151	subject
+subject	Trigenis House
+151	Trigenis House
+228	type
+type	Situation
+228	Situation
+228	subject
+subject	Holmes
+228	Holmes
+228	has Predicate
+has Predicate	Did not answer
+228	Did not answer
+228	source
+source	Holmes did not answer Standale
+228	Holmes did not answer Standale
+228	whom
+whom	Standale
+228	Standale
+091	type
+type	Statement
+091	Statement
+091	source
+source	Brenda put his neck on the chair's elbow
+091	Brenda put his neck on the chair's elbow
+091	subject
+subject	Brenda
+091	Brenda
+091	info Source
+info Source	Mortimer s statement
+091	Mortimer s statement
+091	has Predicate
+has Predicate	It was loaded
+091	It was loaded
+091	what
+what	neck
+091	neck
+091	on
+on	Chair elbow
+091	Chair elbow
+037	info Source
+info Source	Roundhay
+037	Roundhay
+037	subject
+subject	candle
+037	candle
+037	type
+type	Statement
+037	Statement
+037	has Predicate
+has Predicate	Burned out
+037	Burned out
+037	source
+source	The candle was burned out
+037	The candle was burned out
+222	source
+source	Standale was headed for Africa
+222	Standale was headed for Africa
+222	to
+to	Africa
+222	Africa
+222	subject
+subject	Standale
+222	Standale
+222	info Source
+info Source	Standale s remarks
+222	Standale s remarks
+222	type
+type	Statement
+222	Statement
+222	has Predicate
+has Predicate	I was heading
+222	I was heading
+359	what
+what	poison
+359	poison
+359	subject
+subject	Mortimer
+359	Mortimer
+359	info Source
+info Source	Holmes s statement
+359	Holmes s statement
+359	has Predicate
+has Predicate	Dumped
+359	Dumped
+359	source
+source	Mortimer dumped poison into the fireplace
+359	Mortimer dumped poison into the fireplace
+359	type
+type	Statement
+359	Statement
+359	to
+to	fireplace
+359	fireplace
+127	what
+what	Emergency message
+127	Emergency message
+127	source
+source	Porter sent an emergency message to Mortimer
+127	Porter sent an emergency message to Mortimer
+127	whom
+whom	Mortimer
+127	Mortimer
+127	subject
+subject	Porter
+127	Porter
+127	has Predicate
+has Predicate	I told you
+127	I told you
+127	info Source
+info Source	Doctor Richard s remark
+127	Doctor Richard s remark
+127	type
+type	Statement
+127	Statement
+008	from
+from	Mortimer
+008	Mortimer
+008	subject
+subject	Roundhay
+008	Roundhay
+008	source
+source	Therefore
+008	Therefore
+008	has Predicate
+has Predicate	get
+008	get
+008	what
+what	money
+008	money
+008	type
+type	Situation
+008	Situation
+213	where
+where	Cornwall
+213	Cornwall
+213	what
+what	Get along
+213	Get along
+213	whom
+whom	neighbor
+213	neighbor
+213	source
+source	In Cornwall
+213	In Cornwall
+213	has Predicate
+has Predicate	do not have
+213	do not have
+213	type
+type	Situation
+213	Situation
+213	subject
+subject	Standale
+213	Standale
+060	source
+source	Roundhaye did not go to Trigenis
+060	Roundhaye did not go to Trigenis
+060	info Source
+info Source	Roundhay
+060	Roundhay
+060	subject
+subject	Roundhay
+060	Roundhay
+060	has Predicate
+has Predicate	I did not go
+060	I did not go
+060	type
+type	Statement
+060	Statement
+060	where
+where	Trigenis House
+060	Trigenis House
+230	when
+when	Within 5 minutes
+230	Within 5 minutes
+230	has Predicate
+has Predicate	pursued
+230	pursued
+230	what
+what	Standale
+230	Standale
+230	source
+source	Within 5 minutes
+230	Within 5 minutes
+230	type
+type	Situation
+230	Situation
+230	subject
+subject	Holmes
+230	Holmes
+255	if_
+if_	256
+255	256
+255	type
+type	Situation
+255	Situation
+255	source
+source	The air was getting worse
+255	The air was getting worse
+255	has Predicate
+has Predicate	It was getting worse
+255	It was getting worse
+255	info Source
+info Source	Watson s guess
+255	Watson s guess
+255	subject
+subject	air
+255	air
+envelope	type
+type	Object
+envelope	Object
+envelope	label
+label	envelope
+envelope	envelope
+280	has Predicate
+has Predicate	Opened
+280	Opened
+280	when
+when	last
+280	last
+280	what
+what	window
+280	window
+280	source
+source	Finally
+280	Finally
+280	type
+type	Situation
+280	Situation
+280	subject
+subject	Holmes
+280	Holmes
+191	type
+type	Situation
+191	Situation
+191	info Source
+info Source	Holmes guess
+191	Holmes guess
+191	source
+source	Holmes and Watson do not
+191	Holmes and Watson do not
+191	subject
+subject	Watson
+191	Watson
+191	has Predicate
+has Predicate	I will not admit it
+191	I will not admit it
+191	what
+what	192
+191	192
+191	subject
+subject	Holmes
+191	Holmes
+204	to
+to	Pastor s Hall
+204	Pastor s Hall
+204	type
+type	Situation
+204	Situation
+204	source
+source	Mortimer has walked to the pastor
+204	Mortimer has walked to the pastor
+204	subject
+subject	Mortimer
+204	Mortimer
+204	has Predicate
+has Predicate	Walked
+204	Walked
+lawn	label
+label	lawn
+lawn	lawn
+lawn	type
+type	Object
+lawn	Object
+187	info Source
+info Source	Mortimer s statement
+187	Mortimer s statement
+187	source
+source	Later
+187	Later
+187	type
+type	Statement
+187	Statement
+187	has Predicate
+has Predicate	Arrived
+187	Arrived
+187	subject
+subject	Mortimer
+187	Mortimer
+270	what
+what	Neat clothes
+270	Neat clothes
+270	has Predicate
+has Predicate	I wore
+270	I wore
+270	subject
+subject	Mortimer
+270	Mortimer
+270	source
+source	Mortimer was wearing proper clothes
+270	Mortimer was wearing proper clothes
+270	type
+type	Situation
+270	Situation
+423	type
+type	Statement
+423	Statement
+423	has Predicate
+has Predicate	I trusted
+423	I trusted
+423	info Source
+info Source	Standale s remarks
+423	Standale s remarks
+423	source
+source	Standale and Brenda trusted Roundhay
+423	Standale and Brenda trusted Roundhay
+423	subject
+subject	Standale
+423	Standale
+423	subject
+subject	Brenda
+423	Brenda
+423	what
+what	Roundhay
+423	Roundhay
+edge	type
+type	Object
+edge	Object
+edge	label
+label	edge
+edge	edge
+288	has Property
+has Property	It was ready-made
+288	It was ready-made
+288	type
+type	Situation
+288	Situation
+288	source
+source	The lamp was ready-made
+288	The lamp was ready-made
+288	subject
+subject	lamp
+288	lamp
+433	type
+type	Statement
+433	Statement
+433	info Source
+info Source	Standale s remarks
+433	Standale s remarks
+433	has Predicate
+has Predicate	Flower
+433	Flower
+433	subject
+subject	A sample of the magic foot
+433	A sample of the magic foot
+433	source
+source	In Europe
+433	In Europe
+433	where
+where	Europe
+433	Europe
+clothes	label
+label	clothes
+clothes	clothes
+clothes	type
+type	Object
+clothes	Object
+001	subject
+subject	Holmes
+001	Holmes
+001	subject
+subject	Watson
+001	Watson
+001	has Predicate
+has Predicate	stay
+001	stay
+001	where
+where	a cottage in the Pordeux Bay
+001	a cottage in the Pordeux Bay
+001	source
+source	In the early spring of 1897
+001	In the early spring of 1897
+001	when
+when	Early spring of 1897
+001	Early spring of 1897
+001	time
+time	1897-03-01 07:00:00
+001	1897-03-01 07:00:00
+001	type
+type	Situation
+001	Situation
+001	when
+when	1897-03-01T07
+001	1897-03-01T07
+385	has Predicate
+has Predicate	Returned
+385	Returned
+385	type
+type	Statement
+385	Statement
+385	info Source
+info Source	Holmes s statement
+385	Holmes s statement
+385	subject
+subject	Standale
+385	Standale
+385	to
+to	Cottage
+385	Cottage
+385	source
+source	Standale returned to the cottage
+385	Standale returned to the cottage
+434	info Source
+info Source	Standale s remarks
+434	Standale s remarks
+434	source
+source	No demonstrative sample has been published in pharmacy or toxicology literature
+434	No demonstrative sample has been published in pharmacy or toxicology literature
+434	has Predicate
+has Predicate	Not out
+434	Not out
+434	type
+type	Statement
+434	Statement
+434	what
+what	In the pharmacy and toxicology literature
+434	In the pharmacy and toxicology literature
+434	subject
+subject	A sample of the magic foot
+434	A sample of the magic foot
+011	what
+what	013
+011	013
+011	subject
+subject	Roundhay
+011	Roundhay
+011	type
+type	Situation
+011	Situation
+011	what
+what	014
+011	014
+011	what
+what	012
+011	012
+011	source
+source	Roundhay said the following
+011	Roundhay said the following
+011	has Predicate
+has Predicate	say
+011	say
+smoke	label
+label	smoke
+smoke	smoke
+smoke	type
+type	Object
+smoke	Object
+306	source
+source	The porter fell
+306	The porter fell
+306	type
+type	Statement
+306	Statement
+306	when
+when	307
+306	307
+306	subject
+subject	Porter
+306	Porter
+306	has Predicate
+has Predicate	collapsed
+306	collapsed
+306	info Source
+info Source	Holmes s statement
+306	Holmes s statement
+269	why
+why	Attack of fear
+269	Attack of fear
+269	source
+source	Mortimer died of a bout of fear
+269	Mortimer died of a bout of fear
+269	has Predicate
+has Predicate	Died
+269	Died
+269	type
+type	Situation
+269	Situation
+269	subject
+subject	Mortimer
+269	Mortimer
+201	has Predicate
+has Predicate	I did not draw
+201	I did not draw
+201	subject
+subject	Owen
+201	Owen
+201	what
+what	Chair
+201	Chair
+201	source
+source	Owen
+201	Owen
+201	subject
+subject	Brenda
+201	Brenda
+201	subject
+subject	George
+201	George
+201	type
+type	Situation
+201	Situation
+062	info Source
+info Source	Roundhay
+062	Roundhay
+062	why
+why	To consult
+062	To consult
+062	has Predicate
+has Predicate	Came
+062	Came
+062	subject
+subject	Roundhay
+062	Roundhay
+062	type
+type	Statement
+062	Statement
+062	source
+source	Roundhaye came to consult Holmes
+062	Roundhaye came to consult Holmes
+062	whom
+whom	Holmes
+062	Holmes
+273	has Predicate
+has Predicate	had
+273	had
+273	what
+what	Traces of people
+273	Traces of people
+273	source
+source	Mortimer's bed had a sign of people
+273	Mortimer's bed had a sign of people
+273	what
+what	Mortimer Bed
+273	Mortimer Bed
+273	type
+type	Situation
+273	Situation
+486	source
+source	Five minutes later
+486	Five minutes later
+486	info Source
+info Source	Standale s remarks
+486	Standale s remarks
+486	subject
+subject	Mortimer
+486	Mortimer
+486	when
+when	Five minutes later
+486	Five minutes later
+486	has Predicate
+has Predicate	Died
+486	Died
+486	type
+type	Statement
+486	Statement
+073	source
+source	George said the following
+073	George said the following
+073	type
+type	Statement
+073	Statement
+073	subject
+subject	George
+073	George
+073	info Source
+info Source	Mortimer s statement
+073	Mortimer s statement
+073	has Predicate
+has Predicate	Said
+073	Said
+073	what
+what	074
+073	074
+window	label
+label	window
+window	window
+window	type
+type	Object
+window	Object
+415	source
+source	Therefore
+415	Therefore
+415	has Predicate
+has Predicate	Metaphorical
+415	Metaphorical
+415	type
+type	Statement
+415	Statement
+415	subject
+subject	Standale
+415	Standale
+415	info Source
+info Source	Standale s remarks
+415	Standale s remarks
+415	where
+where	Cornwall
+415	Cornwall
+192	info Source
+info Source	Holmes guess
+192	Holmes guess
+192	source
+source	The criminal is a demon
+192	The criminal is a demon
+192	has Property
+has Property	Be a demon
+192	Be a demon
+192	type
+type	Situation
+192	Situation
+192	subject
+subject	Criminal
+192	Criminal
+004	source
+source	Roundhay is friendly
+004	Roundhay is friendly
+004	type
+type	Situation
+004	Situation
+004	has Property
+has Property	friendly
+004	friendly
+004	subject
+subject	Roundhay
+004	Roundhay
+189	type
+type	Situation
+189	Situation
+189	has Predicate
+has Predicate	Silenced
+189	Silenced
+189	source
+source	Holmes was silent
+189	Holmes was silent
+189	subject
+subject	Holmes
+189	Holmes
+292	type
+type	Situation
+292	Situation
+292	subject
+subject	Holmes
+292	Holmes
+292	source
+source	Holmes dropped the ash on the exterior surface
+292	Holmes dropped the ash on the exterior surface
+292	has Predicate
+has Predicate	Dropped
+292	Dropped
+292	what
+what	Exterior ash
+292	Exterior ash
+442	type
+type	Statement
+442	Statement
+442	subject
+subject	Standale
+442	Standale
+442	what
+what	Nature of powder medicine
+442	Nature of powder medicine
+442	source
+source	And Standale taught Mortimer the nature of powder medicine
+442	And Standale taught Mortimer the nature of powder medicine
+442	has Predicate
+has Predicate	Taught
+442	Taught
+442	whom
+whom	Mortimer
+442	Mortimer
+442	info Source
+info Source	Standale s remarks
+442	Standale s remarks
+10_15_past	type
+type	AbstractTime
+10_15_past	AbstractTime
+10_15_past	label
+label	10:15 past
+10_15_past	10:15 past
+256	has Predicate
+has Predicate	Not open
+256	Not open
+256	subject
+subject	window
+256	window
+256	type
+type	Situation
+256	Situation
+256	source
+source	If the window is not open
+256	If the window is not open
+suffering	type
+type	Object
+suffering	Object
+suffering	label
+label	suffering
+suffering	suffering
+350	subject
+subject	Mortimer
+350	Mortimer
+350	source
+source	Mortimer is the perpetrator of Case 1
+350	Mortimer is the perpetrator of Case 1
+350	has Predicate
+has Predicate	Be the perpetrator of Case 1
+350	Be the perpetrator of Case 1
+350	info Source
+info Source	Holmes s statement
+350	Holmes s statement
+350	type
+type	Statement
+350	Statement
+128	type
+type	Statement
+128	Statement
+128	subject
+subject	Mortimer
+128	Mortimer
+128	info Source
+info Source	Mortimer s statement
+128	Mortimer s statement
+128	to
+to	Trigenis House
+128	Trigenis House
+128	has Predicate
+has Predicate	went
+128	went
+128	source
+source	Mortimer went to Trigenis
+128	Mortimer went to Trigenis
+266	subject
+subject	Mortimer s hands and feet
+266	Mortimer s hands and feet
+266	type
+type	Situation
+266	Situation
+266	has Predicate
+has Predicate	I was drawn
+266	I was drawn
+266	source
+source	Mortimer's limbs were pulling
+266	Mortimer's limbs were pulling
+223	subject
+subject	Standale
+223	Standale
+223	source
+source	Standale has arrived to Plymouth
+223	Standale has arrived to Plymouth
+223	type
+type	Statement
+223	Statement
+223	has Predicate
+has Predicate	arrived
+223	arrived
+223	to
+to	Plymouth
+223	Plymouth
+223	info Source
+info Source	Standale s remarks
+223	Standale s remarks
+revolver	type
+type	Object
+revolver	Object
+revolver	label
+label	revolver
+revolver	revolver
+372	source
+source	But the opposite ground exists
+372	But the opposite ground exists
+372	type
+type	Statement
+372	Statement
+372	info Source
+info Source	Holmes s statement
+372	Holmes s statement
+372	has Predicate
+has Predicate	Exist
+372	Exist
+372	subject
+subject	Opposite grounds
+372	Opposite grounds
+262	source
+source	Mortimer was sticking out the beard
+262	Mortimer was sticking out the beard
+262	type
+type	Situation
+262	Situation
+262	has Predicate
+has Predicate	It was sticking out
+262	It was sticking out
+262	subject
+subject	Mortimer
+262	Mortimer
+262	what
+what	Chin and eyebrow
+262	Chin and eyebrow
+149	subject
+subject	Mortimer
+149	Mortimer
+149	has Predicate
+has Predicate	Said
+149	Said
+149	source
+source	Mortimer said the following
+149	Mortimer said the following
+149	what
+what	150
+149	150
+149	type
+type	Situation
+149	Situation
+208	source
+source	Outsiders have no motive for the case
+208	Outsiders have no motive for the case
+208	subject
+subject	Outsider
+208	Outsider
+208	what
+what	Motive of the case
+208	Motive of the case
+208	type
+type	Situation
+208	Situation
+208	has Predicate
+has Predicate	do not have
+208	do not have
+055	subject
+subject	Roundhay
+055	Roundhay
+055	info Source
+info Source	Roundhay
+055	Roundhay
+055	what
+what	The reason for Brenda s death
+055	The reason for Brenda s death
+055	type
+type	Statement
+055	Statement
+055	has Predicate
+has Predicate	I do not understand
+055	I do not understand
+055	source
+source	Roundhay does not know the reason for Brenda's death
+055	Roundhay does not know the reason for Brenda's death
+040	has Predicate
+has Predicate	I was stiff
+040	I was stiff
+040	type
+type	Statement
+040	Statement
+040	source
+source	Brenda was stiff
+040	Brenda was stiff
+040	info Source
+info Source	Roundhay
+040	Roundhay
+040	subject
+subject	Brenda
+040	Brenda
+others	label
+label	others
+others	others
+others	type
+type	Object
+others	Object
+something	type
+type	Object
+something	Object
+something	label
+label	something
+something	something
+combustion	label
+label	combustion
+combustion	combustion
+combustion	type
+type	Object
+combustion	Object
+gate	label
+label	gate
+gate	gate
+gate	type
+type	Object
+gate	Object
+074	what
+what	Hoist
+074	Hoist
+074	source
+source	We do the hoist
+074	We do the hoist
+074	type
+type	Statement
+074	Statement
+074	has Predicate
+has Predicate	do
+074	do
+074	info Source
+info Source	George s statement
+074	George s statement
+074	subject
+subject	we
+074	we
+355	has Predicate
+has Predicate	Said
+355	Said
+355	type
+type	Situation
+355	Situation
+355	subject
+subject	Mortimer
+355	Mortimer
+355	what
+what	356
+355	356
+355	source
+source	Mortimer said the following
+355	Mortimer said the following
+346	type
+type	Situation
+346	Situation
+346	from
+from	room
+346	room
+346	has Predicate
+has Predicate	Came out
+346	Came out
+346	source
+source	Holmes and Watson went out of the room
+346	Holmes and Watson went out of the room
+346	subject
+subject	Holmes
+346	Holmes
+346	subject
+subject	Watson
+346	Watson
+card	type
+type	Object
+card	Object
+card	label
+label	card
+card	card
+cadaver	type
+type	Object
+cadaver	Object
+cadaver	label
+label	cadaver
+cadaver	cadaver
+nausea	type
+type	Object
+nausea	Object
+nausea	label
+label	nausea
+nausea	nausea
+429	subject
+subject	Standale
+429	Standale
+429	on
+on	table
+429	table
+429	has Predicate
+has Predicate	placed
+429	placed
+429	type
+type	Situation
+429	Situation
+429	what
+what	Paper package
+429	Paper package
+429	source
+source	Standale put a paper packet on the table
+429	Standale put a paper packet on the table
+343	subject
+subject	Watson
+343	Watson
+343	type
+type	Situation
+343	Situation
+343	has Predicate
+has Predicate	Confused
+343	Confused
+343	source
+source	Watson was confused
+343	Watson was confused
+2_weeks_ago	label
+label	2 weeks ago
+2_weeks_ago	2 weeks ago
+2_weeks_ago	type
+type	AbstractTime
+2_weeks_ago	AbstractTime
+truth	label
+label	truth
+truth	truth
+truth	type
+type	Object
+truth	Object
+last	type
+type	Object
+last	Object
+last	label
+label	last
+last	last
+136	has Predicate
+has Predicate	I was singing
+136	I was singing
+136	subject
+subject	George
+136	George
+136	type
+type	Statement
+136	Statement
+136	info Source
+info Source	Mortimer s statement
+136	Mortimer s statement
+136	what
+what	song
+136	song
+136	subject
+subject	Owen
+136	Owen
+136	source
+source	George and Owen were singing a song
+136	George and Owen were singing a song
+lamp	type
+type	Object
+lamp	Object
+lamp	label
+label	lamp
+lamp	lamp
+nothing	label
+label	nothing
+nothing	nothing
+nothing	type
+type	Object
+nothing	Object
+early_morning	type
+type	AbstractTime
+early_morning	AbstractTime
+early_morning	label
+label	early morning
+early_morning	early morning
+shock	type
+type	Object
+shock	Object
+shock	label
+label	shock
+shock	shock
+song	type
+type	Object
+song	Object
+song	label
+label	song
+song	song
+telegram	type
+type	Object
+telegram	Object
+telegram	label
+label	telegram
+telegram	telegram
+afternoon	type
+type	AbstractTime
+afternoon	AbstractTime
+afternoon	label
+label	afternoon
+afternoon	afternoon
+news	type
+type	Object
+news	Object
+news	label
+label	news
+news	news
+gravel	label
+label	gravel
+gravel	gravel
+gravel	type
+type	Object
+gravel	Object
+property	label
+label	property
+property	property
+property	type
+type	Object
+property	Object
+air	label
+label	air
+air	air
+air	type
+type	Object
+air	Object
+death	type
+type	Object
+death	Object
+death	label
+label	death
+death	death
+flame	label
+label	flame
+flame	flame
+flame	type
+type	Object
+flame	Object
+thing	label
+label	thing
+thing	thing
+thing	type
+type	Object
+thing	Object
+friendship	type
+type	Object
+friendship	Object
+friendship	label
+label	friendship
+friendship	friendship

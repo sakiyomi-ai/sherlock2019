@@ -1,0 +1,4 @@
+296,infoSource,Holmes  request,
+metadata,attributionName,SIG-SWO,
+295,infoSource,Holmes  request,
+metadata,license,https://creativecommons.org/licenses/by/4.0/,

@@ -1,0 +1,3 @@
+metadata,attributionName,SIG-SWO,
+metadata,license,https://creativecommons.org/licenses/by/4.0/,
+167,source,The Dancing dolls Y  is 'COME',

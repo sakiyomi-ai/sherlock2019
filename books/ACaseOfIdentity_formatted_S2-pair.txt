@@ -1,0 +1,11103 @@
+568	subject
+subject	Sutherland
+568	Sutherland
+568	what
+what	To the handwriting of Windy Bank
+568	To the handwriting of Windy Bank
+568	source
+source	Sutherland notices Windybank handwriting
+568	Sutherland notices Windybank handwriting
+568	has Predicate
+has Predicate	notice
+568	notice
+568	type
+type	Statement
+568	Statement
+568	info Source
+info Source	Holmes
+568	Holmes
+521	info Source
+info Source	Holmes
+521	Holmes
+521	has Property
+has Property	necessary
+521	necessary
+521	source
+source	Windy Bank needs:
+521	Windy Bank needs:
+521	type
+type	Statement
+521	Statement
+521	what
+what	522
+521	522
+521	subject
+subject	Windy bank
+521	Windy bank
+299	what
+what	302
+299	302
+299	type
+type	Situation
+299	Situation
+299	subject
+subject	Holmes
+299	Holmes
+299	source
+source	Holmes said the following
+299	Holmes said the following
+299	what
+what	300
+299	300
+299	what
+what	301
+299	301
+299	has Predicate
+has Predicate	say
+299	say
+299	what
+what	303
+299	303
+438	type
+type	Statement
+438	Statement
+438	what
+what	r
+438	r
+438	info Source
+info Source	Holmes
+438	Holmes
+438	has Predicate
+has Predicate	missing
+438	missing
+438	where
+where	Windy Bank Letter
+438	Windy Bank Letter
+438	source
+source	In the Windybank letter
+438	In the Windybank letter
+499	subject
+subject	Windy bank
+499	Windy bank
+499	what
+what	cheek brow
+499	cheek brow
+499	source
+source	Windy Bank wore a mustache
+499	Windy Bank wore a mustache
+499	info Source
+info Source	Holmes
+499	Holmes
+499	has Predicate
+has Predicate	wear
+499	wear
+499	type
+type	Statement
+499	Statement
+499	what
+what	Whistle cheek brow
+499	Whistle cheek brow
+006	type
+type	Situation
+006	Situation
+006	source
+source	Sutherland has red feathers
+006	Sutherland has red feathers
+006	what
+what	Red feather
+006	Red feather
+006	subject
+subject	Sutherland
+006	Sutherland
+006	has Predicate
+has Predicate	wear
+006	wear
+034	type
+type	Situation
+034	Situation
+034	has Predicate
+has Predicate	appear
+034	appear
+034	subject
+subject	Sutherland
+034	Sutherland
+034	source
+source	Sutherland appears
+034	Sutherland appears
+244	source
+source	Sutherland believes in Hozma
+244	Sutherland believes in Hozma
+244	has Predicate
+has Predicate	believe
+244	believe
+244	whom
+whom	Hozma
+244	Hozma
+244	info Source
+info Source	Sutherland
+244	Sutherland
+244	if
+if	247
+244	247
+244	subject
+subject	Sutherland
+244	Sutherland
+244	type
+type	Statement
+244	Statement
+469	what
+what	Windy bank amount
+469	Windy bank amount
+469	has Predicate
+has Predicate	have
+469	have
+469	source
+source	Windy Bank's forehead has cold sweat
+469	Windy Bank's forehead has cold sweat
+469	type
+type	Situation
+469	Situation
+469	what
+what	cold sweat
+469	cold sweat
+256	source
+source	Sutherland's mother got mad at Hozma's disappearance
+256	Sutherland's mother got mad at Hozma's disappearance
+256	has Predicate
+has Predicate	get Angry
+256	get Angry
+256	type
+type	Statement
+256	Statement
+256	info Source
+info Source	Sutherland
+256	Sutherland
+256	what
+what	Hozma s disappearance
+256	Hozma s disappearance
+256	subject
+subject	Sutherland s mother
+256	Sutherland s mother
+342	source
+source	Holmes said the following
+342	Holmes said the following
+342	what
+what	344
+342	344
+342	what
+what	345
+342	345
+342	has Predicate
+has Predicate	say
+342	say
+342	type
+type	Situation
+342	Situation
+342	subject
+subject	Holmes
+342	Holmes
+342	what
+what	343
+342	343
+342	what
+what	346
+342	346
+261	what
+what	265
+261	265
+261	subject
+subject	Sutherland
+261	Sutherland
+261	type
+type	Situation
+261	Situation
+261	has Predicate
+has Predicate	say
+261	say
+261	what
+what	262
+261	262
+261	what
+what	264
+261	264
+261	what
+what	263
+261	263
+261	source
+source	Sutherland said the following
+261	Sutherland said the following
+524	type
+type	Statement
+524	Statement
+524	when
+when	Forever
+524	Forever
+524	subject
+subject	Sutherland s heart
+524	Sutherland s heart
+524	has Predicate
+has Predicate	Engrave
+524	Engrave
+524	source
+source	Forever
+524	Forever
+524	what
+what	Windy bank
+524	Windy bank
+524	info Source
+info Source	Holmes
+524	Holmes
+304	what
+what	311
+304	311
+304	what
+what	306
+304	306
+304	what
+what	317
+304	317
+304	what
+what	313
+304	313
+304	what
+what	316
+304	316
+304	type
+type	Situation
+304	Situation
+304	what
+what	308
+304	308
+304	what
+what	309
+304	309
+304	source
+source	Watson said the following
+304	Watson said the following
+304	what
+what	312
+304	312
+304	what
+what	310
+304	310
+304	what
+what	307
+304	307
+304	what
+what	315
+304	315
+304	has Predicate
+has Predicate	say
+304	say
+304	what
+what	319
+304	319
+304	what
+what	318
+304	318
+304	what
+what	314
+304	314
+304	subject
+subject	Watson
+304	Watson
+304	what
+what	305
+304	305
+358	type
+type	Statement
+358	Statement
+358	has Predicate
+has Predicate	bad
+358	bad
+358	what
+what	The color of hozma
+358	The color of hozma
+358	source
+source	The color of hozma is bad
+358	The color of hozma is bad
+358	info Source
+info Source	Watson s remarks
+358	Watson s remarks
+480	source
+source	Windy Bank Wants Sutherland Gold
+480	Windy Bank Wants Sutherland Gold
+480	what
+what	Sutherland Gold
+480	Sutherland Gold
+480	subject
+subject	Windy bank
+480	Windy bank
+480	info Source
+info Source	Holmes
+480	Holmes
+480	has Predicate
+has Predicate	want
+480	want
+480	type
+type	Statement
+480	Statement
+271	what
+what	Hozma s personalities
+271	Hozma s personalities
+271	type
+type	Statement
+271	Statement
+271	source
+source	Holmes wants Hozma's personalities
+271	Holmes wants Hozma's personalities
+271	has Predicate
+has Predicate	want
+271	want
+271	subject
+subject	Holmes
+271	Holmes
+271	info Source
+info Source	Holmes
+271	Holmes
+213	what
+what	Less than
+213	Less than
+213	subject
+subject	Sutherland s mother
+213	Sutherland s mother
+213	info Source
+info Source	Sutherland
+213	Sutherland
+213	type
+type	Statement
+213	Statement
+213	subject
+subject	Hozma
+213	Hozma
+213	source
+source	Sutherland's mother and Hozma said
+213	Sutherland's mother and Hozma said
+213	has Predicate
+has Predicate	say
+213	say
+298	type
+type	Statement
+298	Statement
+298	has Predicate
+has Predicate	cannot Read
+298	cannot Read
+298	subject
+subject	Sutherland
+298	Sutherland
+298	subject
+subject	Watson
+298	Watson
+298	source
+source	Watson can not read Sutherland
+298	Watson can not read Sutherland
+298	info Source
+info Source	Watson s remarks
+298	Watson s remarks
+218	what
+what	letter
+218	letter
+218	has Predicate
+has Predicate	send
+218	send
+218	subject
+subject	Sutherland
+218	Sutherland
+218	to
+to	Windy bank
+218	Windy bank
+218	info Source
+info Source	Sutherland
+218	Sutherland
+218	type
+type	Statement
+218	Statement
+218	source
+source	Sutherland sent a letter to Windy Bank
+218	Sutherland sent a letter to Windy Bank
+308	on
+on	Sutherland coat
+308	Sutherland coat
+308	what
+what	Black beads
+308	Black beads
+308	has Predicate
+has Predicate	attached
+308	attached
+308	type
+type	Statement
+308	Statement
+308	info Source
+info Source	Watson s remarks
+308	Watson s remarks
+308	source
+source	Black beads were attached to the jacket of Sutherland
+308	Black beads were attached to the jacket of Sutherland
+530	has Predicate
+has Predicate	wish
+530	wish
+530	type
+type	Statement
+530	Statement
+530	what
+what	531
+530	531
+530	info Source
+info Source	Holmes
+530	Holmes
+530	subject
+subject	Windy bank
+530	Windy bank
+530	source
+source	Windy Bank wanted to
+530	Windy Bank wanted to
+447	source
+source	Hosma's letter is written in type
+447	Hosma's letter is written in type
+447	type
+type	Statement
+447	Statement
+447	what
+what	Hosma s letter
+447	Hosma s letter
+447	info Source
+info Source	Holmes
+447	Holmes
+447	has Predicate
+has Predicate	be Written
+447	be Written
+447	how
+how	typewriter
+447	typewriter
+337	info Source
+info Source	Holmes
+337	Holmes
+337	has Predicate
+has Predicate	have
+337	have
+337	type
+type	Statement
+337	Statement
+337	subject
+subject	Sutherland
+337	Sutherland
+337	source
+source	Sutherland has a trace of nose glasses
+337	Sutherland has a trace of nose glasses
+337	therefore
+therefore	339
+337	339
+337	what
+what	Trace of nose glasses
+337	Trace of nose glasses
+048	subject
+subject	Holmes
+048	Holmes
+048	what
+what	Sutherland
+048	Sutherland
+048	type
+type	Statement
+048	Statement
+048	info Source
+info Source	Sutherland
+048	Sutherland
+048	source
+source	Holmes already knows Sutherland
+048	Holmes already knows Sutherland
+048	has Predicate
+has Predicate	know
+048	know
+432	subject
+subject	Windy bank
+432	Windy bank
+432	type
+type	Situation
+432	Situation
+432	has Predicate
+has Predicate	rejoice
+432	rejoice
+432	what
+what	433
+432	433
+432	source
+source	Windy Bank was pleased with
+432	Windy Bank was pleased with
+500	type
+type	Statement
+500	Statement
+500	source
+source	Windy Bank whispered
+500	Windy Bank whispered
+500	subject
+subject	Windy bank
+500	Windy bank
+500	info Source
+info Source	Holmes
+500	Holmes
+500	has Predicate
+has Predicate	whisper
+500	whisper
+555	what
+what	Hunting whistle
+555	Hunting whistle
+555	subject
+subject	Watson
+555	Watson
+555	source
+source	Watson wants to try a hunting whistle
+555	Watson wants to try a hunting whistle
+555	type
+type	Statement
+555	Statement
+555	has Predicate
+has Predicate	want  To  Try
+555	want  To  Try
+555	info Source
+info Source	Watson
+555	Watson
+398	what
+what	footsteps
+398	footsteps
+398	source
+source	Footsteps echo in the corridor
+398	Footsteps echo in the corridor
+398	type
+type	Situation
+398	Situation
+398	has Predicate
+has Predicate	echo
+398	echo
+398	where
+where	Corridor
+398	Corridor
+565	source
+source	The signature was a type
+565	The signature was a type
+565	type
+type	Statement
+565	Statement
+565	has Predicate
+has Predicate	be Typeed
+565	be Typeed
+565	what
+what	signature
+565	signature
+565	info Source
+info Source	Holmes
+565	Holmes
+354	info Source
+info Source	Watson s remarks
+354	Watson s remarks
+354	what
+what	355
+354	355
+354	source
+source	Inquirer ad is written below
+354	Inquirer ad is written below
+354	what
+what	365
+354	365
+354	what
+what	359
+354	359
+354	what
+what	360
+354	360
+354	has Predicate
+has Predicate	be Written
+354	be Written
+354	what
+what	366
+354	366
+354	what
+what	362
+354	362
+354	what
+what	357
+354	357
+354	what
+what	358
+354	358
+354	what
+what	367
+354	367
+354	what
+what	361
+354	361
+354	type
+type	Statement
+354	Statement
+354	what
+what	Inquirer advertisement
+354	Inquirer advertisement
+354	what
+what	363
+354	363
+354	what
+what	364
+354	364
+354	what
+what	356
+354	356
+187	what
+what	247
+187	247
+187	what
+what	224
+187	224
+187	what
+what	228
+187	228
+187	what
+what	240
+187	240
+187	what
+what	190
+187	190
+187	what
+what	188
+187	188
+187	subject
+subject	Sutherland
+187	Sutherland
+187	what
+what	239
+187	239
+187	what
+what	221
+187	221
+187	what
+what	192
+187	192
+187	what
+what	201
+187	201
+187	what
+what	223
+187	223
+187	what
+what	227
+187	227
+187	what
+what	209
+187	209
+187	what
+what	232
+187	232
+187	what
+what	191
+187	191
+187	what
+what	198
+187	198
+187	what
+what	233
+187	233
+187	what
+what	204
+187	204
+187	what
+what	218
+187	218
+187	what
+what	236
+187	236
+187	what
+what	195
+187	195
+187	what
+what	205
+187	205
+187	what
+what	194
+187	194
+187	has Predicate
+has Predicate	say
+187	say
+187	what
+what	216
+187	216
+187	what
+what	207
+187	207
+187	what
+what	213
+187	213
+187	what
+what	199
+187	199
+187	what
+what	230
+187	230
+187	what
+what	231
+187	231
+187	what
+what	241
+187	241
+187	what
+what	206
+187	206
+187	what
+what	234
+187	234
+187	what
+what	245
+187	245
+187	what
+what	200
+187	200
+187	what
+what	208
+187	208
+187	what
+what	226
+187	226
+187	what
+what	217
+187	217
+187	what
+what	244
+187	244
+187	what
+what	235
+187	235
+187	what
+what	197
+187	197
+187	what
+what	189
+187	189
+187	type
+type	Situation
+187	Situation
+187	what
+what	212
+187	212
+187	what
+what	243
+187	243
+187	what
+what	220
+187	220
+187	what
+what	219
+187	219
+187	what
+what	222
+187	222
+187	what
+what	229
+187	229
+187	what
+what	214
+187	214
+187	what
+what	196
+187	196
+187	what
+what	246
+187	246
+187	what
+what	248
+187	248
+187	what
+what	242
+187	242
+187	what
+what	193
+187	193
+187	source
+source	Sutherland said the following
+187	Sutherland said the following
+187	what
+what	225
+187	225
+187	what
+what	215
+187	215
+272	info Source
+info Source	Holmes
+272	Holmes
+272	what
+what	Hosma s letter
+272	Hosma s letter
+272	source
+source	Holmes wants a letter from Hozma
+272	Holmes wants a letter from Hozma
+272	type
+type	Statement
+272	Statement
+272	subject
+subject	Holmes
+272	Holmes
+272	has Predicate
+has Predicate	want
+272	want
+399	source
+source	Holmes said the following
+399	Holmes said the following
+399	type
+type	Situation
+399	Situation
+399	has Predicate
+has Predicate	say
+399	say
+399	subject
+subject	Holmes
+399	Holmes
+399	what
+what	400
+399	400
+510	what
+what	511
+510	511
+510	has Predicate
+has Predicate	say
+510	say
+510	what
+what	531
+510	531
+510	what
+what	529
+510	529
+510	what
+what	530
+510	530
+510	type
+type	Situation
+510	Situation
+510	what
+what	533
+510	533
+510	what
+what	537
+510	537
+510	what
+what	524
+510	524
+510	what
+what	525
+510	525
+510	what
+what	528
+510	528
+510	subject
+subject	Holmes
+510	Holmes
+510	what
+what	538
+510	538
+510	what
+what	519
+510	519
+510	what
+what	516
+510	516
+510	what
+what	512
+510	512
+510	what
+what	520
+510	520
+510	what
+what	526
+510	526
+510	source
+source	Holmes said the following
+510	Holmes said the following
+510	what
+what	534
+510	534
+510	what
+what	523
+510	523
+510	what
+what	536
+510	536
+510	what
+what	527
+510	527
+510	what
+what	515
+510	515
+510	what
+what	522
+510	522
+510	what
+what	517
+510	517
+510	what
+what	535
+510	535
+510	what
+what	521
+510	521
+510	what
+what	518
+510	518
+510	what
+what	532
+510	532
+510	what
+what	514
+510	514
+460	type
+type	Situation
+460	Situation
+460	has Predicate
+has Predicate	say
+460	say
+460	subject
+subject	Holmes
+460	Holmes
+460	source
+source	Holmes said the following
+460	Holmes said the following
+460	what
+what	461
+460	461
+415	has Predicate
+has Predicate	worry
+415	worry
+415	type
+type	Statement
+415	Statement
+415	info Source
+info Source	Windybank s remarks
+415	Windybank s remarks
+415	subject
+subject	Windy bank
+415	Windy bank
+415	what
+what	Late
+415	Late
+415	source
+source	Windy Bank worried about being late
+415	Windy Bank worried about being late
+014	what
+what	bell
+014	bell
+014	source
+source	Holmes hears a call bell
+014	Holmes hears a call bell
+014	has Predicate
+has Predicate	listen
+014	listen
+014	type
+type	Situation
+014	Situation
+014	subject
+subject	Holmes
+014	Holmes
+062	if
+if	060
+062	060
+062	what
+what	Holmes
+062	Holmes
+062	what
+what	Earning
+062	Earning
+062	info Source
+info Source	Sutherland
+062	Sutherland
+062	subject
+subject	Sutherland
+062	Sutherland
+062	source
+source	Sutherland hands over to Holmes
+062	Sutherland hands over to Holmes
+062	has Predicate
+has Predicate	hand Over
+062	hand Over
+062	type
+type	Statement
+062	Statement
+017	has Predicate
+has Predicate	feel Restless
+017	feel Restless
+017	where
+where	pavement
+017	pavement
+017	subject
+subject	Woman
+017	Woman
+017	type
+type	Statement
+017	Statement
+017	info Source
+info Source	Holmes
+017	Holmes
+017	source
+source	Women are thrilled at the pavement
+017	Women are thrilled at the pavement
+473	type
+type	Statement
+473	Statement
+473	subject
+subject	Holmes
+473	Holmes
+473	info Source
+info Source	Holmes
+473	Holmes
+473	source
+source	Holmes is sorry
+473	Holmes is sorry
+473	has Property
+has Property	pity
+473	pity
+578	type
+type	Statement
+578	Statement
+578	what
+what	Holmes
+578	Holmes
+578	has Predicate
+has Predicate	not Believe
+578	not Believe
+578	subject
+subject	Sutherland
+578	Sutherland
+578	info Source
+info Source	Holmes
+578	Holmes
+578	source
+source	Sutherland does not believe in Holmes
+578	Sutherland does not believe in Holmes
+215	info Source
+info Source	Sutherland
+215	Sutherland
+215	whom
+whom	Windy bank
+215	Windy bank
+215	type
+type	Statement
+215	Statement
+215	source
+source	Sutherland's mother corresponds to Windy Bank
+215	Sutherland's mother corresponds to Windy Bank
+215	subject
+subject	Sutherland s mother
+215	Sutherland s mother
+215	has Predicate
+has Predicate	correspond
+215	correspond
+444	what
+what	450
+444	450
+444	source
+source	Holmes said the following
+444	Holmes said the following
+444	what
+what	449
+444	449
+444	what
+what	447
+444	447
+444	what
+what	445
+444	445
+444	what
+what	448
+444	448
+444	has Predicate
+has Predicate	say
+444	say
+444	type
+type	Situation
+444	Situation
+444	subject
+subject	Holmes
+444	Holmes
+444	what
+what	446
+444	446
+391	when
+when	1891-09-02T18
+391	1891-09-02T18
+391	when
+when	Six O clock
+391	Six O clock
+391	has Predicate
+has Predicate	go
+391	go
+391	subject
+subject	Watson
+391	Watson
+391	time
+time	1891-09-02 18:00:00
+391	1891-09-02 18:00:00
+391	source
+source	At six o'clock
+391	At six o'clock
+391	to
+to	Holmes
+391	Holmes
+391	type
+type	Situation
+391	Situation
+472	what
+what	489
+472	489
+472	what
+what	484
+472	484
+472	what
+what	481
+472	481
+472	what
+what	483
+472	483
+472	what
+what	487
+472	487
+472	what
+what	499
+472	499
+472	what
+what	482
+472	482
+472	what
+what	502
+472	502
+472	what
+what	476
+472	476
+472	what
+what	492
+472	492
+472	subject
+subject	Holmes
+472	Holmes
+472	what
+what	497
+472	497
+472	what
+what	473
+472	473
+472	what
+what	504
+472	504
+472	what
+what	505
+472	505
+472	what
+what	479
+472	479
+472	what
+what	485
+472	485
+472	what
+what	503
+472	503
+472	what
+what	498
+472	498
+472	what
+what	491
+472	491
+472	source
+source	Holmes said the following
+472	Holmes said the following
+472	what
+what	495
+472	495
+472	what
+what	475
+472	475
+472	what
+what	480
+472	480
+472	what
+what	496
+472	496
+472	has Predicate
+has Predicate	say
+472	say
+472	what
+what	478
+472	478
+472	what
+what	500
+472	500
+472	what
+what	501
+472	501
+472	what
+what	494
+472	494
+472	type
+type	Situation
+472	Situation
+472	what
+what	490
+472	490
+472	what
+what	477
+472	477
+472	what
+what	506
+472	506
+472	what
+what	507
+472	507
+472	what
+what	493
+472	493
+472	what
+what	474
+472	474
+472	what
+what	488
+472	488
+472	what
+what	486
+472	486
+532	source
+source	Sutherland does not love others
+532	Sutherland does not love others
+532	has Predicate
+has Predicate	not Love
+532	not Love
+532	subject
+subject	Sutherland
+532	Sutherland
+532	what
+what	others
+532	others
+532	info Source
+info Source	Holmes
+532	Holmes
+532	type
+type	Statement
+532	Statement
+532	because
+because	534
+532	534
+561	what
+what	Deep motive
+561	Deep motive
+561	source
+source	The behavior of Hozma had a deep motive
+561	The behavior of Hozma had a deep motive
+561	type
+type	Statement
+561	Statement
+561	info Source
+info Source	Holmes
+561	Holmes
+561	what
+what	Hozma s behavior
+561	Hozma s behavior
+561	has Predicate
+has Predicate	have
+561	have
+015	what
+what	019
+015	019
+015	subject
+subject	Holmes
+015	Holmes
+015	what
+what	021
+015	021
+015	what
+what	018
+015	018
+015	has Predicate
+has Predicate	say
+015	say
+015	what
+what	016
+015	016
+015	what
+what	017
+015	017
+015	what
+what	020
+015	020
+015	source
+source	Holmes said the following
+015	Holmes said the following
+015	type
+type	Situation
+015	Situation
+558	what
+what	569
+558	569
+558	source
+source	Holmes said the following
+558	Holmes said the following
+558	what
+what	564
+558	564
+558	what
+what	568
+558	568
+558	what
+what	575
+558	575
+558	what
+what	580
+558	580
+558	what
+what	576
+558	576
+558	what
+what	579
+558	579
+558	has Predicate
+has Predicate	say
+558	say
+558	what
+what	573
+558	573
+558	what
+what	562
+558	562
+558	what
+what	566
+558	566
+558	what
+what	571
+558	571
+558	what
+what	559
+558	559
+558	what
+what	570
+558	570
+558	what
+what	565
+558	565
+558	what
+what	572
+558	572
+558	what
+what	561
+558	561
+558	what
+what	563
+558	563
+558	subject
+subject	Holmes
+558	Holmes
+558	what
+what	574
+558	574
+558	type
+type	Situation
+558	Situation
+558	what
+what	578
+558	578
+558	what
+what	567
+558	567
+558	what
+what	560
+558	560
+084	type
+type	Thought
+084	Thought
+084	what
+what	Sutherland s story
+084	Sutherland s story
+084	subject
+subject	Holmes
+084	Holmes
+084	has Property
+has Property	irritated
+084	irritated
+084	source
+source	Holmes is annoyed with Sutherland's story
+084	Holmes is annoyed with Sutherland's story
+084	info Source
+info Source	Watson s thoughts
+084	Watson s thoughts
+025	source
+source	Woman tears off the string of the doorbell
+025	Woman tears off the string of the doorbell
+025	subject
+subject	Woman
+025	Woman
+025	type
+type	Statement
+025	Statement
+025	info Source
+info Source	Holmes
+025	Holmes
+025	has Predicate
+has Predicate	tear Off
+025	tear Off
+025	what
+what	String of call bell
+025	String of call bell
+580	what
+what	truth
+580	truth
+580	whom
+whom	Sutherland
+580	Sutherland
+580	info Source
+info Source	Holmes
+580	Holmes
+580	type
+type	Statement
+580	Statement
+580	subject
+subject	Holmes
+580	Holmes
+580	has Predicate
+has Predicate	tell
+580	tell
+580	source
+source	Holmes tell the truth to Sutherland
+580	Holmes tell the truth to Sutherland
+494	subject
+subject	Sutherland
+494	Sutherland
+494	info Source
+info Source	Holmes
+494	Holmes
+494	source
+source	Sutherland claims rights
+494	Sutherland claims rights
+494	type
+type	Statement
+494	Statement
+494	has Predicate
+has Predicate	insist
+494	insist
+494	what
+what	right
+494	right
+421	type
+type	Statement
+421	Statement
+421	what
+what	Family calamity
+421	Family calamity
+421	source
+source	Sutherland talks about family misfortune
+421	Sutherland talks about family misfortune
+421	has Predicate
+has Predicate	speak
+421	speak
+421	subject
+subject	Sutherland
+421	Sutherland
+421	info Source
+info Source	Windybank s remarks
+421	Windybank s remarks
+243	what
+what	244
+243	244
+243	when
+when	Last Friday
+243	Last Friday
+243	when
+when	1891-08-28
+243	1891-08-28
+243	subject
+subject	Hozma
+243	Hozma
+243	type
+type	Statement
+243	Statement
+243	info Source
+info Source	Sutherland
+243	Sutherland
+243	time
+time	1891-08-28 00:00:00
+243	1891-08-28 00:00:00
+243	whom
+whom	Sutherland
+243	Sutherland
+243	source
+source	Last Friday morning
+243	Last Friday morning
+243	has Predicate
+has Predicate	say
+243	say
+121	source
+source	Sutherland goes to Sunday school event
+121	Sutherland goes to Sunday school event
+121	to
+to	Sunday school events
+121	Sunday school events
+121	has Predicate
+has Predicate	go
+121	go
+121	type
+type	Statement
+121	Statement
+121	info Source
+info Source	Sutherland
+121	Sutherland
+121	subject
+subject	Sutherland
+121	Sutherland
+302	info Source
+info Source	Holmes
+302	Holmes
+302	what
+what	Thumb nail
+302	Thumb nail
+302	source
+source	Thumb nail talks
+302	Thumb nail talks
+302	has Predicate
+has Predicate	talk
+302	talk
+302	type
+type	Statement
+302	Statement
+016	info Source
+info Source	Holmes
+016	Holmes
+016	has Predicate
+has Predicate	exist
+016	exist
+016	source
+source	The present movement has been before
+016	The present movement has been before
+016	when
+when	Before
+016	Before
+016	what
+what	The present swing
+016	The present swing
+016	type
+type	Statement
+016	Statement
+361	type
+type	Statement
+361	Statement
+361	subject
+subject	Hozma
+361	Hozma
+361	what
+what	Black cheek and mouth
+361	Black cheek and mouth
+361	info Source
+info Source	Watson s remarks
+361	Watson s remarks
+361	has Predicate
+has Predicate	have
+361	have
+361	source
+source	Hozma has a black cheek and mouth
+361	Hozma has a black cheek and mouth
+407	has Predicate
+has Predicate	sharp
+407	sharp
+407	type
+type	Situation
+407	Situation
+407	what
+what	Windy bank gray eyes
+407	Windy bank gray eyes
+407	source
+source	Windybank's gray eyes are sharp
+407	Windybank's gray eyes are sharp
+277	what
+what	278
+277	278
+277	source
+source	Sutherland said the following
+277	Sutherland said the following
+277	type
+type	Situation
+277	Situation
+277	subject
+subject	Sutherland
+277	Sutherland
+277	has Predicate
+has Predicate	say
+277	say
+277	what
+what	281
+277	281
+277	what
+what	280
+277	280
+277	what
+what	279
+277	279
+543	type
+type	Statement
+543	Statement
+543	source
+source	Windy Bank has not beat the law
+543	Windy Bank has not beat the law
+543	subject
+subject	Windy bank
+543	Windy bank
+543	info Source
+info Source	Windybank s remarks
+543	Windybank s remarks
+543	has Predicate
+has Predicate	not Brake
+543	not Brake
+543	what
+what	law
+543	law
+032	subject
+subject	Boy serving
+032	Boy serving
+032	type
+type	Situation
+032	Situation
+032	source
+source	A boy in charge of service came in
+032	A boy in charge of service came in
+032	has Predicate
+has Predicate	come In
+032	come In
+026	info Source
+info Source	Holmes
+026	Holmes
+026	type
+type	Statement
+026	Statement
+026	subject
+subject	Interpretation
+026	Interpretation
+026	has Property
+has Property	romance
+026	romance
+026	source
+source	Interpretation is color love Saya
+026	Interpretation is color love Saya
+093	what
+what	yield
+093	yield
+093	has Predicate
+has Predicate	get
+093	get
+093	subject
+subject	Sutherland
+093	Sutherland
+093	type
+type	Statement
+093	Statement
+093	info Source
+info Source	Sutherland
+093	Sutherland
+093	source
+source	Sutherland gives yield
+093	Sutherland gives yield
+327	source
+source	Watson pays attention to details
+327	Watson pays attention to details
+327	type
+type	Statement
+327	Statement
+327	subject
+subject	Watson
+327	Watson
+327	info Source
+info Source	Holmes
+327	Holmes
+327	has Predicate
+has Predicate	focus
+327	focus
+327	how
+how	In detail
+327	In detail
+551	type
+type	Situation
+551	Situation
+551	what
+what	553
+551	553
+551	what
+what	552
+551	552
+551	source
+source	Holmes said the following
+551	Holmes said the following
+551	has Predicate
+has Predicate	say
+551	say
+551	subject
+subject	Holmes
+551	Holmes
+382	source
+source	The above is not important
+382	The above is not important
+382	info Source
+info Source	Holmes
+382	Holmes
+382	what
+what	378
+382	378
+382	type
+type	Statement
+382	Statement
+382	has Predicate
+has Predicate	not Important
+382	not Important
+559	what
+what	sin
+559	sin
+559	has Predicate
+has Predicate	repeat
+559	repeat
+559	type
+type	Statement
+559	Statement
+559	info Source
+info Source	Holmes
+559	Holmes
+559	subject
+subject	Windy bank
+559	Windy bank
+559	source
+source	Windy Bank Overlaps Sin
+559	Windy Bank Overlaps Sin
+315	subject
+subject	Sutherland
+315	Sutherland
+315	source
+source	Sutherland was hanging a small round gold earring
+315	Sutherland was hanging a small round gold earring
+315	has Predicate
+has Predicate	hanging
+315	hanging
+315	info Source
+info Source	Watson s remarks
+315	Watson s remarks
+315	what
+what	Small round gold earring
+315	Small round gold earring
+315	type
+type	Statement
+315	Statement
+554	subject
+subject	Watson
+554	Watson
+554	source
+source	Watson said the following
+554	Watson said the following
+554	what
+what	555
+554	555
+554	has Predicate
+has Predicate	say
+554	say
+554	type
+type	Situation
+554	Situation
+285	what
+what	286
+285	286
+285	type
+type	Situation
+285	Situation
+285	source
+source	Sutherland said the following
+285	Sutherland said the following
+285	what
+what	287
+285	287
+285	subject
+subject	Sutherland
+285	Sutherland
+285	has Predicate
+has Predicate	say
+285	say
+241	info Source
+info Source	Sutherland
+241	Sutherland
+241	has Predicate
+has Predicate	not Know
+241	not Know
+241	source
+source	Sutherland does not know where Hozma is
+241	Sutherland does not know where Hozma is
+241	what
+what	Whereabouts of Hozma
+241	Whereabouts of Hozma
+241	type
+type	Statement
+241	Statement
+241	subject
+subject	Sutherland
+241	Sutherland
+cold_sweat	label
+label	cold sweat
+cold_sweat	cold sweat
+cold_sweat	type
+type	PhysicalObject
+cold_sweat	PhysicalObject
+259	subject
+subject	Windy bank
+259	Windy bank
+259	what
+what	260
+259	260
+259	type
+type	Situation
+259	Situation
+259	has Predicate
+has Predicate	say
+259	say
+259	source
+source	Windy Bank said
+259	Windy Bank said
+572	source
+source	Holmes was aware of the features of the type
+572	Holmes was aware of the features of the type
+572	has Predicate
+has Predicate	know
+572	know
+572	subject
+subject	Holmes
+572	Holmes
+572	info Source
+info Source	Holmes
+572	Holmes
+572	what
+what	characteristics of the type
+572	characteristics of the type
+572	type
+type	Statement
+572	Statement
+414	what
+what	417
+414	417
+414	what
+what	423
+414	423
+414	what
+what	416
+414	416
+414	what
+what	418
+414	418
+414	what
+what	425
+414	425
+414	has Predicate
+has Predicate	say
+414	say
+414	source
+source	Windy Bank said
+414	Windy Bank said
+414	what
+what	424
+414	424
+414	what
+what	422
+414	422
+414	type
+type	Situation
+414	Situation
+414	subject
+subject	Windy bank
+414	Windy bank
+414	what
+what	415
+414	415
+414	what
+what	419
+414	419
+414	what
+what	420
+414	420
+414	what
+what	421
+414	421
+131	what
+what	Purple plush
+131	Purple plush
+131	type
+type	Statement
+131	Statement
+131	subject
+subject	Sutherland
+131	Sutherland
+131	has Predicate
+has Predicate	wear
+131	wear
+131	source
+source	Sutherland wore purple plush
+131	Sutherland wore purple plush
+131	info Source
+info Source	Sutherland
+131	Sutherland
+machine	type
+type	PhysicalObject
+machine	PhysicalObject
+machine	label
+label	machine
+machine	machine
+279	subject
+subject	Sutherland
+279	Sutherland
+279	type
+type	Statement
+279	Statement
+279	info Source
+info Source	Sutherland
+279	Sutherland
+279	has Predicate
+has Predicate	not Know
+279	not Know
+279	what
+what	Hozma s Address
+279	Hozma s Address
+279	source
+source	Sutherland does not know Hozma's address
+279	Sutherland does not know Hozma's address
+205	source
+source	Hozma gave the Bible to Sutherland
+205	Hozma gave the Bible to Sutherland
+205	subject
+subject	Hozma
+205	Hozma
+205	has Predicate
+has Predicate	hold
+205	hold
+205	whom
+whom	Sutherland
+205	Sutherland
+205	type
+type	Statement
+205	Statement
+205	what
+what	Bible
+205	Bible
+205	info Source
+info Source	Sutherland
+205	Sutherland
+497	type
+type	Statement
+497	Statement
+497	subject
+subject	Windy bank
+497	Windy bank
+497	source
+source	Windy Bank disguises
+497	Windy Bank disguises
+497	info Source
+info Source	Holmes
+497	Holmes
+497	has Predicate
+has Predicate	disguise
+497	disguise
+224	where
+where	Saint St Savior Church
+224	Saint St Savior Church
+224	subject
+subject	wedding
+224	wedding
+224	then
+then	226
+224	226
+224	has Predicate
+has Predicate	do
+224	do
+224	info Source
+info Source	Sutherland
+224	Sutherland
+224	type
+type	Statement
+224	Statement
+224	source
+source	Weddings will take place at St Savior Church
+224	Weddings will take place at St Savior Church
+262	what
+what	My property
+262	My property
+262	has Predicate
+has Predicate	have
+262	have
+262	info Source
+info Source	Sutherland
+262	Sutherland
+262	subject
+subject	Hozma
+262	Hozma
+262	type
+type	Statement
+262	Statement
+262	source
+source	Hozma owns his property
+262	Hozma owns his property
+254	type
+type	Statement
+254	Statement
+254	has Predicate
+has Predicate	not Know
+254	not Know
+254	what
+what	The danger of hozma
+254	The danger of hozma
+254	source
+source	Sutherland does not know the danger of Hozma
+254	Sutherland does not know the danger of Hozma
+254	subject
+subject	Sutherland
+254	Sutherland
+254	info Source
+info Source	Sutherland
+254	Sutherland
+041	what
+what	042
+041	042
+041	type
+type	Situation
+041	Situation
+041	what
+what	043
+041	043
+041	source
+source	Sutherland said the following
+041	Sutherland said the following
+041	has Predicate
+has Predicate	say
+041	say
+041	subject
+subject	Sutherland
+041	Sutherland
+police	label
+label	police
+police	police
+police	type
+type	Person
+police	Person
+police	type
+type	PhysicalObject
+police	PhysicalObject
+249	source
+source	Sutherland thinks the following
+249	Sutherland thinks the following
+249	type
+type	Situation
+249	Situation
+249	what
+what	252
+249	252
+249	what
+what	250
+249	250
+249	subject
+subject	Sutherland
+249	Sutherland
+249	has Predicate
+has Predicate	think
+249	think
+281	has Property
+has Property	largest claret importer
+281	largest claret importer
+281	info Source
+info Source	Sutherland
+281	Sutherland
+281	where
+where	Fengchurch Street
+281	Fengchurch Street
+281	source
+source	West House &amp; Marbank is the largest claret importer on Fenchurch Street
+281	West House &amp; Marbank is the largest claret importer on Fenchurch Street
+281	subject
+subject	West House&Marbank
+281	West House&Marbank
+281	type
+type	Statement
+281	Statement
+353	what
+what	364
+353	364
+353	what
+what	366
+353	366
+353	what
+what	356
+353	356
+353	what
+what	361
+353	361
+353	has Predicate
+has Predicate	say
+353	say
+353	subject
+subject	Watson
+353	Watson
+353	what
+what	369
+353	369
+353	what
+what	362
+353	362
+353	what
+what	368
+353	368
+353	what
+what	363
+353	363
+353	what
+what	357
+353	357
+353	what
+what	370
+353	370
+353	what
+what	355
+353	355
+353	what
+what	365
+353	365
+353	type
+type	Situation
+353	Situation
+353	what
+what	354
+353	354
+353	source
+source	Watson said the following
+353	Watson said the following
+353	what
+what	358
+353	358
+353	what
+what	360
+353	360
+353	what
+what	359
+353	359
+353	what
+what	367
+353	367
+018	source
+source	The above is color love Saya
+018	The above is color love Saya
+018	what
+what	017
+018	017
+018	info Source
+info Source	Holmes
+018	Holmes
+018	has Predicate
+has Predicate	is Romance
+018	is Romance
+018	type
+type	Statement
+018	Statement
+294	has Predicate
+has Predicate	get Up
+294	get Up
+294	source
+source	The same incident happened in Andova in 1977
+294	The same incident happened in Andova in 1977
+294	when
+when	77 years
+294	77 years
+294	info Source
+info Source	Holmes
+294	Holmes
+294	type
+type	Statement
+294	Statement
+294	what
+what	Same incident
+294	Same incident
+294	where
+where	Andova
+294	Andova
+170	type
+type	Statement
+170	Statement
+170	source
+source	Hozma lives in the office of Redon Hall Street
+170	Hozma lives in the office of Redon Hall Street
+170	subject
+subject	Hozma
+170	Hozma
+170	info Source
+info Source	Sutherland
+170	Sutherland
+170	where
+where	Office of Redon Hall Street
+170	Office of Redon Hall Street
+170	has Predicate
+has Predicate	live
+170	live
+371	type
+type	Situation
+371	Situation
+371	what
+what	375
+371	375
+371	what
+what	372
+371	372
+371	subject
+subject	Holmes
+371	Holmes
+371	what
+what	373
+371	373
+371	what
+what	376
+371	376
+371	source
+source	Holmes said the following
+371	Holmes said the following
+371	has Predicate
+has Predicate	say
+371	say
+371	what
+what	374
+371	374
+400	source
+source	Windy Bank came
+400	Windy Bank came
+400	has Predicate
+has Predicate	come
+400	come
+400	info Source
+info Source	Holmes
+400	Holmes
+400	type
+type	Statement
+400	Statement
+400	subject
+subject	Windy bank
+400	Windy bank
+002	source
+source	Holmes stood between the windowed seams
+002	Holmes stood between the windowed seams
+002	has Predicate
+has Predicate	stand
+002	stand
+002	type
+type	Situation
+002	Situation
+456	type
+type	Situation
+456	Situation
+456	source
+source	Holmes Tells Windy Bank
+456	Holmes Tells Windy Bank
+456	subject
+subject	Holmes
+456	Holmes
+456	when
+when	458
+456	458
+456	whom
+whom	Windy bank
+456	Windy bank
+456	has Predicate
+has Predicate	inform
+456	inform
+311	info Source
+info Source	Watson s remarks
+311	Watson s remarks
+311	on
+on	With the neck of clothes
+311	With the neck of clothes
+311	source
+source	A purple plush is attached to the neck and sleeves of the garment
+311	A purple plush is attached to the neck and sleeves of the garment
+311	what
+what	Purple plush
+311	Purple plush
+311	has Predicate
+has Predicate	attached
+311	attached
+311	type
+type	Statement
+311	Statement
+311	on
+on	On the sleeve
+311	On the sleeve
+right	type
+type	PhysicalObject
+right	PhysicalObject
+right	label
+label	right
+right	right
+319	then
+then	321
+319	321
+319	has Property
+has Property	town girl
+319	town girl
+319	info Source
+info Source	Watson s remarks
+319	Watson s remarks
+319	type
+type	Statement
+319	Statement
+319	source
+source	Sutherland is a town girl
+319	Sutherland is a town girl
+319	subject
+subject	Sutherland
+319	Sutherland
+428	has Predicate
+has Predicate	say
+428	say
+428	what
+what	429
+428	429
+428	subject
+subject	Holmes
+428	Holmes
+428	type
+type	Situation
+428	Situation
+428	source
+source	Holmes said the following
+428	Holmes said the following
+less_than_60_pounds	type
+type	PhysicalObject
+less_than_60_pounds	PhysicalObject
+less_than_60_pounds	label
+label	less than 60 pounds
+less_than_60_pounds	less than 60 pounds
+148	whom
+whom	Hozma
+148	Hozma
+148	source
+source	Sutherland has met Hozma twice
+148	Sutherland has met Hozma twice
+148	when
+when	twice
+148	twice
+148	info Source
+info Source	Sutherland
+148	Sutherland
+148	subject
+subject	Sutherland
+148	Sutherland
+148	type
+type	Statement
+148	Statement
+148	has Predicate
+has Predicate	meeting
+148	meeting
+092	info Source
+info Source	Sutherland
+092	Sutherland
+092	has Property
+has Property	2500 pounds
+092	2500 pounds
+092	what
+what	Face value of heritage
+092	Face value of heritage
+092	type
+type	Statement
+092	Statement
+092	source
+source	The face value of the heritage is ｡・2500
+092	The face value of the heritage is ｡・2500
+119	subject
+subject	Sutherland s mother
+119	Sutherland s mother
+119	type
+type	Statement
+119	Statement
+119	source
+source	Sutherland and Sutherland's mother go out
+119	Sutherland and Sutherland's mother go out
+119	subject
+subject	Sutherland
+119	Sutherland
+119	info Source
+info Source	Sutherland
+119	Sutherland
+119	has Predicate
+has Predicate	go Out
+119	go Out
+clothes	type
+type	PhysicalObject
+clothes	PhysicalObject
+clothes	label
+label	clothes
+clothes	clothes
+the_words	label
+label	the words
+the_words	the words
+the_words	type
+type	Object
+the_words	Object
+022	what
+what	028
+022	028
+022	source
+source	Holmes found that
+022	Holmes found that
+022	what
+what	029
+022	029
+022	what
+what	026
+022	026
+022	what
+what	030
+022	030
+022	what
+what	025
+022	025
+022	what
+what	024
+022	024
+022	subject
+subject	Holmes
+022	Holmes
+022	what
+what	027
+022	027
+022	what
+what	023
+022	023
+022	has Predicate
+has Predicate	recognize
+022	recognize
+022	type
+type	Situation
+022	Situation
+001	has Predicate
+has Predicate	stand
+001	stand
+001	time
+time	1891-09-01 10:00:00
+001	1891-09-01 10:00:00
+001	subject
+subject	Holmes
+001	Holmes
+001	when
+when	1891-09-01T10
+001	1891-09-01T10
+001	source
+source	Holmes stood out of a chair
+001	Holmes stood out of a chair
+001	from
+from	Chair
+001	Chair
+001	type
+type	Situation
+001	Situation
+420	source
+source	Sutherland comes to Holmes
+420	Sutherland comes to Holmes
+420	subject
+subject	Sutherland
+420	Sutherland
+420	type
+type	Statement
+420	Statement
+420	has Predicate
+has Predicate	come
+420	come
+420	where
+where	Holmes
+420	Holmes
+420	info Source
+info Source	Windybank s remarks
+420	Windybank s remarks
+063	source
+source	Sutherland jumped out of the house
+063	Sutherland jumped out of the house
+063	info Source
+info Source	Sutherland
+063	Sutherland
+063	type
+type	Statement
+063	Statement
+063	has Predicate
+has Predicate	jump Out
+063	jump Out
+063	from
+from	Sutherland s House
+063	Sutherland s House
+063	subject
+subject	Sutherland
+063	Sutherland
+154	type
+type	Thought
+154	Thought
+154	source
+source	Women are happy at home
+154	Women are happy at home
+154	has Property
+has Property	happy
+154	happy
+154	subject
+subject	Woman
+154	Woman
+154	info Source
+info Source	Windy Bank s Thoughts
+154	Windy Bank s Thoughts
+154	where
+where	At home
+154	At home
+202	type
+type	Situation
+202	Situation
+202	what
+what	203
+202	203
+202	subject
+subject	Hozma
+202	Hozma
+202	has Predicate
+has Predicate	say
+202	say
+202	source
+source	Hozma said the following
+202	Hozma said the following
+Holmes	type
+type	Object
+Holmes	Object
+Holmes	label
+label	Holmes
+Holmes	Holmes
+316	source
+source	Sutherland is rich
+316	Sutherland is rich
+316	type
+type	Statement
+316	Statement
+316	has Property
+has Property	rich
+316	rich
+316	info Source
+info Source	Watson s remarks
+316	Watson s remarks
+316	subject
+subject	Sutherland
+316	Sutherland
+404	subject
+subject	Windy bank
+404	Windy bank
+404	has Predicate
+has Predicate	not Have
+404	not Have
+404	what
+what	Moth
+404	Moth
+404	type
+type	Situation
+404	Situation
+404	source
+source	Windy Bank has no bribe
+404	Windy Bank has no bribe
+142	has Predicate
+has Predicate	say
+142	say
+142	subject
+subject	Windy bank
+142	Windy bank
+142	what
+what	143
+142	143
+142	source
+source	Windy Bank said
+142	Windy Bank said
+142	type
+type	Situation
+142	Situation
+125	type
+type	Statement
+125	Statement
+125	source
+source	People in the ball have no value
+125	People in the ball have no value
+125	subject
+subject	Ball people
+125	Ball people
+125	info Source
+info Source	Windybank
+125	Windybank
+125	what
+what	value
+125	value
+125	has Predicate
+has Predicate	not Have
+125	not Have
+089	type
+type	Statement
+089	Statement
+089	has Predicate
+has Predicate	exist
+089	exist
+089	where
+where	Auckland
+089	Auckland
+089	subject
+subject	Ned
+089	Ned
+089	source
+source	Ned is in Auckland
+089	Ned is in Auckland
+089	info Source
+info Source	Sutherland
+089	Sutherland
+429	subject
+subject	Holmes
+429	Holmes
+429	has Predicate
+has Predicate	find
+429	find
+429	what
+what	Hozma
+429	Hozma
+429	info Source
+info Source	Holmes
+429	Holmes
+429	source
+source	Holmes find Hozma
+429	Holmes find Hozma
+429	type
+type	Statement
+429	Statement
+433	whom
+whom	Hozma
+433	Hozma
+433	subject
+subject	Holmes
+433	Holmes
+433	has Predicate
+has Predicate	find
+433	find
+433	type
+type	Situation
+433	Situation
+433	source
+source	Holmes find Hozma
+433	Holmes find Hozma
+064	has Property
+has Property	angree
+064	angree
+064	subject
+subject	Sutherland
+064	Sutherland
+064	type
+type	Statement
+064	Statement
+064	source
+source	Sutherland is angry
+064	Sutherland is angry
+064	info Source
+info Source	Sutherland
+064	Sutherland
+445	what
+what	446
+445	446
+445	info Source
+info Source	Holmes
+445	Holmes
+445	source
+source	Holmes is writing a dissertation (below)
+445	Holmes is writing a dissertation (below)
+445	what
+what	paper
+445	paper
+445	subject
+subject	Holmes
+445	Holmes
+445	has Predicate
+has Predicate	writing
+445	writing
+445	type
+type	Statement
+445	Statement
+396	type
+type	Statement
+396	Statement
+396	source
+source	The incident has no mystery
+396	The incident has no mystery
+396	info Source
+info Source	Holmes
+396	Holmes
+396	has Predicate
+has Predicate	not Have
+396	not Have
+396	what
+what	Incident
+396	Incident
+396	what
+what	Mystery
+396	Mystery
+462	subject
+subject	Windy bank
+462	Windy bank
+462	what
+what	Place
+462	Place
+462	type
+type	Situation
+462	Situation
+462	whom
+whom	Holmes
+462	Holmes
+462	has Predicate
+has Predicate	ask
+462	ask
+462	source
+source	Windy Bank asked Holmes where Hozma was
+462	Windy Bank asked Holmes where Hozma was
+284	has Predicate
+has Predicate	forget
+284	forget
+284	type
+type	Statement
+284	Statement
+284	info Source
+info Source	Holmes
+284	Holmes
+284	source
+source	Sutherland forgets Hozma's disappearance
+284	Sutherland forgets Hozma's disappearance
+284	subject
+subject	Sutherland
+284	Sutherland
+284	what
+what	Hozma lost
+284	Hozma lost
+060	source
+source	Holmes find Hozma
+060	Holmes find Hozma
+060	what
+what	Hozma
+060	Hozma
+060	has Predicate
+has Predicate	locate
+060	locate
+060	type
+type	Statement
+060	Statement
+060	subject
+subject	Holmes
+060	Holmes
+060	info Source
+info Source	Sutherland
+060	Sutherland
+1_year	type
+type	AbstractTime
+1_year	AbstractTime
+1_year	label
+label	1 year
+1_year	1 year
+077	subject
+subject	Windy bank
+077	Windy bank
+077	type
+type	Statement
+077	Statement
+077	what
+what	Sutherland s father s shop
+077	Sutherland s father s shop
+077	source
+source	Windy Bank sold her father's shop in Sutherland
+077	Windy Bank sold her father's shop in Sutherland
+077	info Source
+info Source	Sutherland
+077	Sutherland
+077	has Predicate
+has Predicate	sell
+077	sell
+454	source
+source	Windy Bank has no wasted time
+454	Windy Bank has no wasted time
+454	type
+type	Statement
+454	Statement
+454	info Source
+info Source	Windybank s remarks
+454	Windybank s remarks
+454	has Predicate
+has Predicate	not Have
+454	not Have
+454	what
+what	Time wasted
+454	Time wasted
+454	subject
+subject	Windy bank
+454	Windy bank
+314	info Source
+info Source	Watson s remarks
+314	Watson s remarks
+314	type
+type	Statement
+314	Statement
+314	source
+source	Watson has not seen Sutherland shoes
+314	Watson has not seen Sutherland shoes
+314	subject
+subject	Watson
+314	Watson
+314	has Predicate
+has Predicate	not See
+314	not See
+314	what
+what	Sutherland shoes
+314	Sutherland shoes
+185	source
+source	Holmes said the inscription of Zayedomo (below)
+185	Holmes said the inscription of Zayedomo (below)
+185	type
+type	Situation
+185	Situation
+185	what
+what	186
+185	186
+185	what
+what	Inscription
+185	Inscription
+185	subject
+subject	Holmes
+185	Holmes
+185	has Predicate
+has Predicate	say
+185	say
+203	whom
+whom	Sutherland
+203	Sutherland
+203	has Predicate
+has Predicate	want To Get Married
+203	want To Get Married
+203	when
+when	Before returning home from Sutherland s father
+203	Before returning home from Sutherland s father
+203	type
+type	Thought
+203	Thought
+203	subject
+subject	Hozma
+203	Hozma
+203	info Source
+info Source	Hozma s thoughts
+203	Hozma s thoughts
+203	source
+source	Hozma wants to marry Sutherland before his father's return home
+203	Hozma wants to marry Sutherland before his father's return home
+493	info Source
+info Source	Holmes
+493	Holmes
+493	type
+type	Statement
+493	Statement
+493	has Predicate
+has Predicate	rebel
+493	rebel
+493	source
+source	Sutherland defy Windybank
+493	Sutherland defy Windybank
+493	subject
+subject	Sutherland
+493	Sutherland
+493	whom
+whom	Windy bank
+493	Windy bank
+435	has Property
+has Property	different
+435	different
+435	type
+type	Statement
+435	Statement
+435	what
+what	Type letter
+435	Type letter
+435	how
+how	Like a handwriting
+435	Like a handwriting
+435	info Source
+info Source	Holmes
+435	Holmes
+435	source
+source	Type letters differ like handwriting
+435	Type letters differ like handwriting
+door	type
+type	PhysicalObject
+door	PhysicalObject
+door	label
+label	door
+door	door
+313	type
+type	Statement
+313	Statement
+313	has Predicate
+has Predicate	worn
+313	worn
+313	what
+what	Right glove thumb
+313	Right glove thumb
+313	source
+source	The thumb of the right glove is worn
+313	The thumb of the right glove is worn
+313	info Source
+info Source	Watson s remarks
+313	Watson s remarks
+537	info Source
+info Source	Holmes
+537	Holmes
+537	type
+type	Statement
+537	Statement
+537	has Predicate
+has Predicate	disappear
+537	disappear
+537	source
+source	Windy Bank has disappeared
+537	Windy Bank has disappeared
+537	subject
+subject	Windy bank
+537	Windy bank
+548	type
+type	Situation
+548	Situation
+548	source
+source	Holmes said the following
+548	Holmes said the following
+548	subject
+subject	Holmes
+548	Holmes
+548	what
+what	549
+548	549
+548	has Predicate
+has Predicate	say
+548	say
+409	source
+source	Windy Bank put a bowler hat on the side shelf
+409	Windy Bank put a bowler hat on the side shelf
+409	what
+what	Bowler hat
+409	Bowler hat
+409	has Predicate
+has Predicate	put
+409	put
+409	where
+where	Horizontal shelf
+409	Horizontal shelf
+409	type
+type	Situation
+409	Situation
+409	subject
+subject	Windy bank
+409	Windy bank
+054	info Source
+info Source	Sutherland
+054	Sutherland
+054	subject
+subject	Holmes
+054	Holmes
+054	what
+what	Esaridge s husband
+054	Esaridge s husband
+054	type
+type	Statement
+054	Statement
+054	how
+how	simply
+054	simply
+054	source
+source	Holmes easily found Heraridge's husband
+054	Holmes easily found Heraridge's husband
+054	has Predicate
+has Predicate	locate
+054	locate
+109	info Source
+info Source	Sutherland
+109	Sutherland
+109	type
+type	Statement
+109	Statement
+109	what
+what	Up to 20 sheets
+109	Up to 20 sheets
+109	subject
+subject	Sutherland
+109	Sutherland
+109	has Predicate
+has Predicate	process
+109	process
+109	source
+source	Sutherland processes up to 20 cards in a day
+109	Sutherland processes up to 20 cards in a day
+109	when
+when	1 day
+109	1 day
+397	type
+type	Statement
+397	Statement
+397	subject
+subject	Holmes
+397	Holmes
+397	source
+source	Holmes can not catch the villain
+397	Holmes can not catch the villain
+397	what
+what	Villain
+397	Villain
+397	has Predicate
+has Predicate	cannot Catch
+397	cannot Catch
+397	info Source
+info Source	Holmes
+397	Holmes
+377	source
+source	Watson said the following
+377	Watson said the following
+377	what
+what	380
+377	380
+377	type
+type	Situation
+377	Situation
+377	has Predicate
+has Predicate	say
+377	say
+377	what
+what	378
+377	378
+377	subject
+subject	Watson
+377	Watson
+087	has Property
+has Property	heritage of Ned
+087	heritage of Ned
+087	what
+what	Sutherland s income
+087	Sutherland s income
+087	source
+source	Sutherland's income is Ned's heritage
+087	Sutherland's income is Ned's heritage
+087	type
+type	Statement
+087	Statement
+087	info Source
+info Source	Sutherland
+087	Sutherland
+321	type
+type	Situation
+321	Situation
+321	source
+source	Holmes laughed
+321	Holmes laughed
+321	has Predicate
+has Predicate	laugh
+321	laugh
+321	subject
+subject	Holmes
+321	Holmes
+this_morning	label
+label	this morning
+this_morning	this morning
+this_morning	type
+type	AbstractTime
+this_morning	AbstractTime
+418	subject
+subject	Sutherland
+418	Sutherland
+418	type
+type	Statement
+418	Statement
+418	source
+source	Sutherland bothers Holmes
+418	Sutherland bothers Holmes
+418	what
+what	Holmes
+418	Holmes
+418	has Predicate
+has Predicate	bother
+418	bother
+418	info Source
+info Source	Windybank s remarks
+418	Windybank s remarks
+056	has Property
+has Property	Not rich
+056	Not rich
+056	type
+type	Statement
+056	Statement
+056	info Source
+info Source	Sutherland
+056	Sutherland
+056	subject
+subject	Sutherland
+056	Sutherland
+056	source
+source	Sutherland is not rich
+056	Sutherland is not rich
+097	has Predicate
+has Predicate	have
+097	have
+097	what
+what	Earning
+097	Earning
+097	type
+type	Thought
+097	Thought
+097	info Source
+info Source	Holmes
+097	Holmes
+097	subject
+subject	Sutherland
+097	Sutherland
+097	source
+source	Sutherland makes money
+097	Sutherland makes money
+317	source
+source	Sutherland is a leisure
+317	Sutherland is a leisure
+317	type
+type	Statement
+317	Statement
+317	info Source
+info Source	Watson s remarks
+317	Watson s remarks
+317	has Property
+has Property	easygoing
+317	easygoing
+317	subject
+subject	Sutherland
+317	Sutherland
+528	type
+type	Statement
+528	Statement
+528	source
+source	Windy Bank hints at
+528	Windy Bank hints at
+528	has Predicate
+has Predicate	imply
+528	imply
+528	what
+what	529
+528	529
+528	info Source
+info Source	Holmes
+528	Holmes
+528	subject
+subject	Windy bank
+528	Windy bank
+266	subject
+subject	Holmes
+266	Holmes
+266	has Predicate
+has Predicate	say
+266	say
+266	what
+what	268
+266	268
+266	what
+what	267
+266	267
+266	what
+what	271
+266	271
+266	what
+what	270
+266	270
+266	what
+what	269
+266	269
+266	what
+what	272
+266	272
+266	type
+type	Situation
+266	Situation
+266	source
+source	Holmes said the following
+266	Holmes said the following
+574	has Property
+has Property	typist
+574	typist
+574	info Source
+info Source	Holmes
+574	Holmes
+574	subject
+subject	reply
+574	reply
+574	type
+type	Statement
+574	Statement
+574	source
+source	The reply was a typing
+574	The reply was a typing
+007	has Predicate
+has Predicate	stand
+007	stand
+007	source
+source	Sutherland stands
+007	Sutherland stands
+007	type
+type	Situation
+007	Situation
+007	subject
+subject	Sutherland
+007	Sutherland
+090	what
+what	heritage
+090	heritage
+090	has Property
+has Property	New Zealand shares
+090	New Zealand shares
+090	info Source
+info Source	Sutherland
+090	Sutherland
+090	source
+source	Heritage is a New Zealand strain
+090	Heritage is a New Zealand strain
+090	type
+type	Statement
+090	Statement
+436	type
+type	Statement
+436	Statement
+436	where
+where	Windy Bank Letter
+436	Windy Bank Letter
+436	what
+what	e
+436	e
+436	info Source
+info Source	Holmes
+436	Holmes
+436	source
+source	In the Windybank letter
+436	In the Windybank letter
+436	and
+and	438
+436	438
+436	has Property
+has Property	blurred
+436	blurred
+488	therefore
+therefore	490
+488	490
+488	source
+source	Windy Bank loses 100 pounds in a year
+488	Windy Bank loses 100 pounds in a year
+488	has Predicate
+has Predicate	lose
+488	lose
+488	info Source
+info Source	Holmes
+488	Holmes
+488	subject
+subject	Windy bank
+488	Windy bank
+488	what
+what	100 pounds
+488	100 pounds
+488	type
+type	Statement
+488	Statement
+488	when
+when	1 year
+488	1 year
+446	type
+type	Statement
+446	Statement
+446	source
+source	Typewriters are involved in crime
+446	Typewriters are involved in crime
+446	what
+what	Crime and
+446	Crime and
+446	what
+what	Typewriter
+446	Typewriter
+446	has Property
+has Property	involved
+446	involved
+446	info Source
+info Source	Holmes
+446	Holmes
+466	source
+source	Windy Bank can not escape from Holmes
+466	Windy Bank can not escape from Holmes
+466	has Predicate
+has Predicate	cannot Escape
+466	cannot Escape
+466	subject
+subject	Windy bank
+466	Windy bank
+466	type
+type	Statement
+466	Statement
+466	info Source
+info Source	Holmes
+466	Holmes
+466	from
+from	Holmes
+466	Holmes
+387	info Source
+info Source	Holmes
+387	Holmes
+387	has Predicate
+has Predicate	send
+387	send
+387	to
+to	Windy bank
+387	Windy bank
+387	what
+what	Letter 2
+387	Letter 2
+387	source
+source	Letter 2 sent to Windy Bank
+387	Letter 2 sent to Windy Bank
+387	type
+type	Statement
+387	Statement
+236	what
+what	237
+236	237
+236	type
+type	Statement
+236	Statement
+236	has Predicate
+has Predicate	see
+236	see
+236	source
+source	He saw the following
+236	He saw the following
+236	subject
+subject	The god
+236	The god
+236	info Source
+info Source	Sutherland
+236	Sutherland
+150	info Source
+info Source	Sutherland
+150	Sutherland
+150	has Predicate
+has Predicate	cannot Come
+150	cannot Come
+150	source
+source	Hozma can not come home
+150	Hozma can not come home
+150	type
+type	Statement
+150	Statement
+150	where
+where	Sutherland House
+150	Sutherland House
+150	subject
+subject	Hozma
+150	Hozma
+197	type
+type	Statement
+197	Statement
+197	subject
+subject	Hozma
+197	Hozma
+197	has Predicate
+has Predicate	have
+197	have
+197	what
+what	Weak throat
+197	Weak throat
+197	info Source
+info Source	Sutherland
+197	Sutherland
+197	source
+source	Hozma has a weak throat
+197	Hozma has a weak throat
+509	subject
+subject	Windy bank
+509	Windy bank
+509	info Source
+info Source	Windybank s remarks
+509	Windybank s remarks
+509	what
+what	Sutherland s heart
+509	Sutherland s heart
+509	has Predicate
+has Predicate	rob
+509	rob
+509	type
+type	Statement
+509	Statement
+509	source
+source	Windy Bank robs Sutherland
+509	Windy Bank robs Sutherland
+547	source
+source	Holmes is closing the door
+547	Holmes is closing the door
+547	info Source
+info Source	Windybank s remarks
+547	Windybank s remarks
+547	what
+what	door
+547	door
+547	subject
+subject	Holmes
+547	Holmes
+547	type
+type	Statement
+547	Statement
+547	has Property
+has Property	closed
+547	closed
+278	info Source
+info Source	Sutherland
+278	Sutherland
+278	source
+source	Sutherland's address is Camberwell
+278	Sutherland's address is Camberwell
+278	has Property
+has Property	Camberwell
+278	Camberwell
+278	subject
+subject	Sutherland Address
+278	Sutherland Address
+278	type
+type	Statement
+278	Statement
+the_above	type
+type	PhysicalObject
+the_above	PhysicalObject
+the_above	label
+label	the above
+the_above	the above
+157	has Predicate
+has Predicate	want
+157	want
+157	info Source
+info Source	Sutherland
+157	Sutherland
+157	source
+source	Women want a home
+157	Women want a home
+157	type
+type	Statement
+157	Statement
+157	subject
+subject	Woman
+157	Woman
+157	what
+what	home
+157	home
+368	source
+source	Letters have no clues to Hozma
+368	Letters have no clues to Hozma
+368	what
+what	letter
+368	letter
+368	type
+type	Statement
+368	Statement
+368	info Source
+info Source	Watson s remarks
+368	Watson s remarks
+368	has Predicate
+has Predicate	not Have
+368	not Have
+368	what
+what	Hozma s clues
+368	Hozma s clues
+111	what
+what	face
+111	face
+111	has Predicate
+has Predicate	blush
+111	blush
+111	type
+type	Situation
+111	Situation
+111	source
+source	Sutherland blushes
+111	Sutherland blushes
+111	subject
+subject	Sutherland
+111	Sutherland
+539	has Predicate
+has Predicate	stand
+539	stand
+539	subject
+subject	Windy bank
+539	Windy bank
+539	type
+type	Situation
+539	Situation
+539	source
+source	Windy Bank stood out of the chair
+539	Windy Bank stood out of the chair
+539	from
+from	Chair
+539	Chair
+301	has Property
+has Property	important
+301	important
+301	source
+source	Sleeves are important
+301	Sleeves are important
+301	info Source
+info Source	Holmes
+301	Holmes
+301	type
+type	Statement
+301	Statement
+301	what
+what	sleeve
+301	sleeve
+425	subject
+subject	Windy bank
+425	Windy bank
+425	info Source
+info Source	Remarks by Windybank
+425	Remarks by Windybank
+425	source
+source	Windy Bank wants to avoid unnecessary expenses
+425	Windy Bank wants to avoid unnecessary expenses
+425	what
+what	Useless spending
+425	Useless spending
+425	has Predicate
+has Predicate	want To Avoid
+425	want To Avoid
+425	type
+type	Statement
+425	Statement
+258	what
+what	Hozma lost
+258	Hozma lost
+258	source
+source	Sutherland does not speak Hozma's disappearance
+258	Sutherland does not speak Hozma's disappearance
+258	subject
+subject	Sutherland
+258	Sutherland
+258	type
+type	Statement
+258	Statement
+258	info Source
+info Source	39 s remark
+258	39 s remark
+258	has Predicate
+has Predicate	not Talk
+258	not Talk
+disguise	type
+type	PhysicalObject
+disguise	PhysicalObject
+disguise	label
+label	disguise
+disguise	disguise
+179	what
+what	Typing letter
+179	Typing letter
+179	type
+type	Statement
+179	Statement
+179	info Source
+info Source	Hozma s statement
+179	Hozma s statement
+179	subject
+subject	Hozma
+179	Hozma
+179	has Predicate
+has Predicate	not Want To Receive
+179	not Want To Receive
+179	source
+source	Hozma does not want to receive typing letters
+179	Hozma does not want to receive typing letters
+174	what
+what	181
+174	181
+174	type
+type	Situation
+174	Situation
+174	what
+what	176
+174	176
+174	what
+what	179
+174	179
+174	what
+what	178
+174	178
+174	has Predicate
+has Predicate	say
+174	say
+174	what
+what	180
+174	180
+174	subject
+subject	Hozma
+174	Hozma
+174	source
+source	Hozma said the following
+174	Hozma said the following
+174	what
+what	177
+174	177
+088	source
+source	Ned is Sutherland's uncle
+088	Ned is Sutherland's uncle
+088	info Source
+info Source	Sutherland
+088	Sutherland
+088	what
+what	Sutherland s uncle
+088	Sutherland s uncle
+088	type
+type	Statement
+088	Statement
+088	has Property
+has Property	equal To
+088	equal To
+088	subject
+subject	Ned
+088	Ned
+164	subject
+subject	Hozma
+164	Hozma
+164	what
+what	letter
+164	letter
+164	source
+source	Sutherland and Hozma wrote a letter every day
+164	Sutherland and Hozma wrote a letter every day
+164	info Source
+info Source	Sutherland
+164	Sutherland
+164	subject
+subject	Sutherland
+164	Sutherland
+164	when
+when	every day
+164	every day
+164	has Predicate
+has Predicate	write
+164	write
+164	type
+type	Statement
+164	Statement
+153	source
+source	Windy Bank thought that
+153	Windy Bank thought that
+153	subject
+subject	Windy bank
+153	Windy bank
+153	what
+what	154
+153	154
+153	has Predicate
+has Predicate	think
+153	think
+153	type
+type	Situation
+153	Situation
+226	source
+source	Sutherland and Hozma eat breakfast at Saint St Pancras Hotel
+226	Sutherland and Hozma eat breakfast at Saint St Pancras Hotel
+226	has Predicate
+has Predicate	eat
+226	eat
+226	info Source
+info Source	Sutherland
+226	Sutherland
+226	subject
+subject	Sutherland
+226	Sutherland
+226	subject
+subject	Hozma
+226	Hozma
+226	what
+what	breakfast
+226	breakfast
+226	where
+where	Saint St Pancras Hotel
+226	Saint St Pancras Hotel
+226	type
+type	Statement
+226	Statement
+296	what
+what	297
+296	297
+296	has Predicate
+has Predicate	say
+296	say
+296	source
+source	Watson said the following
+296	Watson said the following
+296	what
+what	298
+296	298
+296	subject
+subject	Watson
+296	Watson
+296	type
+type	Situation
+296	Situation
+195	info Source
+info Source	Sutherland
+195	Sutherland
+195	subject
+subject	Hozma
+195	Hozma
+195	source
+source	Hozma suffered tonsillitis when he was young
+195	Hozma suffered tonsillitis when he was young
+195	when
+when	young
+195	young
+195	what
+what	Tonsillitis
+195	Tonsillitis
+195	has Predicate
+has Predicate	suffer From
+195	suffer From
+195	type
+type	Statement
+195	Statement
+292	type
+type	Statement
+292	Statement
+292	source
+source	Sutherland is interesting
+292	Sutherland is interesting
+292	has Property
+has Property	interesting
+292	interesting
+292	subject
+subject	Sutherland
+292	Sutherland
+292	info Source
+info Source	Holmes
+292	Holmes
+345	what
+what	Sutherland s appearance
+345	Sutherland s appearance
+345	has Property
+has Property	tightly
+345	tightly
+345	source
+source	Sutherland's appearance is tight
+345	Sutherland's appearance is tight
+345	type
+type	Statement
+345	Statement
+345	info Source
+info Source	Holmes
+345	Holmes
+365	type
+type	Statement
+365	Statement
+365	source
+source	At the time of disappearance is a black vest
+365	At the time of disappearance is a black vest
+365	has Property
+has Property	black best
+365	black best
+365	info Source
+info Source	Watson s remarks
+365	Watson s remarks
+365	what
+what	At the time of disappearance
+365	At the time of disappearance
+250	has Predicate
+has Predicate	know
+250	know
+250	what
+what	Danger
+250	Danger
+250	info Source
+info Source	Sutherland s thoughts
+250	Sutherland s thoughts
+250	subject
+subject	Hozma
+250	Hozma
+250	type
+type	Thought
+250	Thought
+250	therefore
+therefore	252
+250	252
+250	source
+source	Hozma knew about the danger
+250	Hozma knew about the danger
+491	whom
+whom	Sutherland
+491	Sutherland
+491	what
+what	Relationship with human beings of the same age
+491	Relationship with human beings of the same age
+491	subject
+subject	Windy bank
+491	Windy bank
+491	source
+source	Windy Bank prohibits Sutherland from dating with people of the same age
+491	Windy Bank prohibits Sutherland from dating with people of the same age
+491	type
+type	Statement
+491	Statement
+491	info Source
+info Source	Holmes
+491	Holmes
+491	has Predicate
+has Predicate	prohibit
+491	prohibit
+247	what
+what	With hozma
+247	With hozma
+247	subject
+subject	Sutherland
+247	Sutherland
+247	has Predicate
+has Predicate	leave
+247	leave
+247	info Source
+info Source	Sutherland
+247	Sutherland
+247	type
+type	Statement
+247	Statement
+247	source
+source	Sutherland leaves with Hozma
+247	Sutherland leaves with Hozma
+525	info Source
+info Source	Holmes
+525	Holmes
+525	source
+source	For the time being
+525	For the time being
+525	subject
+subject	Sutherland
+525	Sutherland
+525	what
+what	others
+525	others
+525	type
+type	Statement
+525	Statement
+525	has Predicate
+has Predicate	not Love
+525	not Love
+525	when
+when	For the time being
+525	For the time being
+525	therefore
+therefore	526
+525	526
+037	type
+type	Situation
+037	Situation
+037	source
+source	Holmes recommends an armchair
+037	Holmes recommends an armchair
+037	what
+what	Armchair
+037	Armchair
+037	subject
+subject	Holmes
+037	Holmes
+037	has Predicate
+has Predicate	recommend
+037	recommend
+341	type
+type	Situation
+341	Situation
+341	has Predicate
+has Predicate	be Surprised
+341	be Surprised
+341	subject
+subject	Watson
+341	Watson
+341	source
+source	Watson was surprised
+341	Watson was surprised
+519	source
+source	Sutherland's love does not go to others
+519	Sutherland's love does not go to others
+519	type
+type	Statement
+519	Statement
+519	to
+to	others
+519	others
+519	subject
+subject	Sutherland s love
+519	Sutherland s love
+519	info Source
+info Source	Holmes
+519	Holmes
+519	has Predicate
+has Predicate	not Go
+519	not Go
+395	source
+source	Holmes said the following
+395	Holmes said the following
+395	has Predicate
+has Predicate	say
+395	say
+395	subject
+subject	Holmes
+395	Holmes
+395	what
+what	396
+395	396
+395	type
+type	Situation
+395	Situation
+395	what
+what	397
+395	397
+448	has Property
+has Property	blurred
+448	blurred
+448	where
+where	Hosma s letter
+448	Hosma s letter
+448	type
+type	Statement
+448	Statement
+448	info Source
+info Source	Holmes
+448	Holmes
+448	what
+what	e
+448	e
+448	source
+source	In Hosma's letter
+448	In Hosma's letter
+393	has Predicate
+has Predicate	not Be In Time
+393	not Be In Time
+393	source
+source	Watson is not in time for a solution
+393	Watson is not in time for a solution
+393	subject
+subject	Watson
+393	Watson
+393	type
+type	Thought
+393	Thought
+393	whom
+whom	Solution
+393	Solution
+393	info Source
+info Source	Watson s thoughts
+393	Watson s thoughts
+452	has Predicate
+has Predicate	grab
+452	grab
+452	subject
+subject	Windy bank
+452	Windy bank
+452	source
+source	Windy Bank grabbed a hat
+452	Windy Bank grabbed a hat
+452	type
+type	Situation
+452	Situation
+452	what
+what	hat
+452	hat
+law	type
+type	PhysicalObject
+law	PhysicalObject
+law	label
+label	law
+law	law
+427	source
+source	Holmes can not find Hozma
+427	Holmes can not find Hozma
+427	what
+what	Hozma
+427	Hozma
+427	type
+type	Situation
+427	Situation
+427	subject
+subject	Holmes
+427	Holmes
+427	has Predicate
+has Predicate	not Found
+427	not Found
+14_features	type
+type	PhysicalObject
+14_features	PhysicalObject
+14_features	label
+label	14 features
+14_features	14 features
+paper	label
+label	paper
+paper	paper
+paper	type
+type	PhysicalObject
+paper	PhysicalObject
+024	type
+type	Statement
+024	Statement
+024	source
+source	Women do not hesitate
+024	Women do not hesitate
+024	info Source
+info Source	Holmes
+024	Holmes
+024	subject
+subject	Woman
+024	Woman
+024	has Predicate
+has Predicate	not Hesitate
+024	not Hesitate
+074	type
+type	Statement
+074	Statement
+074	subject
+subject	Sutherland s father
+074	Sutherland s father
+074	what
+what	Sutherland s father s shop
+074	Sutherland s father s shop
+074	source
+source	Sutherland's father left a store
+074	Sutherland's father left a store
+074	info Source
+info Source	Sutherland
+074	Sutherland
+074	has Predicate
+has Predicate	leave
+074	leave
+085	info Source
+info Source	Watson s thoughts
+085	Watson s thoughts
+085	subject
+subject	Holmes
+085	Holmes
+085	type
+type	Thought
+085	Thought
+085	what
+what	Sutherland s story
+085	Sutherland s story
+085	has Predicate
+has Predicate	focus
+085	focus
+085	source
+source	Holmes are concentrating on Sutherland's story
+085	Holmes are concentrating on Sutherland's story
+275	type
+type	Situation
+275	Situation
+275	source
+source	Sutherland asked Holmes to give adverts
+275	Sutherland asked Holmes to give adverts
+275	what
+what	Inquirer advertisement
+275	Inquirer advertisement
+275	whom
+whom	Holmes
+275	Holmes
+275	subject
+subject	Sutherland
+275	Sutherland
+275	has Predicate
+has Predicate	hand Over
+275	hand Over
+518	type
+type	Statement
+518	Statement
+518	subject
+subject	Windy bank
+518	Windy bank
+518	what
+what	With Sutherland
+518	With Sutherland
+518	source
+source	Windy Bank gets engaged with Sutherland
+518	Windy Bank gets engaged with Sutherland
+518	has Predicate
+has Predicate	get Engaged
+518	get Engaged
+518	info Source
+info Source	Holmes
+518	Holmes
+401	what
+what	Windy Bank physique
+401	Windy Bank physique
+401	type
+type	Situation
+401	Situation
+401	source
+source	Windy Bank's physique is good
+401	Windy Bank's physique is good
+401	has Property
+has Property	good
+401	good
+165	has Predicate
+has Predicate	receive
+165	receive
+165	info Source
+info Source	Sutherland
+165	Sutherland
+165	source
+source	Sutherland received a letter in the morning
+165	Sutherland received a letter in the morning
+165	subject
+subject	Sutherland
+165	Sutherland
+165	type
+type	Statement
+165	Statement
+165	what
+what	letter
+165	letter
+165	when
+when	Morning
+165	Morning
+052	what
+what	053
+052	053
+052	what
+what	068
+052	068
+052	what
+what	058
+052	058
+052	what
+what	069
+052	069
+052	what
+what	078
+052	078
+052	what
+what	064
+052	064
+052	what
+what	075
+052	075
+052	what
+what	072
+052	072
+052	what
+what	054
+052	054
+052	what
+what	067
+052	067
+052	what
+what	061
+052	061
+052	source
+source	Sutherland said the following
+052	Sutherland said the following
+052	what
+what	060
+052	060
+052	what
+what	066
+052	066
+052	what
+what	065
+052	065
+052	what
+what	056
+052	056
+052	type
+type	Situation
+052	Situation
+052	what
+what	073
+052	073
+052	what
+what	074
+052	074
+052	subject
+subject	Sutherland
+052	Sutherland
+052	what
+what	079
+052	079
+052	has Predicate
+has Predicate	say
+052	say
+052	what
+what	071
+052	071
+052	what
+what	062
+052	062
+052	what
+what	055
+052	055
+052	what
+what	057
+052	057
+052	what
+what	076
+052	076
+052	what
+what	070
+052	070
+052	what
+what	063
+052	063
+052	what
+what	059
+052	059
+052	what
+what	077
+052	077
+079	type
+type	Statement
+079	Statement
+079	subject
+subject	Sutherland s father s shop
+079	Sutherland s father s shop
+079	what
+what	4700 pounds
+079	4700 pounds
+079	has Predicate
+has Predicate	sell
+079	sell
+079	source
+source	Sutherland's father';s store sold for ｡・4700
+079	Sutherland's father';s store sold for ｡・4700
+079	info Source
+info Source	Sutherland
+079	Sutherland
+535	to
+to	Church
+535	Church
+535	type
+type	Statement
+535	Statement
+535	then
+then	537
+535	537
+535	has Predicate
+has Predicate	carry
+535	carry
+535	what
+what	Sutherland
+535	Sutherland
+535	info Source
+info Source	Holmes
+535	Holmes
+535	subject
+subject	Windy bank
+535	Windy bank
+535	source
+source	Windy Bank carried Sutherland to the church
+535	Windy Bank carried Sutherland to the church
+159	subject
+subject	Windy bank
+159	Windy bank
+159	type
+type	Statement
+159	Statement
+159	source
+source	Windy Bank goes to France a week later
+159	Windy Bank goes to France a week later
+159	when
+when	After a week
+159	After a week
+159	has Predicate
+has Predicate	go
+159	go
+159	info Source
+info Source	Sutherland
+159	Sutherland
+159	where
+where	France
+159	France
+419	has Predicate
+has Predicate	not Want
+419	not Want
+419	type
+type	Statement
+419	Statement
+419	what
+what	420
+419	420
+419	source
+source	Windy Bank does not want
+419	Windy Bank does not want
+419	subject
+subject	Windy bank
+419	Windy bank
+419	info Source
+info Source	Windybank s remarks
+419	Windybank s remarks
+579	if
+if	580
+579	580
+579	type
+type	Situation
+579	Situation
+295	source
+source	The same incident happened in The Hague last year
+295	The same incident happened in The Hague last year
+295	where
+where	The Hague
+295	The Hague
+295	when
+when	last year
+295	last year
+295	type
+type	Statement
+295	Statement
+295	has Predicate
+has Predicate	get Up
+295	get Up
+295	info Source
+info Source	Holmes
+295	Holmes
+295	what
+what	Same incident
+295	Same incident
+274	subject
+subject	Sutherland
+274	Sutherland
+274	to
+to	newspaper
+274	newspaper
+274	info Source
+info Source	Sutherland
+274	Sutherland
+274	when
+when	1891-08-29
+274	1891-08-29
+274	when
+when	Lst Satuaday
+274	Lst Satuaday
+274	type
+type	Statement
+274	Statement
+274	source
+source	Last Saturday
+274	Last Saturday
+274	time
+time	1891-08-29 00:00:00
+274	1891-08-29 00:00:00
+274	has Predicate
+has Predicate	put Out
+274	put Out
+274	what
+what	Inquirer advertisement
+274	Inquirer advertisement
+meaning	label
+label	meaning
+meaning	meaning
+meaning	type
+type	Object
+meaning	Object
+4700_pounds	label
+label	4700 pounds
+4700_pounds	4700 pounds
+4700_pounds	type
+type	PhysicalObject
+4700_pounds	PhysicalObject
+288	type
+type	Situation
+288	Situation
+288	source
+source	Watson felt noble and respect for Sutherland
+288	Watson felt noble and respect for Sutherland
+288	what
+what	Class
+288	Class
+288	has Predicate
+has Predicate	feel
+288	feel
+288	what
+what	respect
+288	respect
+288	whom
+whom	Sutherland
+288	Sutherland
+288	subject
+subject	Watson
+288	Watson
+465	subject
+subject	Holmes
+465	Holmes
+465	type
+type	Situation
+465	Situation
+465	what
+what	466
+465	466
+465	has Predicate
+has Predicate	say
+465	say
+465	source
+source	Holmes said the following
+465	Holmes said the following
+242	type
+type	Statement
+242	Statement
+242	subject
+subject	Hozma
+242	Hozma
+242	info Source
+info Source	Sutherland
+242	Sutherland
+242	what
+what	Sutherland
+242	Sutherland
+242	source
+source	Hozma does not throw away Sutherland
+242	Hozma does not throw away Sutherland
+242	has Predicate
+has Predicate	not Throw
+242	not Throw
+099	source
+source	60 pounds is enough for single women
+099	60 pounds is enough for single women
+099	info Source
+info Source	Holmes
+099	Holmes
+099	has Property
+has Property	enough
+099	enough
+099	subject
+subject	Single women
+099	Single women
+099	type
+type	Thought
+099	Thought
+099	what
+what	60 pounds
+099	60 pounds
+451	from
+from	Chair
+451	Chair
+451	has Predicate
+has Predicate	jump Up
+451	jump Up
+451	source
+source	Windybank jumped out of the chair
+451	Windybank jumped out of the chair
+451	subject
+subject	Windy bank
+451	Windy bank
+451	type
+type	Situation
+451	Situation
+068	what
+what	Sutherland s father-in-law
+068	Sutherland s father-in-law
+068	info Source
+info Source	Sutherland
+068	Sutherland
+068	subject
+subject	Windy bank
+068	Windy bank
+068	source
+source	Windy Bank is Sutherland's father-in-law
+068	Windy Bank is Sutherland's father-in-law
+068	type
+type	Statement
+068	Statement
+068	has Property
+has Property	equal To
+068	equal To
+576	subject
+subject	someone of Company
+576	someone of Company
+576	info Source
+info Source	Holmes
+576	Holmes
+576	source
+source	The company said the following
+576	The company said the following
+576	type
+type	Statement
+576	Statement
+576	has Predicate
+has Predicate	say
+576	say
+576	what
+what	577
+576	577
+231	subject
+subject	Sutherland s mother
+231	Sutherland s mother
+231	has Predicate
+has Predicate	reach
+231	reach
+231	type
+type	Statement
+231	Statement
+231	source
+source	Sutherland and Sutherland's mother arrived at the church before Hozma
+231	Sutherland and Sutherland's mother arrived at the church before Hozma
+231	where
+where	Church
+231	Church
+231	when
+when	Beyond Hozma
+231	Beyond Hozma
+231	info Source
+info Source	Sutherland
+231	Sutherland
+231	subject
+subject	Sutherland
+231	Sutherland
+036	type
+type	Situation
+036	Situation
+036	has Predicate
+has Predicate	close
+036	close
+036	source
+source	Holmes shuts the door
+036	Holmes shuts the door
+036	subject
+subject	Holmes
+036	Holmes
+036	what
+what	door
+036	door
+416	has Predicate
+has Predicate	busy
+416	busy
+416	info Source
+info Source	Windybank s remarks
+416	Windybank s remarks
+416	type
+type	Statement
+416	Statement
+416	subject
+subject	Windy bank
+416	Windy bank
+416	source
+source	Windy Bank is busy
+416	Windy Bank is busy
+100_pounds	label
+label	100 pounds
+100_pounds	100 pounds
+100_pounds	type
+type	PhysicalObject
+100_pounds	PhysicalObject
+287	source
+source	Sutherland believes in Hozma
+287	Sutherland believes in Hozma
+287	subject
+subject	Sutherland
+287	Sutherland
+287	info Source
+info Source	Sutherland
+287	Sutherland
+287	whom
+whom	Hozma
+287	Hozma
+287	type
+type	Statement
+287	Statement
+287	has Predicate
+has Predicate	believe
+287	believe
+044	type
+type	Situation
+044	Situation
+044	what
+what	meaning of the words of Holmes
+044	meaning of the words of Holmes
+044	subject
+subject	Sutherland
+044	Sutherland
+044	source
+source	Sutherland notices the meaning of the words of Holmes
+044	Sutherland notices the meaning of the words of Holmes
+044	has Predicate
+has Predicate	notice
+044	notice
+335	info Source
+info Source	Holmes
+335	Holmes
+335	what
+what	Left wrist double line
+335	Left wrist double line
+335	has Property
+has Property	mark of a manual sewing machine
+335	mark of a manual sewing machine
+335	source
+source	The double line on the left wrist is the mark of a manual sewing machine
+335	The double line on the left wrist is the mark of a manual sewing machine
+335	type
+type	Statement
+335	Statement
+577	has Property
+has Property	is
+577	is
+577	subject
+subject	Personal statement
+577	Personal statement
+577	type
+type	Statement
+577	Statement
+577	source
+source	The document is Windy Bank
+577	The document is Windy Bank
+577	info Source
+info Source	someone of Company
+577	someone of Company
+101	subject
+subject	Sutherland
+101	Sutherland
+101	has Property
+has Property	enough
+101	enough
+101	what
+what	less than 60 pounds
+101	less than 60 pounds
+101	source
+source	Sutherland earns less than ｡・60
+101	Sutherland earns less than ｡・60
+101	info Source
+info Source	Sutherland
+101	Sutherland
+101	type
+type	Statement
+101	Statement
+098	subject
+subject	Sutherland
+098	Sutherland
+098	type
+type	Thought
+098	Thought
+098	what
+what	margin
+098	margin
+098	has Predicate
+has Predicate	have
+098	have
+098	info Source
+info Source	Holmes
+098	Holmes
+098	source
+source	Sutherland has room
+098	Sutherland has room
+105	type
+type	Statement
+105	Statement
+105	source
+source	Windy Bank draws a quarter from the yield
+105	Windy Bank draws a quarter from the yield
+105	from
+from	yield
+105	yield
+105	subject
+subject	Windy bank
+105	Windy bank
+105	has Predicate
+has Predicate	pull Out
+105	pull Out
+105	what
+what	one quarter
+105	one quarter
+105	info Source
+info Source	Sutherland
+105	Sutherland
+210	what
+what	211
+210	211
+210	has Predicate
+has Predicate	say
+210	say
+210	source
+source	Hozma said the following
+210	Hozma said the following
+210	type
+type	Situation
+210	Situation
+210	subject
+subject	Hozma
+210	Hozma
+163	what
+what	168
+163	168
+163	what
+what	172
+163	172
+163	subject
+subject	Sutherland
+163	Sutherland
+163	what
+what	169
+163	169
+163	what
+what	165
+163	165
+163	what
+what	166
+163	166
+163	what
+what	164
+163	164
+163	what
+what	173
+163	173
+163	what
+what	171
+163	171
+163	what
+what	167
+163	167
+163	what
+what	170
+163	170
+163	type
+type	Situation
+163	Situation
+163	has Predicate
+has Predicate	say
+163	say
+163	source
+source	Sutherland said the following
+163	Sutherland said the following
+522	then
+then	524
+522	524
+522	how
+how	Dramatically
+522	Dramatically
+522	has Predicate
+has Predicate	break Up
+522	break Up
+522	subject
+subject	Windy bank
+522	Windy bank
+522	what
+what	With Sutherland
+522	With Sutherland
+522	info Source
+info Source	Holmes
+522	Holmes
+522	source
+source	Windy Bank breaks up with Sutherland dramatically
+522	Windy Bank breaks up with Sutherland dramatically
+522	type
+type	Statement
+522	Statement
+126	info Source
+info Source	Sutherland
+126	Sutherland
+126	type
+type	Statement
+126	Statement
+126	has Predicate
+has Predicate	joining
+126	joining
+126	where
+where	Dance
+126	Dance
+126	source
+source	Sutherland's father's friend participates in a ball
+126	Sutherland's father's friend participates in a ball
+126	subject
+subject	Sutherland s father s friend
+126	Sutherland s father s friend
+372	type
+type	Statement
+372	Statement
+372	info Source
+info Source	Holmes
+372	Holmes
+372	source
+source	Signature is written in type
+372	Signature is written in type
+372	has Predicate
+has Predicate	be Written
+372	be Written
+372	how
+how	typewriter
+372	typewriter
+372	what
+what	signature
+372	signature
+269	has Predicate
+has Predicate	forget
+269	forget
+269	source
+source	Sutherland forgets Hozma
+269	Sutherland forgets Hozma
+269	what
+what	Hozma
+269	Hozma
+269	type
+type	Statement
+269	Statement
+269	info Source
+info Source	Holmes
+269	Holmes
+269	subject
+subject	Sutherland
+269	Sutherland
+520	type
+type	Statement
+520	Statement
+520	subject
+subject	Windy bank
+520	Windy bank
+520	when
+when	Forever
+520	Forever
+520	what
+what	Sutherland
+520	Sutherland
+520	info Source
+info Source	Holmes
+520	Holmes
+520	has Predicate
+has Predicate	cannot Lose Weight
+520	cannot Lose Weight
+520	source
+source	Forever
+520	Forever
+482	what
+what	Compassion
+482	Compassion
+482	what
+what	Love
+482	Love
+482	subject
+subject	Sutherland
+482	Sutherland
+482	has Predicate
+has Predicate	have
+482	have
+482	type
+type	Statement
+482	Statement
+482	source
+source	Sutherland has emotions and compassion
+482	Sutherland has emotions and compassion
+482	info Source
+info Source	Holmes
+482	Holmes
+282	subject
+subject	Holmes
+282	Holmes
+282	has Predicate
+has Predicate	say
+282	say
+282	what
+what	283
+282	283
+282	type
+type	Situation
+282	Situation
+282	source
+source	Holmes said the following
+282	Holmes said the following
+282	what
+what	284
+282	284
+566	subject
+subject	Sutherland
+566	Sutherland
+566	has Predicate
+has Predicate	know
+566	know
+566	type
+type	Statement
+566	Statement
+566	therefore
+therefore	568
+566	568
+566	what
+what	Windy bank handwriting
+566	Windy bank handwriting
+566	info Source
+info Source	Holmes
+566	Holmes
+566	source
+source	Sutherland knows Windy Bank handwriting
+566	Sutherland knows Windy Bank handwriting
+217	source
+source	Windy Bank works at the French office of the Bordeaux company
+217	Windy Bank works at the French office of the Bordeaux company
+217	has Predicate
+has Predicate	working
+217	working
+217	type
+type	Statement
+217	Statement
+217	info Source
+info Source	Sutherland
+217	Sutherland
+217	subject
+subject	Windy bank
+217	Windy bank
+217	where
+where	Bordeaux company France office
+217	Bordeaux company France office
+550	has Predicate
+has Predicate	open
+550	open
+550	what
+what	door
+550	door
+550	source
+source	Holmes opened the door
+550	Holmes opened the door
+550	subject
+subject	Holmes
+550	Holmes
+550	type
+type	Situation
+550	Situation
+173	what
+what	letter
+173	letter
+173	subject
+subject	Sutherland
+173	Sutherland
+173	to
+to	Redon Hall Street Post Office
+173	Redon Hall Street Post Office
+173	source
+source	Sutherland sent a letter to Redon Hall Street Post Office
+173	Sutherland sent a letter to Redon Hall Street Post Office
+173	has Predicate
+has Predicate	send
+173	send
+173	type
+type	Statement
+173	Statement
+173	info Source
+info Source	Sutherland
+173	Sutherland
+370	info Source
+info Source	Watson s remarks
+370	Watson s remarks
+370	what
+what	letter
+370	letter
+370	how
+how	typewritter
+370	typewritter
+370	has Predicate
+has Predicate	be Written
+370	be Written
+370	source
+source	The letter is written in type
+370	The letter is written in type
+370	type
+type	Statement
+370	Statement
+312	info Source
+info Source	Watson s remarks
+312	Watson s remarks
+312	type
+type	Statement
+312	Statement
+312	source
+source	The gloves were scarlet
+312	The gloves were scarlet
+312	what
+what	gloves
+312	gloves
+403	source
+source	The age of Windy Bank is around 30 years old
+403	The age of Windy Bank is around 30 years old
+403	type
+type	Situation
+403	Situation
+403	what
+what	Windy bank year
+403	Windy bank year
+403	has Property
+has Property	around 30 years old
+403	around 30 years old
+33-1	whom
+whom	Sutherland
+33-1	Sutherland
+33-1	type
+type	Situation
+33-1	Situation
+33-1	source
+source	A boy at the service uniform tells Sutherland
+33-1	A boy at the service uniform tells Sutherland
+33-1	subject
+subject	Woman
+33-1	Woman
+33-1	has Predicate
+has Predicate	tell
+33-1	tell
+351	info Source
+info Source	Holmes
+351	Holmes
+351	type
+type	Statement
+351	Statement
+351	has Predicate
+has Predicate	have
+351	have
+351	what
+what	Sutherland gloves
+351	Sutherland gloves
+351	source
+source	Sutherland gloves have violet ink
+351	Sutherland gloves have violet ink
+351	what
+what	Violet ink
+351	Violet ink
+490	source
+source	Windy Bank will not leave Sutherland from home
+490	Windy Bank will not leave Sutherland from home
+490	info Source
+info Source	Holmes
+490	Holmes
+490	what
+what	Sutherland
+490	Sutherland
+490	type
+type	Statement
+490	Statement
+490	from
+from	House
+490	House
+490	subject
+subject	Windy bank
+490	Windy bank
+490	has Predicate
+has Predicate	not Issue
+490	not Issue
+283	source
+source	Sutherland will not forget Holmes' advice
+283	Sutherland will not forget Holmes' advice
+283	has Predicate
+has Predicate	not Forget
+283	not Forget
+283	info Source
+info Source	Holmes
+283	Holmes
+283	what
+what	Holmes advice
+283	Holmes advice
+283	subject
+subject	Sutherland
+283	Sutherland
+283	type
+type	Statement
+283	Statement
+209	info Source
+info Source	Sutherland
+209	Sutherland
+209	has Predicate
+has Predicate	love
+209	love
+209	whom
+whom	Hozma
+209	Hozma
+209	type
+type	Statement
+209	Statement
+209	subject
+subject	Sutherland s mother
+209	Sutherland s mother
+209	source
+source	Sutherland's mother loved Hozma more than Sutherland
+209	Sutherland's mother loved Hozma more than Sutherland
+209	how
+how	more than Sutherland
+209	more than Sutherland
+449	what
+what	r
+449	r
+449	has Predicate
+has Predicate	missing
+449	missing
+449	type
+type	Statement
+449	Statement
+449	info Source
+info Source	Holmes
+449	Holmes
+449	where
+where	Hosma s letter
+449	Hosma s letter
+449	source
+source	In the letter of hozma r is missing
+449	In the letter of hozma r is missing
+330	info Source
+info Source	Holmes
+330	Holmes
+330	source
+source	A plush weave is attached to the cuffs of Sutherland
+330	A plush weave is attached to the cuffs of Sutherland
+330	type
+type	Statement
+330	Statement
+330	what
+what	Plush weave
+330	Plush weave
+330	on
+on	In the cuffs of Sutherland
+330	In the cuffs of Sutherland
+330	has Predicate
+has Predicate	attached
+330	attached
+392	has Predicate
+has Predicate	think
+392	think
+392	type
+type	Situation
+392	Situation
+392	subject
+subject	Watson
+392	Watson
+392	what
+what	393
+392	393
+392	source
+source	Watson thought the following
+392	Watson thought the following
+573	has Predicate
+has Predicate	send
+573	send
+573	type
+type	Statement
+573	Statement
+573	source
+source	Holmes sent a letter to Windy Bank
+573	Holmes sent a letter to Windy Bank
+573	subject
+subject	Holmes
+573	Holmes
+573	whom
+whom	Windy bank
+573	Windy bank
+573	info Source
+info Source	Holmes
+573	Holmes
+573	what
+what	letter
+573	letter
+198	info Source
+info Source	Sutherland
+198	Sutherland
+198	source
+source	Hozma speaks whisperly
+198	Hozma speaks whisperly
+198	how
+how	As whisper
+198	As whisper
+198	type
+type	Statement
+198	Statement
+198	has Predicate
+has Predicate	speak
+198	speak
+198	subject
+subject	Hozma
+198	Hozma
+1_day	type
+type	AbstractTime
+1_day	AbstractTime
+1_day	label
+label	1 day
+1_day	1 day
+289	subject
+subject	Sutherland
+289	Sutherland
+289	source
+source	Sutherland went out of Holmes
+289	Sutherland went out of Holmes
+289	from
+from	Holmes
+289	Holmes
+289	type
+type	Situation
+289	Situation
+289	has Predicate
+has Predicate	get Out
+289	get Out
+324	has Predicate
+has Predicate	overlook
+324	overlook
+324	subject
+subject	Watson
+324	Watson
+324	type
+type	Statement
+324	Statement
+324	what
+what	Important point
+324	Important point
+324	info Source
+info Source	Holmes
+324	Holmes
+324	source
+source	Watson overlooks an important point
+324	Watson overlooks an important point
+373	has Property
+has Property	Hozma Eingel
+373	Hozma Eingel
+373	info Source
+info Source	Holmes
+373	Holmes
+373	source
+source	Signature is Hozma Aingel
+373	Signature is Hozma Aingel
+373	what
+what	signature
+373	signature
+373	type
+type	Statement
+373	Statement
+167	source
+source	Sutherland was engaged to Hozma at the first walk
+167	Sutherland was engaged to Hozma at the first walk
+167	whom
+whom	Hozma
+167	Hozma
+167	type
+type	Statement
+167	Statement
+167	when
+when	First walk
+167	First walk
+167	has Predicate
+has Predicate	get Engaged
+167	get Engaged
+167	subject
+subject	Sutherland
+167	Sutherland
+167	info Source
+info Source	Sutherland
+167	Sutherland
+356	info Source
+info Source	Watson s remarks
+356	Watson s remarks
+356	has Property
+has Property	5 feet 7 inches
+356	5 feet 7 inches
+356	type
+type	Statement
+356	Statement
+356	source
+source	Hozma's height is 5 feet 7 inches
+356	Hozma's height is 5 feet 7 inches
+356	what
+what	Hozma s height
+356	Hozma s height
+343	source
+source	Sutherland's left and right shoes are different
+343	Sutherland's left and right shoes are different
+343	info Source
+info Source	Holmes
+343	Holmes
+343	what
+what	Sutherland s left and right shoes
+343	Sutherland s left and right shoes
+343	has Property
+has Property	different
+343	different
+343	type
+type	Statement
+343	Statement
+someone_of_Company	of Whole
+of Whole	Company
+someone_of_Company	Company
+someone_of_Company	of Part
+of Part	someone
+someone_of_Company	someone
+someone_of_Company	type
+type	OFobj
+someone_of_Company	OFobj
+someone_of_Company	label
+label	someone of Company
+someone_of_Company	someone of Company
+069	type
+type	Statement
+069	Statement
+069	subject
+subject	Windy bank
+069	Windy bank
+069	info Source
+info Source	Sutherland
+069	Sutherland
+069	source
+source	Windy Bank is 5 years and 2 months older than Sutherland
+069	Windy Bank is 5 years and 2 months older than Sutherland
+069	has Predicate
+has Predicate	5 years 2 months older
+069	5 years 2 months older
+069	whom
+whom	Sutherland
+069	Sutherland
+363	has Property
+has Property	jealous
+363	jealous
+363	info Source
+info Source	Watson s remarks
+363	Watson s remarks
+363	what
+what	How to speak hozma
+363	How to speak hozma
+363	type
+type	Statement
+363	Statement
+363	source
+source	Hozma's way of speaking is jealous
+363	Hozma's way of speaking is jealous
+376	has Property
+has Property	important
+376	important
+376	what
+what	signature
+376	signature
+376	info Source
+info Source	Holmes
+376	Holmes
+376	source
+source	Signature is important
+376	Signature is important
+376	type
+type	Statement
+376	Statement
+257	what
+what	258
+257	258
+257	type
+type	Situation
+257	Situation
+257	whom
+whom	Sutherland
+257	Sutherland
+257	subject
+subject	Sutherland s mother
+257	Sutherland s mother
+257	has Predicate
+has Predicate	say
+257	say
+257	source
+source	Sutherland's mother said to Sutherland:
+257	Sutherland's mother said to Sutherland:
+303	what
+what	Big problem
+303	Big problem
+303	type
+type	Statement
+303	Statement
+303	source
+source	Shoe laces lead to major problems
+303	Shoe laces lead to major problems
+303	info Source
+info Source	Holmes
+303	Holmes
+303	what
+what	Shoelaces
+303	Shoelaces
+303	has Predicate
+has Predicate	lead
+303	lead
+380	type
+type	Statement
+380	Statement
+380	what
+what	Appeal for breach of pledge
+380	Appeal for breach of pledge
+380	source
+source	Hosma received an appeal against breach of covenants
+380	Hosma received an appeal against breach of covenants
+380	subject
+subject	Hozma
+380	Hozma
+380	has Predicate
+has Predicate	receive
+380	receive
+380	info Source
+info Source	Watson s remarks
+380	Watson s remarks
+someone	label
+label	someone
+someone	someone
+someone	type
+type	Object
+someone	Object
+168	type
+type	Statement
+168	Statement
+168	info Source
+info Source	Sutherland
+168	Sutherland
+168	source
+source	Hozma is the teller of Redon Hall Street office
+168	Hozma is the teller of Redon Hall Street office
+168	subject
+subject	Hozma
+168	Hozma
+168	has Property
+has Property	teller of Redon Hall Street office
+168	teller of Redon Hall Street office
+172	info Source
+info Source	Sutherland
+172	Sutherland
+172	source
+source	Hozma's address is on Redon Hall Street
+172	Hozma's address is on Redon Hall Street
+172	type
+type	Statement
+172	Statement
+172	where
+where	Redon Hall Street
+172	Redon Hall Street
+172	has Predicate
+has Predicate	exist
+172	exist
+172	subject
+subject	Hozma s Address
+172	Hozma s Address
+369	on
+on	letter
+369	letter
+369	info Source
+info Source	Watson s remarks
+369	Watson s remarks
+369	has Predicate
+has Predicate	exist
+369	exist
+369	type
+type	Statement
+369	Statement
+369	source
+source	The letter has a quote from Balzac
+369	The letter has a quote from Balzac
+369	what
+what	Quotation from Balzac
+369	Quotation from Balzac
+029	type
+type	Statement
+029	Statement
+029	info Source
+info Source	Holmes
+029	Holmes
+029	subject
+subject	Woman
+029	Woman
+029	source
+source	The woman is in distress
+029	The woman is in distress
+029	has Property
+has Property	dead
+029	dead
+132	why
+why	Required
+132	Required
+132	info Source
+info Source	Sutherland
+132	Sutherland
+132	type
+type	Statement
+132	Statement
+132	source
+source	Windy Bank went to France for work
+132	Windy Bank went to France for work
+132	has Predicate
+has Predicate	go
+132	go
+132	subject
+subject	Windy bank
+132	Windy bank
+132	where
+where	France
+132	France
+living_with_my_parents	label
+label	living with my parents
+living_with_my_parents	living with my parents
+living_with_my_parents	type
+type	AbstractTime
+living_with_my_parents	AbstractTime
+Sutherland's_mother	type
+type	Object
+Sutherland's_mother	Object
+Sutherland's_mother	label
+label	Sutherland's mother
+Sutherland's_mother	Sutherland's mother
+264	has Predicate
+has Predicate	cannot Sleep
+264	cannot Sleep
+264	type
+type	Statement
+264	Statement
+264	info Source
+info Source	Sutherland
+264	Sutherland
+264	subject
+subject	Sutherland
+264	Sutherland
+264	source
+source	Sutherland can not sleep
+264	Sutherland can not sleep
+166	type
+type	Statement
+166	Statement
+166	subject
+subject	Windy bank
+166	Windy bank
+166	source
+source	Windy Bank does not know the letter
+166	Windy Bank does not know the letter
+166	info Source
+info Source	Sutherland
+166	Sutherland
+166	has Predicate
+has Predicate	not Know
+166	not Know
+166	what
+what	letter
+166	letter
+280	has Property
+has Property	foreign business of West House&Marbank
+280	foreign business of West House&Marbank
+280	source
+source	Hozma is a foreign company in West House &amp; Marbank
+280	Hozma is a foreign company in West House &amp; Marbank
+280	type
+type	Statement
+280	Statement
+280	info Source
+info Source	Sutherland
+280	Sutherland
+280	subject
+subject	Hozma
+280	Hozma
+220	what
+what	letter
+220	letter
+220	what
+what	To Windy Bank
+220	To Windy Bank
+220	has Predicate
+has Predicate	not Reach
+220	not Reach
+220	type
+type	Statement
+220	Statement
+220	info Source
+info Source	Sutherland
+220	Sutherland
+220	source
+source	The letter did not reach Windy Bank
+220	The letter did not reach Windy Bank
+145	after
+after	146
+145	146
+145	whom
+whom	Hozma
+145	Hozma
+145	source
+source	Sutherland met Hozma at a ball
+145	Sutherland met Hozma at a ball
+145	subject
+subject	Sutherland
+145	Sutherland
+145	type
+type	Statement
+145	Statement
+145	where
+where	Ball
+145	Ball
+145	has Predicate
+has Predicate	meet
+145	meet
+145	info Source
+info Source	Sutherland
+145	Sutherland
+265	info Source
+info Source	Sutherland
+265	Sutherland
+265	type
+type	Statement
+265	Statement
+265	subject
+subject	Sutherland
+265	Sutherland
+265	source
+source	Sutherland cried
+265	Sutherland cried
+265	has Predicate
+has Predicate	cry
+265	cry
+325	type
+type	Statement
+325	Statement
+325	source
+source	The way is right
+325	The way is right
+325	has Predicate
+has Predicate	correct
+325	correct
+325	info Source
+info Source	Holmes
+325	Holmes
+325	what
+what	Method
+325	Method
+yield	label
+label	yield
+yield	yield
+yield	type
+type	PhysicalObject
+yield	PhysicalObject
+481	type
+type	Statement
+481	Statement
+481	has Property
+has Property	friendly
+481	friendly
+481	source
+source	Sutherland is funny
+481	Sutherland is funny
+481	subject
+subject	Sutherland
+481	Sutherland
+481	info Source
+info Source	Holmes
+481	Holmes
+178	type
+type	Statement
+178	Statement
+178	has Predicate
+has Predicate	be Teased
+178	be Teased
+178	subject
+subject	Hozma
+178	Hozma
+178	info Source
+info Source	Hozma s statement
+178	Hozma s statement
+178	whom
+whom	Coworker
+178	Coworker
+178	if
+if	176
+178	176
+178	source
+source	Hozma is teased by colleagues
+178	Hozma is teased by colleagues
+Company	label
+label	Company
+Company	Company
+Company	type
+type	Object
+Company	Object
+252	subject
+subject	Hozma
+252	Hozma
+252	source
+source	Hozma said above
+252	Hozma said above
+252	has Predicate
+has Predicate	say
+252	say
+252	type
+type	Thought
+252	Thought
+252	what
+what	244
+252	244
+252	info Source
+info Source	Sutherland s thoughts
+252	Sutherland s thoughts
+051	type
+type	Statement
+051	Statement
+051	what
+what	Oversight of others
+051	Oversight of others
+051	has Predicate
+has Predicate	recognize
+051	recognize
+051	info Source
+info Source	Holmes
+051	Holmes
+051	subject
+subject	Holmes
+051	Holmes
+051	source
+source	Holmes finds out that others overlook
+051	Holmes finds out that others overlook
+128	subject
+subject	Sutherland
+128	Sutherland
+128	type
+type	Situation
+128	Situation
+128	source
+source	Sutherland has no clothes to wear
+128	Sutherland has no clothes to wear
+128	info Source
+info Source	Windybank s remarks
+128	Windybank s remarks
+128	type
+type	Statement
+128	Statement
+128	what
+what	Clothes to wear
+128	Clothes to wear
+155	what
+what	158
+155	158
+155	subject
+subject	Sutherland
+155	Sutherland
+155	source
+source	Sutherland said the following
+155	Sutherland said the following
+155	what
+what	156
+155	156
+155	what
+what	157
+155	157
+155	what
+what	160
+155	160
+155	has Predicate
+has Predicate	say
+155	say
+155	what
+what	159
+155	159
+155	type
+type	Situation
+155	Situation
+476	what
+what	Sutherland Gold
+476	Sutherland Gold
+476	when
+when	478
+476	478
+476	source
+source	Windy Bank can use Sutherland gold
+476	Windy Bank can use Sutherland gold
+476	subject
+subject	Windy bank
+476	Windy bank
+476	has Predicate
+has Predicate	can Be Used
+476	can Be Used
+476	type
+type	Statement
+476	Statement
+476	info Source
+info Source	Holmes
+476	Holmes
+047	source
+source	Sutherland thought that
+047	Sutherland thought that
+047	has Predicate
+has Predicate	think
+047	think
+047	subject
+subject	Sutherland
+047	Sutherland
+047	type
+type	Situation
+047	Situation
+047	what
+what	048
+047	048
+348	subject
+subject	Holmes
+348	Holmes
+348	what
+what	352
+348	352
+348	source
+source	Holmes noticed the following
+348	Holmes noticed the following
+348	what
+what	350
+348	350
+348	what
+what	351
+348	351
+348	type
+type	Situation
+348	Situation
+348	has Predicate
+has Predicate	notice
+348	notice
+348	what
+what	349
+348	349
+498	what
+what	Color glasses
+498	Color glasses
+498	has Predicate
+has Predicate	wear
+498	wear
+498	type
+type	Statement
+498	Statement
+498	info Source
+info Source	Holmes
+498	Holmes
+498	subject
+subject	Windy bank
+498	Windy bank
+498	source
+source	Windy Bank wore colored glasses
+498	Windy Bank wore colored glasses
+107	info Source
+info Source	Sutherland
+107	Sutherland
+107	type
+type	Statement
+107	Statement
+107	subject
+subject	Sutherland
+107	Sutherland
+107	has Property
+has Property	enough
+107	enough
+107	source
+source	Sutherland earns enough for Sutherland
+107	Sutherland earns enough for Sutherland
+107	what
+what	Sutherland s earning
+107	Sutherland s earning
+245	what
+what	the above
+245	the above
+245	subject
+subject	Sutherland
+245	Sutherland
+245	type
+type	Statement
+245	Statement
+245	source
+source	Sutherland swore the above
+245	Sutherland swore the above
+245	has Predicate
+has Predicate	swear
+245	swear
+245	info Source
+info Source	Sutherland
+245	Sutherland
+072	subject
+subject	Sutherland s mother
+072	Sutherland s mother
+072	info Source
+info Source	Sutherland
+072	Sutherland
+072	source
+source	Sutherland's mother remarried after Sutherland's father's death
+072	Sutherland's mother remarried after Sutherland's father's death
+072	type
+type	Statement
+072	Statement
+072	has Predicate
+has Predicate	get Married Again
+072	get Married Again
+072	when
+when	After the death of Sutherland s father
+072	After the death of Sutherland s father
+410	has Predicate
+has Predicate	greet
+410	greet
+410	type
+type	Situation
+410	Situation
+410	subject
+subject	Windy bank
+410	Windy bank
+410	whom
+whom	Holmes
+410	Holmes
+410	source
+source	Windy Bank greets Holmes
+410	Windy Bank greets Holmes
+066	info Source
+info Source	Sutherland
+066	Sutherland
+066	type
+type	Statement
+066	Statement
+066	where
+where	police
+066	police
+066	has Predicate
+has Predicate	unwilling To Go
+066	unwilling To Go
+066	source
+source	Windy Bank does not want to go to the police
+066	Windy Bank does not want to go to the police
+066	subject
+subject	Windy bank
+066	Windy bank
+219	when
+when	Morning of the wedding day
+219	Morning of the wedding day
+219	source
+source	The letter came back to Sutherland on the morning of the wedding day
+219	The letter came back to Sutherland on the morning of the wedding day
+219	to
+to	Sutherland
+219	Sutherland
+219	info Source
+info Source	Sutherland
+219	Sutherland
+219	has Predicate
+has Predicate	come Back
+219	come Back
+219	type
+type	Statement
+219	Statement
+219	what
+what	letter
+219	letter
+103	subject
+subject	Sutherland
+103	Sutherland
+103	info Source
+info Source	Sutherland
+103	Sutherland
+103	has Predicate
+has Predicate	keep
+103	keep
+103	whom
+whom	parent
+103	parent
+103	type
+type	Statement
+103	Statement
+103	type
+type	Situation
+103	Situation
+103	source
+source	Sutherland keeps money with her parents while she is with them
+103	Sutherland keeps money with her parents while she is with them
+484	what
+what	Money
+484	Money
+484	info Source
+info Source	Holmes
+484	Holmes
+484	type
+type	Statement
+484	Statement
+484	has Predicate
+has Predicate	have
+484	have
+484	therefore
+therefore	486
+484	486
+484	source
+source	Sutherland has money
+484	Sutherland has money
+484	subject
+subject	Sutherland
+484	Sutherland
+228	info Source
+info Source	Sutherland
+228	Sutherland
+228	type
+type	Statement
+228	Statement
+228	subject
+subject	Hozma
+228	Hozma
+228	where
+where	Hansom horse carriage
+228	Hansom horse carriage
+228	what
+what	Sutherland s mother
+228	Sutherland s mother
+228	source
+source	Hozma put Sutherland's mother and Sutherland's mother on a Hansom carriage
+228	Hozma put Sutherland's mother and Sutherland's mother on a Hansom carriage
+228	has Predicate
+has Predicate	put On
+228	put On
+228	what
+what	Sutherland
+228	Sutherland
+560	info Source
+info Source	Holmes
+560	Holmes
+560	to
+to	Gallow
+560	Gallow
+560	type
+type	Statement
+560	Statement
+560	has Predicate
+has Predicate	go
+560	go
+560	subject
+subject	Windy bank
+560	Windy bank
+560	source
+source	Finally
+560	Finally
+560	when
+when	At last
+560	At last
+005	has Predicate
+has Predicate	wear
+005	wear
+005	source
+source	Sutherland is wearing a hat
+005	Sutherland is wearing a hat
+005	type
+type	Situation
+005	Situation
+005	what
+what	hat
+005	hat
+005	subject
+subject	Sutherland
+005	Sutherland
+263	what
+what	Sutherland s money
+263	Sutherland s money
+263	type
+type	Statement
+263	Statement
+263	subject
+subject	Hozma
+263	Hozma
+263	info Source
+info Source	Sutherland
+263	Sutherland
+263	source
+source	Hozma does not want Sutherland's money
+263	Hozma does not want Sutherland's money
+263	has Predicate
+has Predicate	not Want
+263	not Want
+359	has Property
+has Property	black
+359	black
+359	type
+type	Statement
+359	Statement
+359	what
+what	Hozma s Hair
+359	Hozma s Hair
+359	info Source
+info Source	Watson s remarks
+359	Watson s remarks
+359	source
+source	Hozma's hair is black
+359	Hozma's hair is black
+563	info Source
+info Source	Holmes
+563	Holmes
+563	source
+source	Windy Bank and Hozuma do not appear together
+563	Windy Bank and Hozuma do not appear together
+563	subject
+subject	Windy bank
+563	Windy bank
+563	subject
+subject	Hozma
+563	Hozma
+563	has Predicate
+has Predicate	not Appear
+563	not Appear
+563	how
+how	together
+563	together
+563	type
+type	Statement
+563	Statement
+194	source
+source	Hozma's voice is thin
+194	Hozma's voice is thin
+194	type
+type	Statement
+194	Statement
+194	what
+what	Hozma s voice
+194	Hozma s voice
+194	has Predicate
+has Predicate	thin
+194	thin
+194	info Source
+info Source	Sutherland
+194	Sutherland
+211	type
+type	Statement
+211	Statement
+211	has Predicate
+has Predicate	get Married
+211	get Married
+211	when
+when	this week
+211	this week
+211	subject
+subject	Hozma
+211	Hozma
+211	source
+source	Hozma will marry Sutherland this week
+211	Hozma will marry Sutherland this week
+211	info Source
+info Source	Hozma s statement
+211	Hozma s statement
+211	after
+after	215
+211	215
+211	whom
+whom	Sutherland
+211	Sutherland
+544	why
+why	Assault threat
+544	Assault threat
+544	has Predicate
+has Predicate	can Sue
+544	can Sue
+544	info Source
+info Source	Windybank s remarks
+544	Windybank s remarks
+544	source
+source	Windy Bank can sue Holmes for beating threat and illegal detention
+544	Windy Bank can sue Holmes for beating threat and illegal detention
+544	when
+when	547
+544	547
+544	what
+what	Holmes
+544	Holmes
+544	type
+type	Statement
+544	Statement
+544	subject
+subject	Windy bank
+544	Windy bank
+544	why
+why	Illegally
+544	Illegally
+440	subject
+subject	Windy bank
+440	Windy bank
+440	source
+source	Windy Bank said
+440	Windy Bank said
+440	what
+what	441
+440	441
+440	has Predicate
+has Predicate	say
+440	say
+440	type
+type	Situation
+440	Situation
+440	what
+what	443
+440	443
+478	type
+type	Statement
+478	Statement
+478	subject
+subject	Windy bank
+478	Windy bank
+478	has Predicate
+has Predicate	live
+478	live
+478	what
+what	With Sutherland
+478	With Sutherland
+478	source
+source	Windy Bank lives with Sutherland
+478	Windy Bank lives with Sutherland
+478	info Source
+info Source	Holmes
+478	Holmes
+058	type
+type	Statement
+058	Statement
+058	subject
+subject	Sutherland
+058	Sutherland
+058	has Property
+has Property	typist
+058	typist
+058	info Source
+info Source	Sutherland
+058	Sutherland
+058	source
+source	Sutherland is a typing
+058	Sutherland is a typing
+575	has Predicate
+has Predicate	match
+575	match
+575	source
+source	The characteristics of the type matched Hozma
+575	The characteristics of the type matched Hozma
+575	info Source
+info Source	Holmes
+575	Holmes
+575	subject
+subject	Type features
+575	Type features
+575	what
+what	With hozma
+575	With hozma
+575	type
+type	Statement
+575	Statement
+096	has Predicate
+has Predicate	get
+096	get
+096	source
+source	Sutherland gets 100 pounds a year
+096	Sutherland gets 100 pounds a year
+096	what
+what	100 pounds
+096	100 pounds
+096	when
+when	one year
+096	one year
+096	type
+type	Thought
+096	Thought
+096	info Source
+info Source	Holmes
+096	Holmes
+096	subject
+subject	Sutherland
+096	Sutherland
+116	subject
+subject	Sutherland
+116	Sutherland
+116	info Source
+info Source	Sutherland
+116	Sutherland
+116	source
+source	Sutherland's and Sutherland's mother went to the ball after Sutherland's father's death
+116	Sutherland's and Sutherland's mother went to the ball after Sutherland's father's death
+116	to
+to	Ball
+116	Ball
+116	subject
+subject	Sutherland s mother
+116	Sutherland s mother
+116	type
+type	Statement
+116	Statement
+116	when
+when	After the death of Sutherland s father
+116	After the death of Sutherland s father
+116	has Predicate
+has Predicate	go
+116	go
+180	source
+source	Handwritten letter feels Sutherland
+180	Handwritten letter feels Sutherland
+180	info Source
+info Source	Hozma s statement
+180	Hozma s statement
+180	has Predicate
+has Predicate	feel
+180	feel
+180	subject
+subject	Sutherland
+180	Sutherland
+180	type
+type	Statement
+180	Statement
+180	what
+what	Handwritten letter
+180	Handwritten letter
+204	type
+type	Statement
+204	Statement
+204	has Property
+has Property	enthusiastic
+204	enthusiastic
+204	source
+source	Hozma was keen
+204	Hozma was keen
+204	subject
+subject	Hozma
+204	Hozma
+204	info Source
+info Source	Sutherland
+204	Sutherland
+letter	type
+type	PhysicalObject
+letter	PhysicalObject
+letter	label
+label	letter
+letter	letter
+388	source
+source	Holmes writes the following to letter 2
+388	Holmes writes the following to letter 2
+388	has Predicate
+has Predicate	write
+388	write
+388	info Source
+info Source	Holmes
+388	Holmes
+388	subject
+subject	Holmes
+388	Holmes
+388	what
+what	In letter 2
+388	In letter 2
+388	type
+type	Statement
+388	Statement
+388	what
+what	389
+388	389
+181	type
+type	Statement
+181	Statement
+181	has Predicate
+has Predicate	feel
+181	feel
+181	info Source
+info Source	Hozma s statement
+181	Hozma s statement
+181	what
+what	Typing letter
+181	Typing letter
+181	source
+source	Typing letter feels machine
+181	Typing letter feels machine
+181	what
+what	machine
+181	machine
+043	info Source
+info Source	Holmes
+043	Holmes
+043	has Predicate
+has Predicate	recognize
+043	recognize
+043	source
+source	Sutherland knows the position of the character
+043	Sutherland knows the position of the character
+043	what
+what	Character position
+043	Character position
+043	subject
+subject	Sutherland
+043	Sutherland
+043	type
+type	Statement
+043	Statement
+564	source
+source	Colored glasses and voices and whistles reminiscent of disguise
+564	Colored glasses and voices and whistles reminiscent of disguise
+564	what
+what	Moth
+564	Moth
+564	info Source
+info Source	Holmes
+564	Holmes
+564	type
+type	Statement
+564	Statement
+564	what
+what	disguise
+564	disguise
+564	what
+what	With voice
+564	With voice
+564	has Predicate
+has Predicate	make Think
+564	make Think
+564	what
+what	Color glasses
+564	Color glasses
+412	what
+what	413
+412	413
+412	subject
+subject	Holmes
+412	Holmes
+412	type
+type	Situation
+412	Situation
+412	source
+source	Holmes said the following
+412	Holmes said the following
+412	has Predicate
+has Predicate	say
+412	say
+the_words_of_Holmes	of Part
+of Part	the words
+the_words_of_Holmes	the words
+the_words_of_Holmes	type
+type	OFobj
+the_words_of_Holmes	OFobj
+the_words_of_Holmes	label
+label	the words of Holmes
+the_words_of_Holmes	the words of Holmes
+the_words_of_Holmes	of Whole
+of Whole	Holmes
+the_words_of_Holmes	Holmes
+309	info Source
+info Source	Watson s remarks
+309	Watson s remarks
+309	has Predicate
+has Predicate	attached
+309	attached
+309	what
+what	Small black ball ornament
+309	Small black ball ornament
+309	source
+source	A small black beaded ornament is attached to the hem border edge
+309	A small black beaded ornament is attached to the hem border edge
+309	on
+on	At the edge of the hem
+309	At the edge of the hem
+309	type
+type	Statement
+309	Statement
+216	has Predicate
+has Predicate	want To Report
+216	want To Report
+216	info Source
+info Source	Sutherland
+216	Sutherland
+216	source
+source	Sutherland wants to report to Windy Bank before the wedding
+216	Sutherland wants to report to Windy Bank before the wedding
+216	subject
+subject	Sutherland
+216	Sutherland
+216	what
+what	To Windy Bank
+216	To Windy Bank
+216	type
+type	Statement
+216	Statement
+216	when
+when	Before the wedding
+216	Before the wedding
+541	what
+what	542
+541	542
+541	what
+what	544
+541	544
+541	what
+what	546
+541	546
+541	type
+type	Situation
+541	Situation
+541	what
+what	545
+541	545
+541	what
+what	547
+541	547
+541	subject
+subject	Windy bank
+541	Windy bank
+541	what
+what	543
+541	543
+541	has Predicate
+has Predicate	say
+541	say
+541	source
+source	Windy Bank said
+541	Windy Bank said
+290	type
+type	Situation
+290	Situation
+290	subject
+subject	Sutherland
+290	Sutherland
+290	where
+where	Holmes
+290	Holmes
+290	source
+source	Sutherland will come to Holmes when called
+290	Sutherland will come to Holmes when called
+290	has Predicate
+has Predicate	come
+290	come
+290	when
+when	be called
+290	be called
+464	what
+what	Around
+464	Around
+464	has Predicate
+has Predicate	look Around
+464	look Around
+464	type
+type	Situation
+464	Situation
+464	subject
+subject	Windy bank
+464	Windy bank
+464	source
+source	Windy Bank looked around
+464	Windy Bank looked around
+008	at the same time
+at the same time	010
+008	010
+008	to
+to	window
+008	window
+008	has Predicate
+has Predicate	be Directed
+008	be Directed
+008	source
+source	Sutherland's gaze is directed at the window
+008	Sutherland's gaze is directed at the window
+008	type
+type	Situation
+008	Situation
+008	what
+what	Sazaar s gaze
+008	Sazaar s gaze
+570	info Source
+info Source	Holmes
+570	Holmes
+570	what
+what	voice
+570	voice
+570	what
+what	Moth
+570	Moth
+570	from
+from	Personal statement
+570	Personal statement
+570	subject
+subject	Holmes
+570	Holmes
+570	has Predicate
+has Predicate	remove
+570	remove
+570	source
+source	Holmes removed eyebrows
+570	Holmes removed eyebrows
+570	what
+what	glasses
+570	glasses
+570	type
+type	Statement
+570	Statement
+193	type
+type	Statement
+193	Statement
+193	info Source
+info Source	Sutherland
+193	Sutherland
+193	subject
+subject	Hozma
+193	Hozma
+193	has Property
+has Property	gentlemanly
+193	gentlemanly
+193	source
+source	Hozma is a gentleman
+193	Hozma is a gentleman
+100	has Predicate
+has Predicate	say
+100	say
+100	what
+what	104
+100	104
+100	subject
+subject	Sutherland
+100	Sutherland
+100	what
+what	102
+100	102
+100	what
+what	108
+100	108
+100	what
+what	107
+100	107
+100	what
+what	105
+100	105
+100	what
+what	106
+100	106
+100	what
+what	101
+100	101
+100	type
+type	Situation
+100	Situation
+100	what
+what	109
+100	109
+100	what
+what	103
+100	103
+100	source
+source	Sutherland said the following
+100	Sutherland said the following
+405	type
+type	Situation
+405	Situation
+405	source
+source	The color of Windy Bank is bad
+405	The color of Windy Bank is bad
+405	has Predicate
+has Predicate	bad
+405	bad
+405	what
+what	Windy bank complexion
+405	Windy bank complexion
+322	what
+what	339
+322	339
+322	what
+what	332
+322	332
+322	what
+what	329
+322	329
+322	what
+what	325
+322	325
+322	what
+what	338
+322	338
+322	what
+what	337
+322	337
+322	subject
+subject	Holmes
+322	Holmes
+322	source
+source	Holmes said the following
+322	Holmes said the following
+322	what
+what	323
+322	323
+322	has Predicate
+has Predicate	say
+322	say
+322	what
+what	333
+322	333
+322	what
+what	331
+322	331
+322	what
+what	328
+322	328
+322	what
+what	336
+322	336
+322	what
+what	324
+322	324
+322	what
+what	326
+322	326
+322	what
+what	327
+322	327
+322	what
+what	334
+322	334
+322	type
+type	Situation
+322	Situation
+322	what
+what	335
+322	335
+322	what
+what	330
+322	330
+176	info Source
+info Source	Hozma s statement
+176	Hozma s statement
+176	source
+source	Sutherland's letter arrives at the office
+176	Sutherland's letter arrives at the office
+176	has Predicate
+has Predicate	reach
+176	reach
+176	type
+type	Statement
+176	Statement
+176	subject
+subject	Sutherland s letter
+176	Sutherland s letter
+176	to
+to	Office
+176	Office
+383	if
+if	385
+383	385
+383	type
+type	Statement
+383	Statement
+383	source
+source	Hozma's disappearance resolves
+383	Hozma's disappearance resolves
+383	info Source
+info Source	Holmes
+383	Holmes
+383	what
+what	Hozma lost
+383	Hozma lost
+383	has Predicate
+has Predicate	Solve
+383	Solve
+053	what
+what	Holmes
+053	Holmes
+053	info Source
+info Source	Sutherland
+053	Sutherland
+053	has Predicate
+has Predicate	Hear
+053	Hear
+053	subject
+subject	Sutherland
+053	Sutherland
+053	source
+source	Sutherland heard Holmes from Esaridge
+053	Sutherland heard Holmes from Esaridge
+053	from
+from	Etheridge
+053	Etheridge
+053	type
+type	Statement
+053	Statement
+227	when
+when	Last Friday
+227	Last Friday
+227	source
+source	Last Friday
+227	Last Friday
+227	how
+how	By hansom carriage
+227	By hansom carriage
+227	subject
+subject	Hozma
+227	Hozma
+227	time
+time	1891-08-28 00:00:00
+227	1891-08-28 00:00:00
+227	info Source
+info Source	Sutherland
+227	Sutherland
+227	type
+type	Statement
+227	Statement
+227	when
+when	1891-08-28
+227	1891-08-28
+227	has Predicate
+has Predicate	come
+227	come
+one_year	label
+label	one year
+one_year	one year
+one_year	type
+type	AbstractTime
+one_year	AbstractTime
+471	type
+type	Statement
+471	Statement
+471	what
+what	Windy bank
+471	Windy bank
+471	has Predicate
+has Predicate	not Complain
+471	not Complain
+471	subject
+subject	Holmes
+471	Holmes
+471	source
+source	Holmes does not sue Windy Bank
+471	Holmes does not sue Windy Bank
+471	info Source
+info Source	Windybank s remarks
+471	Windybank s remarks
+086	what
+what	087
+086	087
+086	source
+source	Sutherland said the following
+086	Sutherland said the following
+086	what
+what	088
+086	088
+086	type
+type	Situation
+086	Situation
+086	subject
+subject	Sutherland
+086	Sutherland
+086	has Predicate
+has Predicate	say
+086	say
+086	what
+what	091
+086	091
+086	what
+what	089
+086	089
+086	what
+what	090
+086	090
+086	what
+what	092
+086	092
+086	what
+what	093
+086	093
+004	has Predicate
+has Predicate	wrap
+004	wrap
+004	type
+type	Situation
+004	Situation
+004	where
+where	Pavement opposite
+004	Pavement opposite
+004	source
+source	Sutherland wraps around on the opposite pavement
+004	Sutherland wraps around on the opposite pavement
+004	subject
+subject	Sutherland
+004	Sutherland
+004	what
+what	Scarf
+004	Scarf
+149	source
+source	Windy Bank returned home
+149	Windy Bank returned home
+149	subject
+subject	Windy bank
+149	Windy bank
+149	after
+after	150
+149	150
+149	type
+type	Statement
+149	Statement
+149	where
+where	Windy bank s House
+149	Windy bank s House
+149	has Predicate
+has Predicate	return
+149	return
+149	info Source
+info Source	Sutherland
+149	Sutherland
+095	subject
+subject	Sutherland
+095	Sutherland
+095	info Source
+info Source	Holmes
+095	Holmes
+095	type
+type	Thought
+095	Thought
+095	source
+source	Sutherland is interesting
+095	Sutherland is interesting
+095	has Property
+has Property	interesting
+095	interesting
+133	type
+type	Statement
+133	Statement
+133	has Predicate
+has Predicate	go
+133	go
+133	info Source
+info Source	Sutherland
+133	Sutherland
+133	source
+source	Sutherland and her mother and Hardy went to the ball
+133	Sutherland and her mother and Hardy went to the ball
+133	subject
+subject	Sutherland
+133	Sutherland
+133	where
+where	Dance
+133	Dance
+133	subject
+subject	Sutherland s mother
+133	Sutherland s mother
+133	subject
+subject	Hardy
+133	Hardy
+182	source
+source	Sutherland said the following
+182	Sutherland said the following
+182	what
+what	183
+182	183
+182	what
+what	184
+182	184
+182	has Predicate
+has Predicate	say
+182	say
+182	subject
+subject	Sutherland
+182	Sutherland
+182	type
+type	Situation
+182	Situation
+374	what
+what	date
+374	date
+374	has Predicate
+has Predicate	have
+374	have
+374	what
+what	letter
+374	letter
+374	info Source
+info Source	Holmes
+374	Holmes
+374	type
+type	Statement
+374	Statement
+374	source
+source	Letter has a date
+374	Letter has a date
+091	type
+type	Statement
+091	Statement
+091	info Source
+info Source	Sutherland
+091	Sutherland
+091	what
+what	Heritage dividend
+091	Heritage dividend
+091	has Property
+has Property	quarter five
+091	quarter five
+091	source
+source	The dividend of the heritage is quarter and five o'clock
+091	The dividend of the heritage is quarter and five o'clock
+248	has Predicate
+has Predicate	understand
+248	understand
+248	info Source
+info Source	Sutherland
+248	Sutherland
+248	what
+what	Words of hozma
+248	Words of hozma
+248	subject
+subject	Sutherland
+248	Sutherland
+248	type
+type	Statement
+248	Statement
+248	when
+when	Current
+248	Current
+248	source
+source	Sutherland now understands the language of Hozma
+248	Sutherland now understands the language of Hozma
+breakfast	type
+type	PhysicalObject
+breakfast	PhysicalObject
+breakfast	label
+label	breakfast
+breakfast	breakfast
+239	info Source
+info Source	Sutherland
+239	Sutherland
+239	subject
+subject	Hozma
+239	Hozma
+239	has Predicate
+has Predicate	not Send
+239	not Send
+239	type
+type	Statement
+239	Statement
+239	what
+what	letter
+239	letter
+239	source
+source	Hozma does not send letters
+239	Hozma does not send letters
+067	source
+source	Windy Bank does not want to visit Holmes
+067	Windy Bank does not want to visit Holmes
+067	whom
+whom	Holmes
+067	Holmes
+067	subject
+subject	Windy bank
+067	Windy bank
+067	type
+type	Statement
+067	Statement
+067	info Source
+info Source	Sutherland
+067	Sutherland
+067	has Predicate
+has Predicate	not Want To Visit
+067	not Want To Visit
+529	info Source
+info Source	Holmes
+529	Holmes
+529	when
+when	The morning of the wedding day
+529	The morning of the wedding day
+529	source
+source	An incident occurs on the morning of the wedding day
+529	An incident occurs on the morning of the wedding day
+529	type
+type	Statement
+529	Statement
+529	has Predicate
+has Predicate	occur
+529	occur
+529	what
+what	Incident
+529	Incident
+117	type
+type	Statement
+117	Statement
+117	subject
+subject	Windy bank
+117	Windy bank
+117	source
+source	Windy Bank does not know
+117	Windy Bank does not know
+117	info Source
+info Source	Sutherland
+117	Sutherland
+117	has Predicate
+has Predicate	not Accept
+117	not Accept
+117	what
+what	118
+117	118
+408	type
+type	Situation
+408	Situation
+408	has Predicate
+has Predicate	see
+408	see
+408	source
+source	Windy Bank saw Holmes and Watson
+408	Windy Bank saw Holmes and Watson
+408	whom
+whom	Holmes
+408	Holmes
+408	subject
+subject	Windy bank
+408	Windy bank
+408	whom
+whom	Watson
+408	Watson
+033	has Predicate
+has Predicate	tell
+033	tell
+033	subject
+subject	Service Boy
+033	Service Boy
+033	type
+type	Situation
+033	Situation
+033	source
+source	A boy at the service uniform tells Sutherland
+033	A boy at the service uniform tells Sutherland
+221	when
+when	Just before the letter arrives
+221	Just before the letter arrives
+221	source
+source	Windy Bank left for England just before the letter arrived
+221	Windy Bank left for England just before the letter arrived
+221	has Predicate
+has Predicate	reach
+221	reach
+221	subject
+subject	Windy bank
+221	Windy bank
+221	type
+type	Statement
+221	Statement
+221	info Source
+info Source	Sutherland
+221	Sutherland
+192	info Source
+info Source	Sutherland
+192	Sutherland
+192	type
+type	Statement
+192	Statement
+192	has Property
+has Property	shy
+192	shy
+192	subject
+subject	Hozma
+192	Hozma
+192	source
+source	Hozma is shy
+192	Hozma is shy
+reply	label
+label	reply
+reply	reply
+reply	type
+type	PhysicalObject
+reply	PhysicalObject
+011	type
+type	Situation
+011	Situation
+011	what
+what	Glove button
+011	Glove button
+011	subject
+subject	Sutherland
+011	Sutherland
+011	has Predicate
+has Predicate	mess
+011	mess
+011	source
+source	Sutherland is tinkering with the glove button
+011	Sutherland is tinkering with the glove button
+108	what
+what	one sheet
+108	one sheet
+108	what
+what	2 pence
+108	2 pence
+108	info Source
+info Source	Sutherland
+108	Sutherland
+108	has Predicate
+has Predicate	obtain
+108	obtain
+108	subject
+subject	Sutherland
+108	Sutherland
+108	source
+source	Sutherland gets 2 pence with one
+108	Sutherland gets 2 pence with one
+108	type
+type	Statement
+108	Statement
+329	info Source
+info Source	Holmes
+329	Holmes
+329	type
+type	Statement
+329	Statement
+329	what
+what	Man s trousers knee
+329	Man s trousers knee
+329	source
+source	Holmes looks at the knee of a man's pants
+329	Holmes looks at the knee of a man's pants
+329	subject
+subject	Holmes
+329	Holmes
+329	has Predicate
+has Predicate	see
+329	see
+515	info Source
+info Source	Holmes
+515	Holmes
+515	source
+source	Hozma met Sutherland many times
+515	Hozma met Sutherland many times
+515	type
+type	Statement
+515	Statement
+515	subject
+subject	Hozma
+515	Hozma
+515	what
+what	With Sutherland
+515	With Sutherland
+515	how
+how	Many times
+515	Many times
+515	has Predicate
+has Predicate	meet
+515	meet
+305	info Source
+info Source	Watson s remarks
+305	Watson s remarks
+305	type
+type	Statement
+305	Statement
+305	has Predicate
+has Predicate	wearing
+305	wearing
+305	what
+what	Blackboard colored straw hat with straw hat
+305	Blackboard colored straw hat with straw hat
+305	subject
+subject	Sutherland
+305	Sutherland
+305	source
+source	Sutherland wore a straw hat with a blackboard color
+305	Sutherland wore a straw hat with a blackboard color
+201	what
+what	Color glasses
+201	Color glasses
+201	has Predicate
+has Predicate	have
+201	have
+201	source
+source	Hozma has colored glasses
+201	Hozma has colored glasses
+201	info Source
+info Source	Sutherland
+201	Sutherland
+201	subject
+subject	Hozma
+201	Hozma
+201	type
+type	Statement
+201	Statement
+389	whom
+whom	Windy bank
+389	Windy bank
+389	type
+type	Statement
+389	Statement
+389	time
+time	1891-09-02 18:00:00
+389	1891-09-02 18:00:00
+389	info Source
+info Source	Holmes
+389	Holmes
+389	when
+when	Tommorw s evening 6 o clock
+389	Tommorw s evening 6 o clock
+389	source
+source	Holmes wants to see Windy Bank at 6 o'clock in the evening
+389	Holmes wants to see Windy Bank at 6 o'clock in the evening
+389	subject
+subject	Holmes
+389	Holmes
+389	when
+when	1891-09-02T18
+389	1891-09-02T18
+389	has Predicate
+has Predicate	want To Meet
+389	want To Meet
+cheek_brow	label
+label	cheek brow
+cheek_brow	cheek brow
+cheek_brow	type
+type	PhysicalObject
+cheek_brow	PhysicalObject
+362	info Source
+info Source	Watson s remarks
+362	Watson s remarks
+362	type
+type	Statement
+362	Statement
+362	subject
+subject	Hozma
+362	Hozma
+362	what
+what	Color glasses
+362	Color glasses
+362	source
+source	Hozma has colored glasses
+362	Hozma has colored glasses
+362	has Predicate
+has Predicate	have
+362	have
+the_type	type
+type	Object
+the_type	Object
+the_type	label
+label	the type
+the_type	the type
+advice	label
+label	advice
+advice	advice
+advice	type
+type	PhysicalObject
+advice	PhysicalObject
+501	info Source
+info Source	Holmes
+501	Holmes
+501	type
+type	Statement
+501	Statement
+501	source
+source	Disguise is safe
+501	Disguise is safe
+501	subject
+subject	disguise
+501	disguise
+501	because
+because	503
+501	503
+501	has Property
+has Property	safe
+501	safe
+474	type
+type	Statement
+474	Statement
+474	how
+how	Cruel
+474	Cruel
+474	info Source
+info Source	Holmes
+474	Holmes
+474	has Predicate
+has Predicate	meet
+474	meet
+474	source
+source	Holmes first met a cruel and selfish treat
+474	Holmes first met a cruel and selfish treat
+474	subject
+subject	Holmes
+474	Holmes
+474	what
+what	For selfish treats
+474	For selfish treats
+152	has Predicate
+has Predicate	enter
+152	enter
+152	subject
+subject	Customer
+152	Customer
+152	info Source
+info Source	Sutherland
+152	Sutherland
+152	where
+where	Sutherland s House
+152	Sutherland s House
+152	type
+type	Statement
+152	Statement
+152	source
+source	The customer enters the house
+152	The customer enters the house
+073	info Source
+info Source	Sutherland
+073	Sutherland
+073	source
+source	Sutherland's father is a plumber in Totenham Court
+073	Sutherland's father is a plumber in Totenham Court
+073	where
+where	Totenham Court street
+073	Totenham Court street
+073	has Property
+has Property	plumbing business
+073	plumbing business
+073	subject
+subject	Sutherland s father
+073	Sutherland s father
+073	type
+type	Statement
+073	Statement
+508	source
+source	Windy Bank did not think of
+508	Windy Bank did not think of
+508	has Predicate
+has Predicate	not Think
+508	not Think
+508	type
+type	Situation
+508	Situation
+508	what
+what	509
+508	509
+508	subject
+subject	Windy bank
+508	Windy bank
+538	subject
+subject	Windy bank
+538	Windy bank
+538	from
+from	Opposite door
+538	Opposite door
+538	has Predicate
+has Predicate	go Out
+538	go Out
+538	type
+type	Statement
+538	Statement
+538	info Source
+info Source	Holmes
+538	Holmes
+538	source
+source	Windy Bank came out of the opposite door
+538	Windy Bank came out of the opposite door
+223	what
+what	wedding
+223	wedding
+223	time
+time	1891-08-28 00:00:00
+223	1891-08-28 00:00:00
+223	has Predicate
+has Predicate	do
+223	do
+223	type
+type	Statement
+223	Statement
+223	source
+source	Wedding will be on friday
+223	Wedding will be on friday
+223	info Source
+info Source	Sutherland
+223	Sutherland
+223	when
+when	1891-08-28
+223	1891-08-28
+223	when
+when	Friday
+223	Friday
+505	because
+because	507
+505	507
+505	what
+what	others
+505	others
+505	info Source
+info Source	Holmes
+505	Holmes
+505	source
+source	Windy Bank chases others from Sutherland
+505	Windy Bank chases others from Sutherland
+505	subject
+subject	Windy bank
+505	Windy bank
+505	has Predicate
+has Predicate	chase Away
+505	chase Away
+505	from
+from	Sutherland
+505	Sutherland
+505	type
+type	Statement
+505	Statement
+355	time
+time	1891-08-14 09:00:00
+355	1891-08-14 09:00:00
+355	when
+when	1891-08-14T09
+355	1891-08-14T09
+355	type
+type	Statement
+355	Statement
+355	when
+when	14th Monday
+355	14th Monday
+355	subject
+subject	Hozma
+355	Hozma
+355	info Source
+info Source	Watson s remarks
+355	Watson s remarks
+355	has Predicate
+has Predicate	disappear
+355	disappear
+355	source
+source	Hozma disappeared on the morning of the 14th
+355	Hozma disappeared on the morning of the 14th
+035	source
+source	Holmes welcomes Sutherland
+035	Holmes welcomes Sutherland
+035	what
+what	Sutherland
+035	Sutherland
+035	subject
+subject	Holmes
+035	Holmes
+035	has Predicate
+has Predicate	welcome
+035	welcome
+035	type
+type	Situation
+035	Situation
+276	subject
+subject	Sutherland
+276	Sutherland
+276	type
+type	Situation
+276	Situation
+276	source
+source	Sutherland gave Hozma a letter to Holmes
+276	Sutherland gave Hozma a letter to Holmes
+276	what
+what	Hosma s letter
+276	Hosma s letter
+276	whom
+whom	Holmes
+276	Holmes
+276	has Predicate
+has Predicate	hand Over
+276	hand Over
+479	source
+source	Sutherland's money is big money
+479	Sutherland's money is big money
+479	subject
+subject	Sutherland Gold
+479	Sutherland Gold
+479	info Source
+info Source	Holmes
+479	Holmes
+479	type
+type	Statement
+479	Statement
+479	has Property
+has Property	lot of money
+479	lot of money
+137	source
+source	Sutherland went to a ball
+137	Sutherland went to a ball
+137	info Source
+info Source	Holmes
+137	Holmes
+137	where
+where	Dance
+137	Dance
+137	has Predicate
+has Predicate	go Out
+137	go Out
+137	type
+type	Thought
+137	Thought
+137	subject
+subject	Sutherland
+137	Sutherland
+411	type
+type	Situation
+411	Situation
+411	has Predicate
+has Predicate	sit
+411	sit
+411	subject
+subject	Windy bank
+411	Windy bank
+411	source
+source	Windy Bank sat in a chair
+411	Windy Bank sat in a chair
+411	what
+what	chair
+411	chair
+336	source
+source	The right wrist double line is a trace of type
+336	The right wrist double line is a trace of type
+336	has Property
+has Property	trace of the type
+336	trace of the type
+336	type
+type	Statement
+336	Statement
+336	what
+what	Right wrist double wire
+336	Right wrist double wire
+336	info Source
+info Source	Holmes
+336	Holmes
+503	info Source
+info Source	Holmes
+503	Holmes
+503	source
+source	Sutherland is nearsighted
+503	Sutherland is nearsighted
+503	type
+type	Statement
+503	Statement
+503	subject
+subject	Sutherland
+503	Sutherland
+503	has Property
+has Property	close eye
+503	close eye
+020	subject
+subject	Sutherland
+020	Sutherland
+020	source
+source	Sutherland suffers from
+020	Sutherland suffers from
+020	type
+type	Statement
+020	Statement
+020	what
+what	021
+020	021
+020	info Source
+info Source	Holmes
+020	Holmes
+020	has Predicate
+has Predicate	be Worried
+020	be Worried
+549	has Predicate
+has Predicate	cannot Handle
+549	cannot Handle
+549	source
+source	Law can not handle Windy Bank
+549	Law can not handle Windy Bank
+549	subject
+subject	law
+549	law
+549	info Source
+info Source	Holmes
+549	Holmes
+549	type
+type	Statement
+549	Statement
+549	what
+what	Windy bank
+549	Windy bank
+136	what
+what	137
+136	137
+136	info Source
+info Source	Holmes
+136	Holmes
+136	source
+source	Windy Bank complained of
+136	Windy Bank complained of
+136	has Property
+has Property	dissatisfied
+136	dissatisfied
+136	subject
+subject	Windy bank
+136	Windy bank
+136	type
+type	Thought
+136	Thought
+038	has Predicate
+has Predicate	look Around
+038	look Around
+038	source
+source	Holmes looks over Sutherland
+038	Holmes looks over Sutherland
+038	type
+type	Situation
+038	Situation
+038	what
+what	Sutherland
+038	Sutherland
+038	subject
+subject	Holmes
+038	Holmes
+110	whom
+whom	Sutherland
+110	Sutherland
+110	has Predicate
+has Predicate	listen
+110	listen
+110	source
+source	Holmes listens to Sutherland about the relationship between Sutherland and Hosma
+110	Holmes listens to Sutherland about the relationship between Sutherland and Hosma
+110	type
+type	Situation
+110	Situation
+110	what
+what	relationship between Sutherland and Hosma
+110	relationship between Sutherland and Hosma
+110	subject
+subject	Holmes
+110	Holmes
+characteristics_of_the_type	of Whole
+of Whole	the type
+characteristics_of_the_type	the type
+characteristics_of_the_type	label
+label	characteristics of the type
+characteristics_of_the_type	characteristics of the type
+characteristics_of_the_type	type
+type	PhysicalObject
+characteristics_of_the_type	PhysicalObject
+characteristics_of_the_type	of Part
+of Part	characteristics
+characteristics_of_the_type	characteristics
+characteristics_of_the_type	type
+type	OFobj
+characteristics_of_the_type	OFobj
+one_sheet	label
+label	one sheet
+one_sheet	one sheet
+one_sheet	type
+type	PhysicalObject
+one_sheet	PhysicalObject
+286	has Predicate
+has Predicate	unforgettable
+286	unforgettable
+286	source
+source	Sutherland can not forget Hozma
+286	Sutherland can not forget Hozma
+286	info Source
+info Source	Sutherland
+286	Sutherland
+286	subject
+subject	Sutherland
+286	Sutherland
+286	type
+type	Statement
+286	Statement
+286	whom
+whom	Hozma
+286	Hozma
+235	subject
+subject	The god
+235	The god
+235	type
+type	Statement
+235	Statement
+235	info Source
+info Source	Sutherland
+235	Sutherland
+235	has Predicate
+has Predicate	not Understand
+235	not Understand
+235	what
+what	Where is he located?
+235	Where is he located?
+235	source
+source	He does not know where Hozma is
+235	He does not know where Hozma is
+039	source
+source	Holmes said the following
+039	Holmes said the following
+039	what
+what	040
+039	040
+039	type
+type	Situation
+039	Situation
+039	subject
+subject	Holmes
+039	Holmes
+039	has Predicate
+has Predicate	say
+039	say
+138	has Predicate
+has Predicate	think
+138	think
+138	type
+type	Situation
+138	Situation
+138	subject
+subject	Sutherland
+138	Sutherland
+138	what
+what	139
+138	139
+138	source
+source	Sutherland thought that
+138	Sutherland thought that
+151	what
+what	152
+151	152
+151	source
+source	Windy Bank dislikes
+151	Windy Bank dislikes
+151	info Source
+info Source	Sutherland
+151	Sutherland
+151	subject
+subject	Windy bank
+151	Windy bank
+151	has Predicate
+has Predicate	dislike
+151	dislike
+151	type
+type	Statement
+151	Statement
+339	what
+what	By type
+339	By type
+339	subject
+subject	Holmes
+339	Holmes
+339	type
+type	Statement
+339	Statement
+339	info Source
+info Source	Holmes
+339	Holmes
+339	what
+what	Sutherland
+339	Sutherland
+339	what
+what	Near sight
+339	Near sight
+339	at the same time
+at the same time	341
+339	341
+339	source
+source	Holmes surprised Sutherland with myopia and type
+339	Holmes surprised Sutherland with myopia and type
+339	has Predicate
+has Predicate	surprise
+339	surprise
+123	what
+what	Sutherland
+123	Sutherland
+123	info Source
+info Source	Sutherland
+123	Sutherland
+123	source
+source	Windy Bank can not stop Sutherland
+123	Windy Bank can not stop Sutherland
+123	subject
+subject	Windy bank
+123	Windy bank
+123	type
+type	Statement
+123	Statement
+123	has Predicate
+has Predicate	cannot Stop
+123	cannot Stop
+307	type
+type	Statement
+307	Statement
+307	source
+source	Sutherland's jacket was black
+307	Sutherland's jacket was black
+307	has Property
+has Property	black
+307	black
+307	info Source
+info Source	Watson s remarks
+307	Watson s remarks
+307	what
+what	Sutherland coat
+307	Sutherland coat
+381	type
+type	Situation
+381	Situation
+381	source
+source	Holmes said the following
+381	Holmes said the following
+381	what
+what	389
+381	389
+381	what
+what	387
+381	387
+381	what
+what	388
+381	388
+381	has Predicate
+has Predicate	say
+381	say
+381	subject
+subject	Holmes
+381	Holmes
+381	what
+what	385
+381	385
+381	what
+what	383
+381	383
+381	what
+what	382
+381	382
+381	what
+what	386
+381	386
+381	what
+what	384
+381	384
+030	subject
+subject	Women s troubles
+030	Women s troubles
+030	source
+source	Women's troubles can be solved quickly
+030	Women's troubles can be solved quickly
+030	how
+how	Immediately
+030	Immediately
+030	type
+type	Statement
+030	Statement
+030	info Source
+info Source	Holmes
+030	Holmes
+030	has Predicate
+has Predicate	cna Solve
+030	cna Solve
+233	has Predicate
+has Predicate	look In
+233	look In
+233	source
+source	A chariot wandered under the chariot
+233	A chariot wandered under the chariot
+233	type
+type	Statement
+233	Statement
+233	info Source
+info Source	Sutherland
+233	Sutherland
+233	where
+where	Under the marsoon
+233	Under the marsoon
+233	subject
+subject	The Horseman
+233	The Horseman
+300	subject
+subject	Watson
+300	Watson
+300	what
+what	Important point
+300	Important point
+300	info Source
+info Source	Holmes
+300	Holmes
+300	has Predicate
+has Predicate	overlook
+300	overlook
+300	source
+source	Watson overlooks an important point
+300	Watson overlooks an important point
+300	type
+type	Statement
+300	Statement
+310	source
+source	The clothes were brown
+310	The clothes were brown
+310	info Source
+info Source	Watson s remarks
+310	Watson s remarks
+310	has Property
+has Property	brown
+310	brown
+310	what
+what	clothes
+310	clothes
+310	type
+type	Statement
+310	Statement
+349	has Predicate
+has Predicate	come
+349	come
+349	subject
+subject	Sutherland
+349	Sutherland
+349	source
+source	This morning
+349	This morning
+349	when
+when	this morning
+349	this morning
+349	info Source
+info Source	Holmes
+349	Holmes
+349	type
+type	Statement
+349	Statement
+349	where
+where	Holmes
+349	Holmes
+349	how
+how	Quickly
+349	Quickly
+113	what
+what	115
+113	115
+113	what
+what	124
+113	124
+113	what
+what	114
+113	114
+113	type
+type	Situation
+113	Situation
+113	what
+what	117
+113	117
+113	what
+what	118
+113	118
+113	what
+what	123
+113	123
+113	what
+what	120
+113	120
+113	source
+source	Sutherland said the following
+113	Sutherland said the following
+113	subject
+subject	Sutherland
+113	Sutherland
+113	what
+what	122
+113	122
+113	what
+what	126
+113	126
+113	what
+what	119
+113	119
+113	what
+what	116
+113	116
+113	what
+what	121
+113	121
+113	has Predicate
+has Predicate	say
+113	say
+183	info Source
+info Source	Sutherland
+183	Sutherland
+183	subject
+subject	Hozma
+183	Hozma
+183	type
+type	Statement
+183	Statement
+183	whom
+whom	Sutherland
+183	Sutherland
+183	source
+source	Hozma loves Sutherland
+183	Hozma loves Sutherland
+183	has Predicate
+has Predicate	love
+183	love
+367	where
+where	Office of Redon Hall Street
+367	Office of Redon Hall Street
+367	info Source
+info Source	Watson s remarks
+367	Watson s remarks
+367	subject
+subject	Hozma
+367	Hozma
+367	type
+type	Statement
+367	Statement
+367	source
+source	In the past
+367	In the past
+367	has Predicate
+has Predicate	working
+367	working
+367	when
+when	past
+367	past
+139	subject
+subject	Windy bank
+139	Windy bank
+139	info Source
+info Source	Sutherland s thoughts
+139	Sutherland s thoughts
+139	has Predicate
+has Predicate	happy
+139	happy
+139	type
+type	Thought
+139	Thought
+139	source
+source	Windy Bank is happy
+139	Windy Bank is happy
+486	how
+how	Immediately
+486	Immediately
+486	source
+source	Sutherland gets married soon
+486	Sutherland gets married soon
+486	type
+type	Statement
+486	Statement
+486	info Source
+info Source	Holmes
+486	Holmes
+486	has Predicate
+has Predicate	get Married
+486	get Married
+486	then
+then	488
+486	488
+470	type
+type	Situation
+470	Situation
+470	source
+source	Windy Bank said
+470	Windy Bank said
+470	has Predicate
+has Predicate	say
+470	say
+470	subject
+subject	Windy bank
+470	Windy bank
+470	what
+what	471
+470	471
+422	type
+type	Statement
+422	Statement
+422	source
+source	Sutherland moves quickly
+422	Sutherland moves quickly
+422	has Predicate
+has Predicate	move
+422	move
+422	subject
+subject	Sutherland
+422	Sutherland
+422	info Source
+info Source	Windybank s remarks
+422	Windybank s remarks
+422	how
+how	Immediately
+422	Immediately
+hat	type
+type	PhysicalObject
+hat	PhysicalObject
+hat	label
+label	hat
+hat	hat
+gloves	type
+type	PhysicalObject
+gloves	PhysicalObject
+gloves	label
+label	gloves
+gloves	gloves
+chair	label
+label	chair
+chair	chair
+chair	type
+type	PhysicalObject
+chair	PhysicalObject
+115	whom
+whom	Sutherland
+115	Sutherland
+115	has Predicate
+has Predicate	send
+115	send
+115	type
+type	Statement
+115	Statement
+115	what
+what	Gas Engineering Union Ball Invitation
+115	Gas Engineering Union Ball Invitation
+115	subject
+subject	Sutherland s father
+115	Sutherland s father
+115	info Source
+info Source	Sutherland
+115	Sutherland
+115	source
+source	Sutherland's father had sent an invitation to the Gas Association's ball to Sutherland
+115	Sutherland's father had sent an invitation to the Gas Association's ball to Sutherland
+newspaper	label
+label	newspaper
+newspaper	newspaper
+newspaper	type
+type	PhysicalObject
+newspaper	PhysicalObject
+571	what
+what	Personal statement
+571	Personal statement
+571	info Source
+info Source	Holmes
+571	Holmes
+571	type
+type	Statement
+571	Statement
+571	where
+where	Company
+571	Company
+571	subject
+subject	Holmes
+571	Holmes
+571	has Predicate
+has Predicate	check
+571	check
+571	source
+source	Holmes confirmed with the company
+571	Holmes confirmed with the company
+078	source
+source	Windy Bank is a wine commerce
+078	Windy Bank is a wine commerce
+078	has Property
+has Property	foreign trade of wine
+078	foreign trade of wine
+078	info Source
+info Source	Sutherland
+078	Sutherland
+078	type
+type	Statement
+078	Statement
+078	subject
+subject	Windy bank
+078	Windy bank
+553	info Source
+info Source	Holmes
+553	Holmes
+553	source
+source	Sutherland brothers best friend wins Windy Bank
+553	Sutherland brothers best friend wins Windy Bank
+553	subject
+subject	Sutherland s brothers best friend
+553	Sutherland s brothers best friend
+553	has Predicate
+has Predicate	punish
+553	punish
+553	type
+type	Statement
+553	Statement
+553	what
+what	Windy bank
+553	Windy bank
+514	type
+type	Statement
+514	Statement
+514	has Predicate
+has Predicate	increase
+514	increase
+514	source
+source	Sutherland's thoughts grow with Sutherland's mother's praise
+514	Sutherland's thoughts grow with Sutherland's mother's praise
+514	subject
+subject	Sutherland s thoughts
+514	Sutherland s thoughts
+514	why
+why	praise of Sutherland s mother
+514	praise of Sutherland s mother
+514	info Source
+info Source	Holmes
+514	Holmes
+552	has Predicate
+has Predicate	have
+552	have
+552	source
+source	Windy Bank has sins
+552	Windy Bank has sins
+552	what
+what	sin
+552	sin
+552	type
+type	Statement
+552	Statement
+552	info Source
+info Source	Holmes
+552	Holmes
+552	subject
+subject	Windy bank
+552	Windy bank
+171	what
+what	173
+171	173
+171	subject
+subject	Sutherland
+171	Sutherland
+171	source
+source	Sutherland knows the following
+171	Sutherland knows the following
+171	type
+type	Statement
+171	Statement
+171	has Predicate
+has Predicate	know
+171	know
+171	info Source
+info Source	Sutherland
+171	Sutherland
+171	what
+what	172
+171	172
+typewriter	type
+type	Object
+typewriter	Object
+typewriter	label
+label	typewriter
+typewriter	typewriter
+together	label
+label	together
+together	together
+together	type
+type	Object
+together	Object
+542	info Source
+info Source	Windybank s remarks
+542	Windybank s remarks
+542	source
+source	Windy Bank does not know the facts
+542	Windy Bank does not know the facts
+542	has Predicate
+has Predicate	not Know
+542	not Know
+542	subject
+subject	Windy bank
+542	Windy bank
+542	what
+what	truth
+542	truth
+542	type
+type	Statement
+542	Statement
+094	source
+source	Holmes thought the following
+094	Holmes thought the following
+094	what
+what	099
+094	099
+094	subject
+subject	Holmes
+094	Holmes
+094	what
+what	096
+094	096
+094	type
+type	Situation
+094	Situation
+094	what
+what	098
+094	098
+094	what
+what	097
+094	097
+094	what
+what	095
+094	095
+094	has Predicate
+has Predicate	think
+094	think
+146	has Predicate
+has Predicate	visit
+146	visit
+146	when
+when	The day after the ball
+146	The day after the ball
+146	subject
+subject	Hozma
+146	Hozma
+146	type
+type	Statement
+146	Statement
+146	after
+after	147
+146	147
+146	where
+where	Sutherland House
+146	Sutherland House
+146	source
+source	Hozma visits Sutherland's house the day after the ball
+146	Hozma visits Sutherland's house the day after the ball
+146	info Source
+info Source	Sutherland
+146	Sutherland
+406	type
+type	Situation
+406	Situation
+406	source
+source	Windy Bank's behavior is calm
+406	Windy Bank's behavior is calm
+406	has Property
+has Property	calm
+406	calm
+406	what
+what	Windy bank
+406	Windy bank
+229	has Predicate
+has Predicate	get On
+229	get On
+229	source
+source	Hozma got on a carriage
+229	Hozma got on a carriage
+229	where
+where	Horse carriage
+229	Horse carriage
+229	type
+type	Statement
+229	Statement
+229	subject
+subject	Hozma
+229	Hozma
+229	info Source
+info Source	Sutherland
+229	Sutherland
+010	has Predicate
+has Predicate	move
+010	move
+010	source
+source	Sutherland moves back and forth
+010	Sutherland moves back and forth
+010	subject
+subject	Sutherland
+010	Sutherland
+010	how
+how	Back and forth
+010	Back and forth
+010	type
+type	Situation
+010	Situation
+134	has Predicate
+has Predicate	meet
+134	meet
+134	whom
+whom	Hozma
+134	Hozma
+134	type
+type	Statement
+134	Statement
+134	source
+source	Sutherland met Hozma at the ball
+134	Sutherland met Hozma at the ball
+134	subject
+subject	Sutherland
+134	Sutherland
+134	info Source
+info Source	Sutherland
+134	Sutherland
+134	where
+where	Dance
+134	Dance
+260	info Source
+info Source	Windybank s remarks
+260	Windybank s remarks
+260	type
+type	Statement
+260	Statement
+260	has Predicate
+has Predicate	contact
+260	contact
+260	subject
+subject	Hozma
+260	Hozma
+260	source
+source	Hozma will contact Sutherland
+260	Hozma will contact Sutherland
+260	whom
+whom	Sutherland
+260	Sutherland
+woman	label
+label	woman
+woman	woman
+woman	type
+type	PhysicalObject
+woman	PhysicalObject
+483	subject
+subject	Sutherland s character
+483	Sutherland s character
+483	info Source
+info Source	Holmes
+483	Holmes
+483	type
+type	Statement
+483	Statement
+483	has Predicate
+has Predicate	good
+483	good
+483	source
+source	The character of Sutherland is good
+483	The character of Sutherland is good
+past	type
+type	AbstractTime
+past	AbstractTime
+past	label
+label	past
+past	past
+230	subject
+subject	Other carriages
+230	Other carriages
+230	info Source
+info Source	Sutherland
+230	Sutherland
+230	has Predicate
+has Predicate	not Exist
+230	not Exist
+230	source
+source	There were no other carriages in the street
+230	There were no other carriages in the street
+230	type
+type	Statement
+230	Statement
+230	where
+where	Street
+230	Street
+143	info Source
+info Source	Windybank s remarks
+143	Windybank s remarks
+143	type
+type	Statement
+143	Statement
+143	has Property
+has Property	free
+143	free
+143	source
+source	Woman is free
+143	Woman is free
+143	subject
+subject	woman
+143	woman
+270	whom
+whom	Hozma
+270	Hozma
+270	has Predicate
+has Predicate	cannot Meet
+270	cannot Meet
+270	info Source
+info Source	Holmes
+270	Holmes
+270	source
+source	Sutherland can not see Hozma
+270	Sutherland can not see Hozma
+270	type
+type	Statement
+270	Statement
+270	subject
+subject	Sutherland
+270	Sutherland
+569	info Source
+info Source	Holmes
+569	Holmes
+569	has Predicate
+has Predicate	know
+569	know
+569	type
+type	Statement
+569	Statement
+569	what
+what	Windy Bank company
+569	Windy Bank company
+569	subject
+subject	Holmes
+569	Holmes
+569	source
+source	Holmes knows the company of Windy Bank
+569	Holmes knows the company of Windy Bank
+268	info Source
+info Source	Holmes
+268	Holmes
+268	subject
+subject	Holmes
+268	Holmes
+268	source
+source	Holmes can solve Hozma's disappearance
+268	Holmes can solve Hozma's disappearance
+268	type
+type	Statement
+268	Statement
+268	what
+what	Hozma lost
+268	Hozma lost
+268	has Predicate
+has Predicate	can Solve
+268	can Solve
+truth	type
+type	PhysicalObject
+truth	PhysicalObject
+truth	label
+label	truth
+truth	truth
+513	source
+source	Windy Bank is in France
+513	Windy Bank is in France
+513	has Predicate
+has Predicate	exist
+513	exist
+513	type
+type	Thought
+513	Thought
+513	where
+where	France
+513	France
+513	subject
+subject	Windy bank
+513	Windy bank
+513	info Source
+info Source	Sutherland s thoughts
+513	Sutherland s thoughts
+076	subject
+subject	Hardy
+076	Hardy
+076	has Property
+has Property	field head
+076	field head
+076	info Source
+info Source	Sutherland
+076	Sutherland
+076	source
+source	Hardy is the head of the scene
+076	Hardy is the head of the scene
+076	type
+type	Statement
+076	Statement
+130	what
+what	134
+130	134
+130	subject
+subject	Sutherland
+130	Sutherland
+130	what
+what	131
+130	131
+130	what
+what	133
+130	133
+130	source
+source	Sutherland said the following
+130	Sutherland said the following
+130	what
+what	132
+130	132
+130	has Predicate
+has Predicate	say
+130	say
+130	type
+type	Situation
+130	Situation
+540	subject
+subject	Windy bank
+540	Windy bank
+540	source
+source	Windy Bank laughed
+540	Windy Bank laughed
+540	type
+type	Situation
+540	Situation
+540	has Predicate
+has Predicate	laugh
+540	laugh
+390	has Predicate
+has Predicate	concentrate On
+390	concentrate On
+390	source
+source	Watson dedicated to the treatment of critically ill patients
+390	Watson dedicated to the treatment of critically ill patients
+390	subject
+subject	Watson
+390	Watson
+390	whom
+whom	Treatment of serious patients
+390	Treatment of serious patients
+390	type
+type	Situation
+390	Situation
+071	source
+source	Sutherland's mother is strong
+071	Sutherland's mother is strong
+071	info Source
+info Source	Sutherland
+071	Sutherland
+071	subject
+subject	Sutherland s mother
+071	Sutherland s mother
+071	has Property
+has Property	strong
+071	strong
+071	type
+type	Statement
+071	Statement
+081	what
+what	082
+081	082
+081	has Predicate
+has Predicate	think
+081	think
+081	type
+type	Statement
+081	Statement
+081	subject
+subject	Sutherland s father
+081	Sutherland s father
+081	source
+source	Sutherland's father thinks of
+081	Sutherland's father thinks of
+081	info Source
+info Source	Sutherland
+081	Sutherland
+240	what
+what	Appearance
+240	Appearance
+240	has Predicate
+has Predicate	not Show
+240	not Show
+240	info Source
+info Source	Sutherland
+240	Sutherland
+240	source
+source	Hozma does not show up
+240	Hozma does not show up
+240	type
+type	Statement
+240	Statement
+240	subject
+subject	Hozma
+240	Hozma
+065	type
+type	Statement
+065	Statement
+065	info Source
+info Source	Sutherland
+065	Sutherland
+065	has Property
+has Property	nausea
+065	nausea
+065	source
+source	Windy Bank is naive
+065	Windy Bank is naive
+065	subject
+subject	Windy bank
+065	Windy bank
+458	type
+type	Situation
+458	Situation
+458	subject
+subject	Holmes
+458	Holmes
+458	source
+source	Holmes catches Hozma
+458	Holmes catches Hozma
+458	whom
+whom	Hozma
+458	Hozma
+458	has Predicate
+has Predicate	catch
+458	catch
+443	what
+what	characters
+443	characters
+443	type
+type	Statement
+443	Statement
+443	has Predicate
+has Predicate	wear Out
+443	wear Out
+443	info Source
+info Source	Windybank s remarks
+443	Windybank s remarks
+443	source
+source	Letters wear out
+443	Letters wear out
+e	type
+type	PhysicalObject
+e	PhysicalObject
+e	label
+label	e
+e	e
+114	info Source
+info Source	Sutherland
+114	Sutherland
+114	has Predicate
+has Predicate	meet
+114	meet
+114	type
+type	Statement
+114	Statement
+114	subject
+subject	Sutherland
+114	Sutherland
+114	where
+where	Gas Industry Association Ball
+114	Gas Industry Association Ball
+114	source
+source	Sutherland Meets Hozma at the Gas Industry Association Ball
+114	Sutherland Meets Hozma at the Gas Industry Association Ball
+114	what
+what	Hozma
+114	Hozma
+496	type
+type	Statement
+496	Statement
+496	subject
+subject	Windy bank
+496	Windy bank
+496	source
+source	Windy Bank gets the help of Sutherland's mother
+496	Windy Bank gets the help of Sutherland's mother
+496	info Source
+info Source	Holmes
+496	Holmes
+496	what
+what	Sutherland s mother s help
+496	Sutherland s mother s help
+496	has Predicate
+has Predicate	obtain
+496	obtain
+respect	label
+label	respect
+respect	respect
+respect	type
+type	PhysicalObject
+respect	PhysicalObject
+013	subject
+subject	Sutherland
+013	Sutherland
+013	source
+source	Sutherland crosses the way
+013	Sutherland crosses the way
+013	what
+what	road
+013	road
+013	has Predicate
+has Predicate	cross
+013	cross
+013	type
+type	Situation
+013	Situation
+120	source
+source	Windy Bank goes mad below
+120	Windy Bank goes mad below
+120	subject
+subject	Windy bank
+120	Windy bank
+120	info Source
+info Source	Sutherland
+120	Sutherland
+120	what
+what	121
+120	121
+120	has Predicate
+has Predicate	go Crazy
+120	go Crazy
+120	type
+type	Statement
+120	Statement
+328	source
+source	Holmes look at a woman's sleeve
+328	Holmes look at a woman's sleeve
+328	type
+type	Statement
+328	Statement
+328	what
+what	Woman s sleeve
+328	Woman s sleeve
+328	subject
+subject	Holmes
+328	Holmes
+328	info Source
+info Source	Holmes
+328	Holmes
+328	has Predicate
+has Predicate	see
+328	see
+293	what
+what	Same incident
+293	Same incident
+293	has Predicate
+has Predicate	know
+293	know
+293	subject
+subject	Holmes
+293	Holmes
+293	type
+type	Statement
+293	Statement
+293	source
+source	Holmes knows the same case
+293	Holmes knows the same case
+293	info Source
+info Source	Holmes
+293	Holmes
+375	has Property
+has Property	Redon Hall street
+375	Redon Hall street
+375	info Source
+info Source	Holmes
+375	Holmes
+375	source
+source	The sender's address is Redon Hall Street
+375	The sender's address is Redon Hall Street
+375	what
+what	Sender s address
+375	Sender s address
+375	type
+type	Statement
+375	Statement
+glasses	type
+type	PhysicalObject
+glasses	PhysicalObject
+glasses	label
+label	glasses
+glasses	glasses
+144	what
+what	147
+144	147
+144	what
+what	149
+144	149
+144	what
+what	151
+144	151
+144	what
+what	152
+144	152
+144	has Predicate
+has Predicate	say
+144	say
+144	what
+what	150
+144	150
+144	what
+what	148
+144	148
+144	what
+what	146
+144	146
+144	source
+source	Sutherland said the following
+144	Sutherland said the following
+144	subject
+subject	Sutherland
+144	Sutherland
+144	what
+what	145
+144	145
+144	type
+type	Situation
+144	Situation
+385	has Predicate
+has Predicate	write
+385	write
+385	type
+type	Statement
+385	Statement
+385	subject
+subject	Holmes
+385	Holmes
+385	source
+source	Holmes and Watson write two letters
+385	Holmes and Watson write two letters
+385	what
+what	Two letters
+385	Two letters
+385	subject
+subject	Watson
+385	Watson
+385	info Source
+info Source	Holmes
+385	Holmes
+423	what
+what	424
+423	424
+423	type
+type	Statement
+423	Statement
+423	has Predicate
+has Predicate	rejoice
+423	rejoice
+423	subject
+subject	Windy bank
+423	Windy bank
+423	source
+source	Windy Bank is pleased to
+423	Windy Bank is pleased to
+423	info Source
+info Source	Remarks by Windybank
+423	Remarks by Windybank
+504	type
+type	Statement
+504	Statement
+504	info Source
+info Source	Holmes
+504	Holmes
+504	subject
+subject	Windy bank
+504	Windy bank
+504	source
+source	Windy Bank is Hozma
+504	Windy Bank is Hozma
+504	has Property
+has Property	Hozma Eingel
+504	Hozma Eingel
+346	source
+source	Sutherland wears different left and right shoes
+346	Sutherland wears different left and right shoes
+346	type
+type	Statement
+346	Statement
+346	info Source
+info Source	Holmes
+346	Holmes
+346	what
+what	Left and right separate shoes
+346	Left and right separate shoes
+346	has Predicate
+has Predicate	wearing
+346	wearing
+346	subject
+subject	Sutherland
+346	Sutherland
+346	therefore
+therefore	348
+346	348
+378	type
+type	Statement
+378	Statement
+378	380
+380	label
+378	label
+378	what
+what	signature
+378	signature
+378	what
+what	Pledge
+378	Pledge
+378	source
+source	Signature repeals vow
+378	Signature repeals vow
+378	380
+380	type
+378	type
+378	has Predicate
+has Predicate	deny
+378	deny
+378	info Source
+info Source	Watson s remarks
+378	Watson s remarks
+378	when
+when	380
+378	380
+556	to
+to	Moth
+556	Moth
+556	type
+type	Situation
+556	Situation
+556	source
+source	Watson got close to the wolf
+556	Watson got close to the wolf
+556	has Predicate
+has Predicate	get Close
+556	get Close
+556	subject
+subject	Watson
+556	Watson
+184	type
+type	Statement
+184	Statement
+184	has Predicate
+has Predicate	pay Attention
+184	pay Attention
+184	subject
+subject	Hozma
+184	Hozma
+184	info Source
+info Source	Sutherland
+184	Sutherland
+184	source
+source	Hozma pays attention
+184	Hozma pays attention
+012	type
+type	Situation
+012	Situation
+012	source
+source	Sutherland jumps the road
+012	Sutherland jumps the road
+012	subject
+subject	Sutherland
+012	Sutherland
+012	has Predicate
+has Predicate	jump Out
+012	jump Out
+012	from
+from	road
+012	road
+212	info Source
+info Source	Sutherland
+212	Sutherland
+212	source
+source	Sutherland worried about Windy Bank
+212	Sutherland worried about Windy Bank
+212	subject
+subject	Sutherland
+212	Sutherland
+212	type
+type	Statement
+212	Statement
+212	has Predicate
+has Predicate	worry
+212	worry
+212	what
+what	Windy bank
+212	Windy bank
+162	has Predicate
+has Predicate	not Meet
+162	not Meet
+162	type
+type	Situation
+162	Situation
+162	when
+when	there is Windy Bank
+162	there is Windy Bank
+083	has Predicate
+has Predicate	think
+083	think
+083	what
+what	085
+083	085
+083	source
+source	Watson thinks that
+083	Watson thinks that
+083	subject
+subject	Watson
+083	Watson
+083	what
+what	084
+083	084
+083	type
+type	Situation
+083	Situation
+106	whom
+whom	Sutherland s mother
+106	Sutherland s mother
+106	source
+source	Windy Bank passes to Sutherland's mother
+106	Windy Bank passes to Sutherland's mother
+106	has Predicate
+has Predicate	hand Over
+106	hand Over
+106	subject
+subject	Windy bank
+106	Windy bank
+106	info Source
+info Source	Sutherland
+106	Sutherland
+106	type
+type	Statement
+106	Statement
+214	has Predicate
+has Predicate	not Worry
+214	not Worry
+214	info Source
+info Source	Sutherland
+214	Sutherland
+214	subject
+subject	Sutherland
+214	Sutherland
+214	source
+source	Sutherland Worries About Windy Bank
+214	Sutherland Worries About Windy Bank
+214	type
+type	Statement
+214	Statement
+214	what
+what	Windy bank
+214	Windy bank
+534	type
+type	Statement
+534	Statement
+534	subject
+subject	Life and death of Hozma
+534	Life and death of Hozma
+534	info Source
+info Source	Holmes
+534	Holmes
+534	has Property
+has Property	unknown
+534	unknown
+534	source
+source	Life and death of Hozma is unknown
+534	Life and death of Hozma is unknown
+102	subject
+subject	Sutherland
+102	Sutherland
+102	info Source
+info Source	Sutherland
+102	Sutherland
+102	type
+type	Statement
+102	Statement
+102	has Predicate
+has Predicate	not Rely On
+102	not Rely On
+102	source
+source	Sutherland does not rely on parents
+102	Sutherland does not rely on parents
+102	what
+what	parents
+102	parents
+188	type
+type	Situation
+188	Situation
+188	source
+source	Hozma is shy
+188	Hozma is shy
+this_week	type
+type	AbstractTime
+this_week	AbstractTime
+this_week	label
+label	this week
+this_week	this week
+118	type
+type	Statement
+118	Statement
+118	source
+source	Sutherland and Sutherland's mother go to a ball
+118	Sutherland and Sutherland's mother go to a ball
+118	subject
+subject	Sutherland
+118	Sutherland
+118	subject
+subject	Sutherland s mother
+118	Sutherland s mother
+118	has Predicate
+has Predicate	go
+118	go
+118	info Source
+info Source	Sutherland
+118	Sutherland
+118	to
+to	To the ball
+118	To the ball
+450	what
+what	Hosma s letter
+450	Hosma s letter
+450	info Source
+info Source	Holmes
+450	Holmes
+450	has Predicate
+has Predicate	have
+450	have
+450	what
+what	14 features
+450	14 features
+450	type
+type	Statement
+450	Statement
+450	source
+source	Hosma's letter has 14 features
+450	Hosma's letter has 14 features
+200	type
+type	Statement
+200	Statement
+200	has Predicate
+has Predicate	bad
+200	bad
+200	what
+what	Eyes of hozma
+200	Eyes of hozma
+200	source
+source	Hozma's eyes are bad
+200	Hozma's eyes are bad
+200	info Source
+info Source	Sutherland
+200	Sutherland
+326	type
+type	Statement
+326	Statement
+326	info Source
+info Source	Holmes
+326	Holmes
+326	has Property
+has Property	aim
+326	aim
+326	source
+source	Watson looks at the color
+326	Watson looks at the color
+326	subject
+subject	Watson
+326	Watson
+326	what
+what	In color
+326	In color
+206	subject
+subject	Hozma
+206	Hozma
+206	type
+type	Statement
+206	Statement
+206	has Predicate
+has Predicate	swear
+206	swear
+206	what
+what	Less than
+206	Less than
+206	info Source
+info Source	Sutherland
+206	Sutherland
+206	whom
+whom	Sutherland
+206	Sutherland
+206	source
+source	Hozma has made Sutherland vow:
+206	Hozma has made Sutherland vow:
+199	type
+type	Statement
+199	Statement
+199	has Property
+has Property	good
+199	good
+199	what
+what	Hozma s appearance
+199	Hozma s appearance
+199	source
+source	The appearance of Hozma is good
+199	The appearance of Hozma is good
+199	info Source
+info Source	Sutherland
+199	Sutherland
+049	source
+source	Holmes said the following
+049	Holmes said the following
+049	what
+what	051
+049	051
+049	what
+what	050
+049	050
+049	subject
+subject	Holmes
+049	Holmes
+049	has Predicate
+has Predicate	say
+049	say
+049	type
+type	Situation
+049	Situation
+080	type
+type	Situation
+080	Situation
+080	source
+source	Sutherland thinks the following
+080	Sutherland thinks the following
+080	has Predicate
+has Predicate	think
+080	think
+080	what
+what	081
+080	081
+080	subject
+subject	Sutherland
+080	Sutherland
+140	source
+source	Sutherland said the following
+140	Sutherland said the following
+140	type
+type	Situation
+140	Situation
+140	subject
+subject	Sutherland
+140	Sutherland
+140	what
+what	141
+140	141
+140	has Predicate
+has Predicate	say
+140	say
+60_pounds	label
+label	60 pounds
+60_pounds	60 pounds
+60_pounds	type
+type	PhysicalObject
+60_pounds	PhysicalObject
+255	source
+source	Sutherland reported Hozma's disappearance to Sutherland's mother and Windy Bank
+255	Sutherland reported Hozma's disappearance to Sutherland's mother and Windy Bank
+255	whom
+whom	Windy bank
+255	Windy bank
+255	subject
+subject	Sutherland
+255	Sutherland
+255	info Source
+info Source	Sutherland
+255	Sutherland
+255	type
+type	Statement
+255	Statement
+255	what
+what	Hozma lost
+255	Hozma lost
+255	has Predicate
+has Predicate	tell
+255	tell
+255	whom
+whom	Sutherland s mother
+255	Sutherland s mother
+237	source
+source	Hozma gets into the cart
+237	Hozma gets into the cart
+237	where
+where	Horse carriage
+237	Horse carriage
+237	type
+type	Statement
+237	Statement
+237	then
+then	239
+237	239
+237	has Predicate
+has Predicate	enter
+237	enter
+237	info Source
+info Source	The speaker s statement
+237	The speaker s statement
+237	subject
+subject	Hozma
+237	Hozma
+495	where
+where	Dance
+495	Dance
+495	subject
+subject	Sutherland
+495	Sutherland
+495	info Source
+info Source	Holmes
+495	Holmes
+495	source
+source	Sutherland wants to go to a ball
+495	Sutherland wants to go to a ball
+495	type
+type	Statement
+495	Statement
+495	has Predicate
+has Predicate	want To Go
+495	want To Go
+135	subject
+subject	Holmes
+135	Holmes
+135	what
+what	137
+135	137
+135	source
+source	Holmes thought the following
+135	Holmes thought the following
+135	what
+what	136
+135	136
+135	type
+type	Situation
+135	Situation
+135	has Predicate
+has Predicate	think
+135	think
+434	type
+type	Situation
+434	Situation
+434	what
+what	437
+434	437
+434	subject
+subject	Holmes
+434	Holmes
+434	what
+what	435
+434	435
+434	source
+source	Holmes said the following
+434	Holmes said the following
+434	what
+what	439
+434	439
+434	what
+what	436
+434	436
+434	what
+what	438
+434	438
+434	has Predicate
+has Predicate	say
+434	say
+424	has Property
+has Property	not police officer
+424	not police officer
+424	type
+type	Statement
+424	Statement
+424	source
+source	Holmes is not a police officer
+424	Holmes is not a police officer
+424	subject
+subject	Holmes
+424	Holmes
+424	info Source
+info Source	Remarks by Windybank
+424	Remarks by Windybank
+332	has Property
+has Property	expensive cloth
+332	expensive cloth
+332	info Source
+info Source	Holmes
+332	Holmes
+332	type
+type	Statement
+332	Statement
+332	source
+source	Plush weave is an expensive fabric
+332	Plush weave is an expensive fabric
+332	what
+what	Plush weave
+332	Plush weave
+357	type
+type	Statement
+357	Statement
+357	source
+source	Hozuma's physique is good
+357	Hozuma's physique is good
+357	has Property
+has Property	good
+357	good
+357	info Source
+info Source	Watson s remarks
+357	Watson s remarks
+357	what
+what	Hozma s build
+357	Hozma s build
+parents	label
+label	parents
+parents	parents
+parents	type
+type	PhysicalObject
+parents	PhysicalObject
+291	type
+type	Situation
+291	Situation
+291	what
+what	293
+291	293
+291	what
+what	295
+291	295
+291	has Predicate
+has Predicate	say
+291	say
+291	source
+source	Holmes said the following
+291	Holmes said the following
+291	what
+what	292
+291	292
+291	subject
+subject	Holmes
+291	Holmes
+291	what
+what	294
+291	294
+others	label
+label	others
+others	others
+others	type
+type	PhysicalObject
+others	PhysicalObject
+161	type
+type	Situation
+161	Situation
+161	source
+source	Hozma does not meet Sutherland while Windy Bank is
+161	Hozma does not meet Sutherland while Windy Bank is
+161	subject
+subject	Hozma
+161	Hozma
+161	whom
+whom	Sutherland
+161	Sutherland
+161	type
+type	Statement
+161	Statement
+161	info Source
+info Source	Hozma s statement
+161	Hozma s statement
+441	info Source
+info Source	Windybank s remarks
+441	Windybank s remarks
+441	what
+what	One machine
+441	One machine
+441	source
+source	Windy Bank's workplace has one machine
+441	Windy Bank's workplace has one machine
+441	what
+what	Windy Bank workplace
+441	Windy Bank workplace
+441	type
+type	Statement
+441	Statement
+441	has Predicate
+has Predicate	have
+441	have
+441	therefore
+therefore	443
+441	443
+234	subject
+subject	nobody
+234	nobody
+234	source
+source	There was no one under the cart
+234	There was no one under the cart
+234	has Predicate
+has Predicate	not Exist
+234	not Exist
+234	info Source
+info Source	Sutherland
+234	Sutherland
+234	where
+where	Under the marsoon
+234	Under the marsoon
+234	type
+type	Statement
+234	Statement
+057	has Predicate
+has Predicate	earn
+057	earn
+057	what
+what	One hundred dollars
+057	One hundred dollars
+057	type
+type	Statement
+057	Statement
+057	source
+source	Sutherland earns one hundred dollars a year
+057	Sutherland earns one hundred dollars a year
+057	info Source
+info Source	Sutherland
+057	Sutherland
+057	when
+when	one year
+057	one year
+057	subject
+subject	Sutherland
+057	Sutherland
+507	type
+type	Statement
+507	Statement
+507	subject
+subject	Sutherland
+507	Sutherland
+507	source
+source	Sutherland loves Windy Bank
+507	Sutherland loves Windy Bank
+507	what
+what	Windy bank
+507	Windy bank
+507	has Predicate
+has Predicate	love
+507	love
+507	info Source
+info Source	Holmes
+507	Holmes
+122	source
+source	Sutherland told the ball to join
+122	Sutherland told the ball to join
+122	subject
+subject	Sutherland
+122	Sutherland
+122	has Predicate
+has Predicate	say
+122	say
+122	what
+what	Ball participation
+122	Ball participation
+122	info Source
+info Source	Sutherland
+122	Sutherland
+122	type
+type	Statement
+122	Statement
+082	type
+type	Thought
+082	Thought
+082	subject
+subject	4700 pounds
+082	4700 pounds
+082	source
+source	4700 pounds is small
+082	4700 pounds is small
+082	info Source
+info Source	Sutherland s Father s Thoughts
+082	Sutherland s Father s Thoughts
+082	has Property
+has Property	small
+082	small
+207	type
+type	Statement
+207	Statement
+207	subject
+subject	Sutherland
+207	Sutherland
+207	source
+source	Sutherland believes in Hozma
+207	Sutherland believes in Hozma
+207	what
+what	Hozma
+207	Hozma
+207	info Source
+info Source	Sutherland
+207	Sutherland
+207	has Predicate
+has Predicate	believe
+207	believe
+516	has Predicate
+has Predicate	feel Relieved
+516	feel Relieved
+516	source
+source	Windy Bank was relieved
+516	Windy Bank was relieved
+516	subject
+subject	Windy bank
+516	Windy bank
+516	when
+when	518
+516	518
+516	info Source
+info Source	Holmes
+516	Holmes
+516	type
+type	Statement
+516	Statement
+042	source
+source	Myopia is hard
+042	Myopia is hard
+042	info Source
+info Source	Holmes
+042	Holmes
+042	subject
+subject	Near sight
+042	Near sight
+042	has Property
+has Property	hard
+042	hard
+042	type
+type	Statement
+042	Statement
+value	label
+label	value
+value	value
+value	type
+type	PhysicalObject
+value	PhysicalObject
+196	type
+type	Situation
+196	Situation
+196	then
+then	197
+196	197
+parent	label
+label	parent
+parent	parent
+parent	type
+type	Person
+parent	Person
+186	has Property
+has Property	infinite
+186	infinite
+186	what
+what	Important of the minor
+186	Important of the minor
+186	info Source
+info Source	Holmes
+186	Holmes
+186	source
+source	The importance of minor matters is infinite
+186	The importance of minor matters is infinite
+186	type
+type	Statement
+186	Statement
+112	subject
+subject	Sutherland
+112	Sutherland
+112	type
+type	Situation
+112	Situation
+112	what
+what	Jacket sleeve
+112	Jacket sleeve
+112	source
+source	Sutherland pinches the sleeves of the jacket
+112	Sutherland pinches the sleeves of the jacket
+112	has Predicate
+has Predicate	hold
+112	hold
+297	has Predicate
+has Predicate	can Read
+297	can Read
+297	info Source
+info Source	Watson s remarks
+297	Watson s remarks
+297	subject
+subject	Sutherland
+297	Sutherland
+297	type
+type	Statement
+297	Statement
+297	source
+source	Holmes can read Sutherland
+297	Holmes can read Sutherland
+297	subject
+subject	Holmes
+297	Holmes
+318	info Source
+info Source	Watson s remarks
+318	Watson s remarks
+318	has Property
+has Property	relaxed
+318	relaxed
+318	subject
+subject	Sutherland
+318	Sutherland
+318	source
+source	Sutherland is warm
+318	Sutherland is warm
+318	type
+type	Statement
+318	Statement
+wedding	label
+label	wedding
+wedding	wedding
+wedding	type
+type	PhysicalObject
+wedding	PhysicalObject
+453	what
+what	454
+453	454
+453	type
+type	Situation
+453	Situation
+453	subject
+subject	Windy bank
+453	Windy bank
+453	source
+source	Windy Bank said
+453	Windy Bank said
+453	has Predicate
+has Predicate	say
+453	say
+129	has Predicate
+has Predicate	not Have
+129	not Have
+129	type
+type	Situation
+129	Situation
+468	type
+type	Situation
+468	Situation
+468	source
+source	Windy Bank's face seemed dead
+468	Windy Bank's face seemed dead
+468	has Property
+has Property	seem
+468	seem
+468	subject
+subject	Windy bank face
+468	Windy bank face
+468	what
+what	dead
+468	dead
+426	has Predicate
+has Predicate	think
+426	think
+426	subject
+subject	Windy bank
+426	Windy bank
+426	source
+source	Windy Bank thinks the following
+426	Windy Bank thinks the following
+426	type
+type	Situation
+426	Situation
+426	what
+what	427
+426	427
+461	has Predicate
+has Predicate	catch
+461	catch
+461	what
+what	Hozma
+461	Hozma
+461	type
+type	Statement
+461	Statement
+461	subject
+subject	Holmes
+461	Holmes
+461	source
+source	Holmes caught Hozma
+461	Holmes caught Hozma
+461	info Source
+info Source	Holmes
+461	Holmes
+334	info Source
+info Source	Holmes
+334	Holmes
+334	source
+source	The double wire on the wrist is the mark of a manual sewing machine
+334	The double wire on the wrist is the mark of a manual sewing machine
+334	has Property
+has Property	mark of a manual sewing machine
+334	mark of a manual sewing machine
+334	what
+what	Wrist double wire
+334	Wrist double wire
+334	type
+type	Statement
+334	Statement
+104	type
+type	Situation
+104	Situation
+104	what
+what	money
+104	money
+104	when
+when	living with my parents
+104	living with my parents
+heritage	type
+type	PhysicalObject
+heritage	PhysicalObject
+heritage	label
+label	heritage
+heritage	heritage
+511	what
+what	Hozma
+511	Hozma
+511	subject
+subject	Sutherland
+511	Sutherland
+511	type
+type	Statement
+511	Statement
+511	has Predicate
+has Predicate	love
+511	love
+511	source
+source	Sutherland loved Hozma
+511	Sutherland loved Hozma
+511	info Source
+info Source	Holmes
+511	Holmes
+meaning_of_the_words_of_Holmes	label
+label	meaning of the words of Holmes
+meaning_of_the_words_of_Holmes	meaning of the words of Holmes
+meaning_of_the_words_of_Holmes	of Part
+of Part	meaning
+meaning_of_the_words_of_Holmes	meaning
+meaning_of_the_words_of_Holmes	of Whole
+of Whole	Holmes
+meaning_of_the_words_of_Holmes	Holmes
+meaning_of_the_words_of_Holmes	type
+type	OFobj
+meaning_of_the_words_of_Holmes	OFobj
+meaning_of_the_words_of_Holmes	of Whole
+of Whole	the words
+meaning_of_the_words_of_Holmes	the words
+meaning_of_the_words_of_Holmes	type
+type	PhysicalObject
+meaning_of_the_words_of_Holmes	PhysicalObject
+meaning_of_the_words_of_Holmes	of Whole
+of Whole	the words of Holmes
+meaning_of_the_words_of_Holmes	the words of Holmes
+364	what
+what	At the time of disappearance
+364	At the time of disappearance
+364	type
+type	Statement
+364	Statement
+364	source
+source	At the time of disappearance is a black frock coat
+364	At the time of disappearance is a black frock coat
+364	has Property
+has Property	black frock coat
+364	black frock coat
+364	info Source
+info Source	Watson s remarks
+364	Watson s remarks
+signature	type
+type	PhysicalObject
+signature	PhysicalObject
+signature	label
+label	signature
+signature	signature
+045	has Predicate
+has Predicate	be Surprised
+045	be Surprised
+045	subject
+subject	Sutherland
+045	Sutherland
+045	source
+source	Sutherland was surprised
+045	Sutherland was surprised
+045	type
+type	Situation
+045	Situation
+last_year	label
+label	last year
+last_year	last year
+last_year	type
+type	AbstractTime
+last_year	AbstractTime
+040	what
+what	Near sight
+040	Near sight
+040	type
+type	Statement
+040	Statement
+040	when
+when	Typing
+040	Typing
+040	has Property
+has Property	hard
+040	hard
+040	info Source
+info Source	Holmes
+040	Holmes
+040	source
+source	Myopia is hard to type
+040	Myopia is hard to type
+028	source
+source	Women are puzzled
+028	Women are puzzled
+028	has Predicate
+has Predicate	puzzled
+028	puzzled
+028	type
+type	Statement
+028	Statement
+028	subject
+subject	Woman
+028	Woman
+028	info Source
+info Source	Holmes
+028	Holmes
+road	label
+label	road
+road	road
+road	type
+type	PhysicalObject
+road	PhysicalObject
+455	type
+type	Situation
+455	Situation
+455	what
+what	456
+455	456
+455	whom
+whom	Holmes
+455	Holmes
+455	source
+source	Windy Bank asks Holmes:
+455	Windy Bank asks Holmes:
+455	has Predicate
+has Predicate	ask
+455	ask
+455	subject
+subject	Windy bank
+455	Windy bank
+439	type
+type	Statement
+439	Statement
+439	what
+what	14 features
+439	14 features
+439	source
+source	Windy Bank's letter has 14 features
+439	Windy Bank's letter has 14 features
+439	info Source
+info Source	Holmes
+439	Holmes
+439	has Predicate
+has Predicate	have
+439	have
+439	what
+what	Windy Bank Letter
+439	Windy Bank Letter
+055	type
+type	Statement
+055	Statement
+055	what
+what	Esalid s husband s death
+055	Esalid s husband s death
+055	info Source
+info Source	Sutherland
+055	Sutherland
+055	has Predicate
+has Predicate	be Convinced
+055	be Convinced
+055	subject
+subject	police
+055	police
+055	source
+source	Police had ruled that Esridge's husband had died
+055	Police had ruled that Esridge's husband had died
+019	source
+source	Sutherland wants advice
+019	Sutherland wants advice
+019	what
+what	advice
+019	advice
+019	has Predicate
+has Predicate	want
+019	want
+019	type
+type	Statement
+019	Statement
+019	info Source
+info Source	Holmes
+019	Holmes
+019	subject
+subject	Sutherland
+019	Sutherland
+492	subject
+subject	491
+492	491
+492	source
+source	The above does not continue
+492	The above does not continue
+492	info Source
+info Source	Holmes
+492	Holmes
+492	has Predicate
+has Predicate	not Continue
+492	not Continue
+492	type
+type	Statement
+492	Statement
+158	has Property
+has Property	absent
+158	absent
+158	source
+source	Sutherland has no home
+158	Sutherland has no home
+158	type
+type	Statement
+158	Statement
+158	what
+what	home
+158	home
+158	info Source
+info Source	Sutherland
+158	Sutherland
+158	subject
+subject	Sutherland
+158	Sutherland
+402	source
+source	Windy Bank is medium-sized
+402	Windy Bank is medium-sized
+402	subject
+subject	Windy bank
+402	Windy bank
+402	type
+type	Situation
+402	Situation
+402	has Property
+has Property	ｍedium height
+402	ｍedium height
+273	what
+what	274
+273	274
+273	subject
+subject	Sutherland
+273	Sutherland
+273	has Predicate
+has Predicate	say
+273	say
+273	source
+source	Sutherland said the following
+273	Sutherland said the following
+273	type
+type	Situation
+273	Situation
+463	subject
+subject	Windy bank lips
+463	Windy bank lips
+463	source
+source	Windy Bank's lips were deep blue
+463	Windy Bank's lips were deep blue
+463	type
+type	Situation
+463	Situation
+463	has Property
+has Property	blue
+463	blue
+124	info Source
+info Source	Sutherland
+124	Sutherland
+124	source
+source	Windy Bank says
+124	Windy Bank says
+124	what
+what	125
+124	125
+124	has Predicate
+has Predicate	say
+124	say
+124	subject
+subject	Windy bank
+124	Windy bank
+124	type
+type	Statement
+124	Statement
+208	subject
+subject	Sutherland s mother
+208	Sutherland s mother
+208	has Predicate
+has Predicate	agree
+208	agree
+208	source
+source	Sutherland's mother agreed with the above
+208	Sutherland's mother agreed with the above
+208	type
+type	Statement
+208	Statement
+208	whom
+whom	207
+208	207
+208	info Source
+info Source	Sutherland
+208	Sutherland
+141	has Predicate
+has Predicate	laugh
+141	laugh
+141	type
+type	Statement
+141	Statement
+141	subject
+subject	Windy bank
+141	Windy bank
+141	source
+source	Windy Bank laughed
+141	Windy Bank laughed
+141	info Source
+info Source	Sutherland
+141	Sutherland
+366	type
+type	Statement
+366	Statement
+366	info Source
+info Source	Watson s remarks
+366	Watson s remarks
+366	has Property
+has Property	albert chain of gold
+366	albert chain of gold
+366	source
+source	Dress at the time of disappearance is the Albert chain of gold
+366	Dress at the time of disappearance is the Albert chain of gold
+366	what
+what	At the time of disappearance
+366	At the time of disappearance
+331	type
+type	Statement
+331	Statement
+331	source
+source	The plush weave marks
+331	The plush weave marks
+331	info Source
+info Source	Holmes
+331	Holmes
+331	what
+what	Trace
+331	Trace
+331	what
+what	Plush weave
+331	Plush weave
+331	has Predicate
+has Predicate	put On
+331	put On
+557	type
+type	Situation
+557	Situation
+557	subject
+subject	Windy bank
+557	Windy bank
+557	has Predicate
+has Predicate	escape
+557	escape
+557	how
+how	At full speed
+557	At full speed
+557	source
+source	Windy Bank ran away at full speed
+557	Windy Bank ran away at full speed
+2_pence	label
+label	2 pence
+2_pence	2 pence
+2_pence	type
+type	PhysicalObject
+2_pence	PhysicalObject
+156	whom
+whom	mother
+156	mother
+156	source
+source	Sutherland told her mother
+156	Sutherland told her mother
+156	subject
+subject	Sutherland
+156	Sutherland
+156	has Predicate
+has Predicate	say
+156	say
+156	type
+type	Statement
+156	Statement
+156	info Source
+info Source	Sutherland
+156	Sutherland
+352	has Predicate
+has Predicate	have
+352	have
+352	info Source
+info Source	Holmes
+352	Holmes
+352	type
+type	Statement
+352	Statement
+352	what
+what	Violet ink
+352	Violet ink
+352	source
+source	Sutherland's finger has violet ink
+352	Sutherland's finger has violet ink
+352	what
+what	Sutherland s finger
+352	Sutherland s finger
+222	to
+to	England
+222	England
+222	type
+type	Situation
+222	Situation
+147	when
+when	After the ball
+147	After the ball
+147	subject
+subject	Sutherland
+147	Sutherland
+147	info Source
+info Source	Sutherland
+147	Sutherland
+147	has Predicate
+has Predicate	meet
+147	meet
+147	source
+source	Sutherland meets Hozma after the ball
+147	Sutherland meets Hozma after the ball
+147	after
+after	149
+147	149
+147	type
+type	Statement
+147	Statement
+147	whom
+whom	Hozma
+147	Hozma
+475	subject
+subject	Windy bank
+475	Windy bank
+475	why
+why	money
+475	money
+475	what
+what	Sutherland s mother
+475	Sutherland s mother
+475	info Source
+info Source	Holmes
+475	Holmes
+475	has Predicate
+has Predicate	get Married
+475	get Married
+475	source
+source	Windy Bank married for money with Sutherland's mother
+475	Windy Bank married for money with Sutherland's mother
+475	type
+type	Statement
+475	Statement
+075	info Source
+info Source	Sutherland
+075	Sutherland
+075	source
+source	Sutherland's mother continued with Hardy
+075	Sutherland's mother continued with Hardy
+075	type
+type	Statement
+075	Statement
+075	subject
+subject	Sutherland s mother
+075	Sutherland s mother
+075	has Predicate
+has Predicate	continuing
+075	continuing
+075	whom
+whom	Hardy
+075	Hardy
+075	what
+what	Sutherland s father s shop
+075	Sutherland s father s shop
+praise	type
+type	Object
+praise	Object
+praise	label
+label	praise
+praise	praise
+window	type
+type	PhysicalObject
+window	PhysicalObject
+window	label
+label	window
+window	window
+031	has Predicate
+has Predicate	be Beaten
+031	be Beaten
+031	what
+what	Room door
+031	Room door
+031	type
+type	Situation
+031	Situation
+031	source
+source	The door of the room is struck
+031	The door of the room is struck
+sin	type
+type	PhysicalObject
+sin	PhysicalObject
+sin	label
+label	sin
+sin	sin
+253	what
+what	256
+253	256
+253	subject
+subject	Sutherland
+253	Sutherland
+253	what
+what	255
+253	255
+253	has Predicate
+has Predicate	say
+253	say
+253	type
+type	Situation
+253	Situation
+253	what
+what	254
+253	254
+253	source
+source	Sutherland said the following
+253	Sutherland said the following
+160	info Source
+info Source	Sutherland
+160	Sutherland
+160	type
+type	Statement
+160	Statement
+160	subject
+subject	Hozma
+160	Hozma
+160	what
+what	161
+160	161
+160	source
+source	Hozma said the following
+160	Hozma said the following
+160	has Predicate
+has Predicate	say
+160	say
+relationship_between_Sutherland_and_Hosma	type
+type	PhysicalObject
+relationship_between_Sutherland_and_Hosma	PhysicalObject
+relationship_between_Sutherland_and_Hosma	label
+label	relationship between Sutherland and Hosma
+relationship_between_Sutherland_and_Hosma	relationship between Sutherland and Hosma
+333	info Source
+info Source	Holmes
+333	Holmes
+333	type
+type	Statement
+333	Statement
+333	source
+source	The double line on the wrist is a trace of the type
+333	The double line on the wrist is a trace of the type
+333	has Property
+has Property	trace of the type
+333	trace of the type
+333	what
+what	Wrist double wire
+333	Wrist double wire
+bell	label
+label	bell
+bell	bell
+bell	type
+type	PhysicalObject
+bell	PhysicalObject
+531	subject
+subject	Sutherland
+531	Sutherland
+531	info Source
+info Source	Holmes
+531	Holmes
+531	whom
+whom	Hozma
+531	Hozma
+531	type
+type	Statement
+531	Statement
+531	source
+source	Sutherland tied to Hosma
+531	Sutherland tied to Hosma
+531	has Predicate
+has Predicate	be Tied Up
+531	be Tied Up
+386	source
+source	Letter 1 is sent to a company in Central City
+386	Letter 1 is sent to a company in Central City
+386	has Predicate
+has Predicate	send
+386	send
+386	what
+what	Letter 1
+386	Letter 1
+386	type
+type	Statement
+386	Statement
+386	to
+to	Central District City Company
+386	Central District City Company
+386	info Source
+info Source	Holmes
+386	Holmes
+footsteps	label
+label	footsteps
+footsteps	footsteps
+footsteps	type
+type	PhysicalObject
+footsteps	PhysicalObject
+527	type
+type	Statement
+527	Statement
+527	whom
+whom	Sutherland
+527	Sutherland
+527	subject
+subject	Windy bank
+527	Windy bank
+527	has Predicate
+has Predicate	swear
+527	swear
+527	info Source
+info Source	Holmes
+527	Holmes
+527	how
+how	In the bible
+527	In the bible
+527	source
+source	Windy Bank made Sutherland swear in the Bible
+527	Windy Bank made Sutherland swear in the Bible
+267	type
+type	Statement
+267	Statement
+267	source
+source	Holmes examines Hozma's disappearance
+267	Holmes examines Hozma's disappearance
+267	info Source
+info Source	Holmes
+267	Holmes
+267	subject
+subject	Holmes
+267	Holmes
+267	what
+what	Hozma lost
+267	Hozma lost
+267	has Predicate
+has Predicate	examine
+267	examine
+306	source
+source	A red-brick feather was on a blackboard-colored straw hat
+306	A red-brick feather was on a blackboard-colored straw hat
+306	what
+what	Red brick feather
+306	Red brick feather
+306	on
+on	Blackboard colored straw hat with straw hat
+306	Blackboard colored straw hat with straw hat
+306	info Source
+info Source	Watson s remarks
+306	Watson s remarks
+306	has Property
+has Property	attached
+306	attached
+306	type
+type	Statement
+306	Statement
+127	type
+type	Situation
+127	Situation
+127	what
+what	128
+127	128
+127	source
+source	Windy Bank said
+127	Windy Bank said
+127	subject
+subject	Windy bank
+127	Windy bank
+127	has Predicate
+has Predicate	say
+127	say
+169	source
+source	Sutherland does not know the industry of Hozma
+169	Sutherland does not know the industry of Hozma
+169	type
+type	Statement
+169	Statement
+169	has Predicate
+has Predicate	not Know
+169	not Know
+169	subject
+subject	Sutherland
+169	Sutherland
+169	what
+what	Industries of Hozma
+169	Industries of Hozma
+169	info Source
+info Source	Sutherland
+169	Sutherland
+mother	type
+type	PhysicalObject
+mother	PhysicalObject
+mother	label
+label	mother
+mother	mother
+more_than_Sutherland	label
+label	more than Sutherland
+more_than_Sutherland	more than Sutherland
+more_than_Sutherland	type
+type	PhysicalObject
+more_than_Sutherland	PhysicalObject
+232	where
+where	Horse carriage
+232	Horse carriage
+232	subject
+subject	Hozma
+232	Hozma
+232	type
+type	Statement
+232	Statement
+232	has Predicate
+has Predicate	not Exist
+232	not Exist
+232	info Source
+info Source	Sutherland
+232	Sutherland
+232	source
+source	Hozma wasn't in a cart
+232	Hozma wasn't in a cart
+459	what
+what	door
+459	door
+459	subject
+subject	Holmes
+459	Holmes
+459	type
+type	Situation
+459	Situation
+459	has Predicate
+has Predicate	lock
+459	lock
+459	source
+source	Holmes locked the door
+459	Holmes locked the door
+394	where
+where	Armchair
+394	Armchair
+394	type
+type	Situation
+394	Situation
+394	has Predicate
+has Predicate	sleeping
+394	sleeping
+394	subject
+subject	Holmes
+394	Holmes
+394	source
+source	Holmes was sleeping in an armchair
+394	Holmes was sleeping in an armchair
+350	info Source
+info Source	Holmes
+350	Holmes
+350	source
+source	This morning Sutherland wrote a note
+350	This morning Sutherland wrote a note
+350	subject
+subject	Sutherland
+350	Sutherland
+350	when
+when	this morning
+350	this morning
+350	has Predicate
+has Predicate	write
+350	write
+350	what
+what	Note
+350	Note
+350	type
+type	Statement
+350	Statement
+430	subject
+subject	Windy bank
+430	Windy bank
+430	what
+what	gloves
+430	gloves
+430	type
+type	Situation
+430	Situation
+430	source
+source	Windy Bank dropped her gloves in surprise
+430	Windy Bank dropped her gloves in surprise
+margin	type
+type	PhysicalObject
+margin	PhysicalObject
+margin	label
+label	margin
+margin	margin
+413	has Property
+has Property	letter from Windy Bank
+413	letter from Windy Bank
+413	type
+type	Statement
+413	Statement
+413	info Source
+info Source	Holmes
+413	Holmes
+413	source
+source	The type letter is a Windy Bank letter
+413	The type letter is a Windy Bank letter
+413	what
+what	Typed letter
+413	Typed letter
+323	has Predicate
+has Predicate	improve
+323	improve
+323	subject
+subject	Watson
+323	Watson
+323	info Source
+info Source	Holmes
+323	Holmes
+323	source
+source	Watson improved
+323	Watson improved
+323	type
+type	Statement
+323	Statement
+every_day	type
+type	AbstractTime
+every_day	AbstractTime
+every_day	label
+label	every day
+every_day	every day
+nobody	label
+label	nobody
+nobody	nobody
+nobody	type
+type	PhysicalObject
+nobody	PhysicalObject
+562	type
+type	Statement
+562	Statement
+562	source
+source	Windy Bank Gets Money
+562	Windy Bank Gets Money
+562	subject
+subject	Windy bank
+562	Windy bank
+562	what
+what	Money
+562	Money
+562	has Predicate
+has Predicate	obtain
+562	obtain
+562	info Source
+info Source	Holmes
+562	Holmes
+189	subject
+subject	Hozma
+189	Hozma
+189	type
+type	Statement
+189	Statement
+189	has Property
+has Property	shy
+189	shy
+189	info Source
+info Source	Sutherland
+189	Sutherland
+023	subject
+subject	Woman
+023	Woman
+023	what
+what	Terrible things
+023	Terrible things
+023	has Predicate
+has Predicate	encounter
+023	encounter
+023	from
+from	Man
+023	Man
+023	type
+type	Statement
+023	Statement
+023	info Source
+info Source	Holmes
+023	Holmes
+023	source
+source	Women encounter awful eyes from men
+023	Women encounter awful eyes from men
+praise_of_Sutherland_s_mother	type
+type	OFobj
+praise_of_Sutherland_s_mother	OFobj
+praise_of_Sutherland_s_mother	of Whole
+of Whole	Sutherland's mother
+praise_of_Sutherland_s_mother	Sutherland's mother
+praise_of_Sutherland_s_mother	of Part
+of Part	praise
+praise_of_Sutherland_s_mother	praise
+praise_of_Sutherland_s_mother	label
+label	praise of Sutherland's mother
+praise_of_Sutherland_s_mother	praise of Sutherland's mother
+money	type
+type	PhysicalObject
+money	PhysicalObject
+money	label
+label	money
+money	money
+360	info Source
+info Source	Watson s remarks
+360	Watson s remarks
+360	has Predicate
+has Predicate	exist
+360	exist
+360	type
+type	Statement
+360	Statement
+360	source
+source	There is a small boat on the top of Hozma's head
+360	There is a small boat on the top of Hozma's head
+360	what
+what	Gavel
+360	Gavel
+360	where
+where	Head of Hozma
+360	Head of Hozma
+417	what
+what	418
+417	418
+417	has Predicate
+has Predicate	apologize
+417	apologize
+417	source
+source	Windy Bank apologizes for
+417	Windy Bank apologizes for
+417	subject
+subject	Windy bank
+417	Windy bank
+417	info Source
+info Source	Windybank s remarks
+417	Windybank s remarks
+417	type
+type	Statement
+417	Statement
+467	has Predicate
+has Predicate	sit
+467	sit
+467	type
+type	Situation
+467	Situation
+467	source
+source	Windy Bank sat in a chair
+467	Windy Bank sat in a chair
+467	on
+on	Chair
+467	Chair
+467	subject
+subject	Windy bank
+467	Windy bank
+pavement	label
+label	pavement
+pavement	pavement
+pavement	type
+type	PhysicalObject
+pavement	PhysicalObject
+dark_blue	label
+label	dark blue
+dark_blue	dark blue
+dark_blue	type
+type	Object
+dark_blue	Object
+021	source
+source	Sutherland wants to consult people
+021	Sutherland wants to consult people
+021	subject
+subject	Sutherland
+021	Sutherland
+021	info Source
+info Source	Holmes
+021	Holmes
+021	has Predicate
+has Predicate	WantToTalk
+021	WantToTalk
+021	type
+type	Statement
+021	Statement
+021	whom
+whom	Someone
+021	Someone
+r	type
+type	PhysicalObject
+r	PhysicalObject
+r	label
+label	r
+r	r
+characteristics	label
+label	characteristics
+characteristics	characteristics
+characteristics	type
+type	Object
+characteristics	Object
+003	where
+where	Between the windowed seams
+003	Between the windowed seams
+003	subject
+subject	Holmes
+003	Holmes
+003	type
+type	Situation
+003	Situation
+young	label
+label	young
+young	young
+young	type
+type	AbstractTime
+young	AbstractTime
+512	what
+what	513
+512	513
+512	subject
+subject	Sutherland
+512	Sutherland
+512	has Predicate
+has Predicate	thinking
+512	thinking
+512	type
+type	Statement
+512	Statement
+512	info Source
+info Source	Holmes
+512	Holmes
+512	source
+source	Sutherland thinks that
+512	Sutherland thinks that
+14th_Monday	label
+label	14th Monday
+14th_Monday	14th Monday
+14th_Monday	type
+type	AbstractTime
+14th_Monday	AbstractTime
+characters	label
+label	characters
+characters	characters
+characters	type
+type	PhysicalObject
+characters	PhysicalObject
+typewritter	label
+label	typewritter
+typewritter	typewritter
+typewritter	type
+type	Object
+typewritter	Object
+027	type
+type	Statement
+027	Statement
+027	has Property
+has Property	not Angry
+027	not Angry
+027	info Source
+info Source	Holmes
+027	Holmes
+027	source
+source	The woman is not angry
+027	The woman is not angry
+027	subject
+subject	Woman
+027	Woman
+070	info Source
+info Source	Sutherland
+070	Sutherland
+070	subject
+subject	Sutherland s mother
+070	Sutherland s mother
+070	type
+type	Statement
+070	Statement
+070	source
+source	Sutherland's mother is fine
+070	Sutherland's mother is fine
+070	has Property
+has Property	fine
+070	fine
+face	type
+type	PhysicalObject
+face	PhysicalObject
+face	label
+label	face
+face	face
+date	label
+label	date
+date	date
+date	type
+type	PhysicalObject
+date	PhysicalObject
+sleeve	type
+type	PhysicalObject
+sleeve	PhysicalObject
+sleeve	label
+label	sleeve
+sleeve	sleeve
+home	label
+label	home
+home	home
+home	type
+type	PhysicalObject
+home	PhysicalObject
+431	has Predicate
+has Predicate	drop
+431	drop
+431	how
+how	Surprised
+431	Surprised
+431	type
+type	Situation
+431	Situation
+one_quarter	type
+type	PhysicalObject
+one_quarter	PhysicalObject
+one_quarter	label
+label	one quarter
+one_quarter	one quarter
+dead	label
+label	dead
+dead	dead
+dead	type
+type	Object
+dead	Object
+77_years	type
+type	Object
+77_years	Object
+77_years	label
+label	77 years
+77_years	77 years
+simply	type
+type	Object
+simply	Object
+simply	label
+label	simply
+simply	simply
+there_is_Windy_Bank	type
+type	AbstractTime
+there_is_Windy_Bank	AbstractTime
+there_is_Windy_Bank	label
+label	there is Windy Bank
+there_is_Windy_Bank	there is Windy Bank
+be_called	type
+type	AbstractTime
+be_called	AbstractTime
+be_called	label
+label	be called
+be_called	be called
+twice	label
+label	twice
+twice	twice
+twice	type
+type	Object
+twice	Object
+voice	label
+label	voice
+voice	voice
+voice	type
+type	PhysicalObject
+voice	PhysicalObject

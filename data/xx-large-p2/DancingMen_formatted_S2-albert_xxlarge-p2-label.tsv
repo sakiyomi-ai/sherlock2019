@@ -1,0 +1,1702 @@
+167 subject Dancing dolls Y
+167 what _COME_
+167 because 167a
+167 has predicate equal To
+167 type Situation
+167 source The Dancing dolls Y is 'COME'
+227 has predicate close
+227 info source Abe Slaney
+227 type Statement
+227 source Abe Slaney closes the window
+227 what window of study room
+227 subject Abe Slaney
+030 source The horse boy draws Dancing dolls
+030 what Dancing dolls
+030 has predicate draw
+030 type Thought
+030 info source Qubit
+030 subject Horse boy
+086 type Situation
+086 source Martin is well understood
+086 has property well Understood
+086 subject Martin
+087 whom Holmes
+087 has predicate permit
+087 subject Martin
+087 time 1903-08-06 14:00:00
+087 when 1903-08-06T14
+087 what investigation
+087 type Situation
+087 source Martin permits Holmes to investigate
+009 when 1902-07-30T10
+009 whom Elsie
+009 has predicate get Married
+009 type Situation
+009 source Qubit get married last year
+009 time 1902-07-30 10:00:00
+009 subject Qubit
+009 when last year
+067 type Situation
+067 subject Holmes
+067 source Holmes examines Dancing dolls
+067 what Dancing dolls
+067 has predicate examine
+081 has predicate shoot
+081 what Elsie
+081 source Elsie shoots herself
+081 subject Elsie
+081 type Situation
+101 type Situation
+101 subject Door of study room
+101 time 1903-08-06 04:02:00
+101 source The door of the study room opens
+101 when 1903-08-06T04:02
+101 has predicate open
+the_first_position_of_Sentence_H of whole Sentence H
+the_first_position_of_Sentence_H of part the first position
+the_first_position_of_Sentence_H type PhysicalObject
+the_first_position_of_Sentence_H type OFobj
+the_first_position_of_Sentence_H label the first position of Sentence H
+010 has predicate equal To
+010 subject Qubit
+010 type Situation
+010 where Norfolk
+010 what old family
+010 source Qubit is a old family in Norfolk
+203 has predicate equal To
+203 info source Abe Slaney
+203 source Elsie's father is a gang boss
+203 type Statement
+203 subject father of Elsie
+203 what boss of gang
+039 whom Elsie
+039 subject Qubit
+039 has predicate not Force
+039 what Past of Elsie
+039 type Situation
+039 source Qubit does not force Elsie to talk about the past
+006 what Dancing dolls A
+006 source Elsie see Dancing dolls A
+006 then 007
+006 type Situation
+006 subject Elsie
+006 has predicate see
+022 source Elsie's face turns blue
+022 subject face of Elsie
+022 has property blue
+022 type Situation
+097 what gunfire
+097 source One minute after the gunshoot
+097 type Situation
+097 has predicate hear
+097 then 100
+097 when 1903-08-06T04:01
+097 time 1903-08-06 04:01:00
+097 how a short time
+097 subject Maid
+097 when One minute after gunfire
+178 where New York
+178 what police
+178 type Situation
+178 subject Willson
+178 source Willson is a police in New York
+178 has predicate belong To
+008 type Situation
+008 how pencil
+008 has property drawn
+008 source Dancing dolls A are drawn with a pencil
+008 subject Dancing dolls A
+104 type Situation
+104 subject Qubit
+104 source Qubit is dead
+104 time 1903-08-06 04:02:00
+104 has property dead
+104 when 1903-08-06T04:02
+073 then 074
+073 source Holmes sees Dancing dolls E
+073 has predicate see
+073 subject Holmes
+073 what Dancing dolls E
+073 type Situation
+188 to home of Qubit
+188 subject Abe Slaney
+188 has predicate enter
+188 source Abe Slaney enters Qubit's home
+188 type Situation
+188 time 1903-08-06 16:00:00
+188 when 1903-08-06T16
+110 has property locked
+110 source The window of the room is locked from the inside
+110 subject Window of study room
+110 time 1903-08-06 04:02:00
+110 type Situation
+110 when 1903-08-06T04:02
+110 from Inside
+210 has predicate draw
+210 type Statement
+210 subject Abe Slaney
+210 what Dancing dolls
+210 info source Abe Slaney
+210 source Abe Slaney paints dancing dolls
+117 subject Study room
+117 has property small
+117 type Situation
+117 source The study room is small
+62b type Situation
+62b subject Board 1
+62b what Board 2
+62b has predicate not Equal To
+62b source The Board 1 is different with the Board 2
+132 time 1903-08-06 03:00:00
+132 type Situation
+132 has predicate shoot
+132 to room
+132 from garden
+132 subject someone
+132 when 1903-08-06T03
+132 source someone fires into the room from the outside
+018 info source Qubit
+018 source Elsie does not say memories
+018 has predicate not Say
+018 type Statement
+018 what Past of Elsie
+018 subject Elsie
+044 subject Qubit
+044 from station
+044 when 1903-08-03T10
+044 type Situation
+044 source Qubit comes from the station
+044 time 1903-08-03 10:00:00
+044 then 045
+044 has predicate come
+111 source Elsie wears casual wear
+111 type Situation
+111 time 1903-08-06 04:02:00
+111 subject Elsie
+111 when 1903-08-06T04:02
+111 what casual wear
+111 has predicate wear
+019 time 1903-06-30 10:00:00
+019 what Signs of evil
+019 subject Qubit
+019 type Situation
+019 when 1903-06-30T10
+019 has predicate see
+019 source Qubit see signs of the evil at the end of June
+019 when end of June
+051 has predicate stand
+051 subject Dancing dolls C
+051 where Pebble of sundial
+051 source Dancing dolls C are standing on the pebbles of a sundial
+051 type Situation
+072 has property drawn
+072 when 1903-08-05T08
+072 on Sundial
+072 time 1903-08-05 08:00:00
+072 source In the morning of the second day
+072 type Situation
+072 when the second morning
+072 subject Dancing dolls E
+049 then 050
+049 source Two days later
+049 when morning after 2 days
+049 time 1903-08-01 08:00:00
+049 has property drawn
+049 type Situation
+049 when 1903-08-01T08
+049 subject Dancing dolls C
+066 when today
+066 type Statement
+066 source Qubit returns home today
+066 when 1903-08-03T12
+066 to home of Qubit
+066 info source Holmes
+066 time 1903-08-03 12:00:00
+066 has predicate return
+066 subject Qubit
+police type PhysicalObject
+police label police
+050 on paper
+050 when 1903-08-02T08
+050 type Situation
+050 when 3 days later
+050 has property drawn
+050 time 1903-08-02 08:00:00
+050 subject Dancing dolls C
+050 source Three days later
+016 type Statement
+016 subject Elsie
+016 info source Qubit
+016 has property serious
+016 source Elsie is serious
+105 next to window
+105 subject Elsie
+105 type Situation
+105 when 1903-08-06T04:02
+105 time 1903-08-06 04:02:00
+105 source Elsie sits by the window
+105 has predicate sit
+211 info source Abe Slaney
+211 type Statement
+211 where Elridge
+211 when one month ago
+211 source Abe Slaney begins to stay in the basement of Elridge Farm a month ago
+211 when 1903-06-29T10
+211 has predicate stay
+211 subject Abe Slaney
+211 time 1903-06-29 10:00:00
+window_of_study_room of part window
+window_of_study_room type OFobj
+window_of_study_room type PhysicalObject
+window_of_study_room label window of study room
+window_of_study_room of whole study room
+135 on desk of study room
+135 time 1903-08-06 14:00:00
+135 when 1903-08-06T14
+135 subject handbag
+135 type Situation
+135 has predicate exist
+135 source There is a handbag on the desk of the study
+first_position_of_the_second_word_of_Sentence_H of whole Sentence H
+first_position_of_the_second_word_of_Sentence_H of whole the second word of Sentence H
+first_position_of_the_second_word_of_Sentence_H label first position of the second word of Sentence H
+first_position_of_the_second_word_of_Sentence_H type OFobj
+first_position_of_the_second_word_of_Sentence_H type PhysicalObject
+first_position_of_the_second_word_of_Sentence_H of whole the second word
+first_position_of_the_second_word_of_Sentence_H of part first position
+078 when 1903-08-06T03
+078 subject Qubit
+078 type Situation
+078 subject Elsie
+078 source Qubit and Elsie are shoot
+078 has predicate be Shot
+078 time 1903-08-06 03:00:00
+face_of_Elsie of part face
+face_of_Elsie of whole Elsie
+face_of_Elsie type OFobj
+face_of_Elsie type PhysicalObject
+face_of_Elsie label face of Elsie
+033 type Situation
+033 time 1903-07-23 02:00:00
+033 subject Dancing dolls
+033 when 1903-07-23T02
+033 when night
+033 has property drawn
+033 source Dancing dolls are drawn at night
+191 what 224
+191 what 220
+191 what 216
+191 what 201
+191 what 199
+191 what 210
+191 what 198
+191 what 209
+191 what 222
+191 what 225
+191 what 219
+191 type Situation
+191 what 204
+191 what 213
+191 has predicate say
+191 what 227
+191 what 200
+191 what 211
+191 what 226
+191 what 208
+191 what 192
+191 time 1903-08-06 16:00:00
+191 what 218
+191 what 203
+191 subject Abe Slaney
+191 when 1903-08-06T16
+191 source Abe Slaney says the following
+191 what 194
+191 what 195
+191 what 205
+191 what 206
+191 what 207
+037 whom Holmes
+037 when 1903-07-29T10
+037 at the same time 038
+037 what Letter X
+037 time 1903-07-29 10:00:00
+037 type Situation
+037 subject Qubit
+037 source Qubit sends the Letter X to Holmes
+037 has predicate send
+209 subject Abe Slaney
+209 has predicate come
+209 because 208
+209 source Abe Slaney visits Norfolk
+209 to Norfolk
+209 info source Abe Slaney
+209 type Statement
+209 then 210
+141 time 1903-08-06 14:00:00
+141 type Situation
+141 when 1903-08-06T14
+141 has predicate have
+141 subject male footprints
+141 source The flower bed has male footprints
+141 where flower bed
+end label end
+end type Object
+213 has predicate say
+213 whom Abe Slaney
+213 source Elsie talks the following to Abe Slaney
+213 what 215
+213 type Statement
+213 info source Abe Slaney
+213 subject Elsie
+164 has predicate say
+164 source Holmes says the following
+164 subject Holmes
+164 what 166
+164 what 165
+164 type Situation
+151 subject Dancing dolls F
+151 has predicate equal To
+151 source Doll F is 'E'
+151 because 152
+151 because 153
+151 what _E_
+151 type Situation
+007 subject Elsie
+007 type Situation
+007 has predicate fall
+007 source Elsie falls
+167a where the final position of Dancing dolls Y
+167a source The Dancing dolls Y has 'E' at the end
+167a subject Dancing dolls Y
+167a has predicate have
+167a type Situation
+167a what _E_
+079 what 080
+079 has predicate say
+079 when 1903-08-06T14
+079 time 1903-08-06 14:00:00
+079 source Maid says the followngs
+079 type Situation
+079 subject Maid
+190 source Martin handcuffs Abe Slaney
+190 time 1903-08-06 16:00:00
+190 whom Abe Slaney
+190 has predicate put
+190 subject Martin
+190 what handcuffs
+190 type Situation
+190 when 1903-08-06T16
+149 source Dancing dolls can be solved by the rules of cryptography
+149 subject Dancing dolls
+149 type Situation
+149 has property understandable
+149 how cryptography
+paper label paper
+paper type PhysicalObject
+001 on paper
+001 has property drawn
+001 type Situation
+001 subject Dancing dolls A
+001 source Dancing dolls A are drawn on paper
+study_room label study room
+study_room type PhysicalObject
+study_room type Place
+study_room type Object
+108 source Rooms and corridors have the smell of gunpowder
+108 when 1903-08-06T04:02
+108 where Corridor
+108 has predicate have
+108 subject Smell of gunfire
+108 where Study room
+108 type Situation
+108 time 1903-08-06 04:02:00
+3_00 type AbstractTime
+3_00 label 3:00
+058 subject Qubit
+058 has predicate take
+058 type Situation
+058 what Handgun
+058 then 059
+058 source Qubit holds a handgun
+138 from study room
+138 time 1903-08-06 14:00:00
+138 when 1903-08-06T14
+138 type Situation
+011 source Elsie is American
+011 type Situation
+011 has property American
+011 subject Elsie
+220 source Abe Slaney tries to pull Elsie from the window
+220 info source Abe Slaney
+220 from window of study room
+220 then 222
+220 what Elsie
+220 type Statement
+220 has predicate pull
+220 subject Abe Slaney
+204 source Elsie notices Abe Slaney's identity
+204 has predicate find
+204 what Identity of Abe Slaney
+204 type Statement
+204 subject Elsie
+204 info source Abe Slaney
+013 has predicate live
+013 subject Qubit
+013 type Situation
+013 subject Elsie
+013 source Qubit and Elsie live in Norfolk
+013 where Norfolk
+015 subject Qubit
+015 type Situation
+015 what 016
+015 what 018
+015 has predicate say
+015 source Qubit say the followings
+015 what 017
+yesterday_morning label yesterday morning
+yesterday_morning type AbstractTime
+122 when 1903-08-06T14
+122 time 1903-08-06 14:00:00
+122 subject nightwear of Qubit
+122 type Situation
+122 source The qubit's clothes were disordered
+122 has property moved
+160 source The Dancing dolls X has E at both ends
+160 left Dancing dolls X
+160 has predicate have
+160 what _E_
+160 subject Dancing dolls X
+160 type Situation
+160 right Dancing dolls X
+215 when 3 00
+215 when 1903-08-06T03
+215 source Elsie comes out of the window at 3 am
+215 type Statement
+215 then 216
+215 time 1903-08-06 03:00:00
+215 info source Elsie
+215 subject Elsie
+215 from window of study room
+215 has predicate get Out
+the_second_word label the second word
+the_second_word type Object
+070 type Situation
+070 subject Holmes
+070 when 1903-08-04T12
+070 time 1903-08-04 12:00:00
+070 has predicate send
+070 source Holmes send telegraph to Cicago
+070 what telegram
+070 to Chicago
+172 subject Sentence H
+172 type Situation
+172 source The Sentence H means 'Am Here Abe Slaney'
+172 because 171
+172 has predicate equal To
+172 because 170
+172 what _Am_Here_Abe_Slaney_
+140 subject flower bed
+140 source Under the window of the study there is a flower bed
+140 type Situation
+140 has predicate exist
+140 under window of study room
+bullet label bullet
+bullet type Object
+052 has predicate sit
+052 subject Qubit
+052 time 1903-08-03 02:00:00
+052 when 2 00
+052 when 1903-08-03T02
+052 source Qubit sits by the window around 2 am
+052 where window
+052 type Situation
+052 at the same time 053
+091 what heart
+091 what 1903-08-06T14
+091 source Qubit is shot through the heart
+091 has predicate be Shot
+091 info source Local doctor
+091 time 1903-08-06 14:00:00
+091 type Statement
+091 subject Qubit
+043 subject Holmes
+043 when this morning
+043 has predicate receive
+043 then 044
+043 type Situation
+043 from Qubit
+043 source Holmes receives a telegram from Qubit this morning
+043 time 1903-08-03 10:00:00
+043 when 1903-08-03T10
+043 what telegram
+169a source The Sentece H has charactor C1 three times
+169a what Charactor C1
+169a type Situation
+169a how three times
+169a what _?M_?ERE_??E_SL?NE?_
+169a subject Sentence H
+169a has predicate have
+169a has predicate equal To
+208 what Letter Z
+208 subject Elsie
+208 source Elsie does not reply to the Letter Z
+208 type Statement
+208 whom Abe Slaney
+208 info source Abe Slaney
+208 has predicate not Send
+door_of_storeroom type OFobj
+door_of_storeroom of part door
+door_of_storeroom of whole storeroom
+door_of_storeroom type PhysicalObject
+door_of_storeroom label door of storeroom
+218 time 1903-08-06 03:00:00
+218 info source Abe Slaney
+218 when 1903-08-06T03
+218 source Elsie hands money to Abe Slaney
+218 whom Abe Slaney
+218 type Statement
+218 subject Elsie
+218 then 219
+218 has predicate give
+218 what money
+118 subject Bookshelf
+118 source There are bookshelves on three sides of the study room
+118 type Situation
+118 has predicate exist
+118 where three sides of study room
+cipher label cipher
+cipher type PhysicalObject
+145 info source Holmes
+145 source The horse boy takes notes to Elridge
+145 subject Horse boy
+145 type Statement
+145 has predicate take
+225 what Qubit
+225 info source Abe Slaney
+225 then 226
+225 source Abe Slaney shoot Kubit
+225 subject Abe Slaney
+225 type Statement
+225 has predicate shoot
+047 subject Dancing dolls B
+047 how Chalk
+047 has property drawn
+047 type Situation
+047 source Dancing dolls B are drawn with chalk on the door of the storeroom
+047 then 049
+047 on Storage door
+night type AbstractTime
+night label night
+131 time 1903-08-06 03:00:00
+131 when 1903-08-06T03
+131 subject someone
+131 source There is a third party at the site
+131 type Situation
+131 has predicate exist
+131 where Study room
+152 type Situation
+152 subject _E_
+152 source 'E' is most used in the alphabet
+152 how most often
+152 has predicate appear
+152 where Alphabet
+005 source Dolls are dancing on paper
+005 subject dolls
+005 type Situation
+005 has predicate be Dancing
+005 on paper
+207 info source Abe Slaney
+207 subject Abe Slaney
+207 source Abe Slaney writes the Letter Z to Elsie
+207 then 208
+207 whom Elsie
+207 what Letter Z
+207 has predicate send
+207 type Statement
+088 what 089
+088 source A local doctor say the followings
+088 when 1903-08-06T14
+088 what 091
+088 type Situation
+088 what 090
+088 has predicate say
+088 time 1903-08-06 14:00:00
+088 subject Local doctor
+horse_boy type Object
+horse_boy label horse boy
+evening_of_the_second_day type AbstractTime
+evening_of_the_second_day of whole the second day
+evening_of_the_second_day type OFobj
+evening_of_the_second_day of part evening
+evening_of_the_second_day label evening of the second day
+219 then 220
+219 info source Abe Slaney
+219 subject Abe Slaney
+219 has predicate get Angry
+219 source Abe Slaney get angry
+219 type Statement
+034 subject Qubit
+034 when yesterday morning
+034 has predicate see
+034 source Qubit see Dancing dolls on a sundial in the garden yesterday morning
+034 type Situation
+034 time 1903-07-29 08:00:00
+034 on Garden sundial
+034 what Dancing dolls
+034 when 1903-07-29T08
+106 when 1903-08-06T04:02
+106 type Situation
+106 source Elsie gets hurt
+106 has predicate get Hurt
+106 time 1903-08-06 04:02:00
+106 subject Elsie
+084 type Situation
+084 where Norfolk
+084 subject Martin
+084 what police
+084 source Martin is the police of Norfolk
+084 has predicate belong To
+159 what _R_
+159 has predicate equal To
+159 source Dancing dolls G is 'N'
+159 because 158
+159 what _V_
+159 what _N_
+159 type Situation
+159 subject Dancing dolls G
+189 when 1903-08-06T16
+189 what Handgun
+189 has predicate point
+189 to Abe Slaney
+189 source Holmes pointed a gun at Abe Slaney
+189 type Situation
+189 time 1903-08-06 16:00:00
+189 subject Holmes
+094 type Situation
+094 has predicate call
+094 when 1903-08-06T04
+094 time 1903-08-06 04:00:00
+094 what Local doctor
+094 source Maid called a local doctor
+094 subject Maid
+154 type Situation
+154 what character
+154 has predicate split
+154 source Flag separates characters
+154 subject flag
+bullet_of_Qubit type OFobj
+bullet_of_Qubit of part bullet
+bullet_of_Qubit label bullet of Qubit
+bullet_of_Qubit of whole Qubit
+bullet_of_Qubit type PhysicalObject
+handbag type PhysicalObject
+handbag label handbag
+216 when 1903-08-06T03
+216 info source Abe Slaney
+216 subject Elsie
+216 has predicate say
+216 whom Abe Slaney
+216 what 217
+216 source Elsie speaks the following to Abe Slaney
+216 time 1903-08-06 03:00:00
+216 type Statement
+217 type Statement
+217 has predicate leave
+217 source Abe Slaney leaves
+217 info source Elsie
+217 subject Abe Slaney
+162 where the end of Dancing dolls
+162 source The Dancing dolls X appears three times at the end of Dancing dolls
+162 subject Dancing dolls X
+162 has predicate appear
+162 how 3 times
+162 type Situation
+three_characters label three characters
+three_characters type PhysicalObject
+_At_Elridge_ type PhysicalObject
+205 because 204
+205 source Elsie flees to London
+205 info source Abe Slaney
+205 type Statement
+205 to London
+205 subject Elsie
+205 has predicate escape
+handcuffs label handcuffs
+handcuffs type PhysicalObject
+136 subject banknote
+136 has predicate exist
+136 time 1903-08-06 14:00:00
+136 type Situation
+136 where handbag
+136 source Banknote is in the handbag
+136 when 1903-08-06T14
+165 info source Holmes
+165 because 161
+165 what _L_
+165 because 162
+165 because 160
+165 what _S_
+165 type Statement
+165 what _I_
+165 has predicate include
+165 subject Dancing dolls X
+165 source The Dancing dolls X includes 'L'
+057 source Something moves in the shadow of the storeroom
+057 type Situation
+057 has predicate move
+057 where Shadow of storeroom
+057 subject something
+124 type Situation
+124 source There were traces of bullets under the window frame
+124 under frame of window of study room
+124 subject Traces of bullets
+124 has predicate exist
+124 when 1903-08-06T14
+124 time 1903-08-06 14:00:00
+boss type Object
+boss label boss
+telegram label telegram
+telegram type PhysicalObject
+_NEVER_ type PhysicalObject
+100 because 097
+100 subject Maid
+100 to study room
+100 time 1903-08-06 04:02:00
+100 type Situation
+100 source Maid come to the study room
+100 has predicate come
+100 when 1903-08-06T04:02
+074 source Holmes is surprised
+074 has predicate be Surprised
+074 subject Holmes
+074 type Situation
+021 has predicate have
+021 source The Letter Z has an American postmark
+021 what American postmark
+021 subject Letter Z
+021 type Situation
+the_second_day type Object
+the_second_day label the second day
+194 info source Abe Slaney
+194 subject Abe Slaney
+194 has predicate have
+194 type Statement
+194 what priority of Elsie
+194 source Abe Slaney claims Elsie's priority
+020 time 1903-06-30 10:00:00
+020 source Elsie receives Letter Z from US
+020 when end of June
+020 from America
+020 when 1903-06-30T10
+020 what Letter Z
+020 type Situation
+020 has predicate receive
+020 subject Elsie
+076 type Situation
+076 subject Holmes
+076 subject Watson
+076 time 1903-08-06 12:00:00
+076 source Holmes and Watson come to North Walsham
+076 where North Walsham
+076 has predicate come
+076 when 1903-08-06T12
+today type AbstractTime
+today label today
+185 source Holmes talks the following to Abe Slaney in the Letter L
+185 subject Holmes
+185 what 186
+185 has predicate say
+185 type Situation
+185 how Letter L
+185 whom Abe Slaney
+185 when 1903-08-06T15
+185 time 1903-08-06 15:00:00
+095 when 1903-08-06T04
+095 has predicate find
+095 whom Elsie
+095 type Situation
+095 subject Maid
+095 source Maid is the first finders
+095 time 1903-08-06 04:00:00
+198 what Elsie
+198 info source Abe Slaney
+198 source Abe Slaney follows Elsie
+198 has predicate follow
+198 subject Abe Slaney
+198 type Statement
+064 type Statement
+064 subject Elsie
+064 why protect of Qubit
+064 info source Qubit
+064 what Qubit
+064 source Elsie stops Qubits to protect
+064 has predicate stop
+173b what _T__AND__G_
+173b source The Sentence I has 'T' and 'G'
+173b type Situation
+173b has predicate have
+173b subject Sentence I
+032 what Dancing dolls
+032 type Statement
+032 info source horse boy
+032 has predicate not Know
+032 subject Horse boy
+032 source The horse boy does not know Dancing dolls
+gunfire type AbstractTime
+gunfire type PhysicalObject
+gunfire label gunfire
+_I_ type PhysicalObject
+male_footprints type PhysicalObject
+male_footprints label male footprints
+garden label garden
+garden type Place
+someone label someone
+someone type Person
+107 type Situation
+107 where Corridor
+107 time 1903-08-06 04:02:00
+107 source The room and the corridor are full of smoke
+107 where Study room
+107 subject smoke
+107 when 1903-08-06T04:02
+107 has property full
+192 what Qubit
+192 has predicate shoot
+192 type Statement
+192 source Ave Sureini shoot Qubit
+192 info source Abe Slaney
+192 subject Abe Slaney
+148 subject Doll
+148 source Doll is a substitute for characters
+148 has predicate equal To
+148 type Situation
+148 what character
+161 subject Dancing dolls X
+161 type Situation
+161 what three characters
+161 has predicate have
+161 middle of Dancing dolls X
+161 source The Dancing dolls X has three characters in it
+similar_to_mischief type Object
+similar_to_mischief label similar to mischief
+090 source The local doctor does not give a finding
+090 subject Local doctor
+090 what 1903-08-06T14
+090 has predicate not Say
+090 time 1903-08-06 14:00:00
+090 what findings
+090 type Situation
+029 subject Qubit
+029 what 030
+029 type Situation
+029 source Qubit thinks of the following
+029 has predicate think
+153 how four times
+153 subject Dancing dolls A
+153 has predicate have
+153 what Dancing dolls F
+153 type Situation
+153 source Dancing dolls A contains Dancing Dolls F four times
+147 source Dancing dolls is a cipher that mimics children's mischief
+147 type Situation
+147 has predicate equal To
+147 what cipher
+147 subject Dancing dolls
+147 how similar to mischief
+143 type Situation
+143 has predicate exist
+143 subject Elridge
+143 where East Ruston
+143 source Elridge is a few miles ahead of East Ruston
+112 what nightwear
+112 when 1903-08-06T04:02
+112 has predicate wear
+112 source Qubit wears nightwear
+112 subject Qubit
+112 time 1903-08-06 04:02:00
+112 type Situation
+four_times type Object
+four_times label four times
+the_first_position label the first position
+the_first_position type Object
+115 when 1903-08-06T04:02
+115 type Situation
+115 subject Maid
+115 time 1903-08-06 04:02:00
+115 has predicate get Out
+115 source The maid leaves their room
+115 from Maid room
+last_year type AbstractTime
+last_year label last year
+041 has predicate ask
+041 whom Qubit
+041 type Situation
+041 time 1903-07-30 14:00:00
+041 what 042
+041 subject Holmes
+041 what 1903-07-30T14
+041 source Holmes asks Qubit the following
+133 then 134
+133 subject Qubit
+133 what someone
+133 has predicate shoot
+133 when 1903-08-06T03
+133 source Qubit shoots a third party
+133 time 1903-08-06 03:00:00
+133 type Situation
+142 time 1903-08-06 14:00:00
+142 subject Holmes
+142 when 1903-08-06T14
+142 has predicate find
+142 what tube of bullet
+142 source At the flower bed
+142 where flower bed
+142 type Situation
+cryptography label cryptography
+cryptography type Object
+desk_of_study_room of whole study room
+desk_of_study_room type PhysicalObject
+desk_of_study_room label desk of study room
+desk_of_study_room of part desk
+desk_of_study_room type OFobj
+003 type Situation
+003 source Qubit is tall
+003 has property tall
+003 subject Qubit
+fireplace type PhysicalObject
+fireplace label fireplace
+character type PhysicalObject
+character label character
+findings type PhysicalObject
+findings label findings
+109 time 1903-08-06 04:02:00
+109 when 1903-08-06T04:02
+109 source The window of the room is closed
+109 has predicate be Closed
+109 type Situation
+109 subject Window of study room
+heart label heart
+heart type PhysicalObject
+home label home
+home type Object
+224 type Statement
+224 what Abe Slaney
+224 then 225
+224 source Qubit's bullet goes out of Abe Slaney
+224 subject bullet of Qubit
+224 info source Abe Slaney
+224 has predicate not Hit
+121 type Situation
+121 time 1903-08-06 14:00:00
+121 has predicate fall
+121 source The qubit is falling across the study room
+121 when 1903-08-06T14
+121 middle of study room
+121 subject Qubit
+156 has predicate have
+156 source Dancing dolls D has 'E' in the second and fourth position
+156 subject Dancing dolls D
+156 what _E_
+156 type Situation
+156 where the fourth position
+156 where the second position
+181 type Statement
+181 what prayer
+181 subject Elsie
+181 source Elsie needs to be ready to meet God
+181 info source Abe Slaney
+181 has predicate need
+096 time 1903-08-06 04:00:00
+096 source Maid get up with gunfire
+096 when 1903-08-06T04
+096 type Situation
+096 subject Maid
+096 why gunfire
+096 has predicate wake
+_O_ type PhysicalObject
+063 has predicate say
+063 subject Qubit
+063 what 064
+063 source Qubit says the followng
+063 type Situation
+173 because 173a
+173 has predicate equal To
+173 because 173c
+173 source The Sentence I points to 'At Elridge'
+173 type Situation
+173 what _At_Elridge_
+173 subject Sentence I
+the_next_morning label the next morning
+the_next_morning type AbstractTime
+170 where the first position of Sentence H
+170 source The character C1 at the first position of Sentence H is A
+170 has predicate equal To
+170 subject Charactor C1
+170 because 169
+170 type Situation
+170 what _A_
+134 has predicate shoot
+134 time 1903-08-06 03:00:00
+134 subject Bullet
+134 type Situation
+134 where Window frame of study room
+134 source A bullet hits the window frame
+134 when 1903-08-06T03
+184 has predicate come
+184 subject Watson
+184 type Situation
+184 to Norfolk
+184 because 183
+184 subject Holmes
+184 source Holmes and Watson rush to Norfolk
+129 subject Traces of candles
+129 source There is no flow of candles
+129 type Situation
+129 has predicate not Exist
+127 subject Door of study room
+127 because 129
+127 subject window of study room
+127 how a short time
+127 type Situation
+127 source The door and the window of the room are open for a short time
+127 has predicate open
+62a type Situation
+62a source Dancing dolls C are drawn on the Board 1
+62a where Board 1
+62a subject Dancing dolls C
+62a has property drawn
+the_second_word_of_Sentence_H of whole Sentence H
+the_second_word_of_Sentence_H type OFobj
+the_second_word_of_Sentence_H label the second word of Sentence H
+the_second_word_of_Sentence_H of part the second word
+_C_ type PhysicalObject
+first_position label first position
+first_position type Object
+nightwear_of_Qubit type OFobj
+nightwear_of_Qubit label nightwear of Qubit
+nightwear_of_Qubit of part nightwear
+nightwear_of_Qubit of whole Qubit
+nightwear_of_Qubit type PhysicalObject
+023 then 024
+023 what Letter Z
+023 source Elsie read the Letter Z
+023 type Situation
+023 subject Elsie
+023 has predicate read
+116 type Situation
+116 has predicate feel
+116 source The maid feels the smell of gunpowder
+116 time 1903-08-06 04:02:00
+116 at the same time 115
+116 what Smell of gunfire
+116 when 1903-08-06T04:02
+038 subject Qubit
+038 type Situation
+038 source Qubit sends a dancing doll to Holmes
+038 what Dancing dolls
+038 whom Holmes
+038 has predicate sent
+177 subject Holmes
+177 type Situation
+177 source Holmes telegraphs to Willson
+177 has predicate send
+177 whom Willson
+177 what telegram
+222 has predicate shoot
+222 then 224
+222 subject Qubit
+222 source Qubit shoot Abe Slaney
+222 info source Abe Slaney
+222 what Abe Slaney
+222 type Statement
+note label note
+note type PhysicalObject
+173c what _A?_ELRI?ES_
+173c type Situation
+173c has predicate equal To
+173c subject Sentence I
+173c source The Sentence I is 'A? ELRI?ES'
+suicide label suicide
+suicide type Object
+046 time 1903-07-31 08:00:00
+046 has predicate see
+046 what Dancing dolls B
+046 source Qubit see Dancing dolls B the next morning
+046 when 1903-07-31T08
+046 type Situation
+046 when next morning
+046 subject Qubit
+026 has predicate follow
+026 subject Qubit
+026 what promise
+026 source Qubit follows the promise
+026 then 027
+026 type Situation
+035 whom Elsie
+035 what Dancing dolls
+035 subject Qubit
+035 has predicate show
+035 then 036
+035 source Qubit shows Elsie Dancing dolls
+035 type Situation
+126 source The door and window of the room are open when fired
+126 has predicate open
+126 when 1903-08-06T03
+126 time 1903-08-06 03:00:00
+126 when gunfire
+126 subject window of study room
+126 type Situation
+126 subject Door of study room
+smoke label smoke
+smoke type PhysicalObject
+068 type Situation
+068 at the same time 069
+068 subject Holmes
+068 source Holmes is happy
+068 has predicate be Happy
+three_times label three times
+three_times type Object
+186 subject Abe Slaney
+186 source Abe Slaney comes to Qubit's home
+186 when 1903-08-06T16
+186 type Statement
+186 info source Holmes
+186 has predicate come
+186 time 1903-08-06 16:00:00
+186 to home of Qubit
+_Am_Here_Abe_Slaney_ type PhysicalObject
+065 type Situation
+065 source Holmes says the following to Qubit
+065 subject Holmes
+065 what 066
+065 has predicate say
+065 whom Qubit
+028 when 1903-07-23T10
+028 source Qubit see Dancing dolls in a glass window last Tuesday
+028 has predicate see
+028 time 1903-07-23 10:00:00
+028 type Situation
+028 when last Tuesday
+028 where Glass window
+028 what Dancing dolls
+028 subject Qubit
+investigation type PhysicalObject
+investigation label investigation
+179 type Situation
+179 has predicate equal To
+179 subject Abe Slaney
+179 what gang
+179 where Chicago
+179 source Abe Slaney is a gang in Chicago
+169b source The Sentence H is '?M ?ERE ??E SL?NE?'
+169b type Situation
+055 whom Qubit
+055 subject Elsie
+055 has predicate say
+055 type Situation
+055 what 056
+055 source Elsie says the following to Qubit
+something type PhysicalObject
+something label something
+031 source The horse boy says the following
+031 type Situation
+031 what 032
+031 subject Horse boy
+031 has predicate say
+114 type Situation
+114 when 1903-08-06T04:02
+114 subject Door of study room
+114 source The door is locked from the inside
+114 from Inside
+114 time 1903-08-06 04:02:00
+114 has property locked
+Sentence_H type Object
+Sentence_H label Sentence H
+the_final_position_of_Dancing_dolls_Y label the final position of Dancing dolls Y
+the_final_position_of_Dancing_dolls_Y type OFobj
+the_final_position_of_Dancing_dolls_Y of part the final position
+the_final_position_of_Dancing_dolls_Y of whole Dancing dolls Y
+tube label tube
+tube type Object
+080 type Statement
+080 then 081
+080 source Elsie shoots Qubit
+080 info source Maid
+080 subject Elsie
+080 has predicate shoot
+080 what Qubit
+119 opposite window of study room
+119 source The desk is placed against the window
+119 subject Desk
+119 type Situation
+119 has predicate exist
+014 source Qubit does not know Elsie's past
+014 what Past of Elsie
+014 has predicate not Know
+014 subject Qubit
+014 type Situation
+002 what Meaning of Dancing dolls A
+002 type Situation
+002 source Qubit wants to know the meaning of Dancing dolls A
+002 has predicate not Know
+002 subject Qubit
+089 subject 1903-08-06T14
+089 time 1903-08-06 14:00:00
+089 source Elsie is not dead
+089 info source Local doctor
+089 subject Elsie
+089 has property not Dead
+089 type Statement
+092 middle of Elsie and Qubit
+092 type Situation
+092 time 1903-08-06 14:00:00
+092 source Handgun falls between Qubit and Elsie
+092 subject Handgun
+092 when 1903-08-06T14
+092 has predicate exist
+158 type Thought
+158 because 154
+158 has predicate equal To
+158 what _NEVER_
+158 info source Holmes
+158 subject Dancing dolls D
+158 because 156
+158 source Dancing dolls D may be 'NEVER'
+4_00 label 4:00
+4_00 type AbstractTime
+166 info source Holmes
+166 what _ELSIE_
+166 has predicate equal To
+166 because 165
+166 source The Dancing dolls X is 'ELSIE'
+166 subject Dancing dolls X
+166 type Statement
+dolls type PhysicalObject
+dolls label dolls
+flower_bed type PhysicalObject
+flower_bed label flower bed
+tube_of_bullet of whole bullet
+tube_of_bullet type PhysicalObject
+tube_of_bullet type OFobj
+tube_of_bullet of part tube
+tube_of_bullet label tube of bullet
+069 type Situation
+069 source Holmes walks around the room
+069 has predicate walk
+069 then 070
+069 where room
+069 subject Holmes
+061 subject Dancing dolls D
+061 has property drawn
+061 source The next morning
+061 type Situation
+061 time 1903-08-03 08:00:00
+061 when 1903-08-03T08
+061 when the next morning
+061 on door of storeroom
+200 subject Abe Slaney
+200 what suicide
+200 info source Abe Slaney
+200 whom Elsie
+200 source Abe Slaney forces Elsie to commit suicide
+200 has predicate force
+200 type Statement
+024 subject Elsie
+024 to fireplace
+024 has predicate put
+024 source Elsie put the Letter Z in the fireplace
+024 then 025
+024 type Situation
+024 what Letter Z
+130 has predicate open
+130 when 1903-08-06T03
+130 when gunfire
+130 type Situation
+130 source At the time of the incident
+130 time 1903-08-06 03:00:00
+130 subject window
+168 what _M_
+168 subject Dancing dolls Y
+168 what _C_
+168 has predicate include
+168 because 167
+168 type Situation
+168 source The Dancing dolls Y includes 'C'
+168 what _O_
+outside label outside
+outside type Place
+priority_of_Elsie of part priority
+priority_of_Elsie label priority of Elsie
+priority_of_Elsie type OFobj
+priority_of_Elsie type PhysicalObject
+priority_of_Elsie of whole Elsie
+home_of_Qubit of whole Qubit
+home_of_Qubit type Place
+home_of_Qubit label home of Qubit
+home_of_Qubit type OFobj
+home_of_Qubit of part home
+183 subject Message of Abe Slaney
+183 has predicate change
+183 type Situation
+183 from Persuasion
+183 source The message of Abe Slaney changes from persuasion to threat
+183 to Threat
+171 subject Character C2
+171 what _H_
+171 type Situation
+171 source The character C2 at the first position of the second word of Sentence H is H
+171 where first position of the second word of Sentence H
+171 has predicate equal To
+201 type Statement
+201 subject Abe Slaney
+201 has property childhood
+201 info source Abe Slaney
+201 subject Elsie
+201 source Elsie and Abe Slaney are childhood friends
+next_morning type AbstractTime
+next_morning label next morning
+071 when 1903-08-05T17
+071 when evening of the second day
+071 from Qubit
+071 what Letter Y
+071 subject Holmes
+071 type Situation
+071 source On the second evening
+071 has predicate receive
+071 time 1903-08-05 17:00:00
+gang label gang
+gang type PhysicalObject
+056 subject Qubit
+056 has predicate return
+056 info source Elsie
+056 type Statement
+056 where Bedroom
+056 source Qubit returns to bedroom
+_L_ type PhysicalObject
+flag type PhysicalObject
+flag label flag
+180 type Situation
+180 source Abe Slaney send the following to Elsie
+180 whom Elsie
+180 subject Abe Slaney
+180 what 181
+180 has predicate send
+017 type Statement
+017 info source Qubit
+017 subject Elsie
+017 has predicate have
+017 source Elsie has bad memories
+017 what Bad memories
+054 subject Elsie
+054 has predicate wear
+054 source Elsie wears a gown
+054 type Situation
+054 what gown
+103 type Situation
+103 when 1903-08-06T04:02
+103 source Qubit falls in the middle of the room
+103 subject Qubit
+103 middle of room
+103 has predicate fall
+103 time 1903-08-06 04:02:00
+042 type Statement
+042 has predicate copy
+042 subject Qubit
+042 info source Holmes
+042 source Qubit copies Dancing dolls
+042 what Dancing dolls
+144 type Situation
+144 time 1903-08-06 15:00:00
+144 when 1903-08-06T15
+144 subject Holmes
+144 has predicate ask
+144 source Holmes asks the horse boy for the following
+144 whom Horse boy
+144 what 145
+027 source Qubit shuts up
+027 has predicate shut Up
+027 subject Qubit
+027 type Situation
+Dancing_dolls label Dancing dolls
+Dancing_dolls type Object
+3_days_later type AbstractTime
+3_days_later label 3 days later
+three_sides label three sides
+three_sides type Object
+102 time 1903-08-06 04:02:00
+102 when 1903-08-06T04:02
+102 has predicate exist
+102 source A candle is on the desk
+102 subject Candle
+102 on Desk
+102 type Situation
+nightwear label nightwear
+nightwear type PhysicalObject
+frame_of_window_of_study_room of whole study room
+frame_of_window_of_study_room type OFobj
+frame_of_window_of_study_room label frame of window of study room
+frame_of_window_of_study_room of whole window
+frame_of_window_of_study_room type PhysicalObject
+frame_of_window_of_study_room of part frame
+frame_of_window_of_study_room of whole window of study room
+077 subject Martin
+077 source Martin visits North Walsham from Norwich
+077 from Norwich
+077 has predicate come
+077 to North Walsham
+077 type Situation
+077 when 1903-08-06T12
+077 time 1903-08-06 12:00:00
+174 subject Abe Slaney
+174 has property American
+174 source Abe Slaney is American
+174 because 021
+174 type Situation
+three_sides_of_study_room of part three sides
+three_sides_of_study_room of whole study room
+three_sides_of_study_room type Place
+three_sides_of_study_room label three sides of study room
+three_sides_of_study_room type OFobj
+123 has predicate be Shot
+123 when 1903-08-06T14
+123 from front
+123 source Qubit shoot his heart from the front
+123 time 1903-08-06 14:00:00
+123 what heart
+123 subject Qubit
+123 type Situation
+the_end label the end
+the_end type Object
+the_second_morning type AbstractTime
+the_second_morning label the second morning
+3_times label 3 times
+3_times type Object
+053 type Situation
+053 when 1903-08-03T02
+053 subject outside
+053 source Around 2 am
+053 when 2 00
+053 has property moonlighted
+053 time 1903-08-03 02:00:00
+banknote type PhysicalObject
+banknote label banknote
+199 what Qubit
+199 subject Abe Slaney
+199 then 200
+199 type Statement
+199 info source Abe Slaney
+199 source Abe Slaney kills Qubit
+199 has predicate kill
+230 has predicate think
+230 when 1903-08-06T15
+230 source Abe Slaney thinks of the following
+230 type Situation
+230 subject Abe Slaney
+230 time 1903-08-06 15:00:00
+230 what 231
+_A_ type PhysicalObject
+045 has predicate come
+045 subject Qubit
+045 when 1903-08-03T10
+045 type Situation
+045 time 1903-08-03 10:00:00
+045 source Qubit visits Holmes
+045 to Holmes
+father type Object
+father label father
+195 source Elsie escapes from Abe Slaney
+195 info source Abe Slaney
+195 type Statement
+195 from Abe Slaney
+195 has predicate escape
+195 subject Elsie
+frame type Object
+frame label frame
+end_of_June of whole June
+end_of_June label end of June
+end_of_June type AbstractTime
+end_of_June type OFobj
+end_of_June of part end
+206 source Elsie and Abe Slaney are engaged
+206 info source Abe Slaney
+206 type Statement
+206 subject Elsie
+206 subject Abe Slaney
+206 has property engaged
+promise label promise
+promise type PhysicalObject
+169 type Situation
+169 has property short
+169 source The Sentence H is short
+169 subject Sentence H
+front type Place
+front label front
+173a source The Sentence I becomes meaningful
+173a type Situation
+173a has property meaningful
+173a subject Sentence I
+173a when 173b
+the_end_of_Dancing_dolls type Place
+the_end_of_Dancing_dolls of whole Dancing dolls
+the_end_of_Dancing_dolls type OFobj
+the_end_of_Dancing_dolls label the end of Dancing dolls
+the_end_of_Dancing_dolls of part the end
+window type PhysicalObject
+window label window
+229 has predicate equal To
+229 type Situation
+229 what _Come_soon_at_once_
+229 source Dancing dolls J is come soon at once
+229 subject Dancing dolls J
+036 subject Elsie
+036 has predicate fall
+036 source Elsie falls
+036 type Situation
+120 source the garden can be seen from the window
+120 has predicate be Seen
+120 type Situation
+120 from window of study room
+120 subject garden
+040 where Neighborhood
+040 when 1903-06-29T10
+040 has predicate appear
+040 source New face appears in the neighborhood
+040 type Situation
+040 time 1903-06-29 10:00:00
+040 subject New face
+2_00 type AbstractTime
+2_00 label 2:00
+father_of_Elsie label father of Elsie
+father_of_Elsie type OFobj
+father_of_Elsie of part father
+father_of_Elsie type Person
+father_of_Elsie of whole Elsie
+226 subject Qubit
+226 type Statement
+226 has predicate fall
+226 then 227
+226 info source Abe Slaney
+226 source Qubit falls
+062 type Situation
+062 has property drawn
+062 source Dancing dolls D are drawn on the Board 2
+062 subject Dancing dolls D
+062 where Board 2
+this_morning type AbstractTime
+this_morning label this morning
+082 source Martin is small
+082 type Situation
+082 subject Martin
+082 has property small
+231 has predicate write
+231 subject Elsie
+231 source Elsie writes Dancing dolls J
+231 what Dancing dolls J
+231 type Thought
+231 info source Abe Slaney
+137 type Situation
+137 source The window frame bursts from the room
+137 has predicate burst
+137 subject Window frame of study room
+door label door
+door type Object
+pencil type PhysicalObject
+pencil label pencil
+Dancing_dolls_Y label Dancing dolls Y
+Dancing_dolls_Y type Object
+priority label priority
+priority type Object
+desk label desk
+desk type Object
+Elsie type Object
+Elsie label Elsie
+004 type Situation
+004 has property gentle
+004 subject Qubit
+004 source Qubit is a gentleman
+most_often type Object
+most_often label most often
+room label room
+room type Place
+prayer label prayer
+prayer type PhysicalObject
+storeroom label storeroom
+storeroom type Object
+025 subject Elsie
+025 has predicate shut Up
+025 source Elsie shuts up
+025 type Situation
+protect type Object
+protect label protect
+_N_ type PhysicalObject
+_M_ type PhysicalObject
+casual_wear type PhysicalObject
+casual_wear label casual wear
+_H_ type PhysicalObject
+boss_of_gang of whole gang
+boss_of_gang type OFobj
+boss_of_gang of part boss
+boss_of_gang label boss of gang
+boss_of_gang type PhysicalObject
+Qubit label Qubit
+Qubit type Object
+_V_ type PhysicalObject
+093 subject Local doctor
+093 has predicate visit
+093 source A local doctor visited at 4 am
+093 when 4 00
+093 when 1903-08-06T04
+093 time 1903-08-06 04:00:00
+093 type Situation
+a_short_time label a short time
+a_short_time type Object
+money type PhysicalObject
+money label money
+the_second_position label the second position
+the_second_position type Place
+station type Place
+station label station
+old_family label old family
+old_family type PhysicalObject
+113 subject Study room
+113 when 1903-08-06T04:02
+113 type Situation
+113 time 1903-08-06 04:02:00
+113 has predicate not Moved
+113 source The study room is not moved
+protect_of_Qubit of whole Qubit
+protect_of_Qubit label protect of Qubit
+protect_of_Qubit of part protect
+protect_of_Qubit type OFobj
+059 has predicate stop
+059 source Elsie stops Qubit
+059 what Qubit
+059 subject Elsie
+059 type Situation
+the_fourth_position type Place
+the_fourth_position label the fourth position
+146 what note
+146 type Situation
+146 to Elridge
+_Come_soon_at_once_ type PhysicalObject
+_R_ type PhysicalObject
+June label June
+June type Object
+_E_ type PhysicalObject
+_COME_ type PhysicalObject
+face label face
+face type Object
+gown label gown
+gown type PhysicalObject
+last_Tuesday label last Tuesday
+last_Tuesday type AbstractTime
+the_final_position label the final position
+the_final_position type Object
+evening label evening
+evening type Object
+_S_ type PhysicalObject
+morning_after_2_days type AbstractTime
+morning_after_2_days label morning after 2 days
+one_month_ago type AbstractTime
+one_month_ago label one month ago
+_ELSIE_ type PhysicalObject

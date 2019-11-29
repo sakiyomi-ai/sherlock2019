@@ -1,0 +1,869 @@
+167
+subject
+Dancing dolls Y
+what
+_COME_
+because
+167a
+has Predicate
+equal To
+type
+Situation
+source
+The Dancing dolls Y is 'COME'
+227
+close
+info Source
+Abe Slaney
+Statement
+Abe Slaney closes the window
+window of study room
+030
+The horse boy draws Dancing dolls
+Dancing dolls
+draw
+Thought
+Qubit
+Horse boy
+086
+Martin is well understood
+has Property
+well Understood
+Martin
+087
+whom
+Holmes
+permit
+time
+1903-08-06 14:00:00
+when
+1903-08-06T14
+investigation
+Martin permits Holmes to investigate
+009
+1902-07-30T10
+Elsie
+get Married
+Qubit get married last year
+1902-07-30 10:00:00
+last year
+067
+Holmes examines Dancing dolls
+examine
+081
+shoot
+Elsie shoots herself
+101
+Door of study room
+1903-08-06 04:02:00
+The door of the study room opens
+1903-08-06T04:02
+open
+the_first_position_of_Sentence_H
+of Whole
+Sentence H
+of Part
+the first position
+PhysicalObject
+OFobj
+label
+the first position of Sentence H
+010
+where
+Norfolk
+old family
+Qubit is a old family in Norfolk
+203
+Elsie's father is a gang boss
+father of Elsie
+boss of gang
+039
+not Force
+Past of Elsie
+Qubit does not force Elsie to talk about the past
+006
+Dancing dolls A
+Elsie see Dancing dolls A
+then
+007
+see
+022
+Elsie's face turns blue
+face of Elsie
+blue
+097
+gunfire
+One minute after the gunshoot
+hear
+100
+1903-08-06T04:01
+1903-08-06 04:01:00
+how
+a short time
+Maid
+One minute after gunfire
+178
+New York
+police
+Willson
+Willson is a police in New York
+belong To
+008
+pencil
+drawn
+Dancing dolls A are drawn with a pencil
+104
+Qubit is dead
+dead
+073
+074
+Holmes sees Dancing dolls E
+Dancing dolls E
+188
+to
+home of Qubit
+enter
+Abe Slaney enters Qubit's home
+1903-08-06 16:00:00
+1903-08-06T16
+110
+locked
+The window of the room is locked from the inside
+Window of study room
+from
+Inside
+210
+Abe Slaney paints dancing dolls
+117
+Study room
+small
+The study room is small
+62b
+Board 1
+Board 2
+not Equal To
+The Board 1 is different with the Board 2
+132
+1903-08-06 03:00:00
+room
+garden
+someone
+1903-08-06T03
+someone fires into the room from the outside
+018
+Elsie does not say memories
+not Say
+044
+station
+1903-08-03T10
+Qubit comes from the station
+1903-08-03 10:00:00
+045
+come
+111
+Elsie wears casual wear
+casual wear
+wear
+019
+1903-06-30 10:00:00
+Signs of evil
+1903-06-30T10
+Qubit see signs of the evil at the end of June
+end of June
+051
+stand
+Dancing dolls C
+Pebble of sundial
+Dancing dolls C are standing on the pebbles of a sundial
+072
+1903-08-05T08
+on
+Sundial
+1903-08-05 08:00:00
+In the morning of the second day
+the second morning
+049
+050
+Two days later
+morning after 2 days
+1903-08-01 08:00:00
+1903-08-01T08
+066
+today
+Qubit returns home today
+1903-08-03T12
+1903-08-03 12:00:00
+return
+paper
+1903-08-02T08
+3 days later
+1903-08-02 08:00:00
+Three days later
+016
+serious
+Elsie is serious
+105
+next To
+window
+Elsie sits by the window
+sit
+211
+Elridge
+one month ago
+Abe Slaney begins to stay in the basement of Elridge Farm a month ago
+1903-06-29T10
+stay
+1903-06-29 10:00:00
+window_of_study_room
+study room
+135
+desk of study room
+handbag
+exist
+There is a handbag on the desk of the study
+first_position_of_the_second_word_of_Sentence_H
+the second word of Sentence H
+first position of the second word of Sentence H
+the second word
+first position
+078
+Qubit and Elsie are shoot
+be Shot
+face_of_Elsie
+face
+033
+1903-07-23 02:00:00
+1903-07-23T02
+night
+Dancing dolls are drawn at night
+191
+224
+220
+216
+201
+199
+198
+209
+222
+225
+219
+204
+213
+say
+200
+226
+208
+192
+218
+Abe Slaney says the following
+194
+195
+205
+206
+207
+037
+1903-07-29T10
+at the same time
+038
+Letter X
+1903-07-29 10:00:00
+Qubit sends the Letter X to Holmes
+send
+Abe Slaney visits Norfolk
+141
+have
+male footprints
+The flower bed has male footprints
+flower bed
+end
+Object
+Elsie talks the following to Abe Slaney
+215
+164
+Holmes says the following
+166
+165
+151
+Dancing dolls F
+Doll F is 'E'
+152
+153
+_E_
+fall
+Elsie falls
+the final position of Dancing dolls Y
+The Dancing dolls Y has 'E' at the end
+079
+080
+Maid says the followngs
+190
+Martin handcuffs Abe Slaney
+put
+handcuffs
+149
+Dancing dolls can be solved by the rules of cryptography
+understandable
+cryptography
+001
+Dancing dolls A are drawn on paper
+study_room
+Place
+108
+Rooms and corridors have the smell of gunpowder
+Corridor
+Smell of gunfire
+3_00
+AbstractTime
+3:00
+058
+take
+Handgun
+059
+Qubit holds a handgun
+138
+011
+Elsie is American
+American
+Abe Slaney tries to pull Elsie from the window
+pull
+Elsie notices Abe Slaney's identity
+find
+Identity of Abe Slaney
+013
+live
+Qubit and Elsie live in Norfolk
+015
+Qubit say the followings
+017
+yesterday_morning
+yesterday morning
+122
+nightwear of Qubit
+The qubit's clothes were disordered
+moved
+160
+The Dancing dolls X has E at both ends
+left
+Dancing dolls X
+right
+3 00
+Elsie comes out of the window at 3 am
+get Out
+the_second_word
+070
+1903-08-04T12
+1903-08-04 12:00:00
+Holmes send telegraph to Cicago
+telegram
+Chicago
+172
+The Sentence H means 'Am Here Abe Slaney'
+171
+170
+_Am_Here_Abe_Slaney_
+140
+Under the window of the study there is a flower bed
+under
+bullet
+052
+1903-08-03 02:00:00
+2 00
+1903-08-03T02
+Qubit sits by the window around 2 am
+053
+091
+heart
+Qubit is shot through the heart
+Local doctor
+043
+this morning
+receive
+Holmes receives a telegram from Qubit this morning
+169a
+The Sentece H has charactor C1 three times
+Charactor C1
+three times
+_?M_?ERE_??E_SL?NE?_
+Letter Z
+Elsie does not reply to the Letter Z
+not Send
+door_of_storeroom
+door
+storeroom
+door of storeroom
+Elsie hands money to Abe Slaney
+give
+money
+118
+Bookshelf
+There are bookshelves on three sides of the study room
+three sides of study room
+cipher
+145
+The horse boy takes notes to Elridge
+Abe Slaney shoot Kubit
+047
+Dancing dolls B
+Chalk
+Dancing dolls B are drawn with chalk on the door of the storeroom
+Storage door
+131
+There is a third party at the site
+'E' is most used in the alphabet
+most often
+appear
+Alphabet
+005
+Dolls are dancing on paper
+dolls
+be Dancing
+Abe Slaney writes the Letter Z to Elsie
+088
+089
+A local doctor say the followings
+090
+horse_boy
+horse boy
+evening_of_the_second_day
+the second day
+evening
+evening of the second day
+get Angry
+Abe Slaney get angry
+034
+Qubit see Dancing dolls on a sundial in the garden yesterday morning
+1903-07-29 08:00:00
+Garden sundial
+1903-07-29T08
+106
+Elsie gets hurt
+get Hurt
+084
+Martin is the police of Norfolk
+159
+_R_
+Dancing dolls G is 'N'
+158
+_V_
+_N_
+Dancing dolls G
+189
+point
+Holmes pointed a gun at Abe Slaney
+094
+call
+1903-08-06T04
+1903-08-06 04:00:00
+Maid called a local doctor
+154
+character
+split
+Flag separates characters
+flag
+bullet_of_Qubit
+bullet of Qubit
+217
+Elsie speaks the following to Abe Slaney
+leave
+Abe Slaney leaves
+162
+the end of Dancing dolls
+The Dancing dolls X appears three times at the end of Dancing dolls
+3 times
+three_characters
+three characters
+_At_Elridge_
+Elsie flees to London
+London
+escape
+136
+banknote
+Banknote is in the handbag
+161
+_L_
+_S_
+_I_
+include
+The Dancing dolls X includes 'L'
+057
+Something moves in the shadow of the storeroom
+move
+Shadow of storeroom
+something
+124
+There were traces of bullets under the window frame
+frame of window of study room
+Traces of bullets
+boss
+_NEVER_
+Maid come to the study room
+Holmes is surprised
+be Surprised
+021
+The Letter Z has an American postmark
+American postmark
+the_second_day
+priority of Elsie
+Abe Slaney claims Elsie's priority
+020
+Elsie receives Letter Z from US
+America
+076
+Watson
+1903-08-06 12:00:00
+Holmes and Watson come to North Walsham
+North Walsham
+1903-08-06T12
+185
+Holmes talks the following to Abe Slaney in the Letter L
+186
+Letter L
+1903-08-06T15
+1903-08-06 15:00:00
+095
+Maid is the first finders
+Abe Slaney follows Elsie
+follow
+064
+why
+protect of Qubit
+Elsie stops Qubits to protect
+stop
+173b
+_T__AND__G_
+The Sentence I has 'T' and 'G'
+Sentence I
+032
+not Know
+The horse boy does not know Dancing dolls
+male_footprints
+Person
+107
+The room and the corridor are full of smoke
+smoke
+full
+Ave Sureini shoot Qubit
+148
+Doll
+Doll is a substitute for characters
+middle Of
+The Dancing dolls X has three characters in it
+similar_to_mischief
+similar to mischief
+The local doctor does not give a finding
+findings
+029
+Qubit thinks of the following
+think
+four times
+Dancing dolls A contains Dancing Dolls F four times
+147
+Dancing dolls is a cipher that mimics children's mischief
+143
+East Ruston
+Elridge is a few miles ahead of East Ruston
+112
+nightwear
+Qubit wears nightwear
+four_times
+the_first_position
+115
+The maid leaves their room
+Maid room
+last_year
+041
+ask
+1903-07-30 14:00:00
+042
+1903-07-30T14
+Holmes asks Qubit the following
+133
+134
+Qubit shoots a third party
+142
+tube of bullet
+At the flower bed
+desk_of_study_room
+desk
+003
+Qubit is tall
+tall
+fireplace
+109
+The window of the room is closed
+be Closed
+home
+Qubit's bullet goes out of Abe Slaney
+not Hit
+121
+The qubit is falling across the study room
+156
+Dancing dolls D has 'E' in the second and fourth position
+Dancing dolls D
+the fourth position
+the second position
+181
+prayer
+Elsie needs to be ready to meet God
+need
+096
+Maid get up with gunfire
+wake
+_O_
+063
+Qubit says the followng
+173
+173a
+173c
+The Sentence I points to 'At Elridge'
+the_next_morning
+the next morning
+The character C1 at the first position of Sentence H is A
+169
+_A_
+Bullet
+Window frame of study room
+A bullet hits the window frame
+184
+183
+Holmes and Watson rush to Norfolk
+129
+Traces of candles
+There is no flow of candles
+not Exist
+127
+The door and the window of the room are open for a short time
+62a
+Dancing dolls C are drawn on the Board 1
+the_second_word_of_Sentence_H
+_C_
+first_position
+nightwear_of_Qubit
+023
+024
+Elsie read the Letter Z
+read
+116
+feel
+The maid feels the smell of gunpowder
+Qubit sends a dancing doll to Holmes
+sent
+177
+Holmes telegraphs to Willson
+Qubit shoot Abe Slaney
+note
+_A?_ELRI?ES_
+The Sentence I is 'A? ELRI?ES'
+suicide
+046
+1903-07-31 08:00:00
+Qubit see Dancing dolls B the next morning
+1903-07-31T08
+next morning
+026
+promise
+Qubit follows the promise
+027
+035
+show
+036
+Qubit shows Elsie Dancing dolls
+126
+The door and window of the room are open when fired
+068
+069
+Holmes is happy
+be Happy
+three_times
+Abe Slaney comes to Qubit's home
+065
+Holmes says the following to Qubit
+028
+1903-07-23T10
+Qubit see Dancing dolls in a glass window last Tuesday
+1903-07-23 10:00:00
+last Tuesday
+Glass window
+179
+gang
+Abe Slaney is a gang in Chicago
+169b
+The Sentence H is '?M ?ERE ??E SL?NE?'
+055
+056
+Elsie says the following to Qubit
+031
+The horse boy says the following
+114
+The door is locked from the inside
+Sentence_H
+the_final_position_of_Dancing_dolls_Y
+the final position
+tube
+Elsie shoots Qubit
+119
+opposite
+The desk is placed against the window
+Desk
+014
+Qubit does not know Elsie's past
+002
+Meaning of Dancing dolls A
+Qubit wants to know the meaning of Dancing dolls A
+Elsie is not dead
+not Dead
+092
+Elsie and Qubit
+Handgun falls between Qubit and Elsie
+Dancing dolls D may be 'NEVER'
+4_00
+4:00
+_ELSIE_
+The Dancing dolls X is 'ELSIE'
+flower_bed
+tube_of_bullet
+Holmes walks around the room
+walk
+061
+The next morning
+1903-08-03 08:00:00
+1903-08-03T08
+Abe Slaney forces Elsie to commit suicide
+force
+Elsie put the Letter Z in the fireplace
+025
+130
+At the time of the incident
+168
+_M_
+The Dancing dolls Y includes 'C'
+outside
+priority_of_Elsie
+priority
+home_of_Qubit
+Message of Abe Slaney
+change
+Persuasion
+The message of Abe Slaney changes from persuasion to threat
+Threat
+Character C2
+_H_
+The character C2 at the first position of the second word of Sentence H is H
+childhood
+Elsie and Abe Slaney are childhood friends
+next_morning
+071
+1903-08-05T17
+Letter Y
+On the second evening
+1903-08-05 17:00:00
+Bedroom
+Qubit returns to bedroom
+180
+Abe Slaney send the following to Elsie
+Elsie has bad memories
+Bad memories
+054
+Elsie wears a gown
+gown
+103
+Qubit falls in the middle of the room
+copy
+Qubit copies Dancing dolls
+144
+Holmes asks the horse boy for the following
+Qubit shuts up
+shut Up
+Dancing_dolls
+3_days_later
+three_sides
+three sides
+102
+A candle is on the desk
+Candle
+frame_of_window_of_study_room
+frame
+077
+Martin visits North Walsham from Norwich
+Norwich
+174
+Abe Slaney is American
+three_sides_of_study_room
+123
+front
+Qubit shoot his heart from the front
+the_end
+the end
+the_second_morning
+3_times
+Around 2 am
+moonlighted
+Abe Slaney kills Qubit
+kill
+230
+Abe Slaney thinks of the following
+231
+Qubit visits Holmes
+father
+Elsie escapes from Abe Slaney
+end_of_June
+June
+Elsie and Abe Slaney are engaged
+engaged
+short
+The Sentence H is short
+The Sentence I becomes meaningful
+meaningful
+the_end_of_Dancing_dolls
+229
+_Come_soon_at_once_
+Dancing dolls J is come soon at once
+Dancing dolls J
+120
+the garden can be seen from the window
+be Seen
+040
+Neighborhood
+New face appears in the neighborhood
+New face
+2_00
+2:00
+father_of_Elsie
+Qubit falls
+062
+Dancing dolls D are drawn on the Board 2
+this_morning
+082
+Martin is small
+write
+Elsie writes Dancing dolls J
+137
+The window frame bursts from the room
+burst
+Dancing_dolls_Y
+004
+gentle
+Qubit is a gentleman
+most_often
+Elsie shuts up
+protect
+casual_wear
+boss_of_gang
+093
+visit
+A local doctor visited at 4 am
+4 00
+a_short_time
+the_second_position
+old_family
+113
+not Moved
+The study room is not moved
+protect_of_Qubit
+Elsie stops Qubit
+the_fourth_position
+146
+last_Tuesday
+the_final_position
+morning_after_2_days
+one_month_ago
