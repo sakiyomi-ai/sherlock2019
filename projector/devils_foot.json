@@ -1,9 +1,0 @@
-{
-  "embeddings": [
-    {
-      "tensorName": "Sherlock2019 Devils Foot",
-      "tensorPath": "https://github.com/sakiyomi-ai/sherlock2019/blob/master/data/poincare-3d/DevilsFoot_formatted_S2-poincare-3d-vector.tsv",
-      "metadataPath": "https://github.com/sakiyomi-ai/sherlock2019/blob/master/data/poincare-3d/DevilsFoot_formatted_S2-poincare-label.tsv" 
-    }
-  ]
-}
