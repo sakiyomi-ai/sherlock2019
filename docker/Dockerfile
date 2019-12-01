@@ -10,6 +10,6 @@ RUN pip install opencv-contrib-python
 RUN pip install sentencepiece
 RUN pip install pandas
 RUN pip install bert-for-tf2
-RUN pip install tqem
+RUN pip install tqdm
 RUN pip install gensim
 RUN pip install plotly
