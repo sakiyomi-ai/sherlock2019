@@ -1,0 +1,1701 @@
+167,subject,Dancing dolls Y
+227,has Predicate,close
+030,source,The horse boy draws Dancing dolls
+086,type,Situation
+087,whom,Holmes
+009,when,1902-07-30 10
+067,type,Situation
+081,has Predicate,shoot
+101,type,Situation
+the_first_position_of_ Sentence_ H,of Whole,Sentence H
+010,has Predicate,equal To
+203,has Predicate,equal To
+039,whom,Elsie
+006,what,Dancing dolls A
+022,source,Elsie's face turns blue
+097,what,gunfire
+178,where,New York
+067,subject,Holmes
+008,type,Situation
+104,type,Situation
+073,then,074
+188,to,home of Qubit
+110,has Property,locked
+210,has Predicate,draw
+117,subject,Study room
+62b,type,Situation
+132,time,1903-08-06 03:00:00
+018,info Source,Qubit
+044,subject,Qubit
+111,source,Elsie wears casual wear
+019,time,1903-06-30 10:00:00
+051,has Predicate,stand
+072,has Property,drawn
+049,then,050
+066,when,today
+police,type,PhysicalObject
+050,on,paper
+016,type,Statement
+105,next To,window
+030,what,Dancing dolls
+211,info Source,Abe Slaney
+178,what,police
+window_of_study_room,of Part,window
+135,on,desk of study room
+first_position_of_the_second_word_of_ Sentence_ H,of Whole,Sentence H
+078,when,1903-08-06 03
+210,type,Statement
+face_of_ Elsie,of Part,face
+033,type,Situation
+191,what,224
+037,whom,Holmes
+209,subject,Abe Slaney
+141,time,1903-08-06 14:00:00
+end,label,end
+213,has Predicate,say
+164,has Predicate,say
+151,subject,Dancing dolls F
+007,subject,Elsie
+110,source,The window of the room is locked from the inside
+167a,where,the final position of Dancing dolls Y
+079,what,080
+190,source,Martin handcuffs Abe Slaney
+149,source,Dancing dolls can be solved by the rules of cryptography
+paper,label,paper
+001,on,paper
+study_room,label,study room
+108,source,Rooms and corridors have the smell of gunpowder
+3_00,type,AbstractTime
+face_of_ Elsie,of Whole,Elsie
+058,subject,Qubit
+138,from,study room
+011,source,Elsie is American
+220,source,Abe Slaney tries to pull Elsie from the window
+204,source,Elsie notices Abe Slaney's identity
+013,has Predicate,live
+015,subject,Qubit
+yesterday_morning,label,yesterday morning
+122,when,1903-08-06 14
+160,source,The Dancing dolls X has E at both ends
+215,when,3 00
+the_second_word,label,the second word
+049,source,Two days later
+070,type,Situation
+097,source,One minute after the gunshoot
+172,subject,Sentence H
+140,subject,flower bed
+bullet,label,bullet
+052,has Predicate,sit
+091,what,heart
+043,subject,Holmes
+169a,source,The Sentece H has charactor C1 three times
+208,what,Letter Z
+door_of_storeroom,type,OFobj
+218,time,1903-08-06 03:00:00
+218,info Source,Abe Slaney
+118,subject,Bookshelf
+cipher,label,cipher
+145,info Source,Holmes
+225,what,Qubit
+218,when,1903-08-06 03
+087,has Predicate,permit
+047,subject,Dancing dolls B
+151,has Predicate,equal To
+night,type,AbstractTime
+131,time,1903-08-06 03:00:00
+072,when,1903-08-05 08
+152,type,Situation
+005,source,Dolls are dancing on paper
+207,info Source,Abe Slaney
+088,what,089
+horse_boy,type,Object
+evening_of_the_second_day,type,AbstractTime
+219,then,220
+034,subject,Qubit
+106,when,1903-08-06 04:02
+073,source,Holmes sees Dancing dolls E
+084,type,Situation
+227,info Source,Abe Slaney
+159,what,_R_
+189,when,1903-08-06 16
+094,type,Situation
+091,what,1903-08-06 14
+154,type,Situation
+bullet_of_ Qubit,type,OFobj
+091,source,Qubit is shot through the heart
+handbag,type,PhysicalObject
+216,when,1903-08-06 03
+034,when,yesterday morning
+131,when,1903-08-06 03
+217,type,Statement
+162,where,the end of Dancing dolls
+013,subject,Qubit
+162,source,The Dancing dolls X appears three times at the end of Dancing dolls
+three_characters,label,three characters
+_At_Elridge_,type,PhysicalObject
+205,because,204
+handcuffs,label,handcuffs
+136,subject,banknote
+149,subject,Dancing dolls
+072,on,Sundial
+167a,source,The Dancing dolls Y has 'E' at the end
+070,subject,Holmes
+165,info Source,Holmes
+057,source,Something moves in the shadow of the storeroom
+124,type,Situation
+boss,type,Object
+telegram,label,telegram
+_NEVER_,type,PhysicalObject
+100,because,097
+050,when,1903-08-02 08
+162,subject,Dancing dolls X
+050,type,Situation
+191,what,220
+066,type,Statement
+006,source,Elsie see Dancing dolls A
+074,source,Holmes is surprised
+216,info Source,Abe Slaney
+087,subject,Martin
+021,has Predicate,have
+219,info Source,Abe Slaney
+149,type,Situation
+the_second_day,type,Object
+135,time,1903-08-06 14:00:00
+194,info Source,Abe Slaney
+020,time,1903-06-30 10:00:00
+165,because,161
+164,source,Holmes says the following
+076,type,Situation
+122,time,1903-08-06 14:00:00
+209,has Predicate,come
+today,type,AbstractTime
+first_position_of_the_second_word_of_ Sentence_ H,of Whole,the second word of Sentence H
+145,source,The horse boy takes notes to Elridge
+190,time,1903-08-06 16:00:00
+185,source,Holmes talks the following to Abe Slaney in the Letter L
+095,when,1903-08-06 04
+198,what,Elsie
+105,subject,Elsie
+064,type,Statement
+173b,what,_T__AND__G_
+032,what,Dancing dolls
+gunfire,type,AbstractTime
+_I_,type,PhysicalObject
+191,what,216
+106,type,Situation
+050,when,3 days later
+male_footprints,type,PhysicalObject
+garden,label,garden
+someone,label,someone
+62b,subject,Board 1
+107,type,Situation
+192,what,Qubit
+209,because,208
+148,subject,Doll
+161,subject,Dancing dolls X
+215,when,1903-08-06 03
+106,source,Elsie gets hurt
+similar_to_mischief,type,Object
+020,source,Elsie receives Letter Z from US
+032,type,Statement
+094,has Predicate,call
+090,source,The local doctor does not give a finding
+020,when,end of June
+029,subject,Qubit
+110,subject,Window of study room
+153,how,four times
+147,source,Dancing dolls is a cipher that mimics children's mischief
+019,what,Signs of evil
+164,subject,Holmes
+143,type,Situation
+189,what,Handgun
+064,subject,Elsie
+112,what,nightwear
+four_times,type,Object
+203,info Source,Abe Slaney
+the_first_position,label,the first position
+034,has Predicate,see
+019,subject,Qubit
+161,type,Situation
+032,info Source,horse boy
+115,when,1903-08-06 04:02
+225,info Source,Abe Slaney
+152,subject,_E_
+191,what,201
+049,when,morning after 2 days
+037,when,1903-07-29 10
+last_year,type,AbstractTime
+011,type,Situation
+136,has Predicate,exist
+191,what,199
+041,has Predicate,ask
+133,then,134
+142,time,1903-08-06 14:00:00
+192,has Predicate,shoot
+cryptography,label,cryptography
+044,from,station
+133,subject,Qubit
+desk_of_study_room,of Whole,study room
+013,type,Situation
+003,type,Situation
+fireplace,type,PhysicalObject
+character,type,PhysicalObject
+findings,type,PhysicalObject
+019,type,Situation
+109,time,1903-08-06 04:02:00
+215,source,Elsie comes out of the window at 3 am
+148,source,Doll is a substitute for characters
+heart,label,heart
+227,type,Statement
+home,label,home
+224,type,Statement
+124,source,There were traces of bullets under the window frame
+121,type,Situation
+156,has Predicate,have
+181,type,Statement
+096,time,1903-08-06 04:00:00
+086,source,Martin is well understood
+_O_,type,PhysicalObject
+220,info Source,Abe Slaney
+016,subject,Elsie
+205,source,Elsie flees to London
+063,has Predicate,say
+076,subject,Holmes
+189,has Predicate,point
+151,source,Doll F is 'E'
+020,from,America
+058,has Predicate,take
+122,subject,nightwear of Qubit
+029,what,030
+173,because,173a
+050,has Property,drawn
+the_next_morning,label,the next morning
+217,has Predicate,leave
+male_footprints,label,male footprints
+204,has Predicate,find
+170,where,the first position of Sentence H
+154,what,character
+134,has Predicate,shoot
+184,has Predicate,come
+last_year,label,last year
+129,subject,Traces of candles
+127,subject,Door of study room
+030,has Predicate,draw
+172,type,Situation
+62a,type,Situation
+134,time,1903-08-06 03:00:00
+009,whom,Elsie
+the_second_word_of_ Sentence_ H,of Whole,Sentence H
+_C_,type,PhysicalObject
+first_position,label,first position
+043,when,this morning
+nightwear_of_ Qubit,type,OFobj
+181,what,prayer
+023,then,024
+116,type,Situation
+008,how,pencil
+019,when,1903-06-30 10
+038,subject,Qubit
+190,whom,Abe Slaney
+136,time,1903-08-06 14:00:00
+094,when,1903-08-06 04
+211,type,Statement
+177,subject,Holmes
+020,when,1903-06-30 10
+188,subject,Abe Slaney
+222,has Predicate,shoot
+191,what,210
+185,subject,Holmes
+note,label,note
+169a,what,Charactor C1
+038,type,Situation
+134,subject,Bullet
+173c,what,_A?_ELRI?ES_
+141,type,Situation
+yesterday_morning,type,AbstractTime
+135,when,1903-08-06 14
+109,when,1903-08-06 04:02
+153,subject,Dancing dolls A
+018,source,Elsie does not say memories
+198,info Source,Abe Slaney
+192,type,Statement
+185,what,186
+161,what,three characters
+suicide,label,suicide
+140,source,Under the window of the study there is a flower bed
+046,time,1903-07-31 08:00:00
+070,when,1903-08-04 12
+026,has Predicate,follow
+122,type,Situation
+009,has Predicate,get Married
+035,whom,Elsie
+216,subject,Elsie
+079,has Predicate,say
+037,at the same time,038
+126,source,The door and window of the room are open when fired
+100,subject,Maid
+smoke,label,smoke
+068,type,Situation
+three_times,label,three times
+cipher,type,PhysicalObject
+186,subject,Abe Slaney
+_Am_Here_Abe_Slaney_,type,PhysicalObject
+065,type,Situation
+028,when,1903-07-23 10
+investigation,type,PhysicalObject
+191,what,198
+179,type,Situation
+159,has Predicate,equal To
+035,what,Dancing dolls
+169b,source,The Sentence H is '?M ?ERE ??E SL?NE?'
+091,has Predicate,be Shot
+046,has Predicate,see
+043,has Predicate,receive
+055,whom,Qubit
+something,type,PhysicalObject
+028,source,Qubit see Dancing dolls in a glass window last Tuesday
+031,source,The horse boy says the following
+desk_of_study_room,type,PhysicalObject
+010,subject,Qubit
+132,type,Situation
+114,type,Situation
+058,type,Situation
+039,subject,Qubit
+149,has Property,understandable
+173c,type,Situation
+033,time,1903-07-23 02:00:00
+Sentence_H,type,Object
+the_final_position_of_ Dancing_dolls_ Y,label,the final position of Dancing dolls Y
+tube,label,tube
+165,what,_L_
+080,type,Statement
+119,opposite,window of study room
+191,what,209
+014,source,Qubit does not know Elsie's past
+216,has Predicate,say
+002,what,Meaning of Dancing dolls A
+089,subject,1903-08-06 14
+092,middle Of,Elsie and Qubit
+158,type,Thought
+4_00,label,4:00
+166,info Source,Holmes
+031,type,Situation
+088,source,A local doctor say the followings
+151,because,152
+039,has Predicate,not Force
+034,source,Qubit see Dancing dolls on a sundial in the garden yesterday morning
+152,source,'E' is most used in the alphabet
+044,when,1903-08-03 10
+073,has Predicate,see
+desk_of_study_room,label,desk of study room
+dolls,type,PhysicalObject
+211,where,Elridge
+028,has Predicate,see
+018,has Predicate,not Say
+149,how,cryptography
+flower_bed,type,PhysicalObject
+210,subject,Abe Slaney
+tube_of_bullet,of Whole,bullet
+215,type,Statement
+069,type,Situation
+four_times,label,four times
+078,subject,Qubit
+037,what,Letter X
+046,what,Dancing dolls B
+088,when,1903-08-06 14
+061,subject,Dancing dolls D
+200,subject,Abe Slaney
+024,subject,Elsie
+130,has Predicate,open
+164,what,166
+191,what,222
+168,what,_M_
+outside,label,outside
+priority_of_ Elsie,of Part,priority
+190,has Predicate,put
+057,type,Situation
+211,when,one month ago
+208,subject,Elsie
+066,source,Qubit returns home today
+121,time,1903-08-06 14:00:00
+190,subject,Martin
+home_of_ Qubit,of Whole,Qubit
+183,subject,Message of Abe Slaney
+171,subject,Character C2
+201,type,Statement
+010,type,Situation
+061,has Property,drawn
+next_morning,type,AbstractTime
+bullet,type,Object
+071,when,1903-08-05 17
+096,source,Maid get up with gunfire
+136,type,Situation
+022,subject,face of Elsie
+the_second_word,type,Object
+gang,label,gang
+020,what,Letter Z
+056,subject,Qubit
+101,subject,Door of study room
+_L_,type,PhysicalObject
+124,under,frame of window of study room
+face_of_ Elsie,type,OFobj
+100,to,study room
+142,subject,Holmes
+flag,type,PhysicalObject
+201,subject,Abe Slaney
+180,type,Situation
+145,subject,Horse boy
+159,source,Dancing dolls G is 'N'
+167a,subject,Dancing dolls Y
+first_position_of_the_second_word_of_ Sentence_ H,label,first position of the second word of Sentence H
+62a,source,Dancing dolls C are drawn on the Board 1
+face_of_ Elsie,type,PhysicalObject
+173b,source,The Sentence I has 'T' and 'G'
+017,type,Statement
+051,subject,Dancing dolls C
+191,what,225
+010,where,Norfolk
+065,source,Holmes says the following to Qubit
+166,what,_ELSIE_
+153,has Predicate,have
+177,type,Situation
+054,subject,Elsie
+117,has Property,small
+041,whom,Qubit
+191,what,219
+103,type,Situation
+home_of_ Qubit,type,Place
+165,because,162
+213,whom,Abe Slaney
+218,source,Elsie hands money to Abe Slaney
+142,when,1903-08-06 14
+134,type,Situation
+042,type,Statement
+191,type,Situation
+122,source,The qubit's clothes were disordered
+055,subject,Elsie
+144,type,Situation
+220,from,window of study room
+184,subject,Watson
+072,time,1903-08-05 08:00:00
+027,source,Qubit shuts up
+Dancing_dolls,label,Dancing dolls
+3_days_later,type,AbstractTime
+109,source,The window of the room is closed
+112,when,1903-08-06 04:02
+three_sides,label,three sides
+111,type,Situation
+008,has Property,drawn
+032,has Predicate,not Know
+121,has Predicate,fall
+102,time,1903-08-06 04:02:00
+183,has Predicate,change
+nightwear,label,nightwear
+078,type,Situation
+191,what,204
+frame_of_window_of_study_room,of Whole,study room
+035,subject,Qubit
+061,source,The next morning
+desk_of_study_room,of Part,desk
+047,how,Chalk
+201,has Property,childhood
+first_position_of_the_second_word_of_ Sentence_ H,type,OFobj
+035,has Predicate,show
+087,time,1903-08-06 14:00:00
+064,why,protect of Qubit
+116,has Predicate,feel
+191,what,213
+window_of_study_room,type,OFobj
+029,type,Situation
+priority_of_ Elsie,label,priority of Elsie
+166,has Predicate,equal To
+investigation,label,investigation
+072,source,In the morning of the second day
+142,has Predicate,find
+203,source,Elsie's father is a gang boss
+172,source,The Sentence H means 'Am Here Abe Slaney'
+096,when,1903-08-06 04
+first_position_of_the_second_word_of_ Sentence_ H,type,PhysicalObject
+023,what,Letter Z
+gang,type,PhysicalObject
+077,subject,Martin
+203,type,Statement
+153,what,Dancing dolls F
+088,what,091
+032,subject,Horse boy
+174,subject,Abe Slaney
+evening_of_the_second_day,of Whole,the second day
+108,when,1903-08-06 04:02
+three_sides_of_study_room,of Part,three sides
+003,source,Qubit is tall
+171,what,_H_
+123,has Predicate,be Shot
+077,source,Martin visits North Walsham from Norwich
+144,time,1903-08-06 15:00:00
+191,has Predicate,say
+the_second_word_of_ Sentence_ H,type,OFobj
+169a,type,Situation
+131,subject,someone
+the_end,label,the end
+052,subject,Qubit
+201,info Source,Abe Slaney
+191,what,227
+the_second_morning,type,AbstractTime
+037,time,1903-07-29 10:00:00
+007,type,Situation
+015,type,Situation
+215,then,216
+167,what,_COME_
+171,type,Situation
+three_times,type,Object
+3_times,label,3 times
+053,type,Situation
+201,subject,Elsie
+092,type,Situation
+banknote,type,PhysicalObject
+199,what,Qubit
+230,has Predicate,think
+184,type,Situation
+190,what,handcuffs
+_A_,type,PhysicalObject
+136,where,handbag
+116,source,The maid feels the smell of gunpowder
+045,has Predicate,come
+053,when,1903-08-03 02
+200,what,suicide
+076,subject,Watson
+027,has Predicate,shut Up
+166,because,165
+039,what,Past of Elsie
+080,then,081
+character,label,character
+183,type,Situation
+131,source,There is a third party at the site
+071,when,evening of the second day
+067,source,Holmes examines Dancing dolls
+the_final_position_of_ Dancing_dolls_ Y,type,OFobj
+130,when,1903-08-06 03
+045,subject,Qubit
+021,source,The Letter Z has an American postmark
+095,has Predicate,find
+father,type,Object
+170,source,The character C1 at the first position of Sentence H is A
+165,because,160
+195,source,Elsie escapes from Abe Slaney
+141,when,1903-08-06 14
+094,time,1903-08-06 04:00:00
+198,source,Abe Slaney follows Elsie
+056,has Predicate,return
+frame,type,Object
+088,type,Situation
+065,subject,Holmes
+195,info Source,Abe Slaney
+end_of_ June,of Whole,June
+167a,has Predicate,have
+016,info Source,Qubit
+092,time,1903-08-06 14:00:00
+198,has Predicate,follow
+116,time,1903-08-06 04:02:00
+124,subject,Traces of bullets
+206,source,Elsie and Abe Slaney are engaged
+171,source,The character C2 at the first position of the second word of Sentence H is H
+priority_of_ Elsie,type,OFobj
+026,subject,Qubit
+031,what,032
+097,type,Situation
+092,source,Handgun falls between Qubit and Elsie
+107,where,Corridor
+promise,label,promise
+169,type,Situation
+167,because,167a
+061,type,Situation
+today,label,today
+066,when,1903-08-03 12
+Sentence_H,label,Sentence H
+039,type,Situation
+front,type,Place
+002,type,Situation
+173a,source,The Sentence I becomes meaningful
+008,source,Dancing dolls A are drawn with a pencil
+039,source,Qubit does not force Elsie to talk about the past
+the_end_of_ Dancing_dolls,type,Place
+118,source,There are bookshelves on three sides of the study room
+window,type,PhysicalObject
+229,has Predicate,equal To
+117,type,Situation
+042,has Predicate,copy
+next_morning,label,next morning
+041,type,Situation
+143,has Predicate,exist
+215,time,1903-08-06 03:00:00
+036,subject,Elsie
+4_00,type,AbstractTime
+191,what,200
+120,source,the garden can be seen from the window
+022,has Property,blue
+133,what,someone
+040,where,Neighborhood
+018,type,Statement
+heart,type,PhysicalObject
+2_00,type,AbstractTime
+father_of_ Elsie,label,father of Elsie
+169a,how,three times
+077,from,Norwich
+034,type,Situation
+151,because,153
+findings,label,findings
+178,type,Situation
+226,subject,Qubit
+109,has Predicate,be Closed
+180,source,Abe Slaney send the following to Elsie
+014,what,Past of Elsie
+bullet_of_ Qubit,of Part,bullet
+119,source,The desk is placed against the window
+045,when,1903-08-03 10
+191,what,211
+222,then,224
+199,subject,Abe Slaney
+070,time,1903-08-04 12:00:00
+005,subject,dolls
+219,subject,Abe Slaney
+062,type,Situation
+this_morning,type,AbstractTime
+189,to,Abe Slaney
+069,source,Holmes walks around the room
+082,source,Martin is small
+042,subject,Qubit
+the_end,type,Object
+three_characters,type,PhysicalObject
+090,subject,Local doctor
+144,when,1903-08-06 15
+169b,type,Situation
+study_room,type,PhysicalObject
+041,time,1903-07-30 14:00:00
+051,where,Pebble of sundial
+052,time,1903-08-03 02:00:00
+089,time,1903-08-06 14:00:00
+115,type,Situation
+015,what,016
+209,source,Abe Slaney visits Norfolk
+231,has Predicate,write
+the_first_position,type,Object
+137,type,Situation
+226,type,Statement
+142,what,tube of bullet
+152,how,most often
+door,label,door
+086,has Property,well Understood
+tube_of_bullet,type,PhysicalObject
+079,when,1903-08-06 14
+134,where,Window frame of study room
+126,has Predicate,open
+pencil,type,PhysicalObject
+114,when,1903-08-06 04:02
+081,what,Elsie
+204,what,Identity of Abe Slaney
+3_00,label,3:00
+194,subject,Abe Slaney
+164,what,165
+Dancing_dolls_Y,label,Dancing dolls Y
+104,subject,Qubit
+188,has Predicate,enter
+112,has Predicate,wear
+200,info Source,Abe Slaney
+priority,label,priority
+the_first_position_of_ Sentence_ H,of Part,the first position
+024,to,fireplace
+213,source,Elsie talks the following to Abe Slaney
+160,left,Dancing dolls X
+147,type,Situation
+199,then,200
+053,subject,outside
+205,info Source,Abe Slaney
+120,has Predicate,be Seen
+211,source,Abe Slaney begins to stay in the basement of Elridge Farm a month ago
+035,then,036
+071,from,Qubit
+045,type,Situation
+218,whom,Abe Slaney
+037,type,Situation
+200,whom,Elsie
+desk,label,desk
+054,has Predicate,wear
+189,source,Holmes pointed a gun at Abe Slaney
+115,subject,Maid
+208,source,Elsie does not reply to the Letter Z
+224,what,Abe Slaney
+068,at the same time,069
+132,has Predicate,shoot
+097,has Predicate,hear
+door_of_storeroom,of Part,door
+186,source,Abe Slaney comes to Qubit's home
+103,when,1903-08-06 04:02
+084,where,Norfolk
+138,time,1903-08-06 14:00:00
+009,type,Situation
+185,has Predicate,say
+204,type,Statement
+068,subject,Holmes
+Elsie,type,Object
+024,has Predicate,put
+047,has Property,drawn
+076,time,1903-08-06 12:00:00
+043,then,044
+218,type,Statement
+169a,what,_?M_?ERE_??E_SL?NE?_
+023,source,Elsie read the Letter Z
+069,has Predicate,walk
+018,what,Past of Elsie
+230,when,1903-08-06 15
+066,to,home of Qubit
+116,at the same time,115
+094,what,Local doctor
+044,type,Situation
+041,what,042
+063,subject,Qubit
+215,info Source,Elsie
+end,type,Object
+001,has Property,drawn
+108,where,Corridor
+004,type,Situation
+095,whom,Elsie
+most_often,type,Object
+nightwear,type,PhysicalObject
+126,when,1903-08-06 03
+199,type,Statement
+002,source,Qubit wants to know the meaning of Dancing dolls A
+017,info Source,Qubit
+106,has Predicate,get Hurt
+183,from,Persuasion
+room,label,room
+prayer,label,prayer
+frame_of_window_of_study_room,type,OFobj
+119,subject,Desk
+230,source,Abe Slaney thinks of the following
+220,then,222
+107,time,1903-08-06 04:02:00
+108,has Predicate,have
+096,type,Situation
+storeroom,label,storeroom
+226,has Predicate,fall
+cryptography,type,Object
+043,type,Situation
+010,what,old family
+161,has Predicate,have
+205,type,Statement
+078,subject,Elsie
+103,source,Qubit falls in the middle of the room
+103,subject,Qubit
+011,has Property,American
+184,to,Norfolk
+025,subject,Elsie
+the_end_of_ Dancing_dolls,of Whole,Dancing dolls
+147,has Predicate,equal To
+protect,type,Object
+114,subject,Door of study room
+173,has Predicate,equal To
+_N_,type,PhysicalObject
+199,info Source,Abe Slaney
+105,type,Situation
+019,has Predicate,see
+056,info Source,Elsie
+024,source,Elsie put the Letter Z in the fireplace
+095,type,Situation
+study_room,type,Place
+203,subject,father of Elsie
+077,has Predicate,come
+023,type,Situation
+088,what,090
+004,has Property,gentle
+148,has Predicate,equal To
+62b,what,Board 2
+_M_,type,PhysicalObject
+090,what,1903-08-06 14
+030,type,Thought
+082,type,Situation
+104,source,Qubit is dead
+173a,type,Situation
+132,to,room
+casual_wear,type,PhysicalObject
+_H_,type,PhysicalObject
+bullet_of_ Qubit,label,bullet of Qubit
+191,what,226
+boss_of_gang,of Whole,gang
+014,has Predicate,not Know
+Qubit,label,Qubit
+140,type,Situation
+smoke,type,PhysicalObject
+115,time,1903-08-06 04:02:00
+045,time,1903-08-03 10:00:00
+126,time,1903-08-06 03:00:00
+116,what,Smell of gunfire
+046,source,Qubit see Dancing dolls B the next morning
+227,source,Abe Slaney closes the window
+_V_,type,PhysicalObject
+213,what,215
+154,has Predicate,split
+similar_to_mischief,label,similar to mischief
+191,what,208
+047,type,Situation
+213,type,Statement
+114,source,The door is locked from the inside
+218,subject,Elsie
+016,has Property,serious
+159,because,158
+222,subject,Qubit
+052,when,2 00
+044,source,Qubit comes from the station
+071,what,Letter Y
+154,source,Flag separates characters
+023,subject,Elsie
+167a,type,Situation
+095,subject,Maid
+033,subject,Dancing dolls
+219,has Predicate,get Angry
+tube_of_bullet,type,OFobj
+040,when,1903-06-29 10
+066,info Source,Holmes
+213,info Source,Abe Slaney
+091,info Source,Local doctor
+end_of_ June,label,end of June
+051,source,Dancing dolls C are standing on the pebbles of a sundial
+front,label,front
+046,when,1903-07-31 08
+093,subject,Local doctor
+132,from,garden
+126,when,gunfire
+158,because,154
+162,has Predicate,appear
+138,when,1903-08-06 14
+178,subject,Willson
+a_short_time,label,a short time
+092,subject,Handgun
+089,source,Elsie is not dead
+boss_of_gang,type,OFobj
+money,type,PhysicalObject
+180,whom,Elsie
+070,has Predicate,send
+151,what,_E_
+033,when,1903-07-23 02
+225,then,226
+the_second_position,label,the second position
+112,source,Qubit wears nightwear
+173a,has Property,meaningful
+093,has Predicate,visit
+009,source,Qubit get married last year
+058,what,Handgun
+209,to,Norfolk
+101,time,1903-08-06 04:02:00
+144,subject,Holmes
+207,subject,Abe Slaney
+062,has Property,drawn
+183,source,The message of Abe Slaney changes from persuasion to threat
+074,has Predicate,be Surprised
+181,subject,Elsie
+226,then,227
+084,subject,Martin
+164,type,Situation
+191,what,192
+021,what,American postmark
+194,has Predicate,have
+station,type,Place
+013,subject,Elsie
+050,time,1903-08-02 08:00:00
+049,time,1903-08-01 08:00:00
+207,source,Abe Slaney writes the Letter Z to Elsie
+189,type,Situation
+185,type,Situation
+158,has Predicate,equal To
+170,has Predicate,equal To
+129,source,There is no flow of candles
+191,time,1903-08-06 16:00:00
+186,when,1903-08-06 16
+171,where,first position of the second word of Sentence H
+225,source,Abe Slaney shoot Kubit
+205,to,London
+097,then,100
+104,time,1903-08-06 04:02:00
+017,subject,Elsie
+father_of_ Elsie,type,OFobj
+222,source,Qubit shoot Abe Slaney
+106,time,1903-08-06 04:02:00
+200,source,Abe Slaney forces Elsie to commit suicide
+015,what,018
+old_family,label,old family
+009,time,1902-07-30 10:00:00
+097,when,1903-08-06 04:01
+080,source,Elsie shoots Qubit
+170,subject,Charactor C1
+181,source,Elsie needs to be ready to meet God
+050,subject,Dancing dolls C
+113,subject,Study room
+070,source,Holmes send telegraph to Cicago
+135,subject,handbag
+218,then,219
+201,source,Elsie and Abe Slaney are childhood friends
+006,then,007
+096,subject,Maid
+nightwear_of_ Qubit,label,nightwear of Qubit
+172,because,171
+face_of_ Elsie,label,face of Elsie
+135,type,Situation
+078,source,Qubit and Elsie are shoot
+protect_of_ Qubit,of Whole,Qubit
+protect,label,protect
+078,has Predicate,be Shot
+001,type,Situation
+185,how,Letter L
+073,subject,Holmes
+203,what,boss of gang
+door_of_storeroom,of Whole,storeroom
+133,has Predicate,shoot
+62b,has Predicate,not Equal To
+231,subject,Elsie
+142,source,At the flower bed
+100,time,1903-08-06 04:02:00
+167,has Predicate,equal To
+130,when,gunfire
+185,whom,Abe Slaney
+207,then,208
+131,type,Situation
+180,subject,Abe Slaney
+108,subject,Smell of gunfire
+058,then,059
+188,source,Abe Slaney enters Qubit's home
+063,what,064
+028,time,1903-07-23 10:00:00
+108,where,Study room
+218,has Predicate,give
+evening_of_the_second_day,type,OFobj
+protect_of_ Qubit,label,protect of Qubit
+135,has Predicate,exist
+104,has Property,dead
+173a,subject,Sentence I
+042,info Source,Holmes
+089,info Source,Local doctor
+evening_of_the_second_day,of Part,evening
+024,then,025
+180,what,181
+154,subject,flag
+103,middle Of,room
+198,subject,Abe Slaney
+077,to,North Walsham
+127,because,129
+047,source,Dancing dolls B are drawn with chalk on the door of the storeroom
+040,has Predicate,appear
+110,time,1903-08-06 04:02:00
+020,type,Situation
+120,type,Situation
+protect_of_ Qubit,of Part,protect
+158,what,_NEVER_
+142,where,flower bed
+173c,has Predicate,equal To
+190,type,Situation
+147,what,cipher
+173c,subject,Sentence I
+127,subject,window of study room
+a_short_time,type,Object
+127,how,a short time
+158,info Source,Holmes
+219,source,Abe Slaney get angry
+172,has Predicate,equal To
+059,has Predicate,stop
+025,has Predicate,shut Up
+173,because,173c
+115,has Predicate,get Out
+215,subject,Elsie
+145,type,Statement
+227,what,window of study room
+flag,label,flag
+194,type,Statement
+093,source,A local doctor visited at 4 am
+216,whom,Abe Slaney
+222,info Source,Abe Slaney
+097,time,1903-08-06 04:01:00
+222,what,Abe Slaney
+089,subject,Elsie
+flower_bed,label,flower bed
+124,has Predicate,exist
+127,type,Situation
+225,subject,Abe Slaney
+the_second_morning,label,the second morning
+177,source,Holmes telegraphs to Willson
+061,time,1903-08-03 08:00:00
+121,source,The qubit is falling across the study room
+093,when,4 00
+191,what,218
+042,source,Qubit copies Dancing dolls
+112,subject,Qubit
+041,subject,Holmes
+the_first_position_of_ Sentence_ H,type,PhysicalObject
+229,type,Situation
+138,type,Situation
+024,type,Situation
+080,info Source,Maid
+056,type,Statement
+note,type,PhysicalObject
+172,because,170
+071,subject,Holmes
+the_fourth_position,type,Place
+129,type,Situation
+191,what,203
+169a,subject,Sentence H
+174,has Property,American
+Elsie,label,Elsie
+telegram,type,PhysicalObject
+146,what,note
+Dancing_dolls_Y,type,Object
+144,has Predicate,ask
+129,has Predicate,not Exist
+2_00,label,2:00
+006,type,Situation
+059,source,Elsie stops Qubit
+3_days_later,label,3 days later
+the_second_word_of_ Sentence_ H,label,the second word of Sentence H
+123,when,1903-08-06 14
+protect_of_ Qubit,type,OFobj
+055,has Predicate,say
+002,has Predicate,not Know
+160,has Predicate,have
+the_final_position_of_ Dancing_dolls_ Y,of Part,the final position
+095,source,Maid is the first finders
+052,when,1903-08-03 02
+nightwear_of_ Qubit,of Part,nightwear
+053,source,Around 2 am
+013,source,Qubit and Elsie live in Norfolk
+188,type,Situation
+191,subject,Abe Slaney
+084,what,police
+231,source,Elsie writes Dancing dolls J
+195,type,Statement
+_Come_soon_at_once_,type,PhysicalObject
+105,when,1903-08-06 04:02
+152,has Predicate,appear
+081,source,Elsie shoots herself
+096,why,gunfire
+156,source,Dancing dolls D has 'E' in the second and fourth position
+144,source,Holmes asks the horse boy for the following
+132,subject,someone
+189,time,1903-08-06 16:00:00
+121,when,1903-08-06 14
+019,source,Qubit see signs of the evil at the end of June
+111,time,1903-08-06 04:02:00
+040,source,New face appears in the neighborhood
+168,subject,Dancing dolls Y
+022,type,Situation
+101,source,The door of the study room opens
+053,when,2 00
+casual_wear,label,casual wear
+204,subject,Elsie
+070,what,telegram
+108,type,Situation
+087,when,1903-08-06 14
+005,type,Situation
+001,subject,Dancing dolls A
+177,has Predicate,send
+191,when,1903-08-06 16
+105,time,1903-08-06 04:02:00
+191,source,Abe Slaney says the following
+015,has Predicate,say
+037,subject,Qubit
+208,type,Statement
+186,type,Statement
+091,time,1903-08-06 14:00:00
+063,source,Qubit says the followng
+173a,when,173b
+224,then,225
+114,from,Inside
+046,type,Situation
+_R_,type,PhysicalObject
+169,has Property,short
+067,what,Dancing dolls
+200,has Predicate,force
+069,then,070
+088,has Predicate,say
+192,source,Ave Sureini shoot Qubit
+three_sides,type,Object
+191,what,194
+208,whom,Abe Slaney
+storeroom,type,Object
+111,subject,Elsie
+father_of_ Elsie,of Part,father
+066,time,1903-08-03 12:00:00
+168,what,_C_
+057,has Predicate,move
+169a,has Predicate,have
+160,what,_E_
+145,has Predicate,take
+June,label,June
+059,what,Qubit
+055,type,Situation
+093,when,1903-08-06 04
+006,subject,Elsie
+093,time,1903-08-06 04:00:00
+216,what,217
+199,source,Abe Slaney kills Qubit
+outside,type,Place
+home_of_ Qubit,label,home of Qubit
+174,source,Abe Slaney is American
+031,subject,Horse boy
+135,source,There is a handbag on the desk of the study
+028,type,Situation
+179,has Predicate,equal To
+185,when,1903-08-06 15
+158,subject,Dancing dolls D
+113,when,1903-08-06 04:02
+166,source,The Dancing dolls X is 'ELSIE'
+window_of_study_room,type,PhysicalObject
+087,what,investigation
+213,subject,Elsie
+040,type,Situation
+210,what,Dancing dolls
+nightwear_of_ Qubit,of Whole,Qubit
+boss,label,boss
+200,type,Statement
+_E_,type,PhysicalObject
+090,has Predicate,not Say
+227,subject,Abe Slaney
+158,because,156
+112,time,1903-08-06 04:02:00
+107,source,The room and the corridor are full of smoke
+133,when,1903-08-06 03
+room,type,Place
+059,subject,Elsie
+father_of_ Elsie,type,Person
+end_of_ June,type,AbstractTime
+057,where,Shadow of storeroom
+144,whom,Horse boy
+005,has Predicate,be Dancing
+194,what,priority of Elsie
+015,source,Qubit say the followings
+216,source,Elsie speaks the following to Abe Slaney
+211,when,1903-06-29 10
+071,type,Situation
+080,subject,Elsie
+143,subject,Elridge
+088,time,1903-08-06 14:00:00
+217,source,Abe Slaney leaves
+191,what,195
+025,source,Elsie shuts up
+198,type,Statement
+206,info Source,Abe Slaney
+091,type,Statement
+156,subject,Dancing dolls D
+211,has Predicate,stay
+62a,where,Board 1
+041,what,1903-07-30 14
+144,what,145
+052,source,Qubit sits by the window around 2 am
+231,what,Dancing dolls J
+195,from,Abe Slaney
+156,what,_E_
+224,source,Qubit's bullet goes out of Abe Slaney
+186,info Source,Holmes
+130,type,Situation
+044,time,1903-08-03 10:00:00
+179,subject,Abe Slaney
+102,when,1903-08-06 04:02
+206,type,Statement
+061,when,1903-08-03 08
+123,from,front
+frame_of_window_of_study_room,label,frame of window of study room
+095,time,1903-08-06 04:00:00
+216,time,1903-08-06 03:00:00
+118,type,Situation
+137,source,The window frame bursts from the room
+165,what,_S_
+057,subject,something
+173,source,The Sentence I points to 'At Elridge'
+097,how,a short time
+026,what,promise
+banknote,label,banknote
+pencil,label,pencil
+173,type,Situation
+195,has Predicate,escape
+_COME_,type,PhysicalObject
+the_final_position_of_ Dancing_dolls_ Y,of Whole,Dancing dolls Y
+007,has Predicate,fall
+222,type,Statement
+059,type,Situation
+62a,subject,Dancing dolls C
+038,source,Qubit sends a dancing doll to Holmes
+205,subject,Elsie
+126,subject,window of study room
+136,source,Banknote is in the handbag
+092,when,1903-08-06 14
+045,source,Qubit visits Holmes
+most_often,label,most often
+face,label,face
+231,type,Thought
+174,because,021
+169,source,The Sentence H is short
+114,time,1903-08-06 04:02:00
+061,when,the next morning
+105,source,Elsie sits by the window
+209,info Source,Abe Slaney
+window_of_study_room,label,window of study room
+194,source,Abe Slaney claims Elsie's priority
+184,because,183
+boss_of_gang,of Part,boss
+173c,source,The Sentence I is 'A? ELRI?ES'
+gown,label,gown
+043,from,Qubit
+043,source,Holmes receives a telegram from Qubit this morning
+156,type,Situation
+165,type,Statement
+199,has Predicate,kill
+116,when,1903-08-06 04:02
+113,type,Situation
+the_fourth_position,label,the fourth position
+185,time,1903-08-06 15:00:00
+028,when,last Tuesday
+home,type,Object
+178,source,Willson is a police in New York
+165,what,_I_
+011,subject,Elsie
+120,from,window of study room
+009,subject,Qubit
+055,what,056
+181,info Source,Abe Slaney
+152,where,Alphabet
+132,when,1903-08-06 03
+last_ Tuesday,label,last Tuesday
+this_morning,label,this morning
+073,what,Dancing dolls E
+118,has Predicate,exist
+053,has Property,moonlighted
+064,info Source,Qubit
+082,subject,Martin
+170,because,169
+100,type,Situation
+015,what,017
+049,has Property,drawn
+033,when,night
+handbag,label,handbag
+115,source,The maid leaves their room
+window,label,window
+220,what,Elsie
+161,middle Of,Dancing dolls X
+091,subject,Qubit
+134,source,A bullet hits the window frame
+tube,type,Object
+123,source,Qubit shoot his heart from the front
+186,has Predicate,come
+131,has Predicate,exist
+034,time,1903-07-29 08:00:00
+076,source,Holmes and Watson come to North Walsham
+189,subject,Holmes
+171,has Predicate,equal To
+134,when,1903-08-06 03
+evening_of_the_second_day,label,evening of the second day
+119,type,Situation
+177,whom,Willson
+161,source,The Dancing dolls X has three characters in it
+028,where,Glass window
+118,where,three sides of study room
+195,subject,Elsie
+058,source,Qubit holds a handgun
+089,has Property,not Dead
+147,subject,Dancing dolls
+133,source,Qubit shoots a third party
+217,info Source,Elsie
+226,info Source,Abe Slaney
+004,subject,Qubit
+156,where,the fourth position
+160,subject,Dancing dolls X
+173,what,_At_Elridge_
+036,has Predicate,fall
+170,type,Situation
+018,subject,Elsie
+165,has Predicate,include
+001,source,Dancing dolls A are drawn on paper
+111,when,1903-08-06 04:02
+the_second_word_of_ Sentence_ H,of Part,the second word
+172,what,_Am_Here_Abe_Slaney_
+110,type,Situation
+206,subject,Elsie
+072,type,Situation
+027,subject,Qubit
+074,subject,Holmes
+160,type,Situation
+079,time,1903-08-06 14:00:00
+068,source,Holmes is happy
+090,time,1903-08-06 14:00:00
+something,label,something
+130,source,At the time of the incident
+084,source,Martin is the police of Norfolk
+190,when,1903-08-06 16
+230,type,Situation
+186,time,1903-08-06 16:00:00
+181,has Predicate,need
+180,has Predicate,send
+071,source,On the second evening
+038,what,Dancing dolls
+097,subject,Maid
+073,type,Situation
+224,subject,bullet of Qubit
+167,type,Situation
+103,has Predicate,fall
+065,what,066
+008,subject,Dancing dolls A
+108,time,1903-08-06 04:02:00
+183,to,Threat
+159,what,_V_
+019,when,end of June
+window_of_study_room,of Whole,study room
+097,when,One minute after gunfire
+dolls,label,dolls
+169a,has Predicate,equal To
+105,has Predicate,sit
+109,type,Situation
+147,how,similar to mischief
+076,where,North Walsham
+frame_of_window_of_study_room,of Whole,window
+fireplace,label,fireplace
+102,has Predicate,exist
+141,has Predicate,have
+079,source,Maid says the followngs
+109,subject,Window of study room
+100,source,Maid come to the study room
+071,has Predicate,receive
+119,has Predicate,exist
+094,source,Maid called a local doctor
+151,type,Situation
+217,subject,Abe Slaney
+102,source,A candle is on the desk
+June,type,Object
+052,where,window
+043,time,1903-08-03 10:00:00
+003,has Property,tall
+064,what,Qubit
+184,subject,Holmes
+night,label,night
+62b,source,The Board 1 is different with the Board 2
+052,type,Situation
+031,has Predicate,say
+Qubit,type,Object
+143,where,East Ruston
+072,when,the second morning
+229,what,_Come_soon_at_once_
+062,source,Dancing dolls D are drawn on the Board 2
+140,has Predicate,exist
+044,then,045
+179,what,gang
+102,subject,Candle
+036,source,Elsie falls
+071,time,1903-08-05 17:00:00
+frame_of_window_of_study_room,type,PhysicalObject
+160,right,Dancing dolls X
+gunfire,type,PhysicalObject
+021,subject,Letter Z
+087,type,Situation
+frame_of_window_of_study_room,of Part,frame
+the_final_position,label,the final position
+110,when,1903-08-06 04:02
+069,where,room
+025,type,Situation
+102,on,Desk
+168,has Predicate,include
+last_ Tuesday,type,AbstractTime
+226,source,Qubit falls
+045,to,Holmes
+127,source,The door and the window of the room are open for a short time
+143,source,Elridge is a few miles ahead of East Ruston
+evening,label,evening
+220,type,Statement
+handcuffs,type,PhysicalObject
+123,time,1903-08-06 14:00:00
+216,type,Statement
+113,time,1903-08-06 04:02:00
+037,source,Qubit sends the Letter X to Holmes
+026,source,Qubit follows the promise
+089,type,Statement
+124,when,1903-08-06 14
+188,time,1903-08-06 16:00:00
+tube_of_bullet,of Part,tube
+167a,what,_E_
+179,where,Chicago
+141,subject,male footprints
+horse_boy,label,horse boy
+132,source,someone fires into the room from the outside
+062,subject,Dancing dolls D
+study_room,type,Object
+107,where,Study room
+027,type,Situation
+052,at the same time,053
+211,subject,Abe Slaney
+the_second_position,type,Place
+148,type,Situation
+104,when,1903-08-06 04:02
+101,when,1903-08-06 04:02
+053,time,1903-08-03 02:00:00
+the_end_of_ Dancing_dolls,type,OFobj
+230,subject,Abe Slaney
+115,from,Maid room
+054,source,Elsie wears a gown
+door,type,Object
+124,time,1903-08-06 14:00:00
+192,info Source,Abe Slaney
+207,whom,Elsie
+126,type,Situation
+040,time,1903-06-29 10:00:00
+the_final_position,type,Object
+207,what,Letter Z
+nightwear_of_ Qubit,type,PhysicalObject
+047,then,049
+007,source,Elsie falls
+111,what,casual wear
+someone,type,Person
+106,subject,Elsie
+137,has Predicate,burst
+garden,type,Place
+107,subject,smoke
+62a,has Property,drawn
+225,type,Statement
+010,source,Qubit is a old family in Norfolk
+home_of_ Qubit,type,OFobj
+140,under,window of study room
+026,then,027
+169,subject,Sentence H
+184,source,Holmes and Watson rush to Norfolk
+055,source,Elsie says the following to Qubit
+028,what,Dancing dolls
+038,whom,Holmes
+165,subject,Dancing dolls X
+evening,type,Object
+112,type,Situation
+077,type,Situation
+024,what,Letter Z
+promise,type,PhysicalObject
+station,label,station
+065,has Predicate,say
+door_of_storeroom,type,PhysicalObject
+204,info Source,Abe Slaney
+191,what,205
+120,subject,garden
+173,subject,Sentence I
+the_end_of_ Dancing_dolls,label,the end of Dancing dolls
+094,subject,Maid
+148,what,character
+072,subject,Dancing dolls E
+146,type,Situation
+209,type,Statement
+107,when,1903-08-06 04:02
+desk,type,Object
+205,has Predicate,escape
+034,on,Garden sundial
+_S_,type,PhysicalObject
+father_of_ Elsie,of Whole,Elsie
+068,has Predicate,be Happy
+093,type,Situation
+066,has Predicate,return
+040,subject,New face
+017,has Predicate,have
+092,has Predicate,exist
+boss_of_gang,label,boss of gang
+end_of_ June,type,OFobj
+the_next_morning,type,AbstractTime
+165,source,The Dancing dolls X includes 'L'
+208,info Source,Abe Slaney
+077,when,1903-08-06 12
+090,what,findings
+three_sides_of_study_room,of Whole,study room
+Dancing_dolls,type,Object
+080,has Predicate,shoot
+034,what,Dancing dolls
+017,source,Elsie has bad memories
+225,has Predicate,shoot
+208,has Predicate,not Send
+077,time,1903-08-06 12:00:00
+168,because,167
+three_sides_of_study_room,type,Place
+054,type,Situation
+bullet_of_ Qubit,of Whole,Qubit
+033,has Property,drawn
+police,label,police
+162,how,3 times
+220,has Predicate,pull
+046,when,next morning
+020,has Predicate,receive
+029,source,Qubit thinks of the following
+081,subject,Elsie
+043,when,1903-08-03 10
+morning_after_2_days,type,AbstractTime
+priority,type,Object
+224,info Source,Abe Slaney
+102,type,Situation
+017,what,Bad memories
+123,what,heart
+3_times,type,Object
+004,source,Qubit is a gentleman
+207,has Predicate,send
+173b,type,Situation
+220,subject,Abe Slaney
+priority_of_ Elsie,type,PhysicalObject
+122,has Property,moved
+130,time,1903-08-06 03:00:00
+121,middle Of,study room
+home_of_ Qubit,of Part,home
+047,on,Storage door
+100,has Predicate,come
+123,subject,Qubit
+111,has Predicate,wear
+three_sides_of_study_room,label,three sides of study room
+137,subject,Window frame of study room
+211,time,1903-06-29 10:00:00
+frame_of_window_of_study_room,of Whole,window of study room
+153,type,Situation
+first_position,type,Object
+141,source,The flower bed has male footprints
+067,has Predicate,examine
+006,has Predicate,see
+141,where,flower bed
+tube_of_bullet,label,tube of bullet
+076,has Predicate,come
+028,subject,Qubit
+215,from,window of study room
+036,type,Situation
+191,what,206
+morning_after_2_days,label,morning after 2 days
+041,source,Holmes asks Qubit the following
+one_month_ago,type,AbstractTime
+219,type,Statement
+014,subject,Qubit
+215,has Predicate,get Out
+082,has Property,small
+035,source,Qubit shows Elsie Dancing dolls
+207,type,Statement
+153,source,Dancing dolls A contains Dancing Dolls F four times
+174,type,Situation
+087,source,Martin permits Holmes to investigate
+054,what,gown
+186,to,home of Qubit
+113,has Predicate,not Moved
+173b,has Predicate,have
+030,info Source,Qubit
+034,when,1903-07-29 08
+079,type,Situation
+056,where,Bedroom
+168,type,Situation
+230,time,1903-08-06 15:00:00
+066,subject,Qubit
+229,source,Dancing dolls J is come soon at once
+156,where,the second position
+frame,label,frame
+paper,type,PhysicalObject
+046,subject,Qubit
+076,when,1903-08-06 12
+179,source,Abe Slaney is a gang in Chicago
+088,subject,Local doctor
+123,type,Situation
+121,subject,Qubit
+014,type,Situation
+131,where,Study room
+face,type,Object
+056,source,Qubit returns to bedroom
+026,type,Situation
+136,when,1903-08-06 14
+080,what,Qubit
+133,time,1903-08-06 03:00:00
+020,subject,Elsie
+the_first_position_of_ Sentence_ H,type,OFobj
+033,source,Dancing dolls are drawn at night
+gunfire,label,gunfire
+gown,type,PhysicalObject
+142,type,Situation
+044,has Predicate,come
+166,subject,Dancing dolls X
+037,has Predicate,send
+159,what,_N_
+035,type,Situation
+078,time,1903-08-06 03:00:00
+192,subject,Abe Slaney
+178,has Predicate,belong To
+206,subject,Abe Slaney
+070,to,Chicago
+114,has Property,locked
+father,label,father
+the_first_position_of_ Sentence_ H,label,the first position of Sentence H
+064,source,Elsie stops Qubits to protect
+bullet_of_ Qubit,type,PhysicalObject
+162,type,Situation
+prayer,type,PhysicalObject
+043,what,telegram
+062,where,Board 2
+end_of_ June,of Part,end
+173b,subject,Sentence I
+210,info Source,Abe Slaney
+210,source,Abe Slaney paints dancing dolls
+107,has Property,full
+065,whom,Qubit
+146,to,Elridge
+090,type,Situation
+206,has Property,engaged
+230,what,231
+038,has Predicate,sent
+050,source,Three days later
+suicide,type,Object
+159,type,Situation
+049,type,Situation
+079,subject,Maid
+177,what,telegram
+desk_of_study_room,type,OFobj
+103,time,1903-08-06 04:02:00
+117,source,The study room is small
+064,has Predicate,stop
+133,type,Situation
+door_of_storeroom,label,door of storeroom
+188,when,1903-08-06 16
+126,subject,Door of study room
+096,has Predicate,wake
+061,on,door of storeroom
+166,type,Statement
+005,on,paper
+051,type,Situation
+110,from,Inside
+170,what,_A_
+191,what,207
+159,subject,Dancing dolls G
+069,subject,Holmes
+100,when,1903-08-06 04:02
+127,has Predicate,open
+016,source,Elsie is serious
+first_position_of_the_second_word_of_ Sentence_ H,of Whole,the second word
+081,type,Situation
+boss_of_gang,type,PhysicalObject
+013,where,Norfolk
+003,subject,Qubit
+three_sides_of_study_room,type,OFobj
+002,subject,Qubit
+130,subject,window
+first_position_of_the_second_word_of_ Sentence_ H,of Part,first position
+023,has Predicate,read
+009,when,last year
+the_end_of_ Dancing_dolls,of Part,the end
+money,label,money
+old_family,type,PhysicalObject
+priority_of_ Elsie,of Whole,Elsie
+113,source,The study room is not moved
+101,has Predicate,open
+168,source,The Dancing dolls Y includes 'C'
+231,info Source,Abe Slaney
+168,what,_O_
+042,what,Dancing dolls
+030,subject,Horse boy
+086,subject,Martin
+032,source,The horse boy does not know Dancing dolls
+209,then,210
+029,has Predicate,think
+084,has Predicate,belong To
+224,has Predicate,not Hit
+158,source,Dancing dolls D may be 'NEVER'
+one_month_ago,label,one month ago
+229,subject,Dancing dolls J
+074,type,Situation
+049,when,1903-08-01 08
+049,subject,Dancing dolls C
+063,type,Situation
+the_second_day,label,the second day
+218,what,money
+021,type,Situation
+_ELSIE_,type,PhysicalObject

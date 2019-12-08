@@ -1,0 +1,3700 @@
+568,subject,Sutherland
+521,info Source,Holmes
+299,what,302
+438,type,Statement
+499,subject,Windy bank
+006,type,Situation
+034,type,Situation
+244,source,Sutherland believes in Hozma
+469,what,Windy bank amount
+256,source,Sutherland's mother got mad at Hozma's disappearance
+342,source,Holmes said the following
+261,what,265
+524,type,Statement
+304,what,311
+499,what,cheek brow
+358,type,Statement
+480,source,Windy Bank Wants Sutherland Gold
+271,what,Hozma s personalities
+213,what,Less than
+304,what,306
+298,type,Statement
+218,what,letter
+308,on,Sutherland coat
+530,has Predicate,wish
+447,source,Hosma's letter is written in type
+337,info Source,Holmes
+048,subject,Holmes
+432,subject,Windy bank
+500,type,Statement
+555,what,Hunting whistle
+398,what,footsteps
+565,source,The signature was a type
+354,info Source,Watson s remarks
+034,has Predicate,appear
+187,what,247
+272,info Source,Holmes
+399,source,Holmes said the following
+432,type,Situation
+510,what,511
+460,type,Situation
+298,has Predicate,cannot Read
+415,has Predicate,worry
+014,what,bell
+062,if,060
+017,has Predicate,feel Restless
+473,type,Statement
+578,type,Statement
+215,info Source,Sutherland
+444,what,450
+391,when,1891-09-02 18
+472,what,489
+532,source,Sutherland does not love others
+272,what,Hosma s letter
+561,what,Deep motive
+048,what,Sutherland
+015,what,019
+558,what,569
+084,type,Thought
+187,what,224
+025,source,Woman tears off the string of the doorbell
+272,source,Holmes wants a letter from Hozma
+580,what,truth
+494,subject,Sutherland
+421,type,Statement
+243,what,244
+121,source,Sutherland goes to Sunday school event
+302,info Source,Holmes
+016,info Source,Holmes
+361,type,Statement
+407,has Predicate,sharp
+277,what,278
+543,type,Statement
+032,subject,Boy serving
+026,info Source,Holmes
+093,what,yield
+327,source,Watson pays attention to details
+551,type,Situation
+382,source,The above is not important
+559,what,sin
+447,type,Statement
+315,subject,Sutherland
+510,has Predicate,say
+554,subject,Watson
+285,what,286
+241,info Source,Sutherland
+cold_sweat,label,cold sweat
+259,subject,Windy bank
+572,source,Holmes was aware of the features of the type
+414,what,417
+131,what,Purple plush
+machine,type,PhysicalObject
+279,subject,Sutherland
+205,source,Hozma gave the Bible to Sutherland
+497,type,Statement
+224,where,Saint St. Savior Church
+262,what,My property
+254,type,Statement
+555,subject,Watson
+041,what,042
+police,label,police
+249,source,Sutherland thinks the following
+281,has Property,largest claret importer
+353,what,364
+018,source,The above is color love Saya
+294,has Predicate,get Up
+170,type,Statement
+371,type,Situation
+121,to,Sunday school events
+400,source,Windy Bank came
+002,source,Holmes stood between the windowed seams
+456,type,Situation
+311,info Source,Watson s remarks
+right,type,PhysicalObject
+319,then,321
+428,has Predicate,say
+less_than_60_pounds,type,PhysicalObject
+148,whom,Hozma
+092,info Source,Sutherland
+119,subject,Sutherland s mother
+clothes,type,PhysicalObject
+the_words,label,the words
+022,what,028
+001,has Predicate,stand
+420,source,Sutherland comes to Holmes
+063,source,Sutherland jumped out of the house
+154,type,Thought
+202,type,Situation
+001,time,1891-09-01 10:00:00
+Holmes,type,Object
+316,source,Sutherland is rich
+404,subject,Windy bank
+142,has Predicate,say
+125,type,Statement
+089,type,Statement
+429,subject,Holmes
+433,whom,Hozma
+064,has Property,angree
+445,what,446
+396,type,Statement
+462,subject,Windy bank
+284,has Predicate,forget
+060,source,Holmes find Hozma
+1_year,type,AbstractTime
+017,where,pavement
+077,subject,Windy bank
+454,source,Windy Bank has no wasted time
+398,source,Footsteps echo in the corridor
+314,info Source,Watson s remarks
+185,source,Holmes said the inscription of Zayedomo (below)
+203,whom,Sutherland
+493,info Source,Holmes
+435,has Property,different
+door,type,PhysicalObject
+313,type,Statement
+537,info Source,Holmes
+548,type,Situation
+409,source,Windy Bank put a bowler hat on the side shelf
+054,info Source,Sutherland
+109,info Source,Sutherland
+397,type,Statement
+572,has Predicate,know
+377,source,Watson said the following
+279,type,Statement
+532,has Predicate,not Love
+087,has Property,heritage of Ned
+321,type,Situation
+this_morning,label,this morning
+418,subject,Sutherland
+022,source,Holmes found that
+056,has Property,Not rich
+391,when,Six O clock
+097,has Predicate,have
+317,source,Sutherland is a leisure
+353,what,366
+528,type,Statement
+266,subject,Holmes
+187,what,228
+574,has Property,typist
+007,has Predicate,stand
+414,what,423
+090,what,heritage
+436,type,Statement
+488,therefore,490
+414,what,416
+022,what,029
+510,what,531
+446,type,Statement
+466,source,Windy Bank can not escape from Holmes
+387,info Source,Holmes
+236,what,237
+371,what,375
+150,info Source,Sutherland
+197,type,Statement
+509,subject,Windy bank
+284,type,Statement
+547,source,Holmes is closing the door
+278,info Source,Sutherland
+304,what,317
+447,what,Hosma s letter
+the_above,type,PhysicalObject
+157,has Predicate,want
+063,info Source,Sutherland
+368,source,Letters have no clues to Hozma
+436,where,Windy Bank Letter
+111,what,face
+187,what,240
+472,what,484
+148,source,Sutherland has met Hozma twice
+317,type,Statement
+539,has Predicate,stand
+301,has Property,important
+425,subject,Windy bank
+258,what,Hozma lost
+disguise,type,PhysicalObject
+179,what,Typing letter
+174,what,181
+063,type,Statement
+088,source,Ned is Sutherland's uncle
+164,subject,Hozma
+153,source,Windy Bank thought that
+226,source,Sutherland and Hozma eat breakfast at Saint St Pancras Hotel
+296,what,297
+195,info Source,Sutherland
+292,type,Statement
+345,what,Sutherland s appearance
+365,type,Statement
+250,has Predicate,know
+226,has Predicate,eat
+215,whom,Windy bank
+491,whom,Sutherland
+247,what,With hozma
+056,type,Statement
+415,type,Statement
+525,info Source,Holmes
+037,type,Situation
+341,type,Situation
+473,subject,Holmes
+519,source,Sutherland's love does not go to others
+395,source,Holmes said the following
+448,has Property,blurred
+393,has Predicate,not Be In Time
+452,has Predicate,grab
+law,type,PhysicalObject
+427,source,Holmes can not find Hozma
+14_features,type,PhysicalObject
+paper,label,paper
+024,type,Statement
+074,type,Statement
+085,info Source,Watson s thoughts
+275,type,Situation
+518,type,Statement
+401,what,Windy Bank physique
+165,has Predicate,receive
+174,type,Situation
+354,what,355
+052,what,053
+565,type,Statement
+547,info Source,Windybank s remarks
+472,what,481
+079,type,Statement
+179,type,Statement
+535,to,Church
+159,subject,Windy bank
+419,has Predicate,not Want
+579,if,580
+313,has Predicate,worn
+295,source,The same incident happened in The Hague last year
+274,subject,Sutherland
+meaning,label,meaning
+4700_pounds,label,4700 pounds
+288,type,Situation
+500,source,Windy Bank whispered
+153,subject,Windy bank
+465,subject,Holmes
+399,type,Situation
+274,to,newspaper
+327,type,Statement
+242,type,Statement
+187,what,190
+281,info Source,Sutherland
+099,source,60 pounds is enough for single women
+451,from,Chair
+068,what,Sutherland s father-in-law
+308,what,Black beads
+576,subject,someone of Company
+226,info Source,Sutherland
+342,what,344
+231,subject,Sutherland s mother
+036,type,Situation
+416,has Predicate,busy
+100_pounds,label,100 pounds
+250,what,Danger
+287,source,Sutherland believes in Hozma
+165,info Source,Sutherland
+044,type,Situation
+335,info Source,Holmes
+315,source,Sutherland was hanging a small round gold earring
+509,info Source,Windybank s remarks
+577,has Property,is
+101,subject,Sutherland
+022,what,026
+551,what,553
+098,subject,Sutherland
+266,has Predicate,say
+105,type,Statement
+210,what,211
+163,what,168
+522,then,524
+125,source,People in the ball have no value
+126,info Source,Sutherland
+372,type,Statement
+269,has Predicate,forget
+520,type,Statement
+482,what,Compassion
+282,subject,Holmes
+566,subject,Sutherland
+472,what,483
+499,source,Windy Bank wore a mustache
+044,what,meaning of the words of Holmes
+217,source,Windy Bank works at the French office of the Bordeaux company
+550,has Predicate,open
+173,what,letter
+370,info Source,Watson s remarks
+451,has Predicate,jump Up
+308,has Predicate,attached
+312,info Source,Watson s remarks
+317,info Source,Watson s remarks
+466,has Predicate,cannot Escape
+403,source,The age of Windy Bank is around 30 years old
+077,type,Statement
+056,info Source,Sutherland
+218,has Predicate,send
+33-1,whom,Sutherland
+462,what,Place
+351,info Source,Holmes
+319,has Property,town girl
+490,source,Windy Bank will not leave Sutherland from home
+559,has Predicate,repeat
+577,subject,Personal statement
+163,what,172
+283,source,Sutherland will not forget Holmes' advice
+209,info Source,Sutherland
+449,what,r
+298,subject,Sutherland
+236,type,Statement
+090,has Property,New Zealand shares
+330,info Source,Holmes
+249,type,Situation
+392,has Predicate,think
+573,has Predicate,send
+577,type,Statement
+198,info Source,Sutherland
+1_day,type,AbstractTime
+289,subject,Sutherland
+324,has Predicate,overlook
+373,has Property,Hozma Eingel
+167,source,Sutherland was engaged to Hozma at the first walk
+356,info Source,Watson s remarks
+565,has Predicate,be Typeed
+490,info Source,Holmes
+343,source,Sutherland's left and right shoes are different
+someone_of_ Company,of Whole,Company
+209,has Predicate,love
+069,type,Statement
+363,has Property,jealous
+052,what,068
+126,type,Statement
+376,has Property,important
+257,what,258
+303,what,Big problem
+380,type,Statement
+someone,label,someone
+168,type,Statement
+302,what,Thumb nail
+093,has Predicate,get
+172,info Source,Sutherland
+369,on,letter
+048,type,Statement
+025,subject,Woman
+029,type,Statement
+327,subject,Watson
+132,why,Required
+living_with_my_parents,label,living with my parents
+510,what,529
+353,what,356
+Sutherland's_mother,type,Object
+154,source,Women are happy at home
+419,type,Statement
+264,has Predicate,cannot Sleep
+166,type,Statement
+280,has Property,foreign business of West House&Marbank
+456,source,Holmes Tells Windy Bank
+220,what,letter
+145,after,146
+265,info Source,Sutherland
+539,subject,Windy bank
+062,what,Holmes
+325,type,Statement
+535,type,Statement
+089,has Predicate,exist
+454,type,Statement
+111,has Predicate,blush
+yield,label,yield
+491,what,Relationship with human beings of the same age
+481,type,Statement
+178,type,Statement
+254,has Predicate,not Know
+353,what,361
+Company,label,Company
+252,subject,Hozma
+051,type,Statement
+128,subject,Sutherland
+155,what,158
+476,what,Sutherland Gold
+047,source,Sutherland thought that
+281,where,Fengchurch Street
+494,info Source,Holmes
+348,subject,Holmes
+017,subject,Woman
+498,what,Color glasses
+179,info Source,Hozma s statement
+machine,label,machine
+519,type,Statement
+380,what,Appeal for breach of pledge
+036,has Predicate,close
+077,what,Sutherland s father s shop
+330,source,A plush weave is attached to the cuffs of Sutherland
+107,info Source,Sutherland
+245,what,the above
+072,subject,Sutherland s mother
+555,source,Watson wants to try a hunting whistle
+410,has Predicate,greet
+396,source,The incident has no mystery
+295,where,The Hague
+572,subject,Holmes
+403,type,Situation
+287,subject,Sutherland
+066,info Source,Sutherland
+219,when,Morning of the wedding day
+121,has Predicate,go
+103,subject,Sutherland
+369,info Source,Watson s remarks
+484,what,Money
+537,type,Statement
+228,info Source,Sutherland
+560,info Source,Holmes
+005,has Predicate,wear
+163,subject,Sutherland
+263,what,Sutherland s money
+359,has Property,black
+079,subject,Sutherland s father s shop
+563,info Source,Holmes
+289,source,Sutherland went out of Holmes
+079,what,4700 pounds
+219,source,The letter came back to Sutherland on the morning of the wedding day
+194,source,Hozma's voice is thin
+211,type,Statement
+148,when,twice
+544,why,Assault threat
+435,type,Statement
+428,what,429
+440,subject,Windy bank
+478,type,Statement
+058,type,Statement
+543,source,Windy Bank has not beat the law
+575,has Predicate,match
+096,has Predicate,get
+116,subject,Sutherland
+180,source,Handwritten letter feels Sutherland
+204,type,Statement
+399,has Predicate,say
+157,info Source,Sutherland
+letter,type,PhysicalObject
+388,source,Holmes writes the following to letter 2
+179,subject,Hozma
+181,type,Statement
+043,info Source,Holmes
+258,source,Sutherland does not speak Hozma's disappearance
+119,type,Statement
+224,subject,wedding
+391,has Predicate,go
+217,has Predicate,working
+564,source,Colored glasses and voices and whistles reminiscent of disguise
+412,what,413
+499,info Source,Holmes
+166,subject,Windy bank
+the_words_of_ Holmes,of Part,the words
+275,source,Sutherland asked Holmes to give adverts
+195,subject,Hozma
+309,info Source,Watson s remarks
+216,has Predicate,want To Report
+466,subject,Windy bank
+576,info Source,Holmes
+242,subject,Hozma
+541,what,542
+290,type,Situation
+178,has Predicate,be Teased
+116,info Source,Sutherland
+052,what,058
+464,what,Around
+090,info Source,Sutherland
+327,info Source,Holmes
+210,has Predicate,say
+008,at the same time,010
+570,info Source,Holmes
+472,what,487
+193,type,Statement
+100,has Predicate,say
+405,type,Situation
+322,what,339
+176,info Source,Hozma s statement
+383,if,385
+131,type,Statement
+053,what,Holmes
+420,subject,Sutherland
+025,type,Statement
+227,when,Last Friday
+one_year,label,one year
+471,type,Statement
+181,has Predicate,feel
+086,what,087
+004,has Predicate,wrap
+149,source,Windy Bank returned home
+356,has Property,5 feet 7 inches
+404,has Predicate,not Have
+095,subject,Sutherland
+216,info Source,Sutherland
+133,type,Statement
+182,source,Sutherland said the following
+414,what,418
+266,what,268
+374,what,date
+091,type,Statement
+248,has Predicate,understand
+472,what,499
+548,source,Holmes said the following
+163,what,169
+414,what,425
+breakfast,type,PhysicalObject
+187,what,188
+558,source,Holmes said the following
+239,info Source,Sutherland
+067,source,Windy Bank does not want to visit Holmes
+529,info Source,Holmes
+174,what,176
+117,type,Statement
+263,type,Statement
+408,type,Situation
+472,what,482
+033,has Predicate,tell
+221,when,Just before the letter arrives
+227,source,Last Friday
+192,info Source,Sutherland
+reply,label,reply
+011,type,Situation
+108,what,one sheet
+329,info Source,Holmes
+this_morning,type,AbstractTime
+515,info Source,Holmes
+193,info Source,Sutherland
+305,info Source,Watson s remarks
+029,info Source,Holmes
+201,what,Color glasses
+389,whom,Windy bank
+cheek_brow,label,cheek brow
+317,has Property,easygoing
+126,has Predicate,joining
+362,info Source,Watson s remarks
+371,what,372
+211,has Predicate,get Married
+the_type,type,Object
+476,when,478
+043,has Predicate,recognize
+advice,label,advice
+501,info Source,Holmes
+474,type,Statement
+216,source,Sutherland wants to report to Windy Bank before the wedding
+087,what,Sutherland s income
+152,has Predicate,enter
+073,info Source,Sutherland
+014,source,Holmes hears a call bell
+508,source,Windy Bank did not think of
+187,subject,Sutherland
+351,type,Statement
+538,subject,Windy bank
+223,what,wedding
+098,type,Thought
+029,subject,Woman
+505,because,507
+355,time,1891-08-14 09:00:00
+008,to,window
+128,type,Situation
+008,has Predicate,be Directed
+314,type,Statement
+035,source,Holmes welcomes Sutherland
+276,subject,Sutherland
+479,source,Sutherland's money is big money
+374,has Predicate,have
+137,source,Sutherland went to a ball
+411,type,Situation
+449,has Predicate,missing
+336,source,The right wrist double line is a trace of type
+503,info Source,Holmes
+261,subject,Sutherland
+052,what,069
+020,subject,Sutherland
+393,source,Watson is not in time for a solution
+549,has Predicate,cannot Handle
+521,has Property,necessary
+093,subject,Sutherland
+136,what,137
+038,has Predicate,look Around
+110,whom,Sutherland
+characteristics_of_the_type,of Whole,the type
+004,type,Situation
+one_sheet,label,one sheet
+052,what,078
+299,type,Situation
+286,has Predicate,unforgettable
+541,what,544
+235,subject,The god
+14_features,label,14 features
+254,what,The danger of hozma
+039,source,Holmes said the following
+172,source,Hozma's address is on Redon Hall Street
+138,has Predicate,think
+133,has Predicate,go
+501,type,Statement
+011,what,Glove button
+151,what,152
+570,what,voice
+339,what,By type
+211,when,this week
+096,source,Sutherland gets 100 pounds a year
+123,what,Sutherland
+529,when,The morning of the wedding day
+307,type,Statement
+125,subject,Ball people
+498,has Predicate,wear
+125,info Source,Windybank
+354,source,Inquirer ad is written below
+570,what,Moth
+381,type,Situation
+085,subject,Holmes
+107,type,Statement
+566,has Predicate,know
+030,subject,Women s troubles
+233,has Predicate,look In
+358,has Predicate,bad
+300,subject,Watson
+480,what,Sutherland Gold
+348,what,352
+035,what,Sutherland
+310,source,The clothes were brown
+349,has Predicate,come
+228,type,Statement
+414,has Predicate,say
+113,what,115
+566,type,Statement
+183,info Source,Sutherland
+448,where,Hosma s letter
+266,what,267
+281,source,West House &amp; Marbank is the largest claret importer on Fenchurch Street
+367,where,Office of Redon Hall Street
+541,what,546
+025,info Source,Holmes
+139,subject,Windy bank
+486,how,Immediately
+515,source,Hozma met Sutherland many times
+470,type,Situation
+422,type,Statement
+476,source,Windy Bank can use Sutherland gold
+hat,type,PhysicalObject
+gloves,type,PhysicalObject
+313,what,Right glove thumb
+472,what,502
+353,has Predicate,say
+223,time,1891-08-28 00:00:00
+181,info Source,Hozma s statement
+chair,label,chair
+052,what,064
+176,source,Sutherland's letter arrives at the office
+315,has Predicate,hanging
+236,has Predicate,see
+right,label,right
+202,what,203
+312,type,Statement
+460,has Predicate,say
+438,what,r
+324,subject,Watson
+532,subject,Sutherland
+115,whom,Sutherland
+newspaper,label,newspaper
+571,what,Personal statement
+078,source,Windy Bank is a wine commerce
+056,subject,Sutherland
+164,what,letter
+553,info Source,Holmes
+514,type,Statement
+509,what,Sutherland s heart
+307,source,Sutherland's jacket was black
+398,type,Situation
+052,what,075
+278,source,Sutherland's address is Camberwell
+543,subject,Windy bank
+558,what,564
+552,has Predicate,have
+290,subject,Sutherland
+139,info Source,Sutherland s thoughts
+510,what,530
+150,has Predicate,cannot Come
+171,what,173
+typewriter,type,Object
+together,label,together
+538,from,Opposite door
+542,info Source,Windybank s remarks
+094,source,Holmes thought the following
+529,source,An incident occurs on the morning of the wedding day
+180,info Source,Hozma s statement
+146,has Predicate,visit
+274,info Source,Sutherland
+286,source,Sutherland can not forget Hozma
+377,what,380
+142,subject,Windy bank
+406,type,Situation
+Sutherland's_mother,label,Sutherland's mother
+322,what,332
+meaning,type,Object
+229,has Predicate,get On
+123,info Source,Sutherland
+052,what,072
+515,type,Statement
+452,subject,Windy bank
+010,has Predicate,move
+134,has Predicate,meet
+260,info Source,Windybank s remarks
+187,what,239
+558,what,568
+020,source,Sutherland suffers from
+428,subject,Holmes
+078,has Property,foreign trade of wine
+315,info Source,Watson s remarks
+348,source,Holmes noticed the following
+529,type,Statement
+381,source,Holmes said the following
+woman,label,woman
+153,what,154
+005,source,Sutherland is wearing a hat
+086,source,Sutherland said the following
+353,subject,Watson
+483,subject,Sutherland s character
+132,info Source,Sutherland
+053,info Source,Sutherland
+past,type,AbstractTime
+505,what,others
+322,what,329
+048,info Source,Sutherland
+115,has Predicate,send
+230,subject,Other carriages
+250,info Source,Sutherland s thoughts
+143,info Source,Windybank s remarks
+547,what,door
+405,source,The color of Windy Bank is bad
+270,whom,Hozma
+569,info Source,Holmes
+570,from,Personal statement
+353,what,369
+268,info Source,Holmes
+truth,type,PhysicalObject
+052,what,054
+213,subject,Sutherland s mother
+030,source,Women's troubles can be solved quickly
+478,subject,Windy bank
+559,type,Statement
+107,subject,Sutherland
+110,has Predicate,listen
+513,source,Windy Bank is in France
+039,what,040
+535,then,537
+503,source,Sutherland is nearsighted
+514,has Predicate,increase
+397,subject,Holmes
+076,subject,Hardy
+165,source,Sutherland received a letter in the morning
+510,type,Situation
+130,what,134
+540,subject,Windy bank
+572,info Source,Holmes
+515,subject,Hozma
+390,has Predicate,concentrate On
+071,source,Sutherland's mother is strong
+236,source,He saw the following
+143,type,Statement
+219,to,Sutherland
+571,info Source,Holmes
+472,what,476
+421,what,Family calamity
+228,subject,Hozma
+565,what,signature
+081,what,082
+130,subject,Sutherland
+178,subject,Hozma
+067,whom,Holmes
+223,has Predicate,do
+544,has Predicate,can Sue
+240,what,Appearance
+065,type,Statement
+458,type,Situation
+443,what,characters
+e,type,PhysicalObject
+064,subject,Sutherland
+383,type,Statement
+178,info Source,Hozma s statement
+114,info Source,Sutherland
+496,type,Statement
+043,source,Sutherland knows the position of the character
+respect,label,respect
+013,subject,Sutherland
+264,type,Statement
+294,source,The same incident happened in Andova in 1977
+120,source,Windy Bank goes mad below
+227,how,By hansom carriage
+339,subject,Holmes
+328,source,Holmes look at a woman's sleeve
+047,has Predicate,think
+429,has Predicate,find
+469,has Predicate,have
+145,whom,Hozma
+293,what,Same incident
+353,what,362
+002,has Predicate,stand
+290,where,Holmes
+375,has Property,Redon Hall street
+glasses,type,PhysicalObject
+144,what,147
+385,has Predicate,write
+051,what,Oversight of others
+243,when,Last Friday
+422,source,Sutherland moves quickly
+288,source,Watson felt noble and respect for Sutherland
+423,what,424
+504,type,Statement
+137,info Source,Holmes
+549,source,Law can not handle Windy Bank
+578,what,Holmes
+481,has Property,friendly
+558,what,575
+058,subject,Sutherland
+142,what,143
+272,type,Statement
+510,what,533
+574,info Source,Holmes
+062,what,Earning
+346,source,Sutherland wears different left and right shoes
+218,subject,Sutherland
+073,source,Sutherland's father is a plumber in Totenham Court
+100,what,104
+114,has Predicate,meet
+226,subject,Sutherland
+215,type,Statement
+123,source,Windy Bank can not stop Sutherland
+378,type,Statement
+556,to,Moth
+362,type,Statement
+538,has Predicate,go Out
+185,type,Situation
+184,type,Statement
+128,source,Sutherland has no clothes to wear
+012,type,Situation
+337,has Predicate,have
+361,subject,Hozma
+233,source,A chariot wandered under the chariot
+110,source,Holmes listens to Sutherland about the relationship between Sutherland and Hosma
+081,has Predicate,think
+315,what,Small round gold earring
+212,info Source,Sutherland
+162,has Predicate,not Meet
+083,has Predicate,think
+411,has Predicate,sit
+187,what,221
+187,what,192
+283,has Predicate,not Forget
+106,whom,Sutherland s mother
+263,subject,Hozma
+099,info Source,Holmes
+015,subject,Holmes
+286,info Source,Sutherland
+380,source,Hosma received an appeal against breach of covenants
+348,what,350
+015,what,021
+203,has Predicate,want To Get Married
+372,info Source,Holmes
+401,type,Situation
+123,subject,Windy bank
+214,has Predicate,not Worry
+164,source,Sutherland and Hozma wrote a letter every day
+148,info Source,Sutherland
+114,type,Statement
+510,what,537
+law,label,law
+534,type,Statement
+018,what,017
+102,subject,Sutherland
+420,type,Statement
+188,type,Situation
+339,type,Statement
+243,when,1891-08-28
+this_week,type,AbstractTime
+268,subject,Holmes
+162,type,Situation
+118,type,Statement
+561,source,The behavior of Hozma had a deep motive
+171,subject,Sutherland
+239,subject,Hozma
+450,what,Hosma s letter
+337,type,Statement
+214,info Source,Sutherland
+282,has Predicate,say
+200,type,Statement
+305,type,Statement
+343,info Source,Holmes
+168,info Source,Sutherland
+322,what,325
+326,type,Statement
+472,what,492
+252,source,Hozma said above
+187,what,201
+206,subject,Hozma
+472,subject,Holmes
+358,what,The color of hozma
+265,type,Statement
+385,type,Statement
+271,type,Statement
+480,subject,Windy bank
+072,info Source,Sutherland
+199,type,Statement
+049,source,Holmes said the following
+080,type,Situation
+510,what,524
+287,info Source,Sutherland
+140,source,Sutherland said the following
+376,what,signature
+342,what,345
+144,what,149
+60_pounds,label,60 pounds
+228,where,Hansom horse carriage
+213,info Source,Sutherland
+066,type,Statement
+076,has Property,field head
+421,source,Sutherland talks about family misfortune
+113,what,124
+105,source,Windy Bank draws a quarter from the yield
+132,type,Statement
+558,what,580
+552,source,Windy Bank has sins
+001,subject,Holmes
+304,what,313
+378,380,label
+005,type,Situation
+414,source,Windy Bank said
+187,what,223
+255,source,Sutherland reported Hozma's disappearance to Sutherland's mother and Windy Bank
+520,subject,Windy bank
+237,source,Hozma gets into the cart
+432,has Predicate,rejoice
+495,where,Dance
+561,type,Statement
+135,subject,Holmes
+079,has Predicate,sell
+274,when,1891-08-29
+434,type,Situation
+423,type,Statement
+424,has Property,not police officer
+409,what,Bowler hat
+155,subject,Sutherland
+332,has Property,expensive cloth
+420,has Predicate,come
+130,what,131
+488,source,Windy Bank loses 100 pounds in a year
+357,type,Statement
+052,what,067
+473,info Source,Holmes
+220,what,To Windy Bank
+149,subject,Windy bank
+parents,label,parents
+291,type,Situation
+544,info Source,Windybank s remarks
+302,source,Thumb nail talks
+383,source,Hozma's disappearance resolves
+205,subject,Hozma
+375,info Source,Holmes
+553,source,Sutherland brothers best friend wins Windy Bank
+362,subject,Hozma
+357,source,Hozuma's physique is good
+503,type,Statement
+450,info Source,Holmes
+472,what,497
+060,what,Hozma
+205,has Predicate,hold
+395,has Predicate,say
+248,info Source,Sutherland
+454,info Source,Windybank s remarks
+168,source,Hozma is the teller of Redon Hall Street office
+others,label,others
+113,what,114
+161,type,Situation
+535,has Predicate,carry
+080,source,Sutherland thinks the following
+060,has Predicate,locate
+214,subject,Sutherland
+441,info Source,Windybank s remarks
+187,what,227
+130,what,133
+304,what,316
+213,type,Statement
+361,what,Black cheek and mouth
+415,info Source,Windybank s remarks
+210,source,Hozma said the following
+312,source,The gloves were scarlet
+542,source,Windy Bank does not know the facts
+234,subject,nobody
+332,info Source,Holmes
+052,what,061
+014,has Predicate,listen
+389,type,Statement
+346,type,Statement
+488,has Predicate,lose
+184,has Predicate,pay Attention
+052,source,Sutherland said the following
+150,source,Hozma can not come home
+491,subject,Windy bank
+057,has Predicate,earn
+507,type,Statement
+269,source,Sutherland forgets Hozma
+118,source,Sutherland and Sutherland's mother go to a ball
+398,has Predicate,echo
+530,type,Statement
+184,subject,Hozma
+100,subject,Sutherland
+554,source,Watson said the following
+122,source,Sutherland told the ball to join
+082,type,Thought
+074,subject,Sutherland s father
+207,type,Statement
+469,source,Windy Bank's forehead has cold sweat
+197,subject,Hozma
+369,has Predicate,exist
+234,source,There was no one under the cart
+464,has Predicate,look Around
+257,type,Situation
+184,info Source,Sutherland
+392,type,Situation
+516,has Predicate,feel Relieved
+556,type,Situation
+504,info Source,Holmes
+042,source,Myopia is hard
+367,info Source,Watson s remarks
+551,what,552
+015,what,018
+354,what,365
+336,has Property,trace of the type
+value,label,value
+196,type,Situation
+parent,label,parent
+391,subject,Watson
+270,has Predicate,cannot Meet
+171,source,Sutherland knows the following
+427,what,Hozma
+259,what,260
+186,has Property,infinite
+480,info Source,Holmes
+102,info Source,Sutherland
+1_year,label,1 year
+112,subject,Sutherland
+243,subject,Hozma
+353,what,368
+446,source,Typewriters are involved in crime
+297,has Predicate,can Read
+466,type,Statement
+497,subject,Windy bank
+471,what,Windy bank
+322,what,338
+206,type,Statement
+083,what,085
+438,info Source,Holmes
+574,subject,reply
+318,info Source,Watson s remarks
+086,what,088
+269,what,Hozma
+578,has Predicate,not Believe
+051,has Predicate,recognize
+199,has Property,good
+285,type,Situation
+391,time,1891-09-02 18:00:00
+112,type,Situation
+112,what,Jacket sleeve
+wedding,label,wedding
+080,has Predicate,think
+100,what,102
+012,source,Sutherland jumps the road
+395,subject,Holmes
+359,type,Statement
+212,source,Sutherland worried about Windy Bank
+453,what,454
+543,info Source,Windybank s remarks
+451,source,Windybank jumped out of the chair
+257,whom,Sutherland
+560,to,Gallow
+129,has Predicate,not Have
+279,info Source,Sutherland
+520,when,Forever
+176,has Predicate,reach
+209,whom,Hozma
+468,type,Situation
+471,has Predicate,not Complain
+355,when,1891-08-14 09
+173,subject,Sutherland
+426,has Predicate,think
+441,what,One machine
+426,subject,Windy bank
+325,source,The way is right
+254,source,Sutherland does not know the danger of Hozma
+461,has Predicate,catch
+043,what,Character position
+354,what,359
+004,where,Pavement opposite
+334,info Source,Holmes
+274,when,Lst Satuaday
+187,what,209
+354,what,360
+044,subject,Sutherland
+195,source,Hozma suffered tonsillitis when he was young
+104,type,Situation
+093,type,Statement
+heritage,type,PhysicalObject
+342,has Predicate,say
+434,what,437
+264,info Source,Sutherland
+345,has Property,tightly
+parents,type,PhysicalObject
+236,subject,The god
+516,source,Windy Bank was relieved
+580,whom,Sutherland
+319,info Source,Watson s remarks
+201,has Predicate,have
+119,source,Sutherland and Sutherland's mother go out
+108,what,2 pence
+353,what,363
+511,what,Hozma
+336,type,Statement
+419,what,420
+187,what,232
+084,what,Sutherland s story
+077,source,Windy Bank sold her father's shop in Sutherland
+144,what,151
+meaning_of_the_words_of_ Holmes,label,meaning of the words of Holmes
+484,info Source,Holmes
+062,info Source,Sutherland
+052,what,060
+304,type,Situation
+495,subject,Sutherland
+300,what,Important point
+132,source,Windy Bank went to France for work.
+558,what,576
+499,has Predicate,wear
+116,source,Sutherland's and Sutherland's mother went to the ball after Sutherland's father's death
+229,source,Hozma got on a carriage
+052,what,066
+364,what,At the time of disappearance
+277,source,Sutherland said the following
+490,what,Sutherland
+signature,type,PhysicalObject
+383,info Source,Holmes
+122,subject,Sutherland
+364,type,Statement
+239,has Predicate,not Send
+217,type,Statement
+415,subject,Windy bank
+547,subject,Holmes
+195,when,young
+187,what,191
+441,source,Windy Bank's workplace has one machine
+057,what,One hundred dollars
+510,what,525
+501,source,Disguise is safe
+444,source,Holmes said the following
+341,has Predicate,be Surprised
+187,what,198
+152,subject,Customer
+511,subject,Sutherland
+558,what,579
+137,where,Dance
+271,source,Holmes wants Hozma's personalities
+404,what,Moth
+057,type,Statement
+252,has Predicate,say
+078,info Source,Sutherland
+143,has Property,free
+518,subject,Windy bank
+410,type,Situation
+001,when,1891-09-01 10
+parent,type,Person
+291,what,293
+163,what,165
+342,type,Situation
+255,whom,Windy bank
+045,has Predicate,be Surprised
+313,source,The thumb of the right glove is worn
+358,source,The color of hozma is bad
+last_year,label,last year
+322,what,337
+434,subject,Holmes
+056,source,Sutherland is not rich
+454,has Predicate,not Have
+245,subject,Sutherland
+564,what,Moth
+159,type,Statement
+145,source,Sutherland met Hozma at a ball
+365,source,At the time of disappearance is a black vest
+462,type,Situation
+483,info Source,Holmes
+152,info Source,Sutherland
+040,what,Near sight
+006,source,Sutherland has red feathers
+028,source,Women are puzzled
+286,subject,Sutherland
+052,what,065
+road,label,road
+328,type,Statement
+377,type,Situation
+204,has Property,enthusiastic
+556,source,Watson got close to the wolf
+364,source,At the time of disappearance is a black frock coat
+297,info Source,Watson s remarks
+144,what,152
+298,subject,Watson
+548,subject,Holmes
+052,what,056
+441,what,Windy Bank workplace
+187,what,233
+052,type,Situation
+455,type,Situation
+144,has Predicate,say
+268,source,Holmes can solve Hozma's disappearance
+094,what,099
+439,type,Statement
+159,source,Windy Bank goes to France a week later
+068,info Source,Sutherland
+548,what,549
+412,subject,Holmes
+the_above,label,the above
+243,type,Statement
+026,type,Statement
+198,source,Hozma speaks whisperly
+055,type,Statement
+091,info Source,Sutherland
+212,subject,Sutherland
+212,type,Statement
+472,what,473
+187,what,204
+019,source,Sutherland wants advice
+560,type,Statement
+418,type,Statement
+295,when,last year
+294,when,77 years
+492,subject,491
+416,info Source,Windybank s remarks
+102,type,Statement
+458,subject,Holmes
+226,subject,Hozma
+158,has Property,absent
+083,source,Watson thinks that
+187,what,218
+522,how,Dramatically
+187,what,236
+402,source,Windy Bank is medium-sized
+266,what,271
+504,subject,Windy bank
+532,what,others
+214,source,Sutherland Worries About Windy Bank
+273,what,274
+410,subject,Windy bank
+101,has Property,enough
+463,subject,Windy bank lips
+484,type,Statement
+cold_sweat,type,PhysicalObject
+415,what,Late
+174,what,179
+130,source,Sutherland said the following
+134,whom,Hozma
+063,has Predicate,jump Out
+497,source,Windy Bank disguises
+558,has Predicate,say
+124,info Source,Sutherland
+016,has Predicate,exist
+208,subject,Sutherland s mother
+378,what,signature
+580,info Source,Holmes
+541,type,Situation
+138,type,Situation
+447,info Source,Holmes
+227,subject,Hozma
+355,type,Statement
+381,what,389
+199,what,Hozma s appearance
+086,type,Situation
+570,subject,Holmes
+085,type,Thought
+461,what,Hozma
+158,source,Sutherland has no home
+187,what,195
+480,has Predicate,want
+243,info Source,Sutherland
+434,what,435
+014,type,Situation
+081,type,Statement
+310,info Source,Watson s remarks
+141,has Predicate,laugh
+355,when,14th Monday
+381,what,387
+161,source,Hozma does not meet Sutherland while Windy Bank is
+174,what,178
+055,what,Esalid s husband s death
+435,what,Type letter
+125,what,value
+511,type,Statement
+228,what,Sutherland s mother
+146,when,The day after the ball
+366,type,Statement
+220,has Predicate,not Reach
+331,type,Statement
+557,type,Situation
+261,type,Situation
+470,source,Windy Bank said
+505,info Source,Holmes
+486,source,Sutherland gets married soon
+212,has Predicate,worry
+514,source,Sutherland's thoughts grow with Sutherland's mother's praise
+287,whom,Hozma
+60_pounds,type,PhysicalObject
+113,type,Situation
+047,subject,Sutherland
+158,type,Statement
+575,source,The characteristics of the type matched Hozma
+425,info Source,Remarks by Windybank
+249,what,252
+244,has Predicate,believe
+491,source,Windy Bank prohibits Sutherland from dating with people of the same age
+2_pence,label,2 pence
+282,what,283
+479,subject,Sutherland Gold
+261,has Predicate,say
+203,when,Before returning home from Sutherland s father
+113,what,117
+091,what,Heritage dividend
+436,what,e
+035,subject,Holmes
+255,subject,Sutherland
+373,info Source,Holmes
+256,has Predicate,get Angry
+409,has Predicate,put
+505,source,Windy Bank chases others from Sutherland
+262,has Predicate,have
+156,whom,mother
+054,subject,Holmes
+057,source,Sutherland earns one hundred dollars a year
+072,source,Sutherland's mother remarried after Sutherland's father's death
+407,type,Situation
+meaning_of_the_words_of_ Holmes,of Part,meaning
+444,what,449
+114,subject,Sutherland
+505,subject,Windy bank
+109,type,Statement
+322,subject,Holmes
+352,has Predicate,have
+222,to,England
+170,source,Hozma lives in the office of Redon Hall Street
+147,when,After the ball
+154,has Property,happy
+004,source,Sutherland wraps around on the opposite pavement
+373,source,Signature is Hozma Aingel
+395,what,396
+299,subject,Holmes
+299,source,Holmes said the following
+558,what,573
+478,has Predicate,live
+475,subject,Windy bank
+073,where,Totenham Court street
+065,info Source,Sutherland
+144,what,150
+300,info Source,Holmes
+019,what,advice
+194,type,Statement
+119,subject,Sutherland
+274,type,Statement
+542,has Predicate,not Know
+539,type,Situation
+463,source,Windy Bank's lips were deep blue
+330,type,Statement
+507,subject,Sutherland
+472,what,504
+075,info Source,Sutherland
+204,source,Hozma was keen
+074,what,Sutherland s father s shop
+Company,type,Object
+424,type,Statement
+440,source,Windy Bank said
+praise,type,Object
+329,type,Statement
+474,how,Cruel
+166,source,Windy Bank does not know the letter
+354,has Predicate,be Written
+538,type,Statement
+window,type,PhysicalObject
+346,info Source,Holmes
+031,has Predicate,be Beaten
+145,subject,Sutherland
+450,has Predicate,have
+182,what,183
+248,what,Words of hozma
+062,subject,Sutherland
+465,type,Situation
+209,type,Statement
+179,has Predicate,not Want To Receive
+295,type,Statement
+362,what,Color glasses
+534,subject,Life and death of Hozma
+428,type,Situation
+514,subject,Sutherland s thoughts
+192,type,Statement
+113,what,118
+216,subject,Sutherland
+110,type,Situation
+392,subject,Watson
+380,subject,Hozma
+140,type,Situation
+187,what,205
+090,source,Heritage is a New Zealand strain
+087,source,Sutherland's income is Ned's heritage
+sin,type,PhysicalObject
+231,has Predicate,reach
+301,source,Sleeves are important
+035,has Predicate,welcome
+254,subject,Sutherland
+057,info Source,Sutherland
+322,source,Holmes said the following
+081,subject,Sutherland s father
+253,what,256
+160,info Source,Sutherland
+291,what,295
+574,type,Statement
+277,type,Situation
+relationship_between_ Sutherland_and_ Hosma,type,PhysicalObject
+333,info Source,Holmes
+248,subject,Sutherland
+368,what,letter
+411,subject,Windy bank
+bell,label,bell
+022,what,030
+227,time,1891-08-28 00:00:00
+250,subject,Hozma
+472,what,505
+093,info Source,Sutherland
+118,subject,Sutherland
+531,subject,Sutherland
+265,subject,Sutherland
+292,source,Sutherland is interesting
+008,source,Sutherland's gaze is directed at the window
+547,type,Statement
+122,has Predicate,say
+008,type,Situation
+113,what,123
+422,has Predicate,move
+322,what,323
+388,has Predicate,write
+149,after,150
+characteristics_of_the_type,label,characteristics of the type
+386,source,Letter 1 is sent to a company in Central City
+478,what,With Sutherland
+355,subject,Hozma
+444,what,447
+187,what,194
+428,source,Holmes said the following
+249,what,250
+120,subject,Windy bank
+124,source,Windy Bank says
+155,source,Sutherland said the following
+575,info Source,Holmes
+police,type,Person
+233,type,Statement
+wedding,type,PhysicalObject
+448,type,Statement
+528,source,Windy Bank hints at
+371,subject,Holmes
+492,source,The above does not continue
+085,what,Sutherland s story
+475,why,money
+105,from,yield
+window,label,window
+067,subject,Windy bank
+327,has Predicate,focus
+504,source,Windy Bank is Hozma
+together,type,Object
+footsteps,label,footsteps
+561,info Source,Holmes
+094,subject,Holmes
+252,type,Thought
+145,type,Statement
+309,has Predicate,attached
+362,source,Hozma has colored glasses
+374,what,letter
+492,info Source,Holmes
+538,info Source,Holmes
+243,time,1891-08-28 00:00:00
+195,what,Tonsillitis
+170,subject,Hozma
+102,has Predicate,not Rely On
+498,type,Statement
+219,info Source,Sutherland
+495,info Source,Holmes
+557,subject,Windy bank
+503,subject,Sutherland
+229,where,Horse carriage
+563,source,Windy Bank and Hozuma do not appear together
+092,has Property,2500 pounds
+365,has Property,black best
+542,subject,Windy bank
+481,source,Sutherland is funny
+509,has Predicate,rob
+288,what,Class
+132,has Predicate,go
+337,subject,Sutherland
+422,subject,Sutherland
+040,type,Statement
+041,type,Situation
+386,has Predicate,send
+240,has Predicate,not Show
+086,subject,Sutherland
+the_words_of_ Holmes,type,OFobj
+527,type,Statement
+318,has Property,relaxed
+314,source,Watson has not seen Sutherland shoes
+051,info Source,Holmes
+309,what,Small black ball ornament
+314,subject,Watson
+439,what,14 features
+291,has Predicate,say
+348,what,351
+510,what,528
+509,type,Statement
+445,info Source,Holmes
+307,has Property,black
+233,info Source,Sutherland
+267,type,Statement
+277,subject,Sutherland
+439,source,Windy Bank's letter has 14 features
+576,source,The company said the following
+491,type,Statement
+444,what,445
+573,type,Statement
+438,has Predicate,missing
+065,has Property,nausea
+569,has Predicate,know
+486,type,Statement
+155,what,156
+550,what,door
+141,type,Statement
+348,type,Situation
+510,subject,Holmes
+134,type,Statement
+474,info Source,Holmes
+143,source,Woman is free
+552,what,sin
+439,info Source,Holmes
+419,source,Windy Bank does not want
+424,source,Holmes is not a police officer
+145,where,Ball
+243,whom,Sutherland
+283,info Source,Holmes
+329,what,Man s trousers knee
+255,info Source,Sutherland
+373,what,signature
+334,source,The double wire on the wrist is the mark of a manual sewing machine
+099,has Property,enough
+525,source,For the time being
+499,type,Statement
+409,where,Horizontal shelf
+188,source,Hozma is shy
+187,has Predicate,say
+539,source,Windy Bank stood out of the chair
+017,type,Statement
+007,source,Sutherland stands
+088,info Source,Sutherland
+306,source,A red-brick feather was on a blackboard-colored straw hat
+148,subject,Sutherland
+270,info Source,Holmes
+147,subject,Sutherland
+339,info Source,Holmes
+112,source,Sutherland pinches the sleeves of the jacket
+312,what,gloves
+182,what,184
+146,subject,Hozma
+197,has Predicate,have
+415,source,Windy Bank worried about being late
+100_pounds,type,PhysicalObject
+418,source,Sutherland bothers Holmes
+187,what,216
+159,when,After a week
+127,type,Situation
+496,subject,Windy bank
+418,what,Holmes
+042,info Source,Holmes
+318,subject,Sutherland
+337,source,Sutherland has a trace of nose glasses
+022,what,025
+131,subject,Sutherland
+102,source,Sutherland does not rely on parents
+245,type,Statement
+354,what,366
+369,type,Statement
+213,subject,Hozma
+071,info Source,Sutherland
+334,has Property,mark of a manual sewing machine
+159,has Predicate,go
+354,what,362
+339,what,Sutherland
+524,when,Forever
+120,info Source,Sutherland
+266,what,270
+390,source,Watson dedicated to the treatment of critically ill patients
+515,what,With Sutherland
+508,has Predicate,not Think
+258,subject,Sutherland
+575,subject,Type features
+086,has Predicate,say
+483,type,Statement
+085,has Predicate,focus
+507,source,Sutherland loves Windy Bank
+561,what,Hozma s behavior
+239,type,Statement
+133,info Source,Sutherland
+549,subject,law
+521,source,Windy Bank needs:
+144,what,148
+354,what,357
+259,type,Situation
+road,type,PhysicalObject
+426,source,Windy Bank thinks the following
+040,when,Typing
+262,info Source,Sutherland
+440,what,441
+479,info Source,Holmes
+434,source,Holmes said the following
+291,source,Holmes said the following
+411,source,Windy Bank sat in a chair
+169,source,Sutherland does not know the industry of Hozma
+273,subject,Sutherland
+299,what,300
+102,what,parents
+390,subject,Watson
+455,what,456
+269,type,Statement
+076,info Source,Sutherland
+036,source,Holmes shuts the door
+262,subject,Hozma
+491,info Source,Holmes
+096,what,100 pounds
+509,source,Windy Bank robs Sutherland
+172,type,Statement
+284,info Source,Holmes
+355,info Source,Watson s remarks
+187,what,207
+476,subject,Windy bank
+444,what,448
+311,on,With the neck of clothes
+131,has Predicate,wear
+meaning_of_the_words_of_ Holmes,of Whole,Holmes
+165,subject,Sutherland
+423,has Predicate,rejoice
+011,subject,Sutherland
+mother,type,PhysicalObject
+060,type,Statement
+223,type,Statement
+141,subject,Windy bank
+367,subject,Hozma
+378,what,Pledge
+more_than_ Sutherland,label,more than Sutherland
+232,where,Horse carriage
+555,type,Statement
+139,has Predicate,happy
+459,what,door
+157,source,Women want a home
+130,what,132
+052,what,073
+319,type,Statement
+187,what,213
+041,what,043
+563,subject,Windy bank
+322,has Predicate,say
+482,what,Love
+110,what,relationship between Sutherland and Hosma
+537,has Predicate,disappear
+482,subject,Sutherland
+470,has Predicate,say
+039,type,Situation
+330,what,Plush weave
+022,what,024
+335,what,Left wrist double line
+127,what,128
+532,info Source,Holmes
+482,has Predicate,have
+052,what,074
+353,what,357
+194,what,Hozma s voice
+510,what,538
+284,source,Sutherland forgets Hozma's disappearance
+115,type,Statement
+394,where,Armchair
+271,has Predicate,want
+350,info Source,Holmes
+510,what,519
+443,type,Statement
+155,what,157
+064,type,Statement
+571,type,Statement
+430,subject,Windy bank
+482,type,Statement
+527,whom,Sutherland
+margin,type,PhysicalObject
+547,has Property,closed
+037,source,Holmes recommends an armchair
+240,info Source,Sutherland
+033,subject,Service Boy
+475,what,Sutherland s mother
+391,source,At six o'clock
+210,type,Situation
+580,type,Statement
+257,subject,Sutherland s mother
+147,info Source,Sutherland
+450,what,14 features
+335,has Property,mark of a manual sewing machine
+1_day,label,1 day
+444,has Predicate,say
+135,what,137
+gloves,label,gloves
+064,source,Sutherland is angry
+413,has Property,letter from Windy Bank
+058,has Property,typist
+171,type,Statement
+058,info Source,Sutherland
+value,type,PhysicalObject
+376,info Source,Holmes
+098,what,margin
+479,type,Statement
+473,source,Holmes is sorry
+260,type,Statement
+159,info Source,Sutherland
+557,has Predicate,escape
+434,what,439
+169,type,Statement
+146,type,Statement
+501,subject,disguise
+214,type,Statement
+429,what,Hozma
+408,has Predicate,see
+048,source,Holmes already knows Sutherland
+207,subject,Sutherland
+288,has Predicate,feel
+176,type,Statement
+020,type,Statement
+109,what,Up to 20 sheets
+245,source,Sutherland swore the above
+522,has Predicate,break Up
+019,has Predicate,want
+228,source,Hozma put Sutherland's mother and Sutherland's mother on a Hansom carriage
+192,has Property,shy
+282,type,Situation
+014,subject,Holmes
+537,source,Windy Bank has disappeared
+letter,label,letter
+350,source,This morning Sutherland wrote a note
+167,whom,Hozma
+569,type,Statement
+276,type,Situation
+002,type,Situation
+054,what,Esaridge s husband
+163,what,166
+113,what,120
+441,type,Statement
+333,type,Statement
+161,subject,Hozma
+276,source,Sutherland gave Hozma a letter to Holmes
+187,what,199
+005,what,hat
+488,info Source,Holmes
+549,info Source,Holmes
+393,subject,Watson
+253,subject,Sutherland
+323,has Predicate,improve
+052,subject,Sutherland
+311,source,A purple plush is attached to the neck and sleeves of the garment
+every_day,type,AbstractTime
+370,what,letter
+449,type,Statement
+434,what,436
+265,source,Sutherland cried
+302,has Predicate,talk
+277,has Predicate,say
+213,source,Sutherland's mother and Hozma said
+540,source,Windy Bank laughed
+100,what,108
+484,has Predicate,have
+meaning_of_the_words_of_ Holmes,type,OFobj
+461,type,Statement
+200,has Predicate,bad
+089,where,Auckland
+221,source,Windy Bank left for England just before the letter arrived
+017,info Source,Holmes
+231,type,Statement
+424,subject,Holmes
+432,what,433
+445,source,Holmes is writing a dissertation (below)
+244,whom,Hozma
+549,type,Statement
+022,subject,Holmes
+075,source,Sutherland's mother continued with Hardy
+nobody,label,nobody
+436,info Source,Holmes
+538,source,Windy Bank came out of the opposite door
+097,what,Earning
+521,type,Statement
+514,why,praise of Sutherland s mother
+332,type,Statement
+020,what,021
+228,has Predicate,put On
+566,therefore,568
+461,subject,Holmes
+237,where,Horse carriage
+510,what,516
+568,what,To the handwriting of Windy Bank
+402,subject,Windy bank
+039,subject,Holmes
+142,source,Windy Bank said
+respect,type,PhysicalObject
+365,info Source,Watson s remarks
+176,subject,Sutherland s letter
+187,what,230
+138,subject,Sutherland
+562,type,Statement
+256,type,Statement
+nobody,type,PhysicalObject
+052,what,079
+116,to,Ball
+310,has Property,brown
+098,has Predicate,have
+311,what,Purple plush
+385,subject,Holmes
+195,has Predicate,suffer From
+309,source,A small black beaded ornament is attached to the hem border edge
+465,what,466
+178,whom,Coworker
+558,what,562
+118,subject,Sutherland s mother
+475,info Source,Holmes
+278,has Property,Camberwell
+cheek_brow,type,PhysicalObject
+155,what,160
+081,source,Sutherland's father thinks of
+511,has Predicate,love
+371,what,373
+495,source,Sutherland wants to go to a ball
+540,type,Situation
+525,subject,Sutherland
+445,what,paper
+412,type,Situation
+296,has Predicate,say
+052,has Predicate,say
+189,subject,Hozma
+381,what,388
+294,info Source,Holmes
+293,has Predicate,know
+205,whom,Sutherland
+161,whom,Sutherland
+075,type,Statement
+255,type,Statement
+472,what,479
+522,subject,Windy bank
+311,has Predicate,attached
+187,what,231
+119,info Source,Sutherland
+349,subject,Sutherland
+332,source,Plush weave is an expensive fabric
+298,source,Watson can not read Sutherland
+049,what,051
+511,source,Sutherland loved Hozma
+159,where,France
+451,subject,Windy bank
+342,subject,Holmes
+454,what,Time wasted
+023,subject,Woman
+299,what,301
+120,what,121
+316,type,Statement
+praise_of_ Sutherland_s_mother,type,OFobj
+097,type,Thought
+448,info Source,Holmes
+446,what,Crime and
+372,source,Signature is written in type
+167,type,Statement
+045,subject,Sutherland
+270,source,Sutherland can not see Hozma
+187,what,241
+400,has Predicate,come
+231,source,Sutherland and Sutherland's mother arrived at the church before Hozma
+133,source,Sutherland and her mother and Hardy went to the ball
+067,type,Statement
+187,what,206
+493,type,Statement
+556,has Predicate,get Close
+money,type,PhysicalObject
+450,type,Statement
+032,type,Situation
+360,info Source,Watson s remarks
+285,source,Sutherland said the following
+001,source,Holmes stood out of a chair
+241,has Predicate,not Know
+hat,label,hat
+316,has Property,rich
+256,info Source,Sutherland
+031,what,Room door
+491,has Predicate,prohibit
+456,subject,Holmes
+heritage,label,heritage
+543,has Predicate,not Brake
+304,what,308
+410,whom,Holmes
+406,source,Windy Bank's behavior is calm
+321,source,Holmes laughed
+202,subject,Hozma
+151,source,Windy Bank dislikes
+348,has Predicate,notice
+527,subject,Windy bank
+062,source,Sutherland hands over to Holmes
+275,what,Inquirer advertisement
+137,has Predicate,go Out
+007,type,Situation
+309,on,At the edge of the hem
+022,what,027
+355,has Predicate,disappear
+505,has Predicate,chase Away
+353,what,370
+519,to,others
+541,what,545
+289,from,Holmes
+259,has Predicate,say
+187,what,234
+285,what,287
+524,subject,Sutherland s heart
+268,type,Statement
+288,what,respect
+141,source,Windy Bank laughed
+527,has Predicate,swear
+573,source,Holmes sent a letter to Windy Bank
+120,has Predicate,go Crazy
+417,what,418
+088,what,Sutherland s uncle
+467,has Predicate,sit
+343,what,Sutherland s left and right shoes
+typewriter,label,typewriter
+435,how,Like a handwriting
+223,source,Wedding will be on friday
+374,info Source,Holmes
+232,subject,Hozma
+186,what,Important of the minor
+386,what,Letter 1
+066,where,police
+155,has Predicate,say
+036,subject,Holmes
+446,what,Typewriter
+263,info Source,Sutherland
+028,has Predicate,puzzled
+163,what,164
+472,what,485
+261,what,262
+yield,type,PhysicalObject
+327,how,In detail
+353,what,355
+530,what,531
+571,where,Company
+496,source,Windy Bank gets the help of Sutherland's mother
+346,what,Left and right separate shoes
+pavement,label,pavement
+282,source,Holmes said the following
+153,has Predicate,think
+dark_blue,label,dark blue
+297,subject,Sutherland
+015,has Predicate,say
+357,has Property,good
+448,what,e
+577,source,The document is Windy Bank
+388,info Source,Holmes
+580,subject,Holmes
+021,source,Sutherland wants to consult people
+559,info Source,Holmes
+r,type,PhysicalObject
+548,has Predicate,say
+chair,type,PhysicalObject
+540,has Predicate,laugh
+339,what,Near sight
+043,subject,Sutherland
+416,type,Statement
+133,subject,Sutherland
+204,subject,Hozma
+170,info Source,Sutherland
+564,info Source,Holmes
+354,what,358
+characteristics,label,characteristics
+116,subject,Sutherland s mother
+562,source,Windy Bank Gets Money
+510,what,512
+460,subject,Holmes
+121,type,Statement
+472,what,503
+037,what,Armchair
+414,what,424
+360,has Predicate,exist
+characteristics_of_the_type,type,PhysicalObject
+427,type,Situation
+557,how,At full speed
+068,subject,Windy bank
+038,source,Holmes looks over Sutherland
+221,has Predicate,reach
+bell,type,PhysicalObject
+217,info Source,Sutherland
+568,source,Sutherland notices Windybank handwriting
+187,what,245
+317,subject,Sutherland
+453,type,Situation
+132,subject,Windy bank
+043,type,Statement
+275,whom,Holmes
+274,source,Last Saturday
+173,to,Redon Hall Street Post Office
+068,source,Windy Bank is Sutherland's father-in-law
+067,info Source,Sutherland
+149,type,Statement
+257,has Predicate,say
+235,type,Statement
+359,what,Hozma s Hair
+525,what,others
+311,type,Statement
+321,has Predicate,laugh
+527,info Source,Holmes
+103,info Source,Sutherland
+001,from,Chair
+277,what,281
+499,what,Whistle cheek brow
+083,subject,Watson
+405,has Predicate,bad
+224,then,226
+264,subject,Sutherland
+180,has Predicate,feel
+114,where,Gas Industry Association Ball
+562,subject,Windy bank
+453,subject,Windy bank
+truth,label,truth
+33-1,type,Situation
+493,has Predicate,rebel
+417,has Predicate,apologize
+others,type,PhysicalObject
+543,what,law
+104,what,money
+139,type,Thought
+076,source,Hardy is the head of the scene
+198,how,As whisper
+387,has Predicate,send
+304,what,309
+417,source,Windy Bank apologizes for
+495,type,Statement
+205,type,Statement
+323,subject,Watson
+057,when,one year
+144,what,146
+244,info Source,Sutherland
+334,what,Wrist double wire
+258,type,Statement
+203,type,Thought
+235,info Source,Sutherland
+117,subject,Windy bank
+108,info Source,Sutherland
+563,subject,Hozma
+552,type,Statement
+232,type,Statement
+120,type,Statement
+288,whom,Sutherland
+115,what,Gas Engineering Union Ball Invitation
+206,has Predicate,swear
+319,source,Sutherland is a town girl
+128,info Source,Windybank s remarks
+165,type,Statement
+116,type,Statement
+033,type,Situation
+439,has Predicate,have
+106,source,Windy Bank passes to Sutherland's mother
+490,type,Statement
+303,type,Statement
+038,type,Situation
+508,type,Situation
+478,source,Windy Bank lives with Sutherland
+309,type,Statement
+325,has Predicate,correct
+183,subject,Hozma
+521,what,522
+075,subject,Sutherland s mother
+368,type,Statement
+044,source,Sutherland notices the meaning of the words of Holmes
+044,has Predicate,notice
+568,has Predicate,notice
+272,subject,Holmes
+163,what,173
+414,what,422
+563,has Predicate,not Appear
+419,subject,Windy bank
+pavement,type,PhysicalObject
+003,where,Between the windowed seams
+409,type,Situation
+494,source,Sutherland claims rights
+249,subject,Sutherland
+273,has Predicate,say
+566,what,Windy bank handwriting
+560,has Predicate,go
+346,has Predicate,wearing
+488,subject,Windy bank
+378,source,Signature repeals vow
+350,subject,Sutherland
+281,subject,West House&Marbank
+354,what,367
+388,subject,Holmes
+353,what,365
+113,source,Sutherland said the following
+387,to,Windy bank
+528,has Predicate,imply
+301,info Source,Holmes
+554,what,555
+055,info Source,Sutherland
+366,info Source,Watson s remarks
+539,from,Chair
+326,info Source,Holmes
+522,what,With Sutherland
+468,source,Windy Bank's face seemed dead
+513,has Predicate,exist
+521,subject,Windy bank
+029,source,The woman is in distress
+221,subject,Windy bank
+331,source,The plush weave marks
+304,source,Watson said the following
+389,time,1891-09-02 18:00:00
+163,what,171
+131,source,Sutherland wore purple plush
+304,what,312
+460,source,Holmes said the following
+099,subject,Single women
+296,source,Watson said the following
+433,subject,Holmes
+052,what,071
+133,where,Dance
+003,subject,Holmes
+372,has Predicate,be Written
+308,type,Statement
+103,has Predicate,keep
+381,has Predicate,say
+young,label,young
+006,what,Red feather
+105,subject,Windy bank
+193,subject,Hozma
+019,type,Statement
+door,label,door
+261,what,264
+243,source,Last Friday morning
+206,what,Less than
+051,subject,Holmes
+086,what,091
+512,what,513
+342,what,343
+555,has Predicate,want To Try
+452,source,Windy Bank grabbed a hat
+041,source,Sutherland said the following
+074,source,Sutherland's father left a store
+149,where,Windy bank s House
+531,info Source,Holmes
+203,subject,Hozma
+241,source,Sutherland does not know where Hozma is
+081,info Source,Sutherland
+124,what,125
+more_than_ Sutherland,type,PhysicalObject
+259,source,Windy Bank said
+429,info Source,Holmes
+476,has Predicate,can Be Used
+134,source,Sutherland met Hozma at the ball
+079,source,Sutherland's father';s store sold for ｡・4700
+516,subject,Windy bank
+094,what,096
+231,where,Church
+Holmes,label,Holmes
+256,what,Hozma s disappearance
+126,where,Dance
+252,what,244
+250,type,Thought
+305,has Predicate,wearing
+510,what,520
+015,what,016
+353,type,Situation
+218,to,Windy bank
+374,type,Statement
+141,info Source,Sutherland
+126,source,Sutherland's father's friend participates in a ball
+049,what,050
+the_type,label,the type
+474,has Predicate,meet
+police,type,PhysicalObject
+170,where,Office of Redon Hall Street
+105,has Predicate,pull Out
+472,what,498
+185,what,186
+271,subject,Holmes
+088,type,Statement
+267,source,Holmes examines Hozma's disappearance
+155,what,159
+197,what,Weak throat
+455,whom,Holmes
+052,what,062
+478,info Source,Holmes
+262,type,Statement
+157,type,Statement
+504,has Property,Hozma Eingel
+328,what,Woman s sleeve
+472,what,491
+098,info Source,Holmes
+054,type,Statement
+036,what,door
+510,what,526
+115,subject,Sutherland s father
+498,info Source,Holmes
+224,has Predicate,do
+287,type,Statement
+525,type,Statement
+280,source,Hozma is a foreign company in West House &amp; Marbank
+090,type,Statement
+187,what,200
+349,source,This morning
+382,info Source,Holmes
+017,source,Women are thrilled at the pavement
+562,what,Money
+054,how,simply
+069,subject,Windy bank
+096,when,one year
+518,what,With Sutherland
+283,subject,Sutherland
+092,what,Face value of heritage
+303,source,Shoe laces lead to major problems
+470,subject,Windy bank
+427,subject,Holmes
+397,source,Holmes can not catch the villain
+404,type,Situation
+425,source,Windy Bank wants to avoid unnecessary expenses
+496,info Source,Holmes
+558,what,566
+253,what,255
+152,where,Sutherland s House
+182,has Predicate,say
+571,subject,Holmes
+108,has Predicate,obtain
+331,info Source,Holmes
+359,info Source,Watson s remarks
+412,source,Holmes said the following
+144,source,Sutherland said the following
+149,has Predicate,return
+113,subject,Sutherland
+198,type,Statement
+531,whom,Hozma
+440,has Predicate,say
+086,what,089
+453,source,Windy Bank said
+542,what,truth
+290,source,Sutherland will come to Holmes when called
+186,info Source,Holmes
+394,type,Situation
+106,has Predicate,hand Over
+053,has Predicate,Hear
+550,source,Holmes opened the door
+381,subject,Holmes
+398,where,Corridor
+267,info Source,Holmes
+574,source,The reply was a typing
+396,info Source,Holmes
+560,subject,Windy bank
+315,type,Statement
+217,subject,Windy bank
+370,how,typewritter
+276,what,Hosma s letter
+467,type,Situation
+158,what,home
+109,subject,Sutherland
+378,380,type
+069,info Source,Sutherland
+444,type,Situation
+042,subject,Near sight
+303,info Source,Holmes
+082,subject,4700 pounds
+167,when,First walk
+463,type,Situation
+180,subject,Sutherland
+388,what,In letter 2
+187,what,208
+089,subject,Ned
+14th_Monday,label,14th Monday
+013,source,Sutherland crosses the way
+113,what,122
+praise_of_ Sutherland_s_mother,of Whole,Sutherland's mother
+171,has Predicate,know
+124,has Predicate,say
+518,source,Windy Bank gets engaged with Sutherland
+077,info Source,Sutherland
+026,subject,Interpretation
+578,subject,Sutherland
+234,has Predicate,not Exist
+166,info Source,Sutherland
+553,subject,Sutherland s brothers best friend
+365,what,At the time of disappearance
+052,what,055
+473,has Property,pity
+304,what,310
+481,subject,Sutherland
+438,where,Windy Bank Letter
+263,source,Hozma does not want Sutherland's money
+358,info Source,Watson s remarks
+004,subject,Sutherland
+010,source,Sutherland moves back and forth
+462,whom,Holmes
+172,where,Redon Hall Street
+186,source,The importance of minor matters is infinite
+077,has Predicate,sell
+076,type,Statement
+530,info Source,Holmes
+361,info Source,Watson s remarks
+501,because,503
+096,type,Thought
+094,type,Situation
+345,source,Sutherland's appearance is tight
+154,subject,Woman
+114,source,Sutherland Meets Hozma at the Gas Industry Association Ball
+210,subject,Hozma
+172,has Predicate,exist
+049,subject,Holmes
+200,what,Eyes of hozma
+513,type,Thought
+186,type,Statement
+016,source,The present movement has been before
+573,subject,Holmes
+187,what,226
+231,when,Beyond Hozma
+characters,label,characters
+203,info Source,Hozma s thoughts
+176,to,Office
+dark_blue,type,Object
+566,info Source,Holmes
+532,type,Statement
+typewritter,label,typewritter
+486,info Source,Holmes
+471,subject,Holmes
+255,what,Hozma lost
+156,source,Sutherland told her mother
+301,type,Statement
+281,type,Statement
+33-1,source,A boy at the service uniform tells Sutherland
+164,info Source,Sutherland
+266,what,269
+209,subject,Sutherland s mother
+322,what,333
+219,has Predicate,come Back
+newspaper,type,PhysicalObject
+073,has Property,plumbing business
+200,source,Hozma's eyes are bad
+544,source,Windy Bank can sue Holmes for beating threat and illegal detention
+152,type,Statement
+341,subject,Watson
+335,source,The double line on the left wrist is the mark of a manual sewing machine
+354,what,361
+468,has Property,seem
+394,has Predicate,sleeping
+066,has Predicate,unwilling To Go
+520,what,Sutherland
+294,type,Statement
+220,type,Statement
+027,type,Statement
+267,subject,Holmes
+137,type,Thought
+314,has Predicate,not See
+030,how,Immediately
+230,info Source,Sutherland
+388,type,Statement
+544,when,547
+182,subject,Sutherland
+026,has Property,romance
+481,info Source,Holmes
+019,info Source,Holmes
+565,info Source,Holmes
+353,what,354
+304,what,307
+107,has Property,enough
+157,subject,Woman
+068,type,Statement
+455,source,Windy Bank asks Holmes:
+391,to,Holmes
+304,what,315
+472,source,Holmes said the following
+360,type,Statement
+160,type,Statement
+248,type,Statement
+173,source,Sutherland sent a letter to Redon Hall Street Post Office
+512,subject,Sutherland
+214,what,Windy bank
+349,when,this morning
+216,what,To Windy Bank
+living_with_my_parents,type,AbstractTime
+469,type,Situation
+512,has Predicate,thinking
+472,what,495
+the_words,type,Object
+441,has Predicate,have
+493,source,Sutherland defy Windybank
+300,has Predicate,overlook
+337,therefore,339
+560,source,Finally
+money,label,money
+468,subject,Windy bank face
+155,type,Situation
+140,subject,Sutherland
+107,source,Sutherland earns enough for Sutherland
+187,what,217
+330,on,In the cuffs of Sutherland
+258,info Source,39 s remark
+436,source,In the Windybank letter
+541,what,547
+505,from,Sutherland
+569,what,Windy Bank company
+553,has Predicate,punish
+284,subject,Sutherland
+053,subject,Sutherland
+131,info Source,Sutherland
+148,type,Statement
+350,when,this morning
+352,info Source,Holmes
+245,has Predicate,swear
+266,what,272
+426,type,Situation
+160,subject,Hozma
+396,has Predicate,not Have
+455,has Predicate,ask
+417,subject,Windy bank
+028,type,Statement
+007,subject,Sutherland
+187,what,244
+364,has Property,black frock coat
+082,source,4700 pounds is small
+470,what,471
+510,source,Holmes said the following
+052,what,057
+150,type,Statement
+202,has Predicate,say
+the_words_of_ Holmes,label,the words of Holmes
+326,has Property,aim
+468,what,dead
+151,info Source,Sutherland
+386,type,Statement
+070,info Source,Sutherland
+420,where,Holmes
+305,what,Blackboard colored straw hat with straw hat
+072,type,Statement
+080,what,081
+535,what,Sutherland
+558,what,571
+390,whom,Treatment of serious patients
+484,therefore,486
+200,info Source,Sutherland
+028,subject,Woman
+388,what,389
+494,type,Statement
+235,has Predicate,not Understand
+394,subject,Holmes
+322,what,331
+272,has Predicate,want
+266,type,Situation
+275,subject,Sutherland
+020,info Source,Holmes
+463,has Property,blue
+360,source,There is a small boat on the top of Hozma's head
+510,what,534
+240,source,Hozma does not show up
+408,source,Windy Bank saw Holmes and Watson
+278,subject,Sutherland Address
+544,what,Holmes
+261,what,263
+211,subject,Hozma
+187,what,235
+meaning_of_the_words_of_ Holmes,of Whole,the words
+369,source,The letter has a quote from Balzac
+466,info Source,Holmes
+304,has Predicate,say
+221,type,Statement
+021,subject,Sutherland
+444,subject,Holmes
+311,on,On the sleeve
+382,what,378
+524,has Predicate,Engrave
+525,has Predicate,not Love
+075,has Predicate,continuing
+026,source,Interpretation is color love Saya
+321,subject,Holmes
+136,info Source,Holmes
+last_year,type,AbstractTime
+353,source,Watson said the following
+typewritter,type,Object
+171,info Source,Sutherland
+414,type,Situation
+117,source,Windy Bank does not know
+face,type,PhysicalObject
+122,what,Ball participation
+young,type,AbstractTime
+351,has Predicate,have
+296,what,298
+097,info Source,Holmes
+166,has Predicate,not Know
+544,type,Statement
+569,subject,Holmes
+364,info Source,Watson s remarks
+088,has Property,equal To
+146,after,147
+535,info Source,Holmes
+234,info Source,Sutherland
+229,type,Statement
+028,info Source,Holmes
+456,when,458
+073,subject,Sutherland s father
+510,what,523
+164,subject,Sutherland
+080,subject,Sutherland
+006,subject,Sutherland
+027,has Property,not Angry
+208,has Predicate,agree
+242,info Source,Sutherland
+513,where,France
+331,what,Trace
+488,what,100 pounds
+180,type,Statement
+323,info Source,Holmes
+381,what,385
+173,has Predicate,send
+140,what,141
+367,type,Statement
+387,what,Letter 2
+544,subject,Windy bank
+134,subject,Sutherland
+084,subject,Holmes
+every_day,label,every day
+134,info Source,Sutherland
+069,source,Windy Bank is 5 years and 2 months older than Sutherland
+435,info Source,Holmes
+232,has Predicate,not Exist
+301,what,sleeve
+105,what,one quarter
+332,what,Plush weave
+396,what,Incident
+378,has Predicate,deny
+350,has Predicate,write
+030,type,Statement
+023,what,Terrible things
+423,subject,Windy bank
+515,how,Many times
+414,subject,Windy bank
+436,and,438
+071,subject,Sutherland s mother
+219,type,Statement
+467,source,Windy Bank sat in a chair
+343,has Property,different
+163,what,167
+216,type,Statement
+109,has Predicate,process
+045,source,Sutherland was surprised
+037,subject,Holmes
+date,label,date
+354,type,Statement
+570,has Predicate,remove
+226,what,breakfast
+084,has Property,irritated
+432,source,Windy Bank was pleased with
+characteristics_of_the_type,of Part,characteristics
+331,what,Plush weave
+353,what,358
+018,info Source,Holmes
+211,source,Hozma will marry Sutherland this week
+158,info Source,Sutherland
+247,subject,Sutherland
+402,type,Situation
+508,what,509
+503,has Property,close eye
+160,what,161
+209,source,Sutherland's mother loved Hozma more than Sutherland
+146,where,Sutherland House
+445,subject,Holmes
+328,subject,Holmes
+455,subject,Windy bank
+174,has Predicate,say
+326,source,Watson looks at the color
+123,type,Statement
+353,what,360
+530,subject,Windy bank
+476,type,Statement
+284,what,Hozma lost
+511,info Source,Holmes
+006,has Predicate,wear
+352,type,Statement
+227,info Source,Sutherland
+267,what,Hozma lost
+552,info Source,Holmes
+193,has Property,gentlemanly
+030,info Source,Holmes
+187,what,197
+156,subject,Sutherland
+018,has Predicate,is Romance
+276,whom,Holmes
+197,info Source,Sutherland
+117,info Source,Sutherland
+226,where,Saint St Pancras Hotel
+400,info Source,Holmes
+097,subject,Sutherland
+424,info Source,Remarks by Windybank
+239,what,letter
+316,info Source,Watson s remarks
+381,what,383
+151,subject,Windy bank
+012,subject,Sutherland
+363,info Source,Watson s remarks
+185,what,Inscription
+370,has Predicate,be Written
+249,has Predicate,think
+031,type,Situation
+482,source,Sutherland has emotions and compassion
+237,type,Statement
+062,has Predicate,hand Over
+423,source,Windy Bank is pleased to
+475,has Predicate,get Married
+472,what,475
+413,type,Statement
+135,source,Holmes thought the following
+208,source,Sutherland's mother agreed with the above
+204,info Source,Sutherland
+paper,type,PhysicalObject
+208,type,Statement
+182,type,Situation
+one_year,type,AbstractTime
+260,has Predicate,contact
+166,what,letter
+383,what,Hozma lost
+278,type,Statement
+248,when,Current
+520,info Source,Holmes
+047,type,Situation
+472,what,480
+167,has Predicate,get Engaged
+528,what,529
+528,info Source,Holmes
+053,source,Sutherland heard Holmes from Esaridge
+216,when,Before the wedding
+reply,type,PhysicalObject
+174,what,180
+452,type,Situation
+305,subject,Sutherland
+103,whom,parent
+295,has Predicate,get Up
+111,type,Situation
+434,what,438
+mother,label,mother
+569,source,Holmes knows the company of Windy Bank
+490,from,House
+409,subject,Windy bank
+075,whom,Hardy
+135,what,136
+165,what,letter
+065,source,Windy Bank is naive
+020,has Predicate,be Worried
+201,source,Hozma has colored glasses
+494,has Predicate,insist
+368,info Source,Watson s remarks
+497,info Source,Holmes
+472,what,496
+001,type,Situation
+368,has Predicate,not Have
+094,what,098
+363,what,How to speak hozma
+092,type,Statement
+sleeve,type,PhysicalObject
+520,has Predicate,cannot Lose Weight
+183,type,Statement
+563,how,together
+241,what,Whereabouts of Hozma
+220,info Source,Sutherland
+140,has Predicate,say
+519,subject,Sutherland s love
+someone_of_ Company,of Part,someone
+494,what,right
+019,subject,Sutherland
+154,info Source,Windy Bank s Thoughts
+054,source,Holmes easily found Heraridge's husband
+086,what,090
+412,has Predicate,say
+124,subject,Windy bank
+108,subject,Sutherland
+352,what,Violet ink
+062,type,Statement
+322,what,328
+557,source,Windy Bank ran away at full speed
+189,type,Statement
+370,source,The letter is written in type
+573,whom,Windy bank
+052,what,076
+322,what,336
+045,type,Situation
+527,how,In the bible
+370,type,Statement
+characteristics,type,Object
+319,subject,Sutherland
+032,source,A boy in charge of service came in
+280,type,Statement
+woman,type,PhysicalObject
+003,type,Situation
+486,has Predicate,get Married
+237,then,239
+187,what,189
+349,info Source,Holmes
+174,subject,Hozma
+270,type,Statement
+121,info Source,Sutherland
+512,type,Statement
+387,source,Letter 2 sent to Windy Bank
+351,what,Sutherland gloves
+496,what,Sutherland s mother s help
+413,info Source,Holmes
+488,type,Statement
+433,has Predicate,find
+068,has Property,equal To
+273,source,Sutherland said the following
+510,what,536
+580,has Predicate,tell
+558,what,559
+474,source,Holmes first met a cruel and selfish treat
+458,source,Holmes catches Hozma
+472,has Predicate,say
+354,what,Inquirer advertisement
+208,whom,207
+495,has Predicate,want To Go
+063,from,Sutherland s House
+326,subject,Watson
+143,subject,woman
+535,subject,Windy bank
+518,has Predicate,get Engaged
+127,source,Windy Bank said
+169,has Predicate,not Know
+231,info Source,Sutherland
+462,has Predicate,ask
+praise_of_ Sutherland_s_mother,of Part,praise
+377,has Predicate,say
+127,subject,Windy bank
+156,has Predicate,say
+112,has Predicate,hold
+456,whom,Windy bank
+381,what,382
+268,what,Hozma lost
+558,what,570
+167,subject,Sutherland
+224,info Source,Sutherland
+146,source,Hozma visits Sutherland's house the day after the ball
+173,type,Statement
+024,source,Women do not hesitate
+361,has Predicate,have
+121,subject,Sutherland
+336,what,Right wrist double wire
+119,has Predicate,go Out
+376,source,Signature is important
+454,subject,Windy bank
+389,info Source,Holmes
+189,has Property,shy
+492,has Predicate,not Continue
+253,has Predicate,say
+136,source,Windy Bank complained of
+467,on,Chair
+318,source,Sutherland is warm
+052,what,070
+089,source,Ned is in Auckland
+308,info Source,Watson s remarks
+characteristics_of_the_type,type,OFobj
+385,source,Holmes and Watson write two letters
+218,info Source,Sutherland
+142,type,Situation
+187,type,Situation
+394,source,Holmes was sleeping in an armchair
+038,what,Sutherland
+078,type,Statement
+010,subject,Sutherland
+530,source,Windy Bank wanted to
+430,what,gloves
+393,type,Thought
+113,what,126
+110,subject,Holmes
+187,what,212
+042,has Property,hard
+167,info Source,Sutherland
+564,type,Statement
+e,label,e
+home,label,home
+128,type,Statement
+525,when,For the time being
+073,type,Statement
+244,if,247
+074,info Source,Sutherland
+109,source,Sutherland processes up to 20 cards in a day
+034,subject,Sutherland
+372,how,typewriter
+227,type,Statement
+573,info Source,Holmes
+117,has Predicate,not Accept
+401,source,Windy Bank's physique is good
+266,source,Holmes said the following
+174,source,Hozma said the following
+127,has Predicate,say
+337,what,Trace of nose glasses
+306,what,Red brick feather
+429,source,Holmes find Hozma
+260,subject,Hozma
+126,subject,Sutherland s father s friend
+137,subject,Sutherland
+522,info Source,Holmes
+431,has Predicate,drop
+570,source,Holmes removed eyebrows
+052,what,063
+413,source,The type letter is a Windy Bank letter
+580,source,Holmes tell the truth to Sutherland
+524,source,Forever
+229,subject,Hozma
+406,has Property,calm
+161,type,Statement
+465,has Predicate,say
+324,type,Statement
+313,info Source,Watson s remarks
+345,type,Statement
+425,what,Useless spending
+066,source,Windy Bank does not want to go to the police
+431,how,Surprised
+381,what,386
+405,what,Windy bank complexion
+247,has Predicate,leave
+031,source,The door of the room is struck
+451,type,Situation
+510,what,527
+292,has Property,interesting
+500,subject,Windy bank
+152,source,The customer enters the house
+117,what,118
+015,what,017
+381,what,384
+138,what,139
+507,what,Windy bank
+554,has Predicate,say
+558,what,565
+274,time,1891-08-29 00:00:00
+303,what,Shoelaces
+022,what,023
+304,what,319
+447,has Predicate,be Written
+371,what,376
+106,subject,Windy bank
+070,subject,Sutherland s mother
+277,what,280
+500,info Source,Holmes
+070,type,Statement
+459,subject,Holmes
+086,what,092
+551,source,Holmes said the following
+one_quarter,type,PhysicalObject
+005,subject,Sutherland
+196,then,197
+147,has Predicate,meet
+559,subject,Windy bank
+556,subject,Watson
+541,subject,Windy bank
+sleeve,label,sleeve
+245,info Source,Sutherland
+049,has Predicate,say
+329,source,Holmes looks at the knee of a man's pants
+072,has Predicate,get Married Again
+226,type,Statement
+094,what,097
+215,source,Sutherland's mother corresponds to Windy Bank
+510,what,515
+350,what,Note
+323,source,Watson improved
+168,subject,Hozma
+016,when,Before
+183,whom,Sutherland
+279,has Predicate,not Know
+069,has Predicate,5 years 2 months older
+305,source,Sutherland wore a straw hat with a blackboard color
+466,from,Holmes
+239,source,Hozma does not send letters
+223,info Source,Sutherland
+416,subject,Windy bank
+568,type,Statement
+187,what,243
+418,has Predicate,bother
+054,has Predicate,locate
+099,type,Thought
+572,what,characteristics of the type
+049,type,Situation
+525,therefore,526
+516,when,518
+118,has Predicate,go
+242,what,Sutherland
+352,source,Sutherland's finger has violet ink
+241,type,Statement
+323,type,Statement
+304,what,318
+169,subject,Sutherland
+445,has Predicate,writing
+015,what,020
+452,what,hat
+101,what,less than 60 pounds
+207,source,Sutherland believes in Hozma
+353,what,359
+039,has Predicate,say
+236,info Source,Sutherland
+125,has Predicate,not Have
+118,info Source,Sutherland
+179,source,Hozma does not want to receive typing letters
+375,source,The sender's address is Redon Hall Street
+233,where,Under the marsoon
+040,has Property,hard
+021,info Source,Holmes
+512,info Source,Holmes
+288,subject,Watson
+314,what,Sutherland shoes
+205,what,Bible
+459,type,Situation
+269,info Source,Holmes
+453,has Predicate,say
+268,has Predicate,can Solve
+106,info Source,Sutherland
+098,source,Sutherland has room
+113,what,119
+333,source,The double line on the wrist is a trace of the type
+087,type,Statement
+461,source,Holmes caught Hozma
+180,what,Handwritten letter
+040,info Source,Holmes
+537,subject,Windy bank
+363,type,Statement
+060,subject,Holmes
+192,subject,Hozma
+071,has Property,strong
+163,what,170
+518,info Source,Holmes
+407,what,Windy bank gray eyes
+561,has Predicate,have
+230,has Predicate,not Exist
+108,source,Sutherland gets 2 pence with one
+relationship_between_ Sutherland_and_ Hosma,label,relationship between Sutherland and Hosma
+213,has Predicate,say
+287,has Predicate,believe
+008,what,Sazaar s gaze
+065,subject,Windy bank
+198,has Predicate,speak
+352,what,Sutherland s finger
+357,info Source,Watson s remarks
+147,source,Sutherland meets Hozma after the ball
+201,info Source,Sutherland
+551,has Predicate,say
+257,source,Sutherland's mother said to Sutherland:
+387,type,Statement
+praise,label,praise
+235,what,Where is he located?
+464,type,Situation
+576,type,Statement
+242,source,Hozma does not throw away Sutherland
+243,has Predicate,say
+447,how,typewriter
+016,what,The present swing
+558,what,572
+450,source,Hosma's letter has 14 features
+310,what,clothes
+423,info Source,Remarks by Windybank
+508,subject,Windy bank
+552,subject,Windy bank
+021,has Predicate,WantToTalk
+560,when,At last
+187,what,220
+111,source,Sutherland blushes
+015,source,Holmes said the following
+355,source,Hozma disappeared on the morning of the 14th
+241,subject,Sutherland
+293,subject,Holmes
+420,info Source,Windybank s remarks
+252,info Source,Sutherland s thoughts
+308,source,Black beads were attached to the jacket of Sutherland
+389,when,Tommorw s evening 6 o clock
+427,has Predicate,not Found
+282,what,284
+211,info Source,Hozma s statement
+324,what,Important point
+304,what,314
+136,has Property,dissatisfied
+446,has Property,involved
+449,info Source,Holmes
+322,what,324
+403,what,Windy bank year
+201,subject,Hozma
+529,has Predicate,occur
+086,what,093
+151,has Predicate,dislike
+023,has Predicate,encounter
+248,source,Sutherland now understands the language of Hozma
+276,has Predicate,hand Over
+174,what,177
+187,what,219
+550,subject,Holmes
+date,type,PhysicalObject
+389,source,Holmes wants to see Windy Bank at 6 o'clock in the evening
+285,subject,Sutherland
+144,subject,Sutherland
+300,source,Watson overlooks an important point
+161,info Source,Hozma s statement
+103,type,Statement
+163,type,Situation
+510,what,522
+106,type,Statement
+100,what,107
+310,type,Statement
+475,source,Windy Bank married for money with Sutherland's mother
+124,type,Statement
+262,source,Hozma owns his property
+419,info Source,Windybank s remarks
+558,what,561
+554,type,Situation
+164,when,every day
+541,what,543
+433,type,Situation
+377,what,378
+385,what,Two letters
+399,subject,Holmes
+099,what,60 pounds
+438,source,In the Windybank letter
+514,info Source,Holmes
+510,what,517
+534,info Source,Holmes
+dead,label,dead
+027,info Source,Holmes
+223,when,1891-08-28
+148,has Predicate,meeting
+113,what,116
+562,has Predicate,obtain
+336,info Source,Holmes
+33-1,subject,Woman
+433,source,Holmes find Hozma
+325,info Source,Holmes
+250,therefore,252
+074,has Predicate,leave
+192,source,Hozma is shy
+208,info Source,Sutherland
+535,source,Windy Bank carried Sutherland to the church
+260,source,Hozma will contact Sutherland
+010,how,Back and forth
+209,how,more than Sutherland
+469,what,cold sweat
+14th_Monday,type,AbstractTime
+300,type,Statement
+219,what,letter
+490,subject,Windy bank
+406,what,Windy bank
+296,subject,Watson
+553,type,Statement
+443,has Predicate,wear Out
+012,has Predicate,jump Out
+114,what,Hozma
+389,subject,Holmes
+403,has Property,around 30 years old
+436,has Property,blurred
+334,type,Statement
+160,source,Hozma said the following
+197,source,Hozma has a weak throat
+158,subject,Sutherland
+286,type,Statement
+366,has Property,albert chain of gold
+096,info Source,Holmes
+100,what,105
+484,source,Sutherland has money
+293,type,Statement
+178,if,176
+100,what,106
+349,type,Statement
+449,where,Hosma s letter
+33-1,has Predicate,tell
+421,has Predicate,speak
+322,what,326
+one_sheet,type,PhysicalObject
+459,has Predicate,lock
+303,has Predicate,lead
+462,source,Windy Bank asked Holmes where Hozma was
+034,source,Sutherland appears
+333,has Property,trace of the type
+316,subject,Sutherland
+472,what,478
+371,source,Holmes said the following
+171,what,172
+103,type,Situation
+550,type,Situation
+443,info Source,Windybank s remarks
+202,source,Hozma said the following
+493,subject,Sutherland
+187,what,222
+264,source,Sutherland can not sleep
+134,where,Dance
+024,info Source,Holmes
+113,what,121
+270,subject,Sutherland
+289,type,Situation
+77_years,type,Object
+532,because,534
+577,info Source,someone of Company
+097,source,Sutherland makes money
+570,what,glasses
+198,subject,Hozma
+366,source,Dress at the time of disappearance is the Albert chain of gold
+109,when,1 day
+101,source,Sutherland earns less than ｡・60
+064,info Source,Sutherland
+377,subject,Watson
+382,type,Statement
+329,subject,Holmes
+144,what,145
+085,source,Holmes are concentrating on Sutherland's story
+032,has Predicate,come In
+047,what,048
+160,has Predicate,say
+558,what,563
+261,source,Sutherland said the following
+189,info Source,Sutherland
+206,info Source,Sutherland
+348,what,349
+070,source,Sutherland's mother is fine
+566,source,Sutherland knows Windy Bank handwriting
+222,type,Situation
+385,subject,Watson
+233,subject,The Horseman
+461,info Source,Holmes
+199,source,The appearance of Hozma is good
+237,has Predicate,enter
+498,subject,Windy bank
+187,what,229
+293,source,Holmes knows the same case
+380,has Predicate,receive
+397,what,Villain
+563,type,Statement
+079,info Source,Sutherland
+418,info Source,Windybank s remarks
+562,info Source,Holmes
+269,subject,Sutherland
+367,source,In the past
+187,what,214
+217,where,Bordeaux company France office
+414,what,415
+038,subject,Holmes
+476,info Source,Holmes
+004,what,Scarf
+571,has Predicate,check
+218,type,Statement
+169,what,Industries of Hozma
+291,what,292
+331,has Predicate,put On
+360,what,Gavel
+291,subject,Holmes
+295,info Source,Holmes
+400,type,Statement
+052,what,059
+027,source,The woman is not angry
+335,type,Statement
+211,after,215
+194,has Predicate,thin
+324,info Source,Holmes
+247,info Source,Sutherland
+322,what,327
+083,what,084
+326,what,In color
+422,info Source,Windybank s remarks
+100,what,101
+299,has Predicate,say
+130,has Predicate,say
+472,what,500
+123,has Predicate,cannot Stop
+285,has Predicate,say
+294,what,Same incident
+168,has Property,teller of Redon Hall Street office
+072,when,After the death of Sutherland s father
+456,has Predicate,inform
+230,source,There were no other carriages in the street
+490,has Predicate,not Issue
+136,subject,Windy bank
+401,has Property,good
+307,info Source,Watson s remarks
+578,info Source,Holmes
+035,type,Situation
+095,info Source,Holmes
+472,what,501
+230,type,Statement
+274,has Predicate,put Out
+113,has Predicate,say
+356,type,Statement
+383,has Predicate,Solve
+027,subject,Woman
+simply,type,Object
+488,when,1 year
+579,type,Situation
+512,source,Sutherland thinks that
+339,at the same time,341
+there_is_ Windy_ Bank,type,AbstractTime
+280,info Source,Sutherland
+169,info Source,Sutherland
+characters,type,PhysicalObject
+397,has Predicate,cannot Catch
+144,type,Situation
+218,source,Sutherland sent a letter to Windy Bank
+087,info Source,Sutherland
+139,source,Windy Bank is happy
+be_called,type,AbstractTime
+414,what,419
+256,subject,Sutherland s mother
+366,what,At the time of disappearance
+255,has Predicate,tell
+187,what,196
+369,what,Quotation from Balzac
+408,whom,Holmes
+510,what,535
+367,has Predicate,working
+351,source,Sutherland gloves have violet ink
+458,whom,Hozma
+413,what,Typed letter
+193,source,Hozma is a gentleman
+441,therefore,443
+564,what,disguise
+235,source,He does not know where Hozma is
+277,what,279
+421,subject,Sutherland
+446,info Source,Holmes
+391,type,Situation
+025,has Predicate,tear Off
+156,type,Statement
+057,subject,Sutherland
+someone_of_ Company,type,OFobj
+558,subject,Holmes
+274,what,Inquirer advertisement
+553,what,Windy bank
+185,subject,Holmes
+163,has Predicate,say
+135,type,Situation
+082,info Source,Sutherland s Father s Thoughts
+091,has Property,quarter five
+322,what,334
+297,type,Statement
+439,what,Windy Bank Letter
+558,what,574
+339,source,Holmes surprised Sutherland with myopia and type
+one_quarter,label,one quarter
+558,type,Situation
+493,whom,Windy bank
+531,type,Statement
+twice,label,twice
+136,type,Thought
+212,what,Windy bank
+157,what,home
+342,what,346
+572,type,Statement
+115,info Source,Sutherland
+094,what,095
+467,subject,Windy bank
+367,when,past
+088,subject,Ned
+393,whom,Solution
+237,info Source,The speaker s statement
+306,on,Blackboard colored straw hat with straw hat
+407,source,Windybank's gray eyes are sharp
+052,what,077
+483,has Predicate,good
+360,where,Head of Hozma
+194,info Source,Sutherland
+070,has Property,fine
+475,type,Statement
+297,source,Holmes can read Sutherland
+448,source,In Hosma's letter
+060,info Source,Sutherland
+013,what,road
+330,has Predicate,attached
+164,has Predicate,write
+133,subject,Sutherland s mother
+570,type,Statement
+421,info Source,Windybank s remarks
+372,what,signature
+053,from,Etheridge
+253,type,Situation
+154,where,At home
+393,info Source,Watson s thoughts
+240,type,Statement
+clothes,label,clothes
+549,what,Windy bank
+253,what,254
+484,subject,Sutherland
+289,has Predicate,get Out
+374,source,Letter has a date
+353,what,367
+395,type,Situation
+147,after,149
+221,info Source,Sutherland
+187,what,246
+107,what,Sutherland s earning
+116,when,After the death of Sutherland s father
+275,has Predicate,hand Over
+042,type,Statement
+150,where,Sutherland House
+signature,label,signature
+207,what,Hozma
+home,type,PhysicalObject
+133,subject,Hardy
+363,source,Hozma's way of speaking is jealous
+271,info Source,Holmes
+519,info Source,Holmes
+542,type,Statement
+507,has Predicate,love
+390,type,Situation
+306,info Source,Watson s remarks
+230,where,Street
+376,type,Statement
+464,subject,Windy bank
+396,what,Mystery
+132,where,France
+322,type,Situation
+397,info Source,Holmes
+066,subject,Windy bank
+260,whom,Sutherland
+253,source,Sutherland said the following
+510,what,521
+163,source,Sutherland said the following
+522,source,Windy Bank breaks up with Sutherland dramatically
+519,has Predicate,not Go
+145,has Predicate,meet
+558,what,578
+351,what,Violet ink
+425,has Predicate,want To Avoid
+375,what,Sender s address
+349,where,Holmes
+298,info Source,Watson s remarks
+492,type,Statement
+472,what,494
+297,subject,Holmes
+541,has Predicate,say
+183,source,Hozma loves Sutherland
+181,what,Typing letter
+299,what,303
+558,what,567
+207,info Source,Sutherland
+meaning_of_the_words_of_ Holmes,type,PhysicalObject
+564,what,With voice
+016,type,Statement
+265,has Predicate,cry
+333,what,Wrist double wire
+482,info Source,Holmes
+430,type,Situation
+229,info Source,Sutherland
+417,info Source,Windybank s remarks
+480,type,Statement
+145,info Source,Sutherland
+135,has Predicate,think
+071,type,Statement
+twice,type,Object
+sin,label,sin
+224,type,Statement
+513,subject,Windy bank
+advice,type,PhysicalObject
+025,what,String of call bell
+margin,label,margin
+147,type,Statement
+382,has Predicate,not Important
+341,source,Watson was surprised
+024,subject,Woman
+576,has Predicate,say
+496,has Predicate,obtain
+576,what,577
+474,subject,Holmes
+386,to,Central District City Company
+254,info Source,Sutherland
+237,subject,Hozma
+292,subject,Sutherland
+face,label,face
+someone_of_ Company,label,someone of Company
+051,source,Holmes finds out that others overlook
+someone,type,Object
+263,has Predicate,not Want
+130,type,Situation
+534,has Property,unknown
+399,what,400
+411,what,chair
+392,what,393
+408,subject,Windy bank
+116,has Predicate,go
+153,type,Situation
+058,source,Sutherland is a typing
+306,has Property,attached
+426,what,427
+220,source,The letter did not reach Windy Bank
+244,subject,Sutherland
+472,type,Situation
+325,what,Method
+013,has Predicate,cross
+247,type,Statement
+389,when,1891-09-02 18
+083,type,Situation
+151,type,Statement
+371,has Predicate,say
+234,where,Under the marsoon
+111,subject,Sutherland
+055,has Predicate,be Convinced
+555,info Source,Watson
+100,type,Situation
+371,what,374
+486,then,488
+283,type,Statement
+101,info Source,Sutherland
+095,type,Thought
+349,how,Quickly
+571,source,Holmes confirmed with the company
+118,to,To the ball
+078,subject,Windy bank
+558,what,560
+459,source,Holmes locked the door
+534,source,Life and death of Hozma is unknown
+010,type,Situation
+024,has Predicate,not Hesitate
+022,has Predicate,recognize
+435,source,Type letters differ like handwriting
+094,has Predicate,think
+524,what,Windy bank
+199,info Source,Sutherland
+030,has Predicate,cna Solve
+084,source,Holmes is annoyed with Sutherland's story
+187,what,248
+575,what,With hozma
+460,what,461
+77_years,label,77 years
+472,what,490
+015,type,Situation
+021,type,Statement
+075,what,Sutherland s father s shop
+162,when,there is Windy Bank
+350,type,Statement
+2_pence,type,PhysicalObject
+215,subject,Sutherland s mother
+400,subject,Windy bank
+232,info Source,Sutherland
+513,info Source,Sutherland s thoughts
+291,what,294
+378,info Source,Watson s remarks
+544,why,Illegally
+385,info Source,Holmes
+361,source,Hozma has a black cheek and mouth
+156,info Source,Sutherland
+444,what,446
+357,what,Hozma s build
+500,has Predicate,whisper
+063,subject,Sutherland
+551,subject,Holmes
+416,source,Windy Bank is busy
+501,has Property,safe
+472,what,477
+053,type,Statement
+302,type,Statement
+100,what,109
+232,source,Hozma wasn't in a cart
+100,what,103
+082,has Property,small
+267,has Predicate,examine
+356,source,Hozma's height is 5 feet 7 inches
+575,type,Statement
+445,type,Statement
+343,type,Statement
+023,from,Man
+472,what,506
+273,type,Situation
+praise_of_ Sutherland_s_mother,label,praise of Sutherland's mother
+395,what,397
+103,source,Sutherland keeps money with her parents while she is with them
+128,what,Clothes to wear
+339,has Predicate,surprise
+096,subject,Sutherland
+306,type,Statement
+304,subject,Watson
+149,info Source,Sutherland
+207,has Predicate,believe
+471,source,Holmes does not sue Windy Bank
+304,what,305
+510,what,518
+527,source,Windy Bank made Sutherland swear in the Bible
+040,source,Myopia is hard to type
+this_week,label,this week
+472,what,507
+013,type,Situation
+173,info Source,Sutherland
+422,how,Immediately
+410,source,Windy Bank greets Holmes
+089,info Source,Sutherland
+095,source,Sutherland is interesting
+430,source,Windy Bank dropped her gloves in surprise
+516,info Source,Holmes
+354,what,363
+165,when,Morning
+footsteps,type,PhysicalObject
+022,type,Situation
+215,has Predicate,correspond
+386,info Source,Holmes
+055,subject,police
+206,whom,Sutherland
+458,has Predicate,catch
+472,what,493
+164,type,Statement
+292,info Source,Holmes
+440,type,Situation
+346,subject,Sutherland
+108,type,Statement
+296,type,Situation
+101,type,Statement
+279,what,Hozma s Address
+440,what,443
+294,where,Andova
+293,info Source,Holmes
+183,has Predicate,love
+417,type,Statement
+4700_pounds,type,PhysicalObject
+203,source,Hozma wants to marry Sutherland before his father's return home
+290,has Predicate,come
+318,type,Statement
+345,info Source,Holmes
+187,what,242
+465,source,Holmes said the following
+172,subject,Hozma s Address
+041,has Predicate,say
+033,source,A boy at the service uniform tells Sutherland
+170,has Predicate,live
+520,source,Forever
+515,has Predicate,meet
+past,label,past
+479,has Property,lot of money
+048,has Predicate,know
+531,source,Sutherland tied to Hosma
+234,type,Statement
+328,info Source,Holmes
+354,what,364
+402,has Property,ｍedium height
+346,therefore,348
+147,whom,Hozma
+023,type,Statement
+559,source,Windy Bank Overlaps Sin
+104,when,living with my parents
+498,source,Windy Bank wore colored glasses
+290,when,be called
+541,source,Windy Bank said
+187,what,193
+029,has Property,dead
+472,what,474
+568,info Source,Holmes
+524,info Source,Holmes
+578,source,Sutherland does not believe in Holmes
+voice,label,voice
+dead,type,Object
+329,has Predicate,see
+187,source,Sutherland said the following
+129,type,Situation
+328,has Predicate,see
+228,what,Sutherland
+084,info Source,Watson s thoughts
+573,what,letter
+510,what,532
+286,whom,Hozma
+425,type,Statement
+483,source,The character of Sutherland is good
+507,info Source,Holmes
+359,source,Hozma's hair is black
+093,source,Sutherland gives yield
+201,type,Statement
+255,whom,Sutherland s mother
+429,type,Statement
+242,has Predicate,not Throw
+breakfast,label,breakfast
+021,whom,Someone
+564,has Predicate,make Think
+105,info Source,Sutherland
+529,what,Incident
+227,when,1891-08-28
+392,source,Watson thought the following
+389,has Predicate,want To Meet
+516,type,Statement
+279,source,Sutherland does not know Hozma's address
+055,source,Police had ruled that Esridge's husband had died
+497,has Predicate,disguise
+510,what,514
+095,has Property,interesting
+322,what,335
+224,source,Weddings will take place at St. Savior Church
+voice,type,PhysicalObject
+356,what,Hozma s height
+464,source,Windy Bank looked around
+067,has Predicate,not Want To Visit
+471,info Source,Windybank s remarks
+531,has Predicate,be Tied Up
+simply,label,simply
+178,source,Hozma is teased by colleagues
+122,info Source,Sutherland
+195,type,Statement
+443,source,Letters wear out
+012,from,road
+181,source,Typing letter feels machine
+there_is_ Windy_ Bank,label,there is Windy Bank
+431,type,Situation
+380,info Source,Watson s remarks
+474,what,For selfish treats
+less_than_60_pounds,label,less than 60 pounds
+be_called,label,be called
+211,whom,Sutherland
+meaning_of_the_words_of_ Holmes,of Whole,the words of Holmes
+187,what,225
+404,source,Windy Bank has no bribe
+018,type,Statement
+322,what,330
+011,has Predicate,mess
+100,source,Sutherland said the following
+disguise,label,disguise
+205,info Source,Sutherland
+181,what,machine
+041,subject,Sutherland
+138,source,Sutherland thought that
+227,has Predicate,come
+150,subject,Hozma
+the_words_of_ Holmes,of Whole,Holmes
+368,what,Hozma s clues
+522,type,Statement
+472,what,488
+354,what,356
+449,source,In the letter of hozma r is missing
+362,has Predicate,have
+244,type,Statement
+011,source,Sutherland is tinkering with the glove button
+206,source,Hozma has made Sutherland vow:
+528,subject,Windy bank
+023,info Source,Holmes
+472,what,486
+378,when,380
+122,type,Statement
+231,subject,Sutherland
+146,info Source,Sutherland
+258,has Predicate,not Talk
+408,whom,Watson
+324,source,Watson overlooks an important point
+092,source,The face value of the heritage is ｡・2500
+280,subject,Hozma
+373,type,Statement
+187,what,215
+185,has Predicate,say
+023,source,Women encounter awful eyes from men
+375,type,Statement
+414,what,420
+564,what,Color glasses
+184,source,Hozma pays attention
+glasses,label,glasses
+069,whom,Sutherland
+414,what,421
+115,source,Sutherland's father had sent an invitation to the Gas Association's ball to Sutherland
+250,source,Hozma knew about the danger
+434,has Predicate,say
+091,source,The dividend of the heritage is quarter and five o'clock
+247,source,Sutherland leaves with Hozma
+037,has Predicate,recommend
+r,label,r
+505,type,Statement
+307,what,Sutherland coat
+240,subject,Hozma
+295,what,Same incident
+223,when,Friday

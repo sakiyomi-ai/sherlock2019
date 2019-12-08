@@ -1,0 +1,2951 @@
+341,source,Beast is thin.
+121,has Property,criminal irresponsibility
+Henry_AND_witness,type,Object
+325,subject,Henry
+011,subject,Berkeley
+083,source,Living room of the room was locked.
+300,what,301
+magic,type,AbstractTime
+263,info Source,Henry
+194,type,Statement
+202,type,Statement
+372,where,episode of Uriah and Bathsheba
+095,type,Situation
+014,type,Situation
+054,next To,Rasheen
+355,subject,Teddy
+262,source,Henry is 30 years ago
+night,label,night
+279,type,Statement
+167,type,Situation
+092,where,living room
+100,source,Nancy had fainted.
+dwellers,label,dwellers
+080,what,081
+102,subject,Berkeley
+body,label,body
+013,from,solider
+010,subject,Berkeley
+125,label,125
+name_of_house_of_ Berkeley,type,OFobj
+293,subject,Henry
+253,subject,Henry
+174,info Source,Morrison
+229,subject,Henry
+228,info Source,Holmes
+053,has Property,young woman
+091,has Predicate,open
+wrinkle,label,wrinkle
+194,has Property,white
+house_of_ Henry,of Whole,Henry
+335,to,curtain
+141,where,curtain
+177,has Property,quiet
+339,source,Henry put the beast out of the cage.
+270,has Property,reckless
+143,source,Beast is a carnivorous.
+018,source,Nancy is popular with Royal Mallows.
+010,source,Berkeley led the Royal Mallows until Monday evening.
+155,why,fear
+body_of_ Henry,of Whole,Henry
+stick,type,PhysicalObject
+321,has Predicate,see
+318,what,86
+028,what,old soldier
+327,what,key of living room
+105,subject,Berkeley
+166,type,Situation
+247,type,Situation
+168,has Property,smart
+stick,label,stick
+193,has Property,glaringly
+temporarily,label,temporarily
+311,type,Statement
+first,label,first
+158,when,19 30 on Monday
+055,subject,Nancy
+096,subject,key of living room
+001,subject,Holmes
+296,source,Henry went to Punjab.
+key_of_living_room,of Part,key
+171,what,193
+075,subject,Berkeley
+025,whom,Berkeley
+130,has Predicate,find
+161,type,Object
+weapon,label,weapon
+21_15_on_Monday,label,21:15 on Monday
+161,begin,1887-07-06 19:30:00
+secret_of_ Henry,type,PhysicalObject
+206,info Source,Morrison
+297,info Source,Henry
+face_of_ Henry,type,PhysicalObject
+300,info Source,299
+373,what,preface of Samuel
+285,subject,civilian
+093,subject,coachman
+060,has Predicate,have
+231,to,living room
+271,has Property,well Educated
+351,what,Teddy
+109,subject,Jane AND coachman AND cook
+316,has Predicate,blame
+190,has Predicate,die
+bedroom,type,Place
+297,has Predicate,live
+184,type,Statement
+082,has Predicate,not Respond
+262,info Source,Henry
+owner_of_lodge_of_ Hudson_street,type,Person
+071,time,1887-07-06 21:15:00
+129,type,Situation
+325,what,326
+bypath,type,Place
+022,has Predicate,tell
+001,source,At 23:45
+049,subject,Nancy
+026,info Source,22
+028,has Predicate,equal To
+149,type,Situation
+267,whom,Nancy
+007,where,Aldershot
+101,has Predicate,be Moved
+furnace_lattice,type,PhysicalObject
+226,source,Henry handed the Indian rupee to the woman of the landlord.
+228,whom,Morrison AND Nancy
+preface_of_ Samuel,type,PhysicalObject
+311,subject,Nancy AND Henry
+125,what,126
+181,has Predicate,look Down
+313,type,Statement
+256,type,Situation
+037,subject,Berkeley
+149,what,086
+256,what,266
+370,has Predicate,commit
+169,what,common sense
+living_room,label,living room
+022,source,Murphy said the following
+368,source,Holmes said the following:.
+face_of_ Henry,of Whole,Henry
+144,has Predicate,try to catch
+171,what,197
+164,has Predicate,think
+192,source,Face of Henry is black.
+337,subject,Henry
+daughter_of_former_sergeant_of_armies,type,OFobj
+size_of_ Garden,type,PhysicalObject
+240,type,Situation
+125,type,Situation
+321,then,322
+rarely,label,rarely
+082,what,knocking
+059,source,Morrison was in front of the Rasheen to 21 o'clock 15 minutes Monday.
+014,source,Berkeley and Nancy got married.
+269,subject,Nancy AND Berkeley
+eye_of_beast,of Whole,beast
+046,source,Berkeley do not have a child.
+054,has Predicate,live
+man_ A N D_footprint_of_beast,label,man AND footprint of beast
+260,type,Statement
+266,has Predicate,equal To
+208,source,Monday minutes to 21 o'clock 15
+former_sergeant_of_armies,of Part,former sergeant
+152,subject,Holmes
+083,type,Situation
+226,subject,Henry
+256,what,265
+209,subject,Morrison
+the_ St._ George_union,label,the St. George union
+244,source,Henry had rounded the whole body.
+232,info Source,Holmes
+287,whom,rebels
+158,source,Monday 19:30
+the_large_galass,type,Object
+199,type,Statement
+end_of_ Darjeeling,type,OFobj
+303,has Predicate,want To Return
+318,info Source,Holmes
+067,has Predicate,have
+father,label,father
+009,type,Situation
+171,what,208
+129,subject,someone
+286,whom,rebels
+152,source,Holmes thought the following.
+149,has Predicate,see
+347,has Predicate,equal To
+barrack_of_ India,of Part,barrack
+company_of_first_battalion_of_ Royal_ Mallows,of Part,company
+criminal_of_incident,label,criminal of incident
+273,info Source,Henry
+227,has Predicate,think
+051,source,Coachman heard the following.
+197,when,several minutes
+156,info Source,Holmes
+Royal_MAllows,label,Royal MAllows
+325,source,Henry thought the following.
+095,source,Berkeley was dead in the vicinity of the furnace lattice.
+214,type,Situation
+292,has Predicate,become
+089,source,Nancy screamed.
+weasel_ O R_marten,type,Animal
+082,where,living room
+friendly,label,friendly
+300,type,Object
+gardern,label,gardern
+359,has Predicate,know
+86,type,PhysicalObject
+220,to,box
+270,at the same time,271
+256,what,282
+066,subject,garden
+135,what,long claws
+father_of_ Nancy,of Part,father
+347,info Source,Holmes
+093,what,095
+105,has Predicate,be Killed
+224,where,bedroom
+025,source,Nancy is passionate the Berkeley did not love.
+163,has Predicate,know
+098,type,Situation
+237,source,Holmes let simpson to monitor Henri.
+233,type,Thought
+294,info Source,Henry
+208,info Source,Morrison
+238,when,Thursday
+296,type,Statement
+Darjeeling,type,Object
+245,what,wrinkle
+end,label,end
+0.5_miles_from_the_northern_camp,label,0.5 miles from the northern camp
+311,source,Nancy and Henry noticed the act of Berkeley.
+012,then,013
+002,has Predicate,visit
+006,has Predicate,be Killed
+long_claws,label,long claws
+bypath,label,bypath
+164,source,Holmes thought the following.
+303,type,Situation
+256,subject,Henry
+328,info Source,Holmes
+349,source,Mongoose is also referred to as a Ikunumon.
+190,info Source,Nancy
+372,source,Davide of sin is seen in episodes of Uriah and Bathsheba.
+company_of_first_battalion_of_ Royal_ Mallows,of Whole,first battalion of Royal Mallows
+048,when,1887-07-06 21:00:00
+098,subject,police
+hair_of_ Morrison,label,hair of Morrison
+old_days,label,old days
+257,type,Statement
+first_battalion_of_ Royal_ M Allows,of Part,first battalion
+080,type,Situation
+286,then,287
+127,type,Situation
+172,has Predicate,want To Help
+288,subject,Henry
+099,subject,Nancy
+283,has Predicate,hear
+165,info Source,Holmes
+043,has Predicate,be Located
+145,what,weasel OR marten
+279,info Source,Henry
+size_of_ Garden,of Part,size
+318,source,Henry tried to stop the bickering of Nancy and Berkeley.
+004,type,Situation
+017,subject,Berkeley AND Nancy
+306,what,magic
+280,source,Henry went out to the outside.
+055,where,meeting of the St. George union
+008,when,Monday
+147,info Source,Holmes
+355,source,Every night
+063,to,garden
+263,subject,first battalion of Royal Mallows
+335,type,Statement
+002,what,003
+161,source,From 19:30 to 21:00 on Monday
+366,has Predicate,die
+167,has Property,blonde
+108,what,stick
+299,label,299
+146,has Property,larger than
+solider,type,PhysicalObject
+306,subject,Henry
+347,type,Statement
+meeting_of_the_ St._ George_union,type,OFobj
+066,how,wall
+208,has Predicate,not Meet
+356,has Predicate,help
+094,subject,Nancy
+many_days,type,AbstractTime
+212,when,Wednesday night
+175,has Predicate,go
+name_of_house_of_ Berkeley,of Whole,house
+passionately,type,Object
+256,what,280
+108,has Predicate,collect
+289,to,Nepal
+slave_of_dwellers_of_mountain,of Whole,dwellers of mountain
+180,type,Statement
+223,subject,Henry
+073,what,tea
+104,what,105
+001,time,1887-07-08 23:45:00
+309,what,332
+321,subject,Berkeley
+293,source,Henry fled from the mountain of the people.
+289,has Predicate,be Taken
+302,source,Henry does not want to take revenge on Berkeley.
+294,to,Afghanistan
+017,source,Berkeley and Nancy could not get along.
+weasel,type,Object
+259,subject,Berkeley
+184,subject,Nancy
+147,type,Thought
+company_of_first_battalion_of_ Royal_ Mallows,of Whole,Royal Mallows
+crime_of_ Davide,of Part,crime
+151,source,The man was with small animals.
+278,type,Statement
+335,subject,Teddy
+meeting,label,meeting
+162,end,1887-07-06 21:00:00
+221,source,Henry use the beast at the time of magic.
+106,type,Situation
+239,time,1887-07-09 00:00:00
+171,what,189
+270,time,1857-07-09 00:00:00
+179,info Source,Morrison
+367,what,Davide
+name_of_house_of_ Berkeley,of Whole,Berkeley
+048,when,22 o clock from Monday 21 o clock
+241,where,fireplace
+002,subject,Holmes
+196,type,Statement
+328,what,help
+060,type,Situation
+357,subject,Nancy
+322,type,Statement
+181,info Source,Morrison
+063,source,Residents will be out in the garden from the living room of the room.
+Rasheen,type,Object
+066,type,Situation
+131,subject,man
+nose_of_beast,type,PhysicalObject
+slave_of_dwellers_of_mountain,type,Person
+251,whom,Henry
+22,type,Object
+309,type,Situation
+346,what,347
+wrinkle,type,PhysicalObject
+250,how,agreeable
+255,has Predicate,be Arrested
+322,source,Berkeley was suicide.
+several_minutes,label,several minutes
+211,whom,Nancy
+067,subject,wall
+327,type,Statement
+317,time,1857-07-09 00:00:00
+262,has Property,handsome
+021,has Property,happy
+084,subject,Jane
+soldiers,type,Person
+328,why,329
+317,what,Henry
+146,type,Situation
+061,what,main street
+052,how,early
+298,subject,Henry
+082,subject,Berkeley AND Nancy
+048,has Predicate,happen
+281,type,Statement
+313,info Source,Holmes
+133,type,Situation
+343,type,Situation
+dining_room,label,dining room
+200,type,Statement
+304,source,Henry went to Hudson Street.
+194,source,Hair of Henry White.
+338,what,Teddy
+long_torso,label,long torso
+220,what,beast
+018,type,Situation
+killing_ Berkeley,label,killing Berkeley
+201,source,Morrison do not say that of Henry to anyone.
+preface_of_ Samuel,label,preface of Samuel
+229,what,081
+window_of_living_room,of Part,window
+main_stree,type,Place
+criminal_of_incident,of Whole,incident
+260,info Source,Henry
+024,how,passionately
+360,when,30 years
+149,where,main street
+twice,type,Object
+174,has Predicate,arrive
+328,type,Statement
+254,type,Situation
+244,type,Situation
+157,source,The man took the key to the living room of the room.
+011,what,hero
+134,has Predicate,have
+264,type,Statement
+143,has Property,carnivorous
+137,type,Situation
+owner,type,Object
+260,source,Henry had a motive for killing Berkeley.
+total_length_of_beast,of Part,total length
+144,type,Situation
+238,whom,Simpson
+139,what,long torso
+330,what,criminal
+179,has Property,stoop
+310,info Source,Holmes
+056,when,1887-07-06 20:00:00
+dwellers_of_mountain,type,Person
+first,type,AbstractTime
+289,then,290
+129,has Predicate,enter
+153,subject,man
+127,subject,key of living room
+020,time,1856-07-06 00:00:00
+153,whom,Berkeley
+214,what,218
+256,what,271
+witness,type,Object
+026,subject,Berkeley AND Nancy
+357,has Predicate,be Arrested
+356,subject,Henry
+195,has Predicate,have
+226,has Predicate,give
+198,has Property,angry
+foot,label,foot
+272,type,Statement
+276,type,Statement
+207,source,Nancy was kissed Morrison.
+070,type,Situation
+270,info Source,Henry
+171,what,179
+166,has Property,slender
+22_o_clock_from_Monday_21_o_clock,type,AbstractTime
+287,subject,Henry
+282,has Predicate,be Caught
+266,subject,Nancy
+212,when,1887-07-08 21:00:00
+061,subject,living room
+370,what,crime
+076,type,Situation
+face_of_ Berkeley,label,face of Berkeley
+many_times,type,Object
+278,info Source,Henry
+3_inches,type,PhysicalObject
+265,where,first battalion of Royal Mallows
+company_of_first_battalion_of_ Royal_ Mallows,type,OFobj
+349,has Predicate,equal To
+171,what,187
+strange_word,type,PhysicalObject
+185,type,Statement
+264,subject,Berkeley AND Henry
+incedent,label,incedent
+268,has Predicate,love
+328,subject,Henry
+045,where,Rasheen
+20_am_on_Monday,type,AbstractTime
+290,whom,rebels
+008,type,Situation
+lodge_of_ Hudson_street,type,OFobj
+363,subject,Holmes
+1887-07-08_~,label,1887-07-08 ~
+100,has Predicate,faint
+045,has Predicate,live
+239,has Predicate,go
+096,type,Situation
+107,source,The police thought the following.
+125,type,Object
+339,what,beast
+074,has Property,not Habit
+336,what,Teddy
+141,source,Beast is able to climb to the curtain.
+322,info Source,Holmes
+early,label,early
+321,info Source,Holmes
+sergeant,label,sergeant
+118,type,Thought
+hair_of_ Morrison,type,PhysicalObject
+first_battalion_of_ Royal_ Mallows,label,first battalion of Royal Mallows
+240,has Predicate,meet
+Rasheen,label,Rasheen
+229,info Source,Holmes
+254,subject,Holmes
+house_of_ Berkeley,label,house of Berkeley
+350,has Predicate,call
+297,where,Punjab
+307,type,Situation
+over_30_years,type,AbstractTime
+259,source,Berkeley was suicide for the sake of penance.
+300,subject,Nancy AND old friends of Henry
+secret_of_ Henry,of Part,secret
+back_of_head_of_ Berkeley,type,OFobj
+082,source,Berkeley and Nancy did not respond to knocking on the room door in the living room.
+lamp_of_living_room,of Whole,living room
+335,source,Teddy went up to windowing.
+room_of_ Henry,type,Place
+047,subject,Berkeley
+man_ A N D_footprint,label,man AND footprint
+209,info Source,Morrison
+346,has Predicate,say
+315,then,318
+208,whom,Nancy
+227,what,232
+325,info Source,Holmes
+015,time,1859-07-06 00:00:00
+30_years_ago,type,AbstractTime
+010,has Predicate,lead
+218,what,beast
+196,at the same time,197
+206,source,Morrison does not say that of Henry to anyone.
+256,label,256
+162,begin,1887-07-06 19:30:00
+end_of_ Darjeeling,of Whole,Darjeeling
+in_front_of_ Rasheen,type,Place
+137,what,2 feet
+30_yards,type,PhysicalObject
+304,has Predicate,go
+temporarily,type,AbstractTime
+338,subject,Holmes
+046,type,Situation
+Uriah_and_Bathsheba,label,Uriah and Bathsheba
+criminal,label,criminal
+228,type,Thought
+footprint_of_man_ A N D_footprint_of_beast,label,footprint of man AND footprint of beast
+322,has Predicate,kill
+197,subject,Morrison
+total_length,type,Object
+351,has Predicate,equal To
+256,what,269
+293,info Source,Henry
+138,has Predicate,equal To
+police,type,Person
+251,what,252
+034,has Predicate,believe
+333,has Predicate,suppress
+148,has Predicate,think
+5_paws,label,5 paws
+053,type,Situation
+019,subject,Nancy
+2-inch_tear,label,2-inch tear
+118,has Predicate,not Contradict
+163,what,cause of 161
+total_length,label,total length
+213,where,lodge of Hudson street
+292,then,293
+015,subject,Berkeley
+back_of_head_of_ Berkeley,of Whole,head
+187,has Predicate,talk
+097,type,Situation
+198,info Source,Morrison
+196,source,Nancy and Henry spoke for several minutes with two people.
+eye_of_ Henry,label,eye of Henry
+hair,type,Object
+195,info Source,Morrison
+iron_fence,type,PhysicalObject
+lamp,type,Object
+in_front,type,Object
+secret_of_ Henry,label,secret of Henry
+apoplexia,label,apoplexia
+202,what,203
+310,type,Statement
+185,info Source,Morrison
+127,whom,someone
+214,what,215
+297,subject,Henry
+331,has Predicate,not Want To Reveal
+067,type,Situation
+hair,label,hair
+148,subject,Holmes
+303,info Source,256
+115,type,Situation
+093,source,Coachman saw the following.
+271,at the same time,272
+070,how,usually
+fear,label,fear
+241,type,Situation
+280,has Predicate,go
+daughter_of_former_sergeant_of_armies,of Whole,former sergeant of armies
+348,has Predicate,say
+186,info Source,Morrison
+man,label,man
+Henry_AND_witness,label,Henry AND witness
+229,where,main street
+011,type,Situation
+073,source,Jane was asked a tea Nancy.
+214,what,217
+156,what,head of Berkeley
+240,subject,Holmes AND Watson
+291,whom,dwellers of mountain
+241,source,Henry is in the warm climate
+owner_of_lodge_of_ Hudson_street,of Part,owner
+motive_of_killing_ Berkeley,label,motive of killing Berkeley
+237,whom,Simpson
+187,info Source,Morrison
+dwelleers_of_mountain,of Part,dwelleers
+171,what,172
+214,what,223
+325,type,Statement
+357,type,Situation
+177,subject,Hudson Street
+263,type,Statement
+barrack_of_ India,type,OFobj
+cook,label,cook
+182,what,knee of Henry
+144,what,bird
+large_glass_door,label,large glass door
+300,has Predicate,think
+knee_of_ Henry,of Whole,Henry
+361,subject,Henry
+004,subject,Holmes AND Watson
+309,what,315
+010,when,Monday evening
+369,source,Davide in the Old Testament
+215,has Property,magician AND entertainer
+026,type,Situation
+same_type_of_crime,type,OFobj
+335,info Source,Holmes
+dining_room,type,Object
+295,type,Statement
+186,source,Henry has supported the Nancy.
+370,info Source,Holmes
+at_that_time,label,at that time
+19_30_on_Monday,type,AbstractTime
+173,where,Watts Street Church
+man_ A N D_footprint,type,Object
+138,source,Stride of the beast is a 3 inches.
+071,when,1887-07-06 21:15:00
+271,info Source,Henry
+222,source,Henry's body is bent.
+082,type,Situation
+233,info Source,Holmes
+280,how,bypath
+guest,type,Person
+postscript_of_ Samuel,type,PhysicalObject
+160,whom,Berkeley
+228,source,Henry went with Morrison and Nancy.
+126,info Source,125
+186,has Predicate,support
+275,source,The first battalion and a civilian of the Royal Mallows was siege to Bute.
+193,subject,eye of Henry
+cause,label,cause
+290,to,end of Darjeeling
+mongoose,label,mongoose
+306,then,307
+210,has Predicate,tell
+107,what,108
+311,what,284
+hair_of_beast,type,PhysicalObject
+309,what,322
+036,source,At night
+365,source,Murphy said the following:.
+preface_of_ Samuel,of Whole,Samuel
+153,info Source,Holmes
+368,type,Situation
+367,source,Watson was asked about Davide to Holmes.
+256,what,299
+262,time,1857-07-09 00:00:00
+265,type,Statement
+170,what,story
+daughter_of_former_sergeant_of_armies,of Whole,former sergeant
+235,type,Situation
+007,type,Situation
+atonement,type,Object
+076,what,077
+004,to,Aldershot
+daughter_of_former_sergeant_of_armies,of Part,daughter
+105,source,Berkeley was killed by a wooden carving stick.
+256,what,283
+337,where,living room
+102,has Predicate,be Killed
+232,subject,Henry
+008,source,The incident happened on Monday.
+073,whom,Nancy
+183,info Source,Morrison
+157,subject,man
+313,then,315
+marten,type,Object
+footprint,type,Object
+193,info Source,Morrison
+102,type,Situation
+ensign_sergeant,label,ensign sergeant
+015,type,Situation
+043,subject,Rasheen
+weasel_ O R_marten,or Target,marten
+309,what,329
+115,how,extreme
+022,subject,Murphy
+056,subject,meeting of the St. George union
+175,type,Statement
+296,to,Punjab
+221,info Source,owner of lodge of Hudson street
+313,has Predicate,see
+212,source,Holmes found a home of Henry on Wednesday night.
+house_of_ Berkeley,of Whole,Berkeley
+239,subject,Holmes AND Watson
+001,when,1887-07-08 23:45:00
+054,type,Situation
+260,has Predicate,have
+028,type,Situation
+069,when,21:15
+285,type,Statement
+progress,label,progress
+Holmes,type,Object
+senior_rank,type,PhysicalObject
+361,why,359
+155,type,Thought
+350,subject,Henry
+criminal_of_incident,of Part,criminal
+332,source,Henry fled with a key.
+041,type,Situation
+077,where,living room
+136,source,Beast has a length between forefoot and hind 15-inch.
+279,whom,Henry
+169,source,Morrison has the common sense.
+258,source,Henry is not a criminal.
+320,where,living room
+294,has Predicate,go
+265,info Source,Henry
+310,source,Nancy and Henry talked.
+256,what,287
+334,what,stick
+128,type,Situation
+313,subject,Henry
+police_ A N D_doctor,type,Person
+5_paws,type,PhysicalObject
+056,has Predicate,start
+body,type,Object
+dwelleers_of_mountain,label,dwelleers of mountain
+007,subject,Berkeley
+310,then,311
+249,subject,Henry
+320,info Source,Holmes
+resident,type,Person
+330,has Predicate,be Suspected
+055,source,Nancy and Morrison went to the meeting of the St. George union together.
+140,type,Situation
+rarely,type,Object
+048,source,The incident happened in the 22 o'clock from Monday 21 o'clock in Rasheen.
+117,has Predicate,think
+183,type,Statement
+001,then,002
+058,where,Rasheen
+220,type,Statement
+309,what,310
+113,what,David
+290,from,Nepal
+058,when,21 15 on Monday
+242,has Property,humid
+secret_of_ Henry,type,OFobj
+truth,label,truth
+about_ Henry,type,PhysicalObject
+343,subject,beast
+161,end,1887-07-06 21:00:00
+371,source,Davide and Berkeley had committed the same type of crime.
+001,type,Situation
+161,what,Berkeley
+057,when,20 40 on Monday
+059,when,21 15 on Monday
+220,has Predicate,put
+first_battalion_of_ Royal_ Mallows,of Whole,Royal Mallows
+short_leg,type,PhysicalObject
+home,type,PhysicalObject
+276,info Source,Henry
+109,type,Situation
+257,subject,Nancy
+052,subject,Nancy
+incedent,type,Object
+062,type,Situation
+197,has Predicate,wait
+057,subject,meeting of the St. George union
+316,type,Statement
+mongoose,type,Animal
+179,source,Henry is a stoop.
+066,subject,main stree
+281,then,282
+078,source,Berkeley died in the living room of the room.
+273,has Predicate,think
+107,subject,police
+350,what,snake killer
+349,subject,mongoose
+085,subject,Jane AND cook AND coachman
+270,source,Henry was reckless.
+293,type,Statement
+072,source,Nancy turned on the lamp in the living room of the room.
+327,however,328
+footprint,label,footprint
+013,time,1860-07-06 00:00:00
+050,subject,Nancy
+329,what,330
+postscript_of_ Samuel,of Whole,Samuel
+knee_of_ Henry,type,PhysicalObject
+almost,type,Object
+152,type,Situation
+271,subject,Berkeley
+234,what,story
+dwelleers_of_mountain,type,Person
+166,subject,Morrison
+052,source,Nancy is go home early from the meeting.
+same_type_of_crime,label,same type of crime
+351,subject,beast
+140,what,short leg
+performance,type,PhysicalObject
+daughter,type,Object
+294,subject,Henry
+001,when,23 45
+090,to,large glass door of living room
+133,source,The man ran the garden.
+062,has Predicate,have
+359,source,Henry was aware of the following.
+former_sergeant,type,Object
+079,source,Jane took tea in the living room of the room in 25 minutes at 21.
+012,when,first
+175,subject,Morrison AND Nancy
+soldier,label,soldier
+224,time,1887-07-06 21:00:00
+338,whom,Henry
+085,type,Situation
+372,subject,crime of Davide
+149,source,The man was watching the bickering of Nancy and Berkeley from the main street.
+041,what,Rasheen
+stride,label,stride
+254,what,255
+207,info Source,Morrison
+257,has Property,not Criminal
+face_of_ Berkeley,of Whole,Berkeley
+088,subject,Berkeley
+284,has Predicate,sell
+160,subject,Nancy
+363,why,progress of incedent
+2_feet,label,2 feet
+302,has Predicate,not Want To Revenge
+258,info Source,Henry
+252,info Source,Holmes
+2-inch_tear,type,PhysicalObject
+information,type,PhysicalObject
+daughter_of_ensign_sergeant,of Part,daughter
+199,source,Henry was angry.
+253,type,Situation
+013,to,senior rank
+090,type,Situation
+257,source,Nancy is not a criminal.
+episode,label,episode
+281,why,284
+189,subject,Nancy
+256,what,279
+110,has Predicate,overlook
+264,where,company of first battalion of Royal Mallows
+320,has Predicate,enter
+hero,type,Person
+061,type,Situation
+039,source,The first battalion Royal Mallows are stationed in Aldershot.
+239,source,Holmes and Watson went to Hudson Street on Thursday.
+284,what,Henry
+307,what,money
+10000_rebels,type,Person
+215,type,Statement
+152,what,153
+company_of_first_battalion_of_ Royal_ Mallows,of Whole,first battalion
+232,type,Thought
+daughter_of_ensign_sergeant,label,daughter of ensign sergeant
+188,subject,voice of Nancy
+012,subject,Berkeley
+246,type,Situation
+046,subject,Berkeley
+important_event_of_incident,of Part,important event
+131,to,living room
+054,subject,Morrison
+089,type,Situation
+101,subject,Nancy
+334,type,Statement
+footprint_of_man_ A N D_footprint_of_beast,type,OFobj
+important_event_of_incident,type,PhysicalObject
+207,has Predicate,kiss
+199,info Source,Morrison
+045,source,Coachman and Jane and cooking people and Berkeley and Nancy live in Rasheen.
+065,what,30 yards
+096,source,There was no room key in the living room.
+185,source,Nancy became ramshackle.
+police_ A N D_coachman_ A N D_ Jane_ A N D_cook,type,Person
+019,source,Nancy is a beauty.
+crime,type,PhysicalObject
+342,has Property,supple
+215,subject,Henry
+one_of_the_ Irish_regiments,of Part,one
+slave_of_dwellers_of_mountain,of Part,slave
+beast,type,Animal
+010,what,Royal Mallows
+005,subject,Holmes
+269,whom,father of Nancy
+317,subject,Berkeley
+outside,label,outside
+304,subject,Henry
+eye_of_ Henry,type,PhysicalObject
+124,time,1887-07-06 21:15:00
+312,subject,Henry
+058,when,1887-07-06 21:15:00
+one,label,one
+171,what,177
+263,at the same time,264
+extreme,type,Object
+anyone,type,Person
+055,how,together
+box,type,PhysicalObject
+021,type,Situation
+lamp_of_living_room,type,PhysicalObject
+337,info Source,Holmes
+same_type_of_crime,type,PhysicalObject
+055,has Predicate,go
+169,has Predicate,have
+performance,label,performance
+room_of_ Henry,label,room of Henry
+175,to,Rasheen
+287,info Source,Henry
+155,info Source,Holmes
+018,subject,Nancy
+118,subject,Nancy
+018,has Property,popular
+118,what,criminal
+house_of_ Berkeley,of Part,house
+269,at the same time,1857-07-09
+221,when,magic
+287,then,288
+256,what,303
+123,has Predicate,not Understand
+lie,label,lie
+316,info Source,Holmes
+243,on,chair
+259,why,atonement
+359,what,360
+furnace_lattice,label,furnace lattice
+witness_of_ Henry_ A N D_witness_of_ Holmes,of Whole,Holmes
+315,has Predicate,see
+lamp_of_living_room,type,OFobj
+340,subject,hair of beast
+184,source,Nancy was a deep blue.
+101,to,room of Nancy
+wall,type,PhysicalObject
+knee_of_ Henry,label,knee of Henry
+012,source,Berkeley was a soldier at first.
+292,subject,Henry
+282,subject,Henry
+256,what,268
+050,what,meeting of the St. George union
+103,has Predicate,have
+181,type,Statement
+306,whom,soldier
+310,has Predicate,talk
+114,type,Situation
+weasel_ O R_marten,type,ORobj
+028,subject,Berkeley
+087,subject,Nancy
+304,to,Hudson street
+256,what,275
+059,time,1887-07-06 21:15:00
+201,type,Situation
+312,then,313
+334,has Predicate,drop
+228,has Predicate,follow
+051,subject,coachman
+327,whom,Nancy
+035,has Predicate,not Like
+the_ Irish_regiments,label,the Irish regiments
+275,time,1857-07-09
+070,when,night
+122,source,Police said the following:.
+Davide,type,Object
+284,info Source,Henry
+087,what,coward
+077,has Predicate,meet
+old_soldier,label,old soldier
+122,subject,police
+071,subject,living room
+agreeable,label,agreeable
+035,subject,Berkeley
+088,source,Berkeley shouted.
+friendly,type,Object
+001,has Predicate,visit
+250,type,Situation
+important_event_of_incident,of Whole,incident
+211,type,Statement
+237,has Predicate,let
+202,has Predicate,say
+227,what,231
+father_of_ Nancy,type,Person
+135,has Predicate,have
+373,source,Episodes of Uriah and Bathsheba is in the Postscript written before Samuel.
+071,has Predicate,not Have
+name_of_house_of_ Berkeley,of Whole,house of Berkeley
+garden,type,Place
+075,where,dining room
+086,has Predicate,argue
+121,subject,Nancy
+coachman,type,Person
+240,whom,Henry
+help,label,help
+227,what,233
+017,has Property,not Sociable
+168,source,Morrison is smart.
+307,subject,Henry
+011,source,Berkeley was a brave hero.
+065,subject,size of Garden
+207,type,Statement
+145,subject,beast
+318,has Predicate,try To Stop
+077,type,Situation
+060,what,living room
+026,source,Nancy and Berkeley was the ideal image of a middle-aged couple in the Royal Mallows.
+371,subject,Berkeley
+189,has Predicate,think
+house_of_ Berkeley,type,OFobj
+033,has Predicate,feel Down
+122,has Predicate,say
+041,source,The name of the house of Berkeley is a Rasheen.
+016,subject,Nancy
+333,type,Statement
+324,info Source,Holmes
+312,whom,Nancy
+206,whom,anyone
+148,type,Situation
+knee,type,Object
+309,what,321
+156,subject,Berkeley
+014,at the same time,015
+256,what,292
+key_of_living_room,label,key of living room
+171,source,Morrison said the following:.
+369,subject,Davide
+173,subject,meeting of the St. George union
+188,source,Voice of Nancy had been trembling.
+341,type,Situation
+anyone,label,anyone
+198,at the same time,199
+293,has Predicate,escape
+052,to,home
+money,label,money
+087,has Predicate,shout
+183,subject,Henry
+031,whom,Nancy
+273,type,Statement
+320,source,Henry entered the room in the living room.
+292,source,Henry became a slave of the mountain people.
+287,type,Statement
+024,subject,Berkeley
+name,label,name
+302,info Source,256
+coward,label,coward
+204,type,Statement
+126,subject,127
+soldiers,label,soldiers
+202,source,Nancy said the following:.
+365,type,Situation
+187,subject,Nancy
+senior_rank,label,senior rank
+252,type,Statement
+042,type,Situation
+21_15_on_Monday,type,AbstractTime
+112,what,113
+202,subject,Nancy
+318,subject,Henry
+119,subject,Nancy
+051,what,052
+name_of_house_of_ Berkeley,type,PhysicalObject
+with_key,type,Object
+027,info Source,22
+213,type,Situation
+285,info Source,Henry
+usually,label,usually
+320,subject,Henry
+288,then,289
+227,source,Holmes thought the following.
+059,when,1887-07-06 21:15:00
+327,info Source,Holmes
+205,source,Morrison vowed following the Nancy.
+114,source,Police and coachman and Jane and cook saw the following.
+211,has Predicate,want To Help
+1857-07-09,label,1857-07-09
+045,subject,Berkeley AND Nancy AND coachman AND Jane AND cook
+293,then,294
+360,type,Situation
+295,source,Several years
+209,has Predicate,tell
+339,has Predicate,put Out
+062,what,door of the large galass
+280,to,outside
+276,subject,civilian
+185,how,almost
+Royal_Mallows,label,Royal Mallows
+progress_of_incedent,of Whole,incedent
+084,type,Situation
+234,subject,Holmes
+foot_of_ermine,of Whole,ermine
+203,source,Nancy and Henry are old friends.
+agreeable,type,Object
+daughter_of_former_sergeant_of_armies,of Whole,armies
+281,subject,Henry
+348,type,Situation
+251,source,Holmes told the following to Henry.
+hair_of_ Morrison,of Whole,Morrison
+370,type,Statement
+131,source,The man entered from the garden to the living room of the room.
+164,subject,Holmes
+363,source,Holmes went to listen to the progress of the subsequent incident Wednesday Murphy.
+passionately,label,passionately
+size_of_ Garden,of Whole,Garden
+222,info Source,owner of lodge of Hudson street
+134,source,Beast had five paws.
+222,type,Statement
+large_glass_door_of_living_room,of Part,large glass door
+191,has Predicate,scare
+276,then,277
+146,subject,beast
+277,has Predicate,offer
+192,type,Statement
+077,source,Berkeley met Nancy in the living room of the room.
+in_front_of_ Rasheen,type,OFobj
+281,info Source,Henry
+326,type,Thought
+175,from,Hudson Street
+room_of_ Nancy,of Part,room
+063,type,Situation
+daughter_of_former_sergeant_of_armies,type,PhysicalObject
+size_of_ Garden,type,OFobj
+336,info Source,Holmes
+016,type,Situation
+250,subject,Holmes
+251,subject,Holmes
+140,has Predicate,have
+282,whom,rebels
+195,type,Statement
+307,has Predicate,earn
+111,source,Berkeley and Nancy did not have the key.
+284,type,Statement
+136,has Predicate,have
+077,subject,Berkeley
+298,source,Henry earned money in the magic.
+213,when,Friday
+329,info Source,Holmes
+187,subject,Henry
+every_night,label,every night
+215,source,Henry is a magician and entertainer.
+marriage,label,marriage
+someone,label,someone
+283,what,284
+beast,label,beast
+104,type,Situation
+371,subject,Davide
+162,source,Monday 19 at 30 minutes to 21 o'clock
+265,subject,Nancy
+332,how,with key
+306,source,Henry is shown to the soldier magic tricks.
+character_of_ Berkeley,label,character of Berkeley
+face_of_ Berkeley,type,OFobj
+083,has Property,locked
+033,when,many days
+India,label,India
+233,source,Beast ran away.
+044,where,30 yards from the main street
+272,source,Berkeley was able to get ahead.
+341,has Property,thin
+031,has Property,not Violent
+168,subject,Morrison
+267,at the same time,268
+172,subject,Morrison
+356,if,357
+story,label,story
+347,subject,beast
+324,type,Statement
+157,type,Situation
+030,source,Berkeley is sometimes obsessive.
+373,what,postscript of Samuel
+fireplace,type,PhysicalObject
+188,has Property,shaky
+back_of_head_of_ Berkeley,of Part,back
+220,info Source,owner of lodge of Hudson street
+barrack_of_ India,label,barrack of India
+309,what,312
+door,label,door
+110,what,stick
+137,subject,total length of beast
+210,type,Statement
+296,subject,Henry
+113,how,twice
+101,type,Situation
+235,subject,Watson
+stride_of_beast,label,stride of beast
+lodge_of_ Hudson_street,of Whole,Hudson street
+128,has Predicate,cannot Take
+021,subject,Berkeley
+019,has Property,beautiful
+dwellers_of_mountain,type,OFobj
+210,subject,Morrison
+180,source,Henry has a box.
+286,subject,Henry
+house_of_ Henry,type,Place
+eye_of_beast,label,eye of beast
+118,info Source,Holmes
+crime_of_ Davide,type,OFobj
+168,type,Situation
+345,subject,eye of beast
+244,subject,Henry
+name_of_house_of_ Berkeley,of Part,name
+232,how,box
+lie,type,PhysicalObject
+086,source,Berkeley and Nancy had been arguing.
+044,type,Situation
+coachman,label,coachman
+353,subject,Teddy
+138,subject,stride of beast
+277,subject,Henry
+002,whom,Watson
+224,when,1887-07-07 21:00:00
+070,source,Living room of the room is not rarely used at night.
+barrack_of_ India,of Whole,India
+025,how,passionately
+361,type,Situation
+238,subject,Holmes
+229,source,Henry saw the bickering of Nancy and Berkeley in the main street.
+067,what,iron fence
+someone,type,Person
+136,type,Situation
+in_front_of_ Rasheen,of Part,in front
+216,type,Statement
+motive_of_killing_ Berkeley,of Whole,killing Berkeley
+103,subject,Berkeley
+362,type,Situation
+007,has Predicate,belong To
+312,info Source,Holmes
+307,info Source,256
+dwelleers_of_mountain,of Whole,mountain
+189,what,190
+025,type,Situation
+309,has Predicate,say
+206,type,Statement
+111,subject,Berkeley AND Nancy
+character,type,Object
+171,has Predicate,say
+139,type,Situation
+050,source,Nancy attended the meeting of the St. George's union.
+285,subject,first battalion of Royal Mallows
+171,what,185
+233,has Predicate,escape
+256,what,288
+287,source,Henry was tortured to Gyakuto us.
+223,type,Statement
+223,has Predicate,speak
+158,subject,Nancy
+236,subject,Simpson
+218,source,Woman of the landlord have not seen the beast.
+292,info Source,Henry
+317,whom,rebels
+191,source,Morrison is horrible Henry.
+Garden,type,Object
+105,type,Situation
+269,what,marriage
+221,type,Statement
+152,has Predicate,think
+302,type,Situation
+259,type,Statement
+078,subject,Berkeley
+356,what,Holmes
+036,has Property,alone
+238,source,Holmes meet in Simpson Hudson Street on Thursday.
+window_of_living_room,label,window of living room
+2_feet,type,PhysicalObject
+stride,type,Object
+247,has Property,handsome
+050,type,Situation
+266,info Source,Henry
+room,label,room
+036,subject,Berkeley
+309,what,327
+057,type,Situation
+263,time,1857-07-09 00:00:00
+256,what,277
+211,info Source,Morrison
+022,what,025
+075,type,Situation
+052,type,Situation
+239,when,Thursday
+256,what,285
+220,source,Henry has put the beast in a box.
+286,source,Henry was taken to Gyakuto us.
+217,what,beast
+240,source,Holmes and Watson met Henry.
+024,source,Berkeley had loved passionately the Nancy.
+013,has Predicate,promote
+035,type,Situation
+174,where,Rasheen
+036,when,night
+249,has Predicate,scare
+100,subject,Nancy
+165,subject,Berkeley AND Morrison
+237,type,Situation
+face,label,face
+326,has Predicate,call
+the_ Irish_regiments,type,Object
+196,then,198
+079,when,21:25
+013,type,Situation
+337,type,Statement
+372,has Predicate,exist
+165,what,love relationship
+273,time,1857-06-09 00:00:00
+solider,label,solider
+lodge,type,Object
+Holmes,label,Holmes
+076,has Predicate,see
+034,source,Berkeley believe in superstition.
+256,what,276
+169,subject,Morrison
+211,subject,Morrison
+104,has Predicate,think
+138,type,Situation
+armies,type,Object
+289,subject,Henry
+160,when,21 15 on Monday
+snake_killer,label,snake killer
+256,what,290
+085,has Predicate,hear
+068,has Property,low
+151,how,together
+331,type,Statement
+footprint_of_man_ A N D_footprint_of_beast,of Part,footprint
+130,what,footprint of man AND footprint of beast
+336,type,Statement
+340,type,Situation
+voice,label,voice
+072,type,Situation
+024,has Predicate,love
+129,from,window of living room
+165,has Predicate,not Have
+box,label,box
+233,subject,beast
+239,where,Hudson street
+346,source,Holmes said the following:.
+298,has Predicate,earn
+119,type,Situation
+091,type,Situation
+286,info Source,Henry
+222,has Property,bent
+232,what,beast
+stride_of_beast,type,OFobj
+237,subject,Holmes
+157,what,key of living room
+008,subject,incident
+211,source,Morrison want to help Nancy.
+047,has Predicate,have
+guest,label,guest
+222,subject,body of Henry
+113,info Source,Jane
+306,type,Situation
+047,what,guest
+316,source,Nancy condemned the following.
+279,what,bypath
+owner_of_lodge_of_ Hudson_street,type,OFobj
+267,has Predicate,love
+body_of_ Henry,of Part,body
+162,when,From 19 30 to 21 00 on Monday
+fireplace,label,fireplace
+man,type,Person
+093,type,Situation
+first_battalion_of_ Royal_ Mallows,type,PhysicalObject
+091,source,Door of the large glass was open.
+171,what,200
+071,when,21:15
+170,subject,Holmes
+common_sense,label,common sense
+187,how,friendly
+201,subject,Morrison
+185,has Predicate,fall
+158,when,1887-07-06 19:30:00
+079,time,1887-07-06 21:25:00
+372,info Source,Holmes
+slave_of_dwellers_of_mountain,label,slave of dwellers of mountain
+196,subject,Nancy AND Henry
+203,has Property,old friend
+013,why,Indian Rebellion
+witness_of_ Henry_ A N D_witness_of_ Holmes,of Whole,Henry AND witness
+several_years,type,AbstractTime
+311,has Predicate,understand
+262,where,first battalion of Royal Mallows
+174,source,Morrison and Nancy went to Rasheen before 15 pm on 21.
+171,type,Situation
+066,has Property,separated
+288,type,Statement
+298,type,Statement
+162,has Predicate,exist
+023,info Source,22
+sometimes,type,AbstractTime
+ichneumon,type,Animal
+key_of_living_room,of Whole,living room
+074,subject,073
+288,source,Henry's body was bent.
+204,source,Henry came down.
+foot_of_ermine,label,foot of ermine
+152,what,156
+living_room,type,Object
+owner_of_lodge_of_ Hudson_street,label,owner of lodge of Hudson street
+first_battalion_of_ Royal_ M Allows,label,first battalion of Royal MAllows
+247,source,Henry In the old days was a handsome man.
+monitoring_ Henri,type,PhysicalObject
+255,type,Statement
+159,when,19 30 on Monday
+313,what,086
+069,when,1887-07-06 21:15:00
+strange_word,label,strange word
+243,subject,Henry
+081,where,living room
+264,info Source,Henry
+129,to,living room
+246,has Property,dirty
+134,subject,beast
+290,info Source,Henry
+114,has Predicate,see
+266,source,Nancy was the daughter of ensign sergeant.
+035,what,036
+187,type,Statement
+095,subject,Berkeley
+244,what,whole body
+362,subject,Murphy
+chair,type,PhysicalObject
+109,has Predicate,not Know
+003,type,Situation
+114,what,115
+274,source,Henry can marry Nancy.
+258,has Property,not Criminal
+155,subject,Berkeley
+133,has Predicate,run
+362,has Predicate,walk
+former_sergeant_of_armies,of Whole,armies
+037,has Property,heroic personallity AND supple personality
+door_of_the_large_galass,type,PhysicalObject
+085,what,086
+066,source,Garden and main street are separated by fence.
+30_years,type,AbstractTime
+early,type,Object
+216,source,Henry is a sideshow at the soldiers of the dining room.
+033,type,Situation
+312,type,Statement
+police_ A N D_doctor,label,police AND doctor
+063,subject,resident
+238,type,Situation
+153,has Predicate,kill
+309,what,328
+common_sense,type,PhysicalObject
+015,when,1859-07-06
+359,type,Situation
+110,type,Situation
+249,source,Henry was frightened to Holmes and Watson.
+same_type,type,Object
+352,source,Teddy catch a cobra.
+sometimes,label,sometimes
+284,source,Berkeley was selling Henry to Gyakuto us.
+long_claws,type,PhysicalObject
+040,has Predicate,rent
+367,has Predicate,ask
+242,source,Henry of the room is hot and humid.
+head,type,Object
+161,subject,Nancy
+309,what,324
+184,info Source,Morrison
+294,type,Statement
+328,has Predicate,not Call
+body_of_ Henry,type,PhysicalObject
+079,has Predicate,take
+058,subject,Nancy
+205,what,206
+245,source,Face of Henry wrinkles there were many.
+171,what,210
+165,type,Thought
+277,source,Henry was offered the following.
+068,subject,wall
+364,source,Holmes and Watson caught up with Murphy.
+dining_room_of_lodge,type,OFobj
+016,source,Nancy is the daughter of former sergeant of armies of Royal Mallows.
+048,type,Situation
+355,has Predicate,please
+268,info Source,Henry
+room_of_ Nancy,of Whole,Nancy
+Morrison,type,Object
+056,type,Situation
+327,has Predicate,take
+cause_of_161,label,cause of 161
+173,source,Meeting of the St. George union took place in Watts Street Church.
+053,source,Morrison is a young woman.
+238,when,1887-07-09
+010,time,1887-07-06 20:00:00
+284,subject,Berkeley
+knee_of_ Henry,of Part,knee
+daughter_of_ensign_sergeant,type,OFobj
+footprint_of_man_ A N D_footprint_of_beast,of Whole,man AND footprint of beast
+Royal_MAllows,type,Object
+postscript,label,postscript
+135,source,Beast had the long claws.
+098,has Predicate,think
+280,info Source,Henry
+231,type,Thought
+295,has Predicate,wander
+190,source,Henry died 30 years ago.
+back,label,back
+099,what,criminal
+009,has Predicate,equal To
+slave_of_dwellers_of_mountain,type,OFobj
+285,has Predicate,be Saved
+usually,type,Object
+282,type,Statement
+help,type,PhysicalObject
+001,what,Watson
+205,subject,Morrison
+135,type,Situation
+264,has Property,sergeant
+030,type,Situation
+048,where,Rasheen
+301,subject,Henry
+089,has Predicate,scream
+042,source,Rasheen is surrounded by garden.
+059,has Predicate,exist
+slave_of_dwellers_of_mountain,of Whole,dwellers
+208,type,Statement
+043,type,Situation
+006,source,Berkeley was killed.
+315,what,316
+322,subject,Berkeley
+283,source,Henry heard the following.
+265,source,Nancy was the most beautiful woman in the first battalion of the Royal Mallows.
+124,type,Situation
+277,what,278
+dwellers_of_mountain,of Whole,mountain
+032,has Property,not Obsessive
+bird,label,bird
+face_of_ Henry,of Part,face
+182,subject,Henry
+363,type,Situation
+265,has Property,beautiful
+349,info Source,Henry
+152,what,155
+015,what,sergeant
+111,type,Situation
+006,subject,Berkeley
+large_glass_door_of_living_room,type,OFobj
+226,what,Indian rupee
+299,subject,Henry
+270,type,Statement
+081,subject,Berkeley AND Nancy
+209,type,Statement
+236,has Property,boy scout
+281,has Predicate,be Ambushed
+181,source,Henry was looking down.
+329,subject,Henry
+main_street,label,main street
+30_yards_from_the_main_street,type,Place
+218,type,Statement
+317,info Source,Holmes
+incident,label,incident
+370,subject,Davide
+014,has Predicate,get Married
+195,what,wrinkle
+eye_of_beast,of Part,eye
+same_type,label,same type
+072,subject,Nancy
+magic,type,PhysicalObject
+106,has Predicate,collect
+125,has Predicate,think
+173,info Source,Morrison
+353,source,Every night
+124,has Property,bad mood
+138,what,3 inches
+owner_of_lodge_of_ Hudson_street,of Whole,lodge
+192,has Property,black
+324,subject,Nancy
+114,subject,police AND coachman AND Jane AND cook
+033,source,Berkeley feels down for many days.
+243,type,Situation
+86,label,86
+every_night,type,AbstractTime
+voice_of_ Nancy,of Part,voice
+318,type,Statement
+353,has Predicate,hunt
+249,whom,Holmes AND Watson
+180,subject,Henry
+063,from,living room
+235,what,witness of Henry AND witness of Holmes
+245,type,Situation
+house,label,house
+330,type,Thought
+366,info Source,Murphy
+234,source,Holmes hear from Henry.
+063,has Predicate,can Go
+preface,label,preface
+126,has Predicate,equal To
+057,source,Meeting of the St. George union was completed in 20 hours 40 minutes Monday.
+101,source,Nancy was transferred to his room.
+291,has Predicate,be Killed
+286,has Predicate,be Taken
+171,what,186
+227,what,229
+359,subject,Henry
+chair,label,chair
+178,has Predicate,meet
+347,source,Beast is a mongoose.
+iron_fence,label,iron fence
+foot,type,Object
+civilian,label,civilian
+145,source,Beast is a kind of beast of weasel and marten.
+body_of_ Henry,label,body of Henry
+stride_of_beast,of Part,stride
+118,source,Nancy does not have a conflict of as criminal.
+256,has Predicate,tell
+069,source,Nancy was in the living room of the room in 15 minutes at 21.
+126,what,important event of incident
+218,info Source,owner of lodge of Hudson street
+365,has Predicate,say
+373,has Predicate,exist
+369,type,Statement
+121,type,Situation
+009,subject,Royal Mallows
+Royal_Mallows,type,Object
+night,type,AbstractTime
+large_glass_door_of_living_room,of Whole,living room
+107,type,Situation
+239,when,1887-07-09
+015,source,At that time
+ermine,label,ermine
+snake_killer,type,Animal
+272,has Predicate,can Get Ahead
+301,source,Henry died.
+back_of_head_of_ Berkeley,of Whole,head of Berkeley
+322,whom,Berkeley
+198,type,Statement
+200,whom,Morrison
+159,source,Monday 19:30
+078,has Predicate,die
+256,what,286
+170,has Predicate,hear
+170,type,Situation
+crime,label,crime
+306,info Source,256
+137,source,The total length of the beast is a 2 ft.
+263,has Predicate,exist
+head_of_ Berkeley,of Whole,Berkeley
+dwelleers,label,dwelleers
+212,what,house of Henry
+288,why,287
+large_glass_door_of_living_room,label,large glass door of living room
+035,source,Berkeley dislike the following.
+298,info Source,Henry
+356,type,Situation
+369,has Predicate,equal To
+007,what,Royal Mallows
+368,subject,Holmes
+at_that_time,type,AbstractTime
+004,from,Waterloo
+336,source,Henry was put Teddy into the box.
+052,has Predicate,go
+270,at the same time,1857-07-09
+197,type,Statement
+155,has Predicate,faint
+295,where,Afghanistan
+105,how,stick
+275,subject,civilian
+309,what,318
+227,subject,Holmes
+350,type,Situation
+door_of_the_large_galass,label,door of the large galass
+old_soldier,type,Person
+344,subject,nose of beast
+rebels,label,rebels
+032,type,Situation
+156,has Predicate,hit
+108,subject,Berkeley
+256,source,Henry said the following:.
+many_days,label,many days
+368,has Predicate,say
+011,has Predicate,equal To
+268,source,Nancy had loved Henry.
+nose_of_beast,label,nose of beast
+125,subject,Holmes
+twice,label,twice
+217,has Predicate,keep
+364,has Predicate,catch
+lamp_of_living_room,label,lamp of living room
+end_of_ Darjeeling,of Part,end
+20_am_on_Monday,label,20 am on Monday
+109,source,Jane and the coachman and the cook did not know the wood carving of the club.
+004,source,On Thursday at 11:10
+260,subject,Henry
+witness_of_ Henry_ A N D_witness_of_ Holmes,type,Person
+256,what,291
+daughter,label,daughter
+079,type,Situation
+044,subject,Rasheen
+345,has Property,red
+056,source,Meeting of the St. George union was started at Monday 20.
+nose_of_beast,type,OFobj
+father_of_ Nancy,label,father of Nancy
+084,source,Jane called the cook.
+witness_of_ Henry_ A N D_witness_of_ Holmes,of Part,witness
+039,where,Aldershot
+034,type,Situation
+first_battalion_of_ Royal_ Mallows,type,OFobj
+023,type,Situation
+cage,type,PhysicalObject
+079,when,1887-07-06 21:25:00
+290,then,291
+291,source,Gyakuto who was killed the people of the mountain.
+hair_of_beast,of Whole,beast
+003,has Predicate,follow
+the_ St._ George_union,type,Object
+094,has Predicate,faint
+249,type,Situation
+256,what,257
+121,source,Temporarily
+040,subject,Berkeley
+301,info Source,300
+300,source,Mukashinajimi of Nancy and Henry thinks the following.
+051,type,Situation
+264,at the same time,265
+057,time,1887-07-06 20:40:00
+over_30_years,label,over 30 years
+368,what,373
+hair_of_ Morrison,type,OFobj
+motive_of_killing_ Berkeley,type,PhysicalObject
+341,subject,beast
+139,source,Beast has a long torso.
+lamp,label,lamp
+eye_of_ Henry,of Part,eye
+316,what,317
+369,where,Old Testament
+349,what,ichneumon
+1887-07-06T21_15_00_~,label,1887-07-06 21:15:00 ~
+221,what,beast
+023,source,Barkeley and Nancy did not argue.
+279,subject,Berkeley
+277,type,Statement
+270,subject,Henry
+cause_of_161,of Part,cause
+301,has Predicate,die
+barrack,type,Place
+256,what,267
+263,when,30 years ago
+080,has Predicate,hear
+256,what,281
+273,subject,Henry
+271,source,Berkeley had a liberal arts.
+marten,label,marten
+016,has Predicate,equal To
+several_years,label,several years
+184,has Property,turn Pale
+body_of_ Henry,type,OFobj
+360,has Predicate,suffer
+020,has Property,beautiful
+282,then,286
+man_ A N D_footprint_of_beast,of Whole,beast
+204,subject,Herny
+episode_of_ Uriah_and_ Bathsheba,label,episode of Uriah and Bathsheba
+meeting_of_the_ St._ George_union,of Whole,the St. George union
+228,subject,Henry
+134,type,Situation
+189,type,Statement
+352,subject,Teddy
+288,has Predicate,be Bent
+267,subject,Berkeley AND Henry
+295,when,several years
+072,has Predicate,turn On
+299,source,Henry was hope the following.
+289,type,Statement
+274,info Source,Henry
+315,type,Statement
+306,has Predicate,show
+258,subject,Henry
+cobra,type,Animal
+097,source,Coachman have called the police and a doctor.
+183,has Predicate,shout
+256,what,294
+356,source,At the time of the following
+309,what,334
+213,subject,Henry
+182,source,Henry was bending the knee.
+124,when,1887-07-06 21:15:00
+face_of_ Henry,label,face of Henry
+167,subject,hair of Morrison
+110,source,Jane and the coachman and the cook have overlooked a wood carving of the club.
+321,type,Statement
+141,subject,beast
+242,type,Situation
+018,where,Royal Mallows
+088,type,Situation
+cobra,label,cobra
+071,type,Situation
+important_event_of_incident,label,important event of incident
+171,what,207
+269,type,Statement
+124,source,Nancy was grumpy at 21:15 on Monday.
+360,what,guilt
+police,label,police
+022,time,1887-07-08 00:00:00
+with_key,label,with key
+coward,type,Person
+099,type,Situation
+garden,label,garden
+170,whom,Morison
+023,subject,Berkeley AND Nancy
+weapon,type,PhysicalObject
+160,when,1887-07-06 21:15:00
+017,type,Situation
+073,subject,Jane
+301,type,Situation
+092,subject,coachman
+268,at the same time,269
+008,when,1887-07-06
+353,when,every night
+029,type,Situation
+172,source,Morrison want to help Nancy.
+motive,label,motive
+069,subject,Nancy
+090,source,Coachman went to the door of the large glass in the living room of the room.
+298,what,money
+209,what,lie
+342,type,Situation
+231,subject,Henry
+extreme,label,extreme
+278,subject,Henry
+112,source,Jane heard the following.
+218,subject,owner of lodge of Hudson street
+214,what,224
+193,type,Statement
+039,subject,first battalion of Royal MAllows
+256,what,273
+179,type,Statement
+meeting,type,Object
+310,subject,Nancy
+081,source,Berkeley and Nancy had been arguing in the living room of the room.
+231,info Source,Holmes
+227,type,Situation
+217,type,Statement
+171,what,191
+092,type,Situation
+034,what,superstition
+299,info Source,Henry
+115,has Predicate,distort
+336,has Predicate,put Into
+144,source,Beast tried to catch the bird.
+340,source,Beast has the hair of red tea.
+voice_of_ Nancy,of Whole,Nancy
+30_years_ago,label,30 years ago
+300,type,Situation
+175,from,Watts Street
+372,type,Statement
+102,source,Berkeley was killed by blunt weapons
+meeting_of_the_ St._ George_union,label,meeting of the St. George union
+097,what,police AND doctor
+214,what,216
+living_room,type,Place
+secret,label,secret
+332,subject,Henry
+049,type,Situation
+122,what,123
+267,source,Berkeley and Henry loved the Nancy.
+357,source,Nancy is arrested.
+355,type,Situation
+144,subject,beast
+119,what,information
+father_of_ Nancy,type,OFobj
+102,how,blunt weapon
+336,subject,Henry
+footprint_of_man_ A N D_footprint_of_beast,of Whole,man AND footprint
+056,time,1887-07-06 20:00:00
+slave,type,Object
+123,subject,Morrison
+183,source,Henry cried Nancy.
+333,info Source,Holmes
+many_times,label,many times
+monitoring_ Henri,label,monitoring Henri
+290,type,Statement
+cause,type,Object
+366,source,Berkeley died of stroke.
+290,has Predicate,be Taken
+094,source,Nancy had fainted.
+voice_of_ Nancy,label,voice of Nancy
+witness,label,witness
+299,type,Object
+332,type,Statement
+085,what,088
+056,when,20 am on Monday
+358,has Predicate,play Foul
+060,source,Living room is one in Rasheen.
+254,whom,Henry
+125,source,Holmes thought the following.
+269,source,Nancy and Berkeley had been decided to get married.
+048,subject,incident
+309,what,311
+229,type,Thought
+172,type,Statement
+progress,type,Object
+280,from,barrack
+superstition,type,PhysicalObject
+267,time,1857-07-09 00:00:00
+243,has Predicate,sit
+armies,label,armies
+108,info Source,police
+347,what,mongoose
+373,type,Statement
+167,source,Morrison has a hair of blonde.
+witness_of_ Henry_ A N D_witness_of_ Holmes,of Whole,Henry AND witness of Holmes
+eye_of_beast,type,OFobj
+long_torso,type,PhysicalObject
+178,info Source,Morrison
+ichneumon,label,ichneumon
+275,type,Statement
+313,where,main street
+326,source,Henry is call for help.
+177,info Source,Morrison
+126,subject,129
+father_of_ Nancy,of Whole,Nancy
+character_of_ Berkeley,of Whole,Berkeley
+173,type,Statement
+350,what,beast
+100,type,Situation
+slave_of_dwellers_of_mountain,of Whole,mountain
+299,type,Statement
+soldier,type,Person
+173,has Predicate,take Place
+lodge_of_ Hudson_street,label,lodge of Hudson street
+161,type,Situation
+148,what,149
+029,has Property,violent
+086,subject,Berkeley AND Nancy
+124,when,21 15 on Monday
+163,source,Morrison knows the moody cause of Nancy.
+158,has Property,not bad mood
+178,source,Morrison and Nancy met Henry Hudson Street.
+window,label,window
+021,source,Berkeley was happy.
+256,type,Object
+171,what,182
+147,subject,beast
+193,source,The eyes of Henry is to scintillate.
+key_of_living_room,type,PhysicalObject
+325,has Predicate,think
+117,subject,Holmes
+256,what,304
+30_yards,label,30 yards
+progress_of_incedent,of Part,progress
+175,info Source,Morrison
+171,what,174
+245,subject,face of Henry
+040,what,house
+slave,label,slave
+lamp_of_living_room,of Part,lamp
+344,has Property,long
+rebels,type,Person
+magic,label,magic
+224,source,Henry had been crying or growled in the bedroom on the night of Monday night and Tuesday.
+stride_of_beast,type,PhysicalObject
+hair_of_ Morrison,of Part,hair
+210,because,211
+Samuel,type,Object
+313,source,Henry saw the bickering of Nancy and Berkeley from the main street.
+episode,type,Object
+Henry,label,Henry
+003,subject,Watson
+353,type,Situation
+292,type,Statement
+gardern,type,Place
+032,subject,Berkeley
+126,source,It is an important event of the incident the following.
+key,label,key
+345,type,Situation
+secret_of_ Henry,of Whole,Henry
+103,where,back of head of Berkeley
+Davide,label,Davide
+266,type,Statement
+head_of_ Berkeley,label,head of Berkeley
+070,has Predicate,not Be Used
+almost,label,almost
+331,subject,Henry
+031,subject,Berkeley
+197,source,Morrison was waiting for a few minutes.
+024,whom,Nancy
+025,info Source,22
+294,source,Henry went to Afghanistan.
+075,source,Berkeley was in the dining room.
+046,has Predicate,not Have
+203,subject,Nancy AND Henry
+050,has Predicate,attend
+215,info Source,owner of lodge of Hudson street
+company_of_first_battalion_of_ Royal_ Mallows,label,company of first battalion of Royal Mallows
+084,has Predicate,call
+235,has Predicate,become
+256,what,258
+criminal,type,Person
+171,what,196
+273,what,274
+first_battalion_of_ Royal_ M Allows,of Whole,Royal MAllows
+106,what,weapon
+271,time,1857-07-09 00:00:00
+motive_of_killing_ Berkeley,type,OFobj
+room_of_ Henry,of Part,room
+331,source,Henry did not want to reveal the secrets of Henry.
+365,subject,Murphy
+171,what,173
+112,subject,Jane
+135,subject,beast
+059,type,Situation
+348,what,349
+256,what,307
+236,where,Baker Street
+172,what,Nancy
+371,info Source,Holmes
+065,source,Garden has a size of 30 yards.
+bedroom,label,bedroom
+156,source,Berkeley might have hit his head on the furnace grid.
+196,has Predicate,talk
+238,has Predicate,meet
+294,then,295
+eye_of_ Henry,of Whole,Henry
+143,type,Situation
+285,source,The first battalion and a civilian of the Royal Mallows was survived.
+326,what,help
+155,source,Berkeley fainted with fear to the man.
+336,where,box
+130,source,Holmes found the footprints of man and beast.
+269,at the same time,270
+029,source,Berkeley sometimes become violent.
+total_length_of_beast,of Whole,beast
+137,has Predicate,equal To
+352,what,cobra
+005,source,Holmes is examining.
+216,info Source,owner of lodge of Hudson street
+371,type,Statement
+366,why,apoplexia
+283,subject,Henry
+story,type,PhysicalObject
+200,has Predicate,ask
+062,subject,living room
+076,source,Coachman saw the following.
+secret,type,Object
+mountain,label,mountain
+212,time,1887-07-08 21:00:00
+money,type,PhysicalObject
+Henry,type,Object
+161,time,1887-07-06 21:00:00
+079,subject,Jane
+house_of_ Henry,of Part,house
+room_of_ Henry,type,OFobj
+263,when,1857-07-09
+369,what,David
+meeting_of_the_ St._ George_union,of Part,meeting
+370,source,Sometimes
+210,what,truth
+cage,label,cage
+096,where,living room
+129,source,Third party entered from the window to the room in the living room.
+191,subject,Morrison
+342,source,Beast is a supple.
+episode_of_ Uriah_and_ Bathsheba,of Whole,Uriah and Bathsheba
+268,type,Statement
+210,whom,Holmes
+room_of_ Nancy,type,OFobj
+304,info Source,256
+postscript_of_ Samuel,label,postscript of Samuel
+009,source,Royal Mallows is one of the Irish regiments.
+1887-07-08_~,type,AbstractTime
+child,label,child
+297,type,Statement
+226,whom,owner of lodge of Hudson street
+299,what,300
+house_of_ Henry,label,house of Henry
+door,type,Object
+164,what,165
+192,subject,face of Henry
+223,info Source,owner of lodge of Hudson street
+episode_of_ Uriah_and_ Bathsheba,type,PhysicalObject
+curtain,label,curtain
+013,source,Berkeley was promoted to a senior rank by the Indian Rebellion.
+004,time,1887-07-09 11:10:00
+198,subject,Nancy
+040,source,Berkeley had rented a house.
+315,subject,Henry
+voice_of_ Nancy,type,PhysicalObject
+259,has Predicate,commit Suicide
+hair_of_beast,of Part,hair
+22_o_clock_from_Monday_21_o_clock,label,22 o'clock from Monday 21 o'clock
+353,what,cobra
+275,has Predicate,be Besieged
+070,subject,living room
+199,subject,Henry
+006,type,Situation
+337,source,Henry was away from the living room of the room.
+263,source,The first battalion of the Royal Mallows was Bute Nii of India 30 years ago.
+back_of_head_of_ Berkeley,type,PhysicalObject
+civilian,type,Person
+126,subject,128
+231,source,Henry went to the living room of the room.
+271,at the same time,1857-07-09
+275,then,276
+005,has Predicate,examine
+364,subject,Holmes AND Watson
+002,type,Situation
+087,source,Nancy cried the cowards many times.
+22,label,22
+episode_of_ Uriah_and_ Bathsheba,type,OFobj
+128,source,Berkeley and Nancy can not take out the room room key.
+119,source,Nancy could not speak information.
+same_type_of_crime,of Whole,crime
+140,source,Beast has a short leg.
+273,source,Henry was wondering the following to a Indian Rebellion.
+Garden,label,Garden
+330,source,Henry seems to be the culprit.
+010,when,1887-07-06 20
+097,has Predicate,call
+127,source,The key to living room of the room was taken away to someone.
+031,source,Berkeley won't go bad at Nancy.
+289,info Source,Henry
+201,whom,anyone
+237,what,monitoring Henri
+069,where,living room
+280,subject,Henry
+father,type,Object
+311,info Source,Holmes
+333,subject,Henry
+curtain,type,PhysicalObject
+033,subject,Berkeley
+262,type,Statement
+first_battalion_of_ Royal_ M Allows,type,OFobj
+052,from,meeting of the St. George union
+256,what,262
+339,subject,Henry
+214,what,222
+291,subject,rebels
+130,type,Situation
+criminal_of_incident,type,Person
+065,has Predicate,equal To
+19_30_on_Monday,label,19:30 on Monday
+344,source,Beast has a long thin nose.
+251,type,Situation
+291,then,292
+Berkeley,label,Berkeley
+317,source,Berkeley has sold Henry to Gyakuto.
+23_45,type,AbstractTime
+113,has Predicate,say
+330,subject,Henry
+269,time,1857-07-09 00:00:00
+300,label,300
+dwelleers_of_mountain,type,OFobj
+256,what,295
+003,what,Holmes
+barrack_of_ India,type,Place
+258,type,Statement
+005,type,Situation
+287,has Predicate,be Tortured
+078,type,Situation
+223,source,Henry sometimes
+eye,type,Object
+20_40_on_Monday,type,AbstractTime
+whole_body,type,PhysicalObject
+248,source,Henry is grumpy.
+191,info Source,Morrison
+058,time,1887-07-06 21:15:00
+342,subject,beast
+037,source,Berkeley has a supple personality and heroic personality.
+302,whom,Berkeley
+139,has Predicate,have
+115,subject,face of Berkeley
+205,whom,Nancy
+348,source,Henry said the following:.
+046,what,child
+one_of_the_ Irish_regiments,of Whole,the Irish regiments
+290,subject,Henry
+049,source,Nancy had been involved in the establishment of St. George union.
+333,what,Teddy
+029,when,sometimes
+outside,type,Place
+204,info Source,Nancy
+200,subject,Nancy
+338,type,Situation
+256,what,302
+013,subject,Berkeley
+095,near,furnace lattice
+total_length_of_beast,label,total length of beast
+end_of_ Darjeeling,label,end of Darjeeling
+daughter_of_former_sergeant_of_armies,label,daughter of former sergeant of armies
+049,has Predicate,involve
+witness_of_ Henry_ A N D_witness_of_ Holmes,label,witness of Henry AND witness of Holmes
+028,info Source,22
+131,has Predicate,enter
+086,type,Situation
+317,type,Statement
+old_days,type,AbstractTime
+197,info Source,Morrison
+057,when,1887-07-06 20:40:00
+256,what,297
+171,what,199
+371,what,same type of crime
+resident,label,resident
+267,at the same time,1857-07-09
+024,type,Situation
+220,subject,Henry
+progress_of_incedent,label,progress of incedent
+248,has Property,grumpy
+size,label,size
+221,subject,Henry
+174,subject,Morrison AND Nancy
+172,info Source,Morrison
+160,source,Monday 15 pm 21
+361,source,Henry is happy.
+303,where,England
+318,then,320
+309,source,Holmes said the following:.
+161,when,From 19 30 to 21 00 on Monday
+147,what,incident
+004,when,1887-07-09 11:10:00
+256,what,289
+short_leg,label,short leg
+327,source,Henry took the key to the living room of the room from Nancy.
+020,subject,Nancy
+eye_of_ Henry,type,OFobj
+143,subject,beast
+1857-07-09,type,AbstractTime
+postscript_of_ Samuel,type,OFobj
+333,source,Henry was suppressed Teddy.
+275,where,barrack
+194,info Source,Morrison
+279,source,Berkeley taught Henri about the way around.
+131,type,Situation
+350,source,Henry is calling the Hebitori the beast.
+head_of_ Berkeley,type,OFobj
+332,info Source,Holmes
+112,type,Situation
+246,subject,face of Henry
+223,what,strange word
+large_glass_door_of_living_room,type,PhysicalObject
+252,what,criminal of incident
+112,has Predicate,hear
+093,has Predicate,see
+031,type,Situation
+128,what,key of living room
+171,what,211
+358,type,Situation
+363,whom,Murphy
+hair_of_beast,type,OFobj
+206,has Predicate,not Say
+117,what,118
+bird,type,Animal
+15-inch_body,label,15-inch body
+character,label,character
+327,subject,Henry
+079,what,tea
+345,source,Beast has a bright red eyes.
+criminal_of_incident,type,OFobj
+103,type,Situation
+first_battalion_of_ Royal_ Mallows,of Part,first battalion
+room_of_ Henry,of Whole,Henry
+30_yards_from_the_main_street,label,30 yards from the main street
+246,source,Face of Henry was dirty.
+200,source,Nancy asked the following to Morrison.
+061,source,Living room of the rooms are facing the main street.
+Hudson_street,type,Object
+234,whom,Henry
+080,subject,Jane
+339,type,Situation
+027,has Property,unusual
+key,type,Object
+255,source,Nancy is arrested.
+180,info Source,Morrison
+first_battalion,type,Object
+026,has Predicate,ideal image of middle-aged couple
+295,info Source,Henry
+121,when,temporarily
+231,has Predicate,enter
+039,has Predicate,station
+054,source,Morrison lives next to the Rasheen.
+dining_room_of_lodge,of Part,dining room
+nose_of_beast,of Whole,beast
+321,what,Henry
+004,when,On Thursday at 11 10
+first_battalion,label,first battalion
+309,what,331
+368,what,371
+151,type,Situation
+company,type,Object
+in_front_of_ Rasheen,label,in front of Rasheen
+sergeant,type,Person
+247,when,old days
+367,whom,Holmes
+cause_of_161,type,OFobj
+278,has Predicate,contact
+346,type,Situation
+information,label,information
+092,has Predicate,enter
+029,subject,Berkeley
+153,source,The man might have killed Berkeley.
+273,when,1857-06-09
+face_of_ Berkeley,of Part,face
+084,what,cook
+room,type,Object
+090,has Predicate,go
+243,source,Henry was sitting in a chair.
+196,info Source,Morrison
+352,type,Situation
+351,source,Beast is a Teddy.
+268,at the same time,1857-07-09
+309,what,333
+size_of_ Garden,label,size of Garden
+131,from,garden
+Berkeley,type,Object
+027,subject,character of Berkeley
+027,source,Berkeley is the unusual character.
+020,source,For over 30 years
+140,subject,beast
+224,info Source,owner of lodge of Hudson street
+hero,label,hero
+032,source,Berkeley is not obsessive to Nancy.
+home,label,home
+092,source,Coachman entered the room in the living room.
+042,has Predicate,be Surrounded
+278,source,To contact Henry is an outer.
+047,type,Situation
+210,source,Morrison told the truth to Holmes.
+362,where,Hudson street
+303,subject,Henry
+286,type,Statement
+238,time,1887-07-09 00:00:00
+062,source,Living room of the room has a door of the large glass.
+283,info Source,Henry
+296,has Predicate,go
+058,source,Nancy went back to Rasheen at 21:15 on Monday.
+335,has Predicate,climb
+250,has Predicate,speak
+fear,type,Object
+309,subject,Holmes
+074,type,Situation
+023,has Predicate,not Argue
+293,what,dwelleers of mountain
+160,time,1887-07-06 21:15:00
+309,what,336
+256,what,296
+190,when,30 years ago
+367,subject,Watson
+264,source,Berkeley and Henry was a sergeant in the company of the first battalion of the Royal Mallows.
+346,subject,Holmes
+together,label,together
+174,type,Statement
+076,subject,coachman
+267,info Source,Henry
+the_large_galass,label,the large galass
+069,time,1887-07-06 21:15:00
+019,type,Situation
+170,source,Holmes heard the story from Morrison.
+058,has Predicate,arrive
+348,subject,Henry
+257,info Source,Henry
+preface,type,Object
+272,subject,Berkeley
+145,type,Situation
+037,type,Situation
+214,subject,owner of lodge of Hudson street
+122,type,Situation
+337,has Predicate,leave
+171,what,195
+child,type,Person
+043,source,Rasheen is located 0.5 miles from the northern camp.
+177,type,Statement
+whole_body,label,whole body
+212,type,Situation
+episode_of_ Uriah_and_ Bathsheba,of Part,episode
+296,info Source,Henry
+085,what,087
+161,has Predicate,hate
+009,what,one of the Irish regiments
+358,source,Berkeley was a despicable deeds.
+099,source,Nancy is close to criminal.
+India,type,Object
+367,type,Situation
+several_minutes,type,AbstractTime
+window,type,Object
+221,has Predicate,use
+012,when,1856-07-06
+company_of_first_battalion_of_ Royal_ Mallows,type,PhysicalObject
+158,time,1887-07-06 19:30:00
+309,what,320
+in_front_of_ Rasheen,of Whole,Rasheen
+owner,label,owner
+171,what,184
+236,type,Situation
+198,source,Nancy got angry.
+272,because,271
+281,whom,rebels
+015,when,at that time
+182,info Source,Morrison
+199,has Property,angry
+mountain,type,Object
+008,time,1887-07-06 00:00:00
+police_ A N D_coachman_ A N D_ Jane_ A N D_cook,label,police AND coachman AND Jane AND cook
+179,subject,Henry
+274,has Predicate,can Marry
+334,subject,Henry
+016,where,Royal Mallows
+094,type,Situation
+057,has Predicate,end
+153,type,Thought
+232,source,Henry've been carrying a beast in the box.
+162,time,1887-07-06 21:00:00
+stride_of_beast,of Whole,beast
+075,has Predicate,exist
+329,source,Henry was afraid the following.
+106,subject,Berkeley
+nose,label,nose
+333,then,334
+298,how,magic
+065,type,Situation
+200,what,201
+030,subject,Berkeley
+317,when,1857-07-09
+322,then,324
+217,subject,Henry
+256,what,263
+014,subject,Berkeley AND Nancy
+275,time,1857-07-09 00:00:00
+074,source,The above is not a habit.
+together,type,Object
+026,where,Royal Mallows
+15-inch_body,type,PhysicalObject
+373,info Source,Holmes
+254,has Predicate,tell
+house_of_ Henry,type,OFobj
+067,source,Fence with the iron fence.
+253,has Property,shiver
+151,has Predicate,exist
+324,has Predicate,faint
+207,subject,Nancy
+217,info Source,owner of lodge of Hudson street
+216,where,dining room of lodge
+224,subject,Henry
+166,source,Morrison is a slender.
+182,has Predicate,bend
+020,when,over 30 years
+274,type,Thought
+face,type,Object
+hair_of_beast,label,hair of beast
+245,has Predicate,have
+171,what,188
+141,type,Situation
+dining_room_of_lodge,of Whole,lodge
+326,info Source,Henry
+285,at the same time,286
+279,then,280
+309,what,337
+ensign_sergeant,type,Object
+296,then,296
+256,what,293
+crime_of_ Davide,type,PhysicalObject
+047,source,Berkeley is rarely not stay overnight guests.
+total_length_of_beast,type,PhysicalObject
+262,when,1857-07-09
+former_sergeant,label,former sergeant
+daughter_of_ensign_sergeant,of Whole,ensign sergeant
+knee_of_ Henry,type,OFobj
+268,what,Henry
+329,type,Statement
+058,type,Situation
+106,source,Berkeley had collected the weapons on the go.
+164,type,Situation
+barrack,label,barrack
+blunt_weapon,label,blunt weapon
+362,source,Murphy is walking down the Hudson Street.
+315,source,Henry saw the following.
+309,what,325
+188,type,Statement
+024,info Source,22
+315,info Source,Holmes
+weasel,label,weasel
+326,subject,Henry
+one_of_the_ Irish_regiments,type,PhysicalObject
+133,subject,man
+276,source,The first battalion and a civilian of the Royal Mallows had been surrounded by the ferocious Gyakuto our one million people.
+072,what,lamp of living room
+156,type,Thought
+003,source,'
+total_length_of_beast,type,OFobj
+320,type,Statement
+104,subject,police
+304,type,Situation
+271,type,Statement
+in_front,label,in front
+282,info Source,Henry
+footprint_of_man_ A N D_footprint_of_beast,type,PhysicalObject
+preface_of_ Samuel,type,OFobj
+370,how,sometimes
+182,type,Statement
+tea,label,tea
+081,type,Situation
+name,type,Object
+331,info Source,Holmes
+344,type,Situation
+060,subject,Rasheen
+060,how,one
+146,source,Beast is greater than the weasel and Sandiaojiao.
+191,what,Henry
+263,where,barrack of India
+349,type,Statement
+130,subject,Holmes
+059,subject,Morrison
+cause_of_161,of Whole,161
+209,whom,police
+lodge_of_ Hudson_street,type,Place
+355,when,every night
+Hudson_street,label,Hudson street
+273,when,Indian Rebellion
+162,subject,Morrison AND Nancy
+end,type,Object
+071,source,Living room of the room did not have a sunshade to 15 minutes at 21.
+022,what,028
+incident,type,PhysicalObject
+one_of_the_ Irish_regiments,label,one of the Irish regiments
+189,info Source,Morrison
+268,subject,Nancy
+030,when,sometimes
+272,info Source,Henry
+important_event,type,Object
+171,what,202
+Samuel,label,Samuel
+dining_room_of_lodge,label,dining room of lodge
+022,whom,Holmes
+blunt_weapon,type,Object
+123,source,Morrison do not know the following:.
+299,has Predicate,hope
+141,has Predicate,can Climb
+end_of_ Darjeeling,type,Place
+030,has Property,obsessive
+289,source,Henry made their way brought to Nepal to Gyakuto us.
+096,has Predicate,not Exist
+214,source,Woman of the landlord said the following:.
+171,subject,Morison
+020,begin,1856-07-06
+085,what,089
+095,has Predicate,die
+207,whom,Morrison
+260,what,motive of killing Berkeley
+330,info Source,Henry
+key_of_living_room,type,OFobj
+214,what,220
+180,has Predicate,have
+107,has Predicate,think
+022,time,1887-07-08
+352,has Predicate,hunt
+133,where,garden
+239,type,Situation
+205,info Source,Morrison
+224,type,Statement
+nose,type,Object
+146,what,weasel OR marten
+087,type,Situation
+224,has Predicate,cry
+032,whom,Nancy
+351,type,Situation
+025,has Predicate,not Love
+important_event_of_incident,type,OFobj
+089,subject,Nancy
+sunshade,type,Object
+343,has Predicate,have
+212,subject,Holmes
+296,then,297
+256,what,272
+214,what,221
+262,subject,Henry
+204,has Predicate,come Down
+171,what,198
+160,type,Situation
+103,what,2-inch tear
+361,has Property,happy
+house,type,PhysicalObject
+190,subject,Henry
+248,subject,Henry
+162,type,Situation
+365,what,366
+190,type,Thought
+281,source,Henry had been ambushed in Gyakuto us with loophole.
+171,what,183
+134,what,5 paws
+016,what,daughter of former sergeant of armies
+045,type,Situation
+355,what,soldiers
+sunshade,label,sunshade
+knee,label,knee
+259,info Source,Henry
+253,source,Henry was trembling.
+head_of_ Berkeley,type,PhysicalObject
+111,what,key of living room
+Nancy,type,Object
+328,source,Henry was not called for help.
+013,when,Indian Rebellion
+013,when,1860-07-06
+256,what,264
+297,at the same time,298
+280,then,281
+079,to,living room
+117,type,Situation
+276,subject,first battalion of Royal Mallows
+224,time,1887-07-07 21:00:00
+334,source,Henry dropped his cane.
+113,type,Statement
+280,type,Statement
+about_ Henry,label,about Henry
+216,has Predicate,do
+171,what,205
+224,when,1887-07-06 21:00:00
+302,subject,Henry
+lodge,label,lodge
+091,subject,large glass door of living room
+073,has Predicate,be Asked
+284,whom,rebels
+048,time,1887-07-06 21:00:00
+316,subject,Nancy
+042,subject,Rasheen
+3_inches,label,3 inches
+104,source,The police thought the following.
+165,source,Berkeley and Morrison do not have a love relationship.
+223,when,sometimes
+161,time,1887-07-06 19:30:00
+203,info Source,Nancy
+310,whom,Henry
+034,subject,Berkeley
+083,subject,living room
+267,type,Statement
+241,subject,Henry
+character_of_ Berkeley,type,OFobj
+235,source,Watson is the witness of Henry Holmes.
+large_glass_door,type,Object
+061,has Predicate,face
+169,type,Situation
+303,source,Henry wanted to return to England.
+daughter_of_ensign_sergeant,type,Person
+139,subject,beast
+158,type,Situation
+282,source,Henry was caught in Gyakuto us.
+368,what,372
+guilt,type,PhysicalObject
+123,info Source,police
+004,has Predicate,go
+047,how,rarely
+157,has Predicate,take
+291,type,Statement
+123,type,Statement
+363,when,1887-07-08 ~
+277,info Source,Henry
+181,subject,Henry
+274,whom,Nancy
+knocking,label,knocking
+motive,type,Object
+character_of_ Berkeley,type,PhysicalObject
+077,whom,Nancy
+159,type,Situation
+194,subject,Hair of Henry
+289,whom,rebels
+279,has Predicate,tell
+250,source,Holmes spoke agreeable Henry.
+002,source,Holmes asked Watson.
+226,type,Situation
+044,source,Rasheen is located within 30 yards from the main street.
+338,has Predicate,ask
+078,where,living room
+178,whom,Henry
+foot_of_ermine,type,OFobj
+weasel_ O R_marten,or Target,weasel
+255,subject,Nancy
+088,has Predicate,shout
+room_of_ Nancy,type,Place
+tea,type,PhysicalObject
+234,has Predicate,hear
+preface_of_ Samuel,of Part,preface
+255,info Source,Holmes
+247,subject,Henry
+227,what,228
+068,type,Situation
+202,info Source,Morrison
+022,type,Situation
+256,what,260
+229,has Predicate,see
+room_of_ Nancy,label,room of Nancy
+one,type,Object
+name_of_house_of_ Berkeley,label,name of house of Berkeley
+foot_of_ermine,type,PhysicalObject
+171,what,192
+269,info Source,Henry
+door_of_the_large_galass,of Part,door
+30_years,label,30 years
+069,has Predicate,exist
+character_of_ Berkeley,of Part,character
+171,what,194
+312,source,Henry went with the Nancy.
+208,when,1887-07-06 21 15 00 ~
+022,what,024
+371,has Predicate,commit
+087,how,many times
+20_40_on_Monday,label,20:40 on Monday
+098,what,099
+218,has Predicate,not See
+274,subject,Henry
+252,subject,Nancy
+192,info Source,Morrison
+085,source,Jane and the cook and the coachman heard the following.
+178,subject,Morrison AND Nancy
+119,has Predicate,cannot Speak
+008,has Predicate,happen
+183,what,_Nancy__
+369,info Source,Holmes
+343,source,Beast has a foot of ermine.
+191,type,Statement
+269,has Property,decided
+important_event,label,important event
+126,type,Situation
+262,when,30 years ago
+171,what,178
+killing_ Berkeley,type,Object
+113,subject,Nancy
+10000_rebels,label,10000 rebels
+068,source,Fence is low.
+360,source,30 years
+weasel_ O R_marten,label,weasel OR marten
+former_sergeant_of_armies,label,former sergeant of armies
+216,what,performance
+108,type,Thought
+295,subject,Henry
+252,source,Nancy are suspected of criminal incidents.
+334,info Source,Holmes
+door_of_the_large_galass,type,OFobj
+window_of_living_room,type,OFobj
+superstition,label,superstition
+159,has Property,close
+098,source,The police thought the following.
+277,then,279
+109,what,stick
+020,type,Situation
+company,label,company
+309,what,335
+crime_of_ Davide,label,crime of Davide
+man_ A N D_footprint_of_beast,of Part,man AND footprint
+136,subject,beast
+236,source,Simpson is one of the Baker Street Boy Scouts.
+face_of_ Berkeley,type,PhysicalObject
+268,time,1857-07-09 00:00:00
+115,source,Face of Berkeley was distorted in extreme.
+055,type,Situation
+292,what,slave of dwellers of mountain
+097,subject,coachman
+069,type,Situation
+witness_of_ Henry_ A N D_witness_of_ Holmes,type,OFobj
+1887-07-06T21_15_00_~,type,AbstractTime
+028,source,Berkeley is a light-hearted old soldier.
+358,subject,Berkeley
+177,source,Hudson Street is a quiet street.
+first_battalion_of_ Royal_ M Allows,type,PhysicalObject
+dwellers,type,Object
+wall,label,wall
+291,info Source,Henry
+290,source,Henry made their way brought to Darjeeling earlier Gyakuto us.
+162,how,together
+012,time,1856-07-06 00:00:00
+180,what,box
+025,subject,Nancy
+329,has Predicate,afraid
+face_of_ Henry,type,OFobj
+cook,type,Person
+171,what,180
+366,type,Statement
+back,type,Object
+090,subject,coachman
+123,what,124
+338,source,Holmes was asked about Teddy to Henry.
+151,subject,beast
+234,type,Situation
+window_of_living_room,type,PhysicalObject
+275,subject,first battalion of Royal Mallows
+041,subject,name of house of Berkeley
+213,has Predicate,live
+186,type,Statement
+voice_of_ Nancy,type,OFobj
+217,source,Henry keeps a beast.
+Darjeeling,label,Darjeeling
+022,what,023
+297,source,Henry lived in Punjab.
+202,what,204
+23_45,label,23:45
+size,type,Object
+232,has Predicate,carry
+241,has Predicate,warm
+136,what,15-inch body
+back_of_head_of_ Berkeley,label,back of head of Berkeley
+footprint_of_man_ A N D_footprint_of_beast,of Whole,beast
+256,what,259
+205,type,Statement
+head,label,head
+162,time,1887-07-06 19:30:00
+265,at the same time,267
+195,subject,face of Henry
+022,what,026
+256,what,270
+073,type,Situation
+186,subject,Henry
+196,when,several minutes
+one_of_the_ Irish_regiments,type,OFobj
+051,has Predicate,hear
+163,type,Situation
+275,info Source,Henry
+truth,type,PhysicalObject
+238,where,Hudson street
+334,then,335
+340,has Property,reddish brown
+036,type,Situation
+213,source,Henry has been living in Hudson Town's lodging since Friday
+lodge_of_ Hudson_street,of Part,lodge
+209,source,Morrison told a lie to the police.
+081,has Predicate,argue
+210,info Source,Morrison
+dining_room,type,Place
+Uriah_and_Bathsheba,type,Object
+178,where,Hudson Street
+368,what,369
+marriage,type,PhysicalObject
+364,type,Situation
+186,what,Nancy
+248,type,Situation
+dwelleers,type,Object
+owner_of_lodge_of_ Hudson_street,of Whole,Hudson street
+Nancy,label,Nancy
+012,has Predicate,soldier
+175,source,Morrison and Nancy went to Rasheen through the Hudson Street from Watts Street.
+nose_of_beast,of Part,nose
+171,what,209
+015,has Predicate,equal To
+244,has Predicate,round
+love_relationship,label,love relationship
+main_stree,label,main stree
+185,subject,Nancy
+059,where,in front of Rasheen
+ermine,type,Object
+049,what,St. George union
+knocking,type,PhysicalObject
+206,subject,Morrison
+039,type,Situation
+256,what,306
+dwellers_of_mountain,label,dwellers of mountain
+251,has Predicate,tell
+198,then,200
+212,has Predicate,find
+242,subject,room of Henry
+335,then,336
+163,subject,Morrison
+188,info Source,Morrison
+099,has Property,close
+former_sergeant_of_armies,type,OFobj
+178,type,Statement
+148,source,Holmes thought the following.
+postscript,type,Object
+love_relationship,type,PhysicalObject
+276,whom,10000 rebels
+266,what,daughter of ensign sergeant
+progress_of_incedent,type,OFobj
+071,what,sunshade
+159,subject,Berkeley AND Nancy
+254,source,Holmes told the following to Henry.
+208,subject,Morrison
+window_of_living_room,of Whole,living room
+256,what,298
+205,has Predicate,swear
+366,subject,Berkeley
+368,what,370
+312,has Predicate,follow
+dining_room_of_lodge,type,Place
+voice,type,Object
+foot_of_ermine,of Part,foot
+147,source,Beast might be related to the incident.
+dwellers_of_mountain,of Part,dwellers
+151,subject,man
+010,type,Situation
+201,has Predicate,not Tell
+head_of_ Berkeley,of Part,head
+103,source,Berkeley had suffered a two-inch laceration to the back of the head.
+307,source,So
+apoplexia,type,PhysicalObject
+200,info Source,Morrison
+321,source,Berkeley saw Henry.
+motive_of_killing_ Berkeley,of Part,motive
+043,where,0.5 miles from the northern camp
+back_of_head_of_ Berkeley,of Whole,Berkeley
+main_street,type,Place
+eye,label,eye
+040,type,Situation
+022,what,027
+progress_of_incedent,type,PhysicalObject
+owner_of_lodge_of_ Hudson_street,of Whole,lodge of Hudson street
+336,then,337
+same_type_of_crime,of Part,same type
+363,has Predicate,ask
+0.5_miles_from_the_northern_camp,type,Place
+111,has Predicate,not Have
+201,what,about Henry
+278,whom,outside
+117,source,Holmes thought the following.
+252,has Predicate,be Suspected
+174,when,20:45
+203,type,Statement
+331,what,secret of Henry
+224,when,Monday night AND Tuesday night
+093,what,094
+214,has Predicate,tell
+317,has Predicate,sell
+339,from,cage
+324,source,Nancy fainted.
+216,subject,Henry
+147,has Predicate,relate
+128,subject,Berkeley AND Nancy
+360,subject,Berkeley
+309,what,313
+171,what,175
+189,source,Nancy was wondering the following:.
+012,type,Situation
+110,subject,Jane AND coachman AND cook
+042,what,gardern
+206,what,about Henry
+055,subject,Morrison
+113,source,Nancy said David twice.
+080,source,Jane heard the following.
+027,type,Situation
+124,subject,Nancy
+187,source,Nancy and Henry told friends.
+postscript_of_ Samuel,of Part,postscript
+eye_of_beast,type,PhysicalObject
+meeting_of_the_ St._ George_union,type,PhysicalObject
+108,source,Wood carving of the club is Berkeley has collected.
+005,what,006
+man_ A N D_footprint_of_beast,type,OFobj
+156,whom,furnace lattice
+149,subject,man
+atonement,label,atonement
+161,label,161
+195,source,Face of Henry has wrinkles.
+288,info Source,Henry
+160,has Predicate,accuse
+373,subject,episode of Uriah and Bathsheba
+guilt,label,guilt
+127,has Predicate,take
+044,has Predicate,be Located
+281,where,bypath
+332,has Predicate,escape
+Morrison,label,Morrison
+343,what,foot of ermine
+053,subject,Morrison
+283,type,Statement
+door_of_the_large_galass,of Whole,the large galass
+crime_of_ Davide,of Whole,Davide
+276,has Predicate,be Surrounded
+007,source,Berkeley belongs to the Royal Mallows of Aldershot.
+364,whom,Murphy

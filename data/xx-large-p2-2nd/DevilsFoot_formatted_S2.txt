@@ -1,0 +1,3297 @@
+478,subject,Mortimer
+014,type,Statement
+155,subject,Living room window
+036,source,The card was on the table
+488,has Predicate,It was not
+072,type,Statement
+165,subject,Porter
+259,subject,lamp
+418,when,Many years ago
+167,subject,Porter
+181,type,Situation
+025,when,Past 10 o clock
+459,why,For money
+430,has Predicate,Was written
+145,type,Situation
+104,source,The problem was forgotten
+261,subject,Mortimer
+027,what,Get up early
+471,info Source,Standale s remarks
+291,how,With a magnifying glass
+104,subject,problem
+410,has Predicate,I pulled up
+283,subject,Holmes
+112,source,Mortimer looked back
+235,type,Situation
+383,has Predicate,went
+018,what,019
+311,when,Case 2
+047,info Source,Roundhay
+038,has Predicate,I was leaning
+462,type,Thought
+357,what,358
+449,type,Thought
+470,info Source,Standale s remarks
+458,has Predicate,Guessed
+217,type,Statement
+081,subject,Mortimer
+194,has Predicate,Guessed
+465,info Source,Standale s remarks
+197,source,Within a few minutes
+473,what,477
+279,subject,Holmes
+077,what,George
+244,source,Roundhay said the following
+we,label,we
+100,what,Sufficient funds
+331,source,Holmes guessed the following
+318,what,321
+031,info Source,Roundhay
+179,subject,fireplace
+380,to,Poldew Bay Cottage
+377,type,Statement
+357,subject,Mortimer
+320,type,Statement
+296,type,Situation
+043,subject,George
+473,what,479
+096,has Predicate,Misplaced
+345,has Predicate,stood
+413,source,Standale has loved Brenda for years
+107,type,Situation
+436,subject,Owen
+024,type,Statement
+316,source,Holmes guessed the following
+022,subject,Owen
+436,subject,George
+poison,type,Object
+382,subject,Holmes
+200,subject,Brenda
+125,source,This morning
+216,what,219
+451,type,Statement
+432,info Source,Standale s remarks
+342,source,Watson felt fear
+324,how,Than the air of Toxicity of Incident 2
+126,info Source,Mortimer s statement
+345,type,Situation
+166,type,Statement
+107,what,111
+196,has Predicate,Came out
+467,source,I believe in a story that a jury has fancy
+021,what,045
+039,subject,Brenda
+077,source,Mortimer broke up with Owen
+279,type,Situation
+435,type,Situation
+206,where,In the flower bed under the window
+474,type,Statement
+450,info Source,Mortimer s thoughts
+416,info Source,Standale s remarks
+332,type,Situation
+428,source,Standale took out the paper packet
+217,subject,Standale
+472,has Predicate,Told
+392,near,gate
+plan,label,plan
+045,source,Owen and George's nerve was damaged
+342,subject,Watson
+075,subject,Mortimer
+071,what,104
+326,has Predicate,Guessed
+312,when,Case 1
+252,source,The air in the room was full of fear and melancholy
+103,whom,Owen
+068,type,Situation
+068,what,069
+313,type,Statement
+044,type,Statement
+092,info Source,Mortimer s statement
+263,to,On the forehead
+286,has Predicate,Rubbed
+357,type,Situation
+122,type,Thought
+363,source,No visitors at 10 o'clock in Cornwall
+051,subject,Porter
+378,subject,Standale
+444,what,Magic foot
+408,source,Standale stood on the grass
+158,what,162
+384,then_,385
+041,type,Statement
+posture,label,posture
+027,subject,Mortimer
+412,has Predicate,Said
+414,type,Statement
+362,info Source,Holmes s statement
+153,has Predicate,Have
+391,to,pocket
+487,type,Situation
+114,info Source,Mortimer s statement
+107,what,115
+093,info Source,Mortimer s statement
+163,has Predicate,saw
+110,type,Statement
+341,source,Watson lost his freedom and imagination
+167,has Predicate,Ran down
+021,what,029
+335,subject,Ash
+195,what,Mortimer s Story
+065,where,Inland from the cottages of Pordeux Bay
+318,source,Holmes said:
+308,has Predicate,Opened
+156,subject,Mortimer
+017,info Source,Mortimer s question
+375,when,1 hour ago
+309,has Predicate,I was jealous
+325,has Predicate,killed
+face,label,face
+175,type,Situation
+301,what,308
+113,subject,window
+407,type,Statement
+180,subject,Charred ash
+196,then_,197
+115,what,Bushes of grass
+252,subject,Room air
+447,has Predicate,Guessed
+246,how,With the same symptoms as Brenda
+198,has Predicate,It was scattered
+381,source,Standale asked Holmes for the suspect
+401,subject,Mortimer
+443,has Predicate,Taught
+215,type,Situation
+081,how,Behind you
+131,type,Statement
+180,source,Burnt ashes remained in the fireplace
+332,info Source,Holmes guess
+116,has Predicate,Felt
+114,has Predicate,It was rising
+111,has Predicate,sent
+015,source,Roundhay and Mortimer were not comfortable
+261,has Predicate,I was reclining
+410,type,Statement
+460,what,462
+431,has Predicate,It was pasted
+381,what,Suspect
+317,subject,combustion
+365,source,Watson said the following
+371,why,By regret
+324,info Source,Holmes s statement
+018,subject,Holmes
+277,has Predicate,I walked around
+318,what,334
+108,type,Statement
+126,has Predicate,Said
+410,source,Finally
+298,what,Reproduction of lamp
+244,has Predicate,Said
+245,source,The demon is attached to Cornwall
+112,info Source,Mortimer s statement
+329,subject,Madness
+047,has Predicate,It was
+462,source,If your parents become mentally ill
+1_hour_ago,label,1 hour ago
+111,subject,George
+378,info Source,Holmes s statement
+299,has Predicate,Replenished
+078,subject,George
+fire,type,Object
+fireplace,label,fireplace
+216,what,223
+439,has Predicate,came
+464,subject,Mortimer
+485,source,Standale got a gun
+447,type,Situation
+177,source,Brenda had a look of fear
+1_mile,label,1 mile
+158,what,172
+344,source,Holmes' face had a look of fear
+084,has Predicate,It was up
+a_cottage_in_the_ Pordeux_ Bay,type,Place
+089,type,Statement
+025,subject,Owen
+253,type,Situation
+287,subject,Holmes
+033,where,Toridnik Wasa
+059,source,Roundhay said the following
+409,has Predicate,Observed
+021,what,050
+024,when,Past 10 o clock
+243,from,Garden path
+446,when,Until you receive a telegram
+this_morning,label,this morning
+glasses,type,Object
+395,source,Standale went under the window of Mortimer
+375,type,Situation
+349,subject,Motive
+056,info Source,Roundhay
+095,what,George s reason
+370,type,Statement
+411,subject,Mortimer
+376,what,407
+400,type,Statement
+275,subject,Holmes
+376,what,387
+door,label,door
+320,source,In Case 1
+300,what,Burning time
+177,what,Expression of fear
+383,then,384
+048,info Source,Roundhay
+071,what,090
+129,type,Statement
+351,source,Mortimer is the victim of Case 2
+033,subject,Doctor Richard
+430,what,Radix pedis diaboli
+071,what,082
+427,source,Standale is back
+107,what,134
+071,what,096
+334,source,Holmes looked at the lamp's smoke protection and the talc exterior
+for_a_while,label,for a while
+081,info Source,Mortimer s statement
+366,has Property,It is suicide
+193,source,Owen
+162,when,this morning
+257,has Property,Is
+017,what,Talk
+390,what,room
+388,has Predicate,Executed
+095,type,Statement
+272,how,Quickly
+489,has Predicate,I found it
+333,where,Pastor s Hall
+024,has Predicate,Went back
+018,type,Situation
+137,type,Statement
+301,what,302
+446,what,440
+117,has Predicate,moving
+265,source,Mortimer had a look of fear
+456,has Predicate,I checked
+155,has Predicate,Face
+469,source,Standale's heart was screaming revenge
+020,whom,Roundhay
+035,info Source,Roundhay
+125,when,this morning
+244,type,Situation
+400,has Predicate,Signaled
+450,type,Thought
+202,source,Holmes guessed the following
+454,subject,Standale
+175,subject,Mortimer
+232,subject,Research
+229,from,From the cottages of Pordeux Bay
+291,subject,Holmes
+135,what,Expression of fear
+334,info Source,Holmes s statement
+278,has Predicate,went
+144,subject,Watson
+170,what,George
+034,has Property,It was abnormal
+409,what,In the room
+408,info Source,Holmes s statement
+good_atmosphere,type,Object
+fire,label,fire
+382,type,Statement
+348,what,349
+311,info Source,Holmes s statement
+409,info Source,Holmes s statement
+242,type,Situation
+367,what,369
+021,what,025
+064,type,Statement
+107,what,108
+438,type,Statement
+376,what,391
+205,subject,Porter
+room,type,Object
+376,what,389
+047,type,Statement
+086,info Source,Mortimer s statement
+431,type,Situation
+482,subject,Standale
+019,type,Statement
+130,has Predicate,Burned out
+021,what,037
+006,what,property
+071,type,Situation
+022,has Predicate,It is a family of Mortimer
+365,type,Situation
+022,type,Statement
+065,type,Statement
+289,subject,Holmes
+072,source,Mortimer had a meal at Trigenis
+109,when,In the middle of the card
+069,subject,Mortimer
+426,subject,Roundhay
+450,subject,Standale
+263,subject,Mortimer
+054,source,The Trigenis family was not ruined
+012,info Source,Roundhay
+394,type,Statement
+445,whom,Standale
+448,subject,Mortimer
+461,info Source,Mortimer s thoughts
+407,subject,Standale
+437,whom,Brother
+291,source,Holmes examined the exterior of the flue with a magnifying glass
+391,what,Red gravel
+069,type,Situation
+309,subject,Room air
+185,after,187
+108,source,Mortimer remembered a fact
+334,what,Smoke protection of the lamp
+6_hours,label,6 hours
+129,subject,Doctor Richard
+481,from,room
+462,whom,To the mentally ill
+281,source,Watson thought the following
+058,type,Thought
+330,info Source,Holmes s statement
+361,info Source,Holmes s statement
+116,info Source,Mortimer s statement
+089,has Predicate,Sat
+420,what,marriage
+404,source,Standale came in through the window
+071,what,087
+354,type,Statement
+019,info Source,Holmes
+monkey,label,monkey
+194,type,Situation
+257,source,The cause is the following
+453,subject,Magic foot
+473,what,486
+039,source,Brenda was dead
+010,source,Roundhay was upset
+400,source,Standale signaled that
+240,info Source,Holmes s statement
+041,info Source,Roundhay
+057,subject,Holmes
+174,type,Statement
+451,source,Standale wanders Africa for several years
+112,type,Statement
+105,source,Currently
+045,what,Nerve
+225,subject,Standale
+399,source,Mortimer came
+190,source,Holmes guesses
+439,to,In a cottage in Standale
+432,has Property,It is a magic foot
+161,what,Good mood
+from_now_on,type,AbstractTime
+453,has Predicate,was used by
+327,type,Situation
+155,type,Situation
+376,what,411
+169,where,My bed
+035,where,table
+023,source,The Trigenis are in Toridanic Wasa
+390,info Source,Holmes s statement
+neck,label,neck
+money,label,money
+477,info Source,Standale s remarks
+383,info Source,Holmes s statement
+169,has Predicate,Lying down
+080,type,Statement
+404,from,window
+381,info Source,Holmes s statement
+435,subject,Powder medicine
+107,what,127
+483,has Predicate,Put on
+229,type,Situation
+333,source,Holmes looked for drug debris at the pastor
+323,info Source,Holmes s statement
+023,subject,Trigenis House
+gun,type,Object
+285,to,lawn
+344,what,Expression of fear
+029,then,030
+marriage,type,Object
+183,what,187
+321,type,Statement
+081,has Predicate,Closed
+171,why,Carry owen
+092,type,Statement
+352,source,Mortimer is a wolf
+126,what,127
+131,subject,With Owen
+028,info Source,Roundhay
+090,info Source,Mortimer s statement
+379,source,Standale is an element of the incident
+067,source,Roundhay brought emotions to the fore
+199,has Predicate,It was over
+242,info Source,Roundhay s Telegram
+107,subject,Mortimer
+103,type,Statement
+402,has Predicate,worn
+425,type,Statement
+094,to,room
+220,source,Standale was shocked
+142,subject,Watson
+039,info Source,Roundhay
+231,has Predicate,thought
+030,subject,Mortimer
+236,what,239
+209,subject,Watson
+108,subject,Mortimer
+106,has Predicate,Thought
+plan,type,Object
+174,to,St Ives
+396,has Predicate,It was not active
+261,on,Chair
+105,when,Current
+401,source,Mortimer comes down
+092,subject,Brenda
+028,source,Before breakfast
+175,what,Stairs
+406,subject,Standale
+424,subject,Roundhay
+241,where,Plymouth
+135,info Source,Mortimer s statement
+009,subject,Roundhay
+239,has Predicate,heard
+466,source,Standale suspected the following
+440,has Predicate,showed
+383,type,Statement
+181,source,At the table there were four burning candle
+172,subject,Porter
+439,when,2 weeks ago
+483,subject,Standale
+139,info Source,Mortimer s statement
+285,then_,286
+side,type,Object
+298,subject,Holmes
+158,what,161
+097,subject,Owen
+172,where,House
+264,has Predicate,I was facing
+016,whom,Roundhay
+260,type,Situation
+005,has Predicate,Have
+459,subject,Mortimer
+085,subject,window
+065,info Source,Roundhay
+344,type,Situation
+361,source,Owen and George and Brenda stand at a table
+322,info Source,Holmes s statement
+409,type,Statement
+121,subject,Mortimer
+248,source,The lower room is the living room
+484,type,Statement
+227,whom,Holmes
+108,what,A fact
+446,subject,Standale
+407,has Predicate,Closed
+307,has Predicate,Has entered
+175,subject,Watson
+118,has Predicate,thought
+364,source,All evidence shows Mortimer's offense
+business,label,business
+188,subject,Holmes
+340,has Predicate,Felt
+157,info Source,Mortimer s statement
+143,subject,Holmes
+203,when,Before 11 00 last night
+179,type,Situation
+279,has Predicate,I overlooked
+287,to,Living room
+gun,label,gun
+407,info Source,Holmes s statement
+071,what,085
+376,what,395
+175,has Predicate,Went up
+376,what,397
+329,has Property,It is an early symptom of the drug
+080,subject,Mortimer
+376,source,Holmes said the following
+083,source,The window was closed
+027,info Source,Roundhay
+376,what,404
+305,subject,Doctor Richard
+363,type,Statement
+fireplace,type,Object
+425,info Source,Roundhay
+049,type,Statement
+438,source,Standale then met with Owen
+257,what,258
+233,what,telegram
+203,type,Situation
+neighbor,type,Object
+143,subject,Mortimer
+319,source,Drug was burned in Case 1 and Case 2
+205,has Predicate,is not
+178,subject,Watson
+name,label,name
+business,type,Object
+038,source,Brenda was leaning on a chair
+219,info Source,Standale s remarks
+125,how,In the four-wheeled carriage
+397,has Predicate,Taken out
+022,info Source,Roundhay
+042,subject,George
+246,type,Statement
+126,subject,Doctor Richard
+237,subject,Holmes
+403,has Predicate,Got off
+413,info Source,Standale s remarks
+453,info Source,Standale s guess
+361,type,Statement
+241,when,Last night
+405,then,406
+287,then,288
+295,what,297
+050,source,The porter said
+369,info Source,Holmes s statement
+pocket,type,Object
+446,what,444
+190,what,193
+237,has Predicate,hit
+268,type,Situation
+340,what,nausea
+216,what,224
+472,source,Standale told Mortimer the crime of Mortimer
+078,type,Statement
+117,type,Situation
+102,has Predicate,I was dissatisfied
+052,has Predicate,I did not hear
+376,what,398
+421,type,Statement
+150,source,Owen and George are taken to Helston
+402,source,Mortimer got dressed quickly
+402,type,Statement
+303,type,Statement
+209,has Predicate,Returned
+297,subject,window
+085,info Source,Mortimer s statement
+problem,type,Object
+441,info Source,Standale s remarks
+106,what,for a while
+079,info Source,Mortimer s statement
+028,has Predicate,I was taking a walk
+413,subject,Standale
+101,has Predicate,Retired
+261,type,Situation
+087,type,Statement
+353,type,Statement
+382,what,Suspect
+263,what,glasses
+404,subject,Standale
+030,has Predicate,met
+103,info Source,Mortimer s statement
+effect,type,Object
+202,has Predicate,Guessed
+171,has Predicate,It was necessary
+332,subject,Drug
+059,what,062
+221,subject,Standale
+287,source,Holmes entered the living room
+422,type,Statement
+009,has Predicate,Came
+089,subject,Owen
+279,source,Holmes overlooked the bedroom
+373,has Predicate,know
+chimney,label,chimney
+169,type,Statement
+234,type,Situation
+168,subject,Porter
+106,type,Statement
+133,subject,6 hours
+096,source,Once upon a time
+garden,label,garden
+038,info Source,Roundhay
+052,when,Last night
+400,info Source,Holmes s statement
+132,type,Statement
+026,source,After 10 o'clock Owen
+312,type,Statement
+290,subject,Holmes
+326,subject,Holmes
+414,source,Brenda has loved Standale for many years
+080,has Predicate,Came out
+014,info Source,Roundhay
+072,info Source,Mortimer s statement
+012,time,1897-03-15 20:00:00
+456,what,Another interpretation
+254,source,Watson thought the following
+144,has Predicate,waited
+165,type,Statement
+159,subject,Porter
+141,info Source,Mortimer s statement
+374,what,Standale
+120,type,Statement
+250,what,lawn
+435,has Predicate,It was in
+051,has Predicate,I was in deep sleep
+221,info Source,Standale s remarks
+365,subject,Watson
+022,source,Owen
+082,type,Statement
+revenge,type,Object
+488,subject,gravel
+324,type,Statement
+301,what,311
+138,subject,Owen
+284,subject,Holmes
+216,what,220
+370,subject,Mortimer
+164,type,Statement
+310,subject,Watson
+093,type,Statement
+080,from,From the hall
+019,source,Mortimer was the first finder
+082,source,Windows are near Owen and George
+105,whom,Brenda
+324,source,In Case 1
+122,has Property,It does not matter
+135,type,Statement
+295,whom,Criminal
+319,type,Statement
+450,has Predicate,receive
+455,has Predicate,met
+185,info Source,Mortimer s statement
+146,type,Situation
+048,type,Statement
+258,source,The lamp is on the table
+065,subject,Trigenis House
+193,why,Human intention
+353,has Property,Greedy
+364,type,Statement
+305,type,Statement
+449,has Predicate,It was
+446,what,441
+238,type,Statement
+054,has Predicate,It was not ruined
+174,subject,Porter
+044,source,Owen and George were singing
+432,type,Statement
+452,type,Situation
+145,has Predicate,It was wrong
+021,what,033
+194,what,196
+021,what,027
+260,subject,Mortimer
+218,subject,Standale
+115,type,Statement
+363,when,After 10 o clock
+061,subject,Mortimer
+294,subject,Holmes
+158,has Predicate,Said
+440,info Source,Standale s remarks
+075,when,Around 9 o clock
+225,has Predicate,Came back
+159,has Predicate,I did not hear
+147,type,Situation
+440,type,Statement
+109,source,During the card
+386,source,Standale couldn't sleep in the cottage
+123,has Predicate,I did not have
+032,type,Statement
+387,type,Statement
+299,subject,Holmes
+233,subject,Holmes
+193,subject,George
+024,subject,Mortimer
+305,info Source,Mortimer s statement
+296,has Predicate,Turn
+391,subject,Standale
+482,to,lamp
+165,then,166
+182,type,Situation
+247,has Predicate,I borrowed
+070,has Predicate,I was excited
+048,has Property,Be a cook
+397,type,Statement
+180,type,Situation
+posture,type,Object
+012,type,Statement
+276,source,Holmes entered the living room through the window
+024,source,After 10 o'clock
+005,type,Situation
+348,what,352
+077,info Source,Mortimer s statement
+252,what,Melancholy
+table,label,table
+432,source,The drug is a magic foot
+419,why,For the laws of the United Kingdom
+107,what,119
+026,when,Past 10 o clock
+376,what,378
+142,has Predicate,heard
+336,what,Burnt powder
+362,subject,others
+door,type,Object
+386,subject,Standale
+388,source,Early in the morning
+376,what,386
+071,what,097
+367,what,368
+398,to,Bedroom window
+209,type,Situation
+307,type,Statement
+059,what,061
+476,subject,Mortimer
+167,source,The porter ran down the path
+048,source,The porter is a cook
+046,subject,Owen
+487,has Property,It was gravel
+246,when,Last night
+282,source,Holmes found a new stimulus
+118,subject,George
+210,subject,Standale
+165,has Predicate,Recovered
+242,when,afternoon
+267,type,Situation
+463,subject,Mortimer
+325,source,Brenda was killed in Case 1
+407,what,window
+025,has Predicate,Was
+153,source,The Trigenis have a large garden
+123,subject,something
+178,has Predicate,went
+101,info Source,Mortimer s statement
+314,type,Situation
+196,source,Mortimer left the room
+084,type,Statement
+160,subject,George
+099,type,Situation
+472,type,Statement
+487,source,The starting point of the investigation was the gravel on the window frame
+214,where,Cornwall
+412,what,426
+437,source,Mortimer had made up with his brother
+090,has Predicate,I was crazy
+079,type,Statement
+107,what,130
+163,then,164
+342,what,Fear
+417,has Predicate,had
+277,type,Situation
+452,what,453
+066,subject,Mortimer
+081,what,door
+242,to,Africa
+179,source,The fireplace was open all night
+475,source,Standale is the executioner
+480,info Source,Standale s remarks
+121,source,Mortimer thought that
+410,subject,Standale
+318,type,Situation
+107,what,113
+246,subject,Mortimer
+375,subject,Standale
+390,when,When the sun rises
+193,subject,Owen
+122,subject,something
+134,info Source,Mortimer s statement
+134,has Predicate,Not violent
+391,source,Standale stuffed red gravel in his pocket
+115,source,Mortimer saw a bush of grass
+102,info Source,Mortimer s statement
+candle,type,Object
+446,info Source,Standale s remarks
+441,type,Statement
+443,subject,Standale
+293,has Predicate,Paid
+356,info Source,Mortimer s statement
+456,subject,Standale
+076,source,After 10:15
+457,subject,Another interpretation
+205,what,Criminal
+140,info Source,Mortimer s statement
+154,has Predicate,It was filled up
+310,has Predicate,Arrived
+075,subject,Owen
+417,info Source,Standale s remarks
+021,what,056
+386,type,Statement
+393,type,Statement
+020,what,Talk
+286,then,287
+202,subject,Holmes
+351,has Property,I am the victim of Case 2
+364,info Source,Holmes s statement
+485,then,486
+138,what,monkey
+221,type,Statement
+360,subject,Case 1
+358,what,Watson
+196,type,Situation
+016,what,017
+395,type,Statement
+224,info Source,Standale s remarks
+side,label,side
+152,type,Situation
+304,info Source,Mortimer s statement
+332,has Predicate,Act
+089,source,Owen and George sat
+078,subject,Mortimer
+460,type,Situation
+123,info Source,Mortimer s statement
+124,has Predicate,Took a walk
+399,info Source,Holmes s statement
+447,what,448
+274,has Predicate,Passed away
+079,has Predicate,was sleeping
+056,has Predicate,do not know
+199,source,Owen
+160,info Source,Porter s statement
+318,what,329
+322,source,Toxic air came out of the chimney
+017,type,Situation
+224,has Predicate,heard
+421,source,Standale also waited for marriage for years
+399,subject,Mortimer
+374,has Predicate,called
+026,subject,Owen
+296,to,lamp
+148,what,Thin smile
+249,type,Situation
+360,when,After his exit
+339,source,And Watson had the smell of musk
+362,source,If others come into the room
+226,info Source,Standale s remarks
+033,type,Situation
+003,has Property,Sociable
+376,what,402
+338,has Predicate,placed
+029,info Source,Roundhay
+470,subject,Standale
+440,source,Standale showed off some of Africa's curiosities
+365,what,366
+130,subject,candle
+456,source,Standale confirmed another interpretation
+418,type,Statement
+471,source,Mortimer gets the same fate as Owen
+450,what,Information
+470,source,Standale made the following decisions
+051,type,Statement
+333,info Source,Holmes s statement
+119,has Predicate,Are
+371,source,Mortimer may have committed suicide due to regret
+131,info Source,Mortimer s statement
+424,has Predicate,Said
+302,what,Same air
+272,source,Mortimer got dressed quickly
+107,what,124
+098,type,Situation
+017,has Predicate,Do
+185,has Predicate,Turned on
+184,type,Statement
+479,has Predicate,Threatened
+426,info Source,Standale s remarks
+462,subject,Immediate family
+226,has Predicate,sent
+376,has Predicate,Said
+172,has Predicate,Do not stay
+053,has Predicate,I was not stolen
+219,type,Statement
+211,source,Standale is a lion hunter
+474,subject,Standale
+alone,type,Object
+071,what,098
+085,when,this morning
+158,what,175
+145,subject,Holmes
+067,type,Situation
+347,has Predicate,I went to bed
+212,source,Standale is an explorer
+047,source,There was a porter at home
+412,what,421
+058,what,Unusual nature
+319,info Source,Holmes s statement
+107,what,122
+460,info Source,Standale s guess
+113,source,The window was closed
+224,source,This morning
+096,info Source,Mortimer s statement
+021,what,048
+110,what,George
+002,source,Roundhay is a middle age man
+381,then,382
+058,info Source,Holmes s thoughts
+282,has Predicate,I found it
+325,when,Case 1
+blind,label,blind
+092,source,Brenda was dead
+103,whom,Brenda
+212,type,Situation
+078,has Predicate,was
+144,type,Situation
+150,subject,George
+309,source,In Case 2
+259,what,flame
+367,type,Situation
+407,source,Standale closed the window
+157,subject,Evil thing
+111,what,Steep eyes
+335,on,Smoke protection of the lamp
+250,type,Situation
+463,source,Mortimer blew off Owen and George's reasoning at the foot of the demon
+319,when,Case 1
+384,has Predicate,waited
+097,subject,Brenda
+035,subject,Brenda
+322,subject,Toxic air
+291,has Predicate,Examined
+071,what,084
+392,info Source,Holmes s statement
+335,type,Statement
+052,source,Last night
+312,where,In the room
+424,what,Less than
+178,type,Situation
+107,what,136
+013,has Property,abnormal
+158,what,174
+418,subject,Former wife
+104,info Source,Mortimer s statement
+052,what,nothing
+candle,label,candle
+007,subject,Mortimer
+021,what,030
+422,source,Roundhaye knew above
+176,subject,Watson
+347,source,Holmes and Watson lay on the grass
+075,has Predicate,Sat down
+328,info Source,Holmes s statement
+399,type,Statement
+352,info Source,Holmes s statement
+153,subject,Trigenis House
+416,what,marriage
+438,info Source,Standale s remarks
+368,info Source,Holmes s statement
+207,has Predicate,I can not wake up
+454,type,Statement
+479,info Source,Standale s remarks
+046,has Predicate,Was
+310,info Source,Holmes s statement
+203,subject,Incident
+158,what,166
+485,what,gun
+227,subject,Standale
+468,source,Failure is troubled
+054,type,Statement
+151,type,Situation
+109,type,Statement
+064,info Source,Roundhay
+198,type,Situation
+260,near,lamp
+009,time,1897-03-16 08:00:00
+228,type,Situation
+096,what,Brenda s opinion
+318,what,335
+198,on,table
+420,type,Statement
+143,has Predicate,Abstained
+061,where,To the pastoral hall
+379,info Source,Holmes s statement
+118,type,Statement
+263,type,Situation
+335,source,There was ash in the smokeproof part of the lamp and the exterior made of talc
+489,source,In the yard of the cottage in Standale
+316,has Predicate,Guessed
+320,when,Case 1
+091,type,Statement
+477,type,Statement
+042,subject,Owen
+021,subject,Roundhay
+059,subject,Roundhay
+406,info Source,Holmes s statement
+414,has Predicate,I have loved
+219,what,With the House of Trigenis
+048,subject,Porter
+150,type,Statement
+137,info Source,Mortimer s statement
+348,what,364
+206,source,There is no footprint on the flower bed under the window
+105,what,friendship
+021,what,026
+238,what,name
+table,type,Object
+446,source,Standale did not think above until he received a telegram
+316,what,317
+041,source,Owen and George sat on both sides of Brenda
+210,source,Standale was in a cottage in the Pordeux Bay
+301,what,307
+009,subject,Mortimer
+472,subject,Standale
+312,when,Case 2
+037,info Source,Roundhay
+312,info Source,Holmes s statement
+235,source,A telegram arrived from a hotel in Plymouth
+025,info Source,Roundhay
+222,source,Standale was headed for Africa
+422,what,419
+482,has Predicate,Wearing
+282,subject,Holmes
+359,what,poison
+160,has Predicate,had
+316,type,Situation
+369,type,Statement
+324,has Predicate,thin
+468,has Predicate,Be troubled
+321,has Predicate,I was locked up
+127,what,Emergency message
+473,what,476
+479,source,Standale threatened as follows
+479,type,Statement
+456,info Source,Standale s remarks
+456,type,Statement
+123,source,Something did not have an unpleasant sign
+008,from,Mortimer
+245,type,Statement
+213,where,Cornwall
+162,to,room
+233,source,Holmes saw a telegram
+007,therefore,008
+060,source,Roundhaye did not go to Trigenis
+059,what,064
+230,when,Within 5 minutes
+117,where,In the bush
+206,has Predicate,There is no
+182,has Predicate,It was scattered
+460,source,Mortimer thought that
+414,info Source,Standale s remarks
+377,to,Africa
+107,what,125
+461,type,Thought
+275,to,lawn
+230,has Predicate,pursued
+380,type,Statement
+036,has Predicate,there were
+436,has Predicate,I was good friends
+075,subject,George
+237,type,Statement
+176,source,Holmes
+255,if_,256
+097,where,Tin miner s house
+245,has Predicate,I m stuck
+100,source,Tin miners got enough money
+229,subject,Standale
+envelope,type,Object
+170,has Predicate,Put on
+376,what,409
+291,type,Situation
+139,source,Dr. Richard's face was deep blue
+185,type,Statement
+422,what,416
+359,subject,Mortimer
+225,source,Standale is back
+255,type,Situation
+328,type,Statement
+361,subject,George
+107,what,110
+058,subject,Incident
+165,info Source,Porter s statement
+019,subject,Mortimer
+071,what,094
+107,what,128
+206,what,Footprints
+481,type,Statement
+162,has Predicate,Has entered
+127,source,Porter sent an emergency message to Mortimer
+426,type,Statement
+157,from,window
+299,source,Holmes refilled with the same oil as the pastor
+133,source,At least six hours have passed since Brenda's death
+280,has Predicate,Opened
+284,then,285
+086,source,The blind was up this morning
+129,info Source,Mortimer s statement
+191,type,Situation
+083,subject,window
+318,what,323
+097,has Predicate,was born
+monkey,type,Object
+178,source,Holmes
+320,has Predicate,there were
+283,then,284
+184,therefore,185
+301,what,314
+032,subject,Mortimer
+334,has Predicate,saw
+158,source,The porter said
+388,type,Statement
+404,has Predicate,Has entered
+157,type,Statement
+204,to,Pastor s Hall
+218,info Source,Standale s remarks
+252,has Predicate,It was full
+190,subject,Holmes
+455,type,Statement
+145,source,Holmes
+417,subject,Standale
+474,has Property,Be a judge
+lawn,label,lawn
+216,what,226
+102,subject,Mortimer
+005,what,Knowledge of folklore
+387,source,Standale made a plan
+187,info Source,Mortimer s statement
+367,has Predicate,Said
+270,what,Neat clothes
+071,what,081
+427,type,Statement
+436,source,Standale got along well with Owen and George
+412,what,415
+412,what,420
+241,source,Last night
+405,info Source,Holmes s statement
+423,type,Statement
+294,what,295
+021,what,041
+281,has Predicate,thought
+edge,type,Object
+394,source,Standale wore tennis shoes
+467,subject,Jury member
+168,info Source,Porter s statement
+129,what,room
+008,subject,Roundhay
+333,type,Statement
+463,info Source,Standale s remarks
+447,source,Standale guessed that
+288,has Property,It was ready-made
+033,info Source,Roundhay
+433,type,Statement
+329,source,Madness is an initial symptom of drugs
+clothes,label,clothes
+068,has Predicate,thought
+001,subject,Holmes
+391,has Predicate,Stuffed
+243,has Predicate,Came
+272,type,Situation
+075,subject,Brenda
+124,when,this morning
+348,source,Holmes said the following
+107,what,112
+455,whom,Holmes
+484,source,Standale stood out of the window
+021,type,Situation
+145,subject,Watson
+427,has Predicate,Came back
+154,type,Situation
+383,subject,Standale
+362,has Predicate,Come in
+231,what,232
+102,type,Statement
+042,type,Statement
+095,what,Brenda s Reason
+301,type,Situation
+145,what,Carriage
+138,type,Statement
+425,has Property,Be an angel
+chimney,type,Object
+312,has Predicate,It was burning
+140,type,Statement
+229,has Predicate,Went out
+066,source,Mortimer was silent
+425,subject,Brenda
+107,what,116
+477,subject,Mortimer
+353,source,Mortimer is greedy
+141,type,Statement
+216,has Predicate,Said
+385,has Predicate,Returned
+111,to,window
+378,type,Statement
+001,subject,Watson
+290,has Predicate,confirmed
+050,subject,Porter
+027,has Predicate,did
+469,subject,Standale s heart
+270,has Predicate,I wore
+180,where,Inside the fireplace
+288,type,Situation
+336,has Predicate,It was attached
+434,info Source,Standale s remarks
+011,what,013
+204,type,Situation
+302,type,Statement
+438,whom,Owen
+145,subject,Mortimer
+141,has Predicate,Sat down
+445,type,Statement
+380,then,381
+155,to,garden
+028,subject,Mortimer
+smoke,label,smoke
+293,to,envelope
+005,subject,Roundhay
+301,has Predicate,Said
+458,what,459
+378,has Predicate,Turned back
+163,source,Porter saw a disastrous sight
+227,has Predicate,heard
+217,source,Standale does not trust local police
+439,type,Statement
+024,from,Trigenis House
+095,subject,Criminal
+391,type,Statement
+394,subject,Standale
+303,has Predicate,Said
+119,subject,something
+241,subject,Standale
+306,source,The porter fell
+015,type,Situation
+485,has Predicate,Got ready
+375,source,An hour ago
+156,source,Mortimer said the following
+269,why,Attack of fear
+428,type,Situation
+265,type,Situation
+083,info Source,Mortimer s statement
+475,info Source,Standale s remarks
+347,subject,Watson
+079,subject,Porter
+301,what,310
+194,what,195
+181,on,table
+064,subject,Trigenis House
+382,has Predicate,Did not answer
+120,subject,Mortimer
+201,has Predicate,I did not draw
+259,has Predicate,I was raising
+258,on,table
+200,what,posture
+062,info Source,Roundhay
+400,what,401
+273,has Predicate,had
+239,what,Roundhay
+062,why,To consult
+051,source,The porter had a deep sleep last night
+125,what,Doctor Richard
+445,how,Eagerly
+358,info Source,Mortimer s wish
+402,subject,Mortimer
+486,source,Five minutes later
+209,subject,Holmes
+444,subject,European chemistry
+369,source,Mortimer may have felt guilty of
+465,has Predicate,I know
+420,has Predicate,waited
+249,subject,Above room
+310,source,Holmes and Watson have arrived
+459,info Source,Standale s guess
+381,whom,Holmes
+238,has Predicate,I heard it
+446,type,Statement
+295,what,296
+030,type,Statement
+085,has Predicate,It was closed
+good_atmosphere,label,good atmosphere
+428,has Predicate,Picked up
+412,source,Standale said
+091,source,Brenda put his neck on the chair's elbow
+119,type,Situation
+009,when,1897-03-16 08
+073,source,George said the following
+291,what,Exhaust part exterior
+122,info Source,Mortimer s thoughts
+424,info Source,Standale s remarks
+061,type,Statement
+437,subject,Mortimer
+007,what,Room
+001,has Predicate,stay
+481,has Predicate,Go out
+393,to,Pastor s Hall
+384,type,Statement
+349,source,The motive is vague
+021,what,047
+273,what,Traces of people
+483,info Source,Standale s remarks
+318,what,325
+window,label,window
+marriage,label,marriage
+012,when,1897-03-15 20
+359,info Source,Holmes s statement
+016,has Predicate,Asked
+413,therefore,415
+475,type,Statement
+464,what,Brenda
+027,type,Statement
+422,what,417
+296,source,Detective pays attention to windows and lamps
+201,subject,Owen
+room,label,room
+392,source,Red gravel was by the gate
+397,source,Standale took gravel out of his pocket
+301,what,313
+470,what,471
+193,why,Negligence
+210,type,Situation
+307,subject,Porter
+281,subject,Watson
+036,on,table
+031,subject,Doctor Richard
+170,on,Horse carriage in a mental hospital
+216,subject,Standale
+096,what,George s opinion
+082,near,Owen
+137,subject,Owen
+091,subject,Brenda
+141,subject,Doctor Richard
+434,source,No demonstrative sample has been published in pharmacy or toxicology literature
+367,subject,Holmes
+424,type,Statement
+376,what,400
+106,subject,Mortimer
+065,has Predicate,is there
+301,what,306
+198,subject,card
+241,has Predicate,It was
+137,subject,George
+107,what,131
+348,what,350
+415,source,Therefore
+107,what,132
+013,info Source,Roundhay
+376,what,377
+144,subject,Holmes
+111,then,112
+304,type,Statement
+034,subject,Trigenis House
+158,what,164
+161,subject,Brenda
+043,subject,Owen
+215,has Predicate,heard
+250,subject,Living room
+021,what,040
+pocket,label,pocket
+471,has Predicate,Become
+192,info Source,Holmes guess
+184,subject,Yesterday evening
+043,source,Owen and George were summoning
+004,source,Roundhay is friendly
+250,source,Living room and bedroom can see the lawn from the window
+374,source,I called Standale this afternoon
+373,subject,Standale
+103,has Predicate,Had
+338,on,lamp
+103,what,problem
+326,what,327
+338,what,Drug
+effect,label,effect
+482,source,Standale lit the lamp
+132,what,Less than
+035,subject,Owen
+334,what,Talc sheath
+189,type,Situation
+254,type,Situation
+189,has Predicate,Silenced
+130,info Source,Mortimer s statement
+180,has Predicate,It was left
+292,type,Situation
+053,subject,Owen
+191,info Source,Holmes guess
+268,what,269
+071,what,088
+259,what,smoke
+111,info Source,Mortimer s statement
+442,type,Statement
+211,has Property,I am a lion hunter
+234,has Predicate,Thrown in
+294,source,Holmes asked for
+050,has Predicate,Said
+292,subject,Holmes
+162,info Source,Porter s statement
+403,type,Statement
+124,source,Mortimer took a walk this morning
+255,source,The air was getting worse
+011,subject,Roundhay
+387,info Source,Holmes s statement
+neck,type,Object
+10_15_past,type,AbstractTime
+066,has Predicate,I was silent
+121,type,Statement
+049,subject,Porter
+038,subject,Brenda
+139,type,Statement
+384,info Source,Holmes s statement
+406,has Predicate,Came out
+256,has Predicate,Not open
+317,subject,air
+131,source,Owen and George sat until dawn
+166,then,167
+059,type,Situation
+376,what,405
+300,source,Holmes measured the burn time
+138,info Source,Mortimer s statement
+011,type,Situation
+454,has Predicate,Came
+209,when,afternoon
+004,type,Situation
+441,what,Some of Africa s curiosities
+483,type,Statement
+suffering,type,Object
+046,info Source,Roundhay
+350,subject,Mortimer
+198,source,Cards were scattered on the table
+255,has Predicate,It was getting worse
+228,subject,Holmes
+148,source,The face had a faint smile
+444,has Predicate,Do not detect
+238,subject,Holmes
+041,where,Brenda s both sides
+341,type,Situation
+468,type,Statement
+012,when,Yesterday night
+318,what,320
+275,then_,276
+049,source,Porter is a housekeeper
+128,type,Statement
+060,info Source,Roundhay
+440,what,Some of Africa s curiosities
+348,what,354
+071,has Predicate,Said
+021,what,024
+153,type,Situation
+257,subject,Cause
+edge,label,edge
+107,what,135
+193,what,suffering
+273,source,Mortimer's bed had a sign of people
+398,subject,Standale
+273,what,Mortimer Bed
+471,subject,Mortimer
+301,what,305
+368,type,Statement
+058,source,Incidents have an unusual nature
+266,subject,Mortimer s hands and feet
+260,source,Mortimer sat near the ramp
+001,where,a cottage in the Pordeux Bay
+238,from,Roundhay
+223,subject,Standale
+057,what,058
+062,has Predicate,Came
+335,info Source,Holmes s statement
+107,what,126
+094,source,The criminal entered the room
+454,to,In a cottage in the Pordeux Bay
+348,type,Situation
+461,source,Mortimer Becomes Exclusive Manager of Shared Property
+234,source,Holmes threw a telegram into the fireplace
+130,source,Candles and fireplaces burned out hours ago
+376,what,392
+472,info Source,Standale s remarks
+473,has Predicate,Said
+revolver,type,Object
+1_mile,type,Object
+283,type,Situation
+397,from,pocket
+107,what,129
+016,subject,Mortimer
+458,info Source,Standale s remarks
+322,type,Statement
+236,has Predicate,Said
+102,what,For the distribution of money
+168,source,Porter sent a farmer boy to Dr. Richard
+372,source,But the opposite ground exists
+430,source,Paper parcel was written as Radix pedis diaboli
+351,subject,Mortimer
+392,subject,Red gravel
+306,type,Statement
+449,where,Sea
+388,what,plan
+413,type,Statement
+473,what,481
+184,has Predicate,it was cold
+210,where,Poldew Bay Cottage
+073,type,Statement
+158,what,165
+412,what,417
+412,subject,Standale
+057,type,Situation
+137,has Predicate,I was crawling
+004,has Property,friendly
+073,subject,George
+482,info Source,Standale s remarks
+082,info Source,Mortimer s statement
+025,subject,Brenda
+392,type,Statement
+414,therefore,415
+353,info Source,Holmes s statement
+110,how,Face to face
+revolver,label,revolver
+109,info Source,Mortimer s statement
+090,why,For fear
+108,info Source,Mortimer s statement
+412,what,425
+289,has Predicate,Inspected
+278,source,Holmes went to the bedroom
+290,type,Situation
+132,source,Dr. Richard said
+147,has Predicate,there were
+433,info Source,Standale s remarks
+476,type,Statement
+424,source,Roundhay said the following
+489,type,Situation
+301,what,309
+191,source,Holmes and Watson do not
+023,where,Toridnik Wasa
+221,what,Owen s fate
+109,opposite,window
+170,type,Statement
+060,subject,Roundhay
+412,type,Situation
+218,type,Statement
+211,type,Situation
+441,has Property,was
+395,info Source,Holmes s statement
+443,source,Standale taught Mortimer:
+244,subject,Roundhay
+363,subject,Visitor
+219,subject,Standale
+116,type,Statement
+124,info Source,Mortimer s statement
+227,type,Situation
+076,type,Statement
+220,type,Statement
+194,what,197
+078,subject,Brenda
+446,what,442
+window,type,Object
+021,what,046
+373,what,Ground
+172,when,from now on
+274,when,Early this morning
+367,what,372
+302,has Predicate,Have
+301,what,304
+448,what,449
+221,what,Brenda s Fate
+239,source,I heard the following from Roundhay
+227,what,Suspect
+050,info Source,Roundhay
+262,source,Mortimer was sticking out the beard
+131,has Predicate,Sat
+454,source,Standale came to a cottage in the Pordeux Bay
+149,subject,Mortimer
+435,source,Powder medicine was in the paper package
+434,has Predicate,Not out
+174,source,Porter returns to St Ives
+026,subject,George
+170,info Source,Porter s statement
+208,source,Outsiders have no motive for the case
+202,type,Situation
+276,to,Living room
+448,has Predicate,thought
+008,source,Therefore
+277,source,Holmes walked around the living room
+113,has Predicate,I was locked up
+151,has Predicate,wide
+046,source,Owen and George and Brenda had a look of fear
+354,subject,Mortimer
+264,source,Mortimer's face was facing the window
+459,type,Situation
+356,where,garden
+096,subject,Mortimer s opinion
+neighbor,label,neighbor
+293,subject,Holmes
+385,type,Statement
+055,subject,Roundhay
+408,where,lawn
+175,subject,Holmes
+348,has Predicate,Said
+277,where,Living room
+107,what,123
+308,subject,Porter
+267,has Predicate,It was twisted
+171,subject,Four men
+246,has Predicate,Passed away
+308,what,window
+286,to,lawn
+067,subject,Roundhay
+306,when,307
+040,has Predicate,I was stiff
+021,what,023
+376,subject,Holmes
+116,source,Mortimer felt the following
+478,has Predicate,Crumbled
+100,type,Statement
+207,type,Situation
+359,has Predicate,Dumped
+others,label,others
+135,subject,Brenda
+302,info Source,Holmes s statement
+403,subject,Mortimer
+087,info Source,Mortimer s statement
+358,subject,Mortimer
+358,what,Holmes
+312,source,In Case 1 and Case 2
+314,when,After the night has come a long time
+465,subject,truth
+411,after,410
+286,type,Situation
+190,type,Situation
+207,source,Outsiders can not make an incident
+332,when,At the time of combustion
+160,what,Good mental condition
+317,info Source,Holmes guess
+235,subject,telegram
+442,subject,Standale
+195,source,Make Mortimer's Story True
+241,type,Situation
+313,info Source,Holmes s statement
+envelope,label,envelope
+082,subject,window
+127,whom,Mortimer
+466,info Source,Standale s remarks
+179,has Predicate,I was scolded
+278,where,Bedroom
+245,info Source,Roundhay
+028,type,Statement
+258,has Predicate,is there
+169,info Source,Porter s statement
+097,info Source,Mortimer s statement
+056,type,Statement
+090,source,Owen and George were crazy for fear
+276,has Predicate,Has entered
+091,info Source,Mortimer s statement
+200,has Predicate,I did not change
+326,type,Situation
+265,what,Expression of fear
+188,to,Cottage in the Bay of Pordeux
+107,what,118
+232,type,Situation
+364,what,Mortimer s offense
+317,subject,Madness
+438,subject,Standale
+330,type,Statement
+114,source,The blind was rising
+324,subject,Toxic air
+223,source,Standale has arrived to Plymouth
+128,subject,Mortimer
+091,has Predicate,It was loaded
+023,type,Statement
+others,type,Object
+118,info Source,Mortimer s statement
+416,has Predicate,could not
+168,whom,Doctor Richard
+138,has Predicate,It was similar
+120,info Source,Mortimer s statement
+016,source,Mortimer asked Roundhey:
+304,subject,Doctor Richard
+055,info Source,Roundhay
+188,type,Situation
+something,type,Object
+021,what,038
+we,type,Object
+210,has Predicate,It was
+334,type,Statement
+155,source,The window in the living room faces the garden
+107,what,139
+071,what,076
+076,subject,Mortimer
+348,what,361
+195,what,It s true
+150,has Predicate,Be taken away
+glasses,label,glasses
+272,has Predicate,worn
+183,source,Mortimer said the following
+376,what,401
+216,what,225
+253,what,window
+401,has Predicate,come down
+combustion,label,combustion
+013,subject,Incident
+250,subject,Bedroom
+262,type,Situation
+469,info Source,Standale s remarks
+gate,label,gate
+074,what,Hoist
+422,subject,Roundhay
+250,where,From the window
+158,what,159
+038,where,Chair
+144,subject,Mortimer
+380,info Source,Holmes s statement
+367,what,374
+262,has Predicate,It was sticking out
+355,has Predicate,Said
+056,source,Roundhay does not know the reason for Owen and George's madness
+105,has Predicate,Had
+435,how,In a paper packet
+187,source,Later
+092,has Predicate,It was dead
+276,from,window
+223,type,Statement
+086,subject,blind
+408,subject,Standale
+203,source,The incident happened before 11:00 last night
+072,where,Trigenis House
+084,subject,blind
+077,type,Statement
+398,source,Standale threw into the bedroom window
+420,subject,Brenda
+110,source,Mortimer sat opposite George
+336,source,The rim was covered with unburned powder
+295,source,Roundhay said the following to the detective
+487,subject,Starting point of investigation
+smoke,type,Object
+448,what,451
+101,source,Tin miner retired
+107,what,140
+134,source,Brenda is not violent
+124,type,Statement
+452,has Predicate,thought
+265,subject,Mortimer
+318,has Predicate,Thought
+010,subject,Roundhay
+449,subject,Standale
+286,source,Holmes rubbed her face on the grass
+008,has Predicate,get
+105,info Source,Mortimer s statement
+419,has Predicate,I can not divorce
+243,type,Situation
+331,what,332
+218,source,Standale stayed many times in the Trigemnis family
+036,type,Statement
+172,info Source,Porter s statement
+376,what,384
+452,source,Standale thought that
+051,info Source,Porter s statement
+293,type,Situation
+376,what,381
+121,what,122
+220,info Source,Standale s remarks
+240,type,Statement
+298,type,Situation
+346,type,Situation
+318,what,328
+270,subject,Mortimer
+226,whoｍ,Standale
+218,has Predicate,stayed
+309,when,Case 2
+021,what,042
+356,source,Something was moving in the garden
+323,type,Statement
+415,has Predicate,Metaphorical
+358,type,Situation
+401,type,Situation
+023,info Source,Roundhay
+473,what,483
+367,what,370
+442,what,Nature of powder medicine
+426,whom,Standale
+006,source,Mortimer had possessions
+352,type,Statement
+046,subject,George
+164,source,The porter fell
+007,type,Situation
+326,source,Holmes guessed the following
+196,info Source,Holmes guess
+042,info Source,Roundhay
+192,source,The criminal is a demon
+388,when,early morning
+card,type,Object
+093,subject,Criminal
+183,has Predicate,Said
+060,has Predicate,I did not go
+394,has Predicate,It was said
+158,what,167
+071,what,095
+416,source,Standale couldn't get married
+130,type,Statement
+278,subject,Holmes
+010,type,Situation
+056,subject,Roundhay
+439,info Source,Standale s remarks
+420,when,What year
+264,type,Situation
+376,what,388
+318,what,324
+189,source,Holmes was silent
+303,source,Mortimer said the following
+379,type,Statement
+243,when,That morning
+323,when,Case 2
+438,whom,George
+414,what,Standale
+176,subject,Holmes
+423,has Predicate,I trusted
+065,source,The Turgenis family is inland from a cottage in the Gulf of Pordeux
+464,source,Mortimer killed Brenda
+416,subject,Standale
+107,source,Mortimer said the following
+318,what,330
+480,if,481
+148,subject,face
+237,source,Holmes sent a telegram
+095,what,Owen s Reason
+062,subject,Roundhay
+127,subject,Porter
+192,has Property,Be a demon
+404,then,405
+361,if,362
+133,when,After Brenda s death
+168,has Predicate,sent
+129,source,Mortimer and Doctor Richard examined the room
+303,info Source,Holmes s statement
+071,what,080
+021,what,039
+cadaver,type,Object
+201,what,Chair
+035,has Predicate,Sat
+385,info Source,Holmes s statement
+224,subject,Standale
+158,what,160
+071,what,092
+033,subject,With Mortimer
+178,subject,Mortimer
+354,source,Mortimer is not generous
+221,what,George s fate
+209,where,In a cottage in the Pordeux Bay
+236,what,240
+397,info Source,Holmes s statement
+249,has Property,It is a bedroom
+465,type,Statement
+060,type,Statement
+280,when,last
+231,source,Watson thought the following
+garden,type,Object
+208,subject,Outsider
+059,has Predicate,Said
+nausea,type,Object
+197,type,Situation
+128,info Source,Mortimer s statement
+412,what,427
+395,subject,Standale
+103,subject,Mortimer
+071,what,077
+464,has Predicate,Killed
+149,has Predicate,Said
+274,source,Mortimer died early this morning
+288,source,The lamp was ready-made
+182,source,Cards were scattered on the table
+126,source,Dr. Richard said
+470,has Predicate,I made a decision
+332,source,Drugs act when burning
+333,subject,Holmes
+322,from,chimney
+135,has Predicate,had
+429,subject,Standale
+034,info Source,Roundhay
+235,has Predicate,Arrived
+213,what,Get along
+213,whom,neighbor
+119,where,In the bush
+162,type,Statement
+142,type,Situation
+245,where,Cornwall
+269,source,Mortimer died of a bout of fear
+330,has Predicate,It was perfect
+055,what,The reason for Brenda s death
+049,info Source,Roundhay
+053,type,Statement
+470,type,Statement
+193,has Predicate,Tasted
+025,source,After 10 o'clock
+176,has Predicate,saw
+331,type,Situation
+236,what,242
+236,type,Situation
+404,info Source,Holmes s statement
+343,subject,Watson
+356,subject,something
+376,what,385
+405,source,Standale looked at the room
+029,whom,Doctor Richard
+363,info Source,Holmes s statement
+390,has Predicate,Came out
+327,what,Irritated constitution
+080,how,alone
+254,has Predicate,thought
+344,has Predicate,Had
+340,source,Watson felt nausea
+289,what,lamp
+139,has Property,It was deep blue
+089,subject,George
+289,source,Holmes inspected the lamp
+206,type,Situation
+462,info Source,Mortimer s thoughts
+176,subject,Mortimer
+467,info Source,Standale s remarks
+097,type,Statement
+121,info Source,Mortimer s statement
+278,then_,279
+423,info Source,Standale s remarks
+436,subject,Standale
+109,subject,Mortimer
+018,source,Holmes said the following
+2_weeks_ago,label,2 weeks ago
+232,source,Survey did not progress
+248,has Property,In the living room
+356,type,Statement
+480,source,Standale shoots Mortimer
+327,source,Brenda had a sensitive constitution
+296,to,window
+406,source,Then Standale left the room
+011,what,014
+346,from,room
+317,source,Burning
+090,subject,Owen
+254,subject,Watson
+021,what,054
+031,has Predicate,Received
+071,what,103
+366,source,Mortimer's cause of death is suicide
+suffering,label,suffering
+283,where,Bedroom
+127,has Predicate,I told you
+473,type,Situation
+484,info Source,Standale s remarks
+090,type,Statement
+396,info Source,Holmes s statement
+082,has Predicate,is there
+224,type,Statement
+373,type,Statement
+007,source,Mortimer had rented a chaplain's room from Roundhay
+187,type,Statement
+019,has Property,the first discoverer
+367,what,371
+348,subject,Holmes
+167,type,Statement
+133,type,Statement
+415,type,Statement
+185,subject,fireplace
+070,info Source,Watson s guess
+433,has Predicate,Flower
+468,subject,Failure
+370,what,Immediate family
+242,subject,Standale
+093,has Property,Be a demon
+258,type,Situation
+222,to,Africa
+219,has Predicate,Became familiar
+467,what,A fantasy story
+377,source,Standale sent his belongings to Africa
+319,when,Case 2
+026,info Source,Roundhay
+402,what,clothes
+481,info Source,Standale s remarks
+face,type,Object
+421,what,marriage
+320,info Source,Holmes s statement
+133,has Predicate,It has passed
+143,subject,Watson
+350,source,Mortimer is the perpetrator of Case 1
+442,source,And Standale taught Mortimer the nature of powder medicine
+159,when,Yesterday night
+gate,type,Object
+385,subject,Standale
+280,what,window
+426,has Predicate,sent
+094,subject,Criminal
+307,info Source,Holmes s statement
+truth,label,truth
+105,whom,Owen
+381,type,Statement
+460,has Predicate,thought
+239,what,Less than
+238,info Source,Holmes s statement
+095,has Predicate,Crushed
+045,has Predicate,It was damaged
+098,subject,Tin miner
+466,has Predicate,Suspected
+157,has Predicate,Came in
+029,source,Mortimer was caught up by Dr. Richard's four-wheeled carriage
+011,what,012
+336,info Source,Holmes s statement
+150,info Source,Mortimer s statement
+this_morning,type,AbstractTime
+472,what,Mortimer s Sin
+last,type,Object
+298,source,Holmes has bought a duplicate of the lamp
+080,info Source,Mortimer s statement
+476,source,Mortimer saw a revolver
+071,what,072
+071,what,089
+094,type,Statement
+069,info Source,Watson s guess
+368,has Predicate,It may be suicide
+156,what,157
+131,when,Until dawn
+021,what,049
+134,subject,Brenda
+071,what,074
+321,subject,window
+234,what,telegram
+027,then,028
+266,type,Situation
+423,source,Standale and Brenda trusted Roundhay
+393,info Source,Holmes s statement
+256,subject,window
+087,source,Outsiders are not in and out
+046,subject,Brenda
+412,what,422
+036,info Source,Roundhay
+393,source,And then Standale went to the pastor
+351,type,Statement
+136,has Predicate,I was singing
+107,what,109
+004,subject,Roundhay
+160,subject,Owen
+039,has Predicate,It was dead
+372,type,Statement
+143,type,Situation
+412,what,413
+429,on,table
+122,source,Something is not important
+025,subject,George
+003,type,Situation
+469,has Predicate,Shouted
+040,type,Statement
+169,subject,Brenda
+152,source,The Trigenis are comfortable
+444,source,European chemistry does not detect the magic foot
+138,source,Owen and George were like monkeys
+135,source,Brenda had a look of fear
+073,info Source,Mortimer s statement
+120,what,something
+412,what,419
+6_hours,type,Object
+461,whom,Exclusive manager of shared property
+294,what,296
+414,subject,Brenda
+098,source,Tin miners sold their business to a company
+227,source,Standale heard Holmes suspect
+162,then,163
+282,type,Situation
+067,what,Emotion
+390,source,By the time the sun rose
+443,what,Less than
+335,has Predicate,there were
+215,what,Holmes
+275,has Predicate,Came out
+025,what,Card game
+220,subject,Standale
+204,source,Mortimer has walked to the pastor
+360,has Predicate,Happened
+146,has Predicate,Felt
+257,what,259
+last,label,last
+159,source,The porter did not hear anything yesterday night
+484,where,Out of the window
+070,type,Situation
+071,what,075
+294,what,297
+418,info Source,Standale s remarks
+408,type,Statement
+161,subject,Owen
+405,has Predicate,Jealous
+161,has Predicate,had
+489,where,Cottage garden in Standale
+10_15_past,label,10:15 past
+053,info Source,Roundhay
+259,type,Situation
+197,has Predicate,woke up
+140,subject,Doctor Richard
+196,subject,Mortimer
+369,what,Sense of guilt
+037,subject,candle
+376,what,406
+211,subject,Standale
+278,type,Situation
+390,subject,Standale
+cadaver,label,cadaver
+419,subject,Standale
+030,what,Doctor Richard
+024,info Source,Roundhay
+136,subject,George
+181,subject,Four burning candle
+235,from,Plymouth Hotels
+lamp,type,Object
+384,where,Outside
+402,info Source,Holmes s statement
+487,on,Window frame
+318,what,336
+426,what,telegram
+214,has Predicate,Is isolated
+215,subject,Standale
+419,type,Statement
+386,has Predicate,I could not sleep
+236,what,238
+423,subject,Standale
+truth,type,Object
+412,what,423
+141,source,Dr. Richard sat in a chair
+183,subject,Mortimer
+448,source,Mortimer thought that
+094,info Source,Mortimer s statement
+nothing,label,nothing
+071,what,102
+101,type,Statement
+380,subject,Standale
+448,info Source,Standale s guess
+099,what,business
+376,what,390
+053,subject,George
+221,source,Standale heard the fate of Owen and George and Brenda
+071,what,105
+376,what,393
+087,has Predicate,Not going out
+215,what,Progress
+142,subject,Mortimer
+006,has Predicate,Have
+464,info Source,Standale s remarks
+137,what,Unintelligible thing
+early_morning,type,AbstractTime
+382,info Source,Holmes s statement
+414,when,What year
+232,has Predicate,Did not progress
+123,what,Disgusting sign
+367,what,373
+160,subject,Brenda
+190,what,191
+412,what,424
+432,subject,Drug
+something,label,something
+144,source,Holmes
+100,info Source,Mortimer s statement
+437,info Source,Standale s remarks
+001,source,In the early spring of 1897
+485,subject,Standale
+464,type,Statement
+071,what,101
+469,what,revenge
+002,has Property,Middle-aged man
+434,type,Statement
+revenge,label,revenge
+077,has Predicate,Broke up
+099,has Predicate,Sold
+477,source,Mortimer was paralyzed
+370,info Source,Holmes s statement
+255,info Source,Watson s guess
+357,has Predicate,Wanted
+474,info Source,Standale s remarks
+318,what,322
+109,has Predicate,I was turning my back
+390,type,Statement
+317,type,Situation
+195,type,Situation
+064,has Predicate,is seperated
+375,has Predicate,received
+411,type,Statement
+366,info Source,Watson s remarks
+372,info Source,Holmes s statement
+422,what,418
+249,source,The room is a bedroom
+265,has Predicate,had
+240,source,Standale's explanation is correct
+007,has Predicate,rent
+395,has Predicate,went
+285,source,Holmes came out of the window to the grass
+310,subject,Holmes
+295,type,Situation
+481,source,If the Mortimer leaves the room
+321,source,The window was closed
+146,subject,Watson
+020,has Predicate,Recommended
+453,type,Situation
+119,info Source,George s guess
+422,what,415
+422,what,420
+373,info Source,Holmes s statement
+476,what,revolver
+346,has Predicate,Came out
+429,has Predicate,placed
+421,has Predicate,waited
+431,source,Paper parcel was labeled with poison
+208,what,Motive of the case
+207,subject,Outsider
+150,where,Hellston
+026,has Predicate,How have you been
+156,has Predicate,Said
+195,has Predicate,Do
+339,what,Scent of musk
+422,what,421
+309,info Source,Holmes s statement
+clothes,type,Object
+008,what,money
+095,source,The perpetrator shattered Owen and George and Brenda's reason
+047,subject,Porter
+076,when,10 15 past
+366,subject,Mortimer s cause of death
+220,has Predicate,Received
+029,type,Statement
+317,subject,death
+163,what,Miserable sight
+266,has Predicate,I was drawn
+107,what,138
+118,source,George thought that
+258,subject,lamp
+200,type,Situation
+192,type,Situation
+459,has Predicate,Killed
+345,from,Chair
+137,source,George and Owen were talking about something unclear
+107,what,114
+296,subject,Criminal
+130,subject,fireplace
+234,to,fireplace
+096,what,Owen s opinion
+416,type,Statement
+129,subject,Mortimer
+217,has Predicate,Do not trust
+095,info Source,Mortimer s statement
+242,then_,243
+473,what,474
+465,source,Standale knows the truth
+252,type,Situation
+463,how,Magic foot
+097,subject,George
+377,what,Possession
+468,info Source,Standale s remarks
+001,when,Early spring of 1897
+282,info Source,Watson s guess
+258,info Source,Watson s guess
+381,subject,Standale
+061,has Predicate,Came
+256,type,Situation
+035,source,Owen and George and Brenda sat at a table
+132,subject,Doctor Richard
+318,what,319
+194,subject,Holmes
+355,type,Situation
+374,type,Statement
+377,then,378
+462,has Predicate,Become
+376,what,383
+427,subject,Standale
+077,what,Owen
+473,what,475
+437,has Predicate,I had made up my mind
+013,source,The incident is unusual
+268,has Predicate,Guessed
+124,subject,Mortimer
+354,has Predicate,Not generous
+170,what,Owen
+420,info Source,Standale s remarks
+053,source,Owen
+075,info Source,Mortimer s statement
+230,what,Standale
+151,source,The Turgenis family is large
+224,what,news
+053,subject,Brenda
+381,has Predicate,Asked
+328,subject,George
+411,has Predicate,Died
+176,what,cadaver
+301,what,312
+114,type,Statement
+170,source,I put Owen and George on a carriage in a mental hospital
+134,type,Statement
+272,what,clothes
+094,has Predicate,Entered
+391,info Source,Holmes s statement
+371,type,Statement
+097,source,Mortimer
+348,what,363
+294,type,Situation
+006,subject,Mortimer
+074,source,We do the hoist
+015,has Predicate,I was not calm
+429,type,Situation
+233,has Predicate,saw
+158,what,168
+071,what,083
+062,type,Statement
+360,type,Statement
+shock,type,Object
+136,type,Statement
+279,where,Bedroom
+253,has Predicate,Opened
+190,what,192
+060,where,Trigenis House
+107,what,121
+268,subject,Watson
+318,subject,Holmes
+143,source,Holmes
+110,subject,Mortimer
+339,subject,Watson
+084,source,The blinds were up
+374,info Source,Holmes s statement
+074,type,Statement
+245,subject,Devil
+166,source,Porter opened the window
+096,type,Statement
+073,has Predicate,Said
+162,source,Porter entered the room this morning
+378,source,And Standale turned back from Plymouth
+377,has Predicate,sent
+1_hour_ago,type,AbstractTime
+042,has Predicate,I was laughing
+121,has Predicate,thought
+421,when,What year
+341,what,Imagination
+043,info Source,Roundhay
+449,before,450
+232,info Source,Watson s guess
+015,subject,Roundhay
+401,info Source,Standale s Sign
+021,has Predicate,Said
+408,has Predicate,Stood up
+128,to,Trigenis House
+308,source,Porter opened the window
+253,subject,Servant
+074,has Predicate,do
+230,source,Within 5 minutes
+423,subject,Brenda
+276,subject,Holmes
+075,source,Around 9 o'clock
+299,type,Situation
+457,source,But there was no other interpretation
+128,has Predicate,went
+368,source,Mortimer's cause of death may be suicide
+181,has Predicate,there were
+014,source,The incident is tragic
+486,info Source,Standale s remarks
+002,type,Situation
+204,subject,Mortimer
+164,subject,Porter
+367,source,Holmes said the following
+009,type,Situation
+485,type,Statement
+352,subject,Mortimer
+017,source,Mortimer talks
+096,when,Long time ago
+311,source,In Case 1 and Case 2
+216,type,Situation
+483,what,Powder medicine
+380,has Predicate,Came
+290,source,Holmes confirmed the volume of oil
+066,type,Situation
+292,source,Holmes dropped the ash on the exterior surface
+473,what,485
+159,info Source,Porter s statement
+153,subject,Considerable garden
+154,what,With flowers
+056,what,Owen and George s reason for the madness
+302,subject,Case 1 and Case 2 room
+166,info Source,Porter s statement
+263,source,Mortimer was pushing the glasses to the forehead
+486,subject,Mortimer
+348,what,359
+136,info Source,Mortimer s statement
+041,has Predicate,Sat
+366,type,Statement
+162,subject,Porter
+412,what,416
+458,subject,Standale
+070,how,From Roundhay
+044,subject,George
+076,has Predicate,Got up
+144,what,Passing of a carriage
+091,what,neck
+131,type,Situation
+086,has Predicate,It was up
+445,has Predicate,I was asking a question
+277,subject,Holmes
+086,when,this morning
+275,type,Situation
+284,type,Situation
+song,type,Object
+290,what,Oil capacity
+419,info Source,Standale s remarks
+184,source,It was cold yesterday night
+189,subject,Holmes
+104,has Predicate,Forgotten
+146,source,Watson felt the sight from the window
+330,subject,effect
+276,then_,277
+038,type,Statement
+340,type,Situation
+285,from,window
+182,on,table
+403,to,Living room
+052,subject,Porter
+455,source,Standale met Holmes
+222,subject,Standale
+396,subject,Family
+413,what,Brenda
+231,subject,Watson
+008,type,Situation
+025,type,Statement
+177,subject,Brenda
+480,type,Statement
+395,to,Under the window of Mortimer
+152,subject,Trigenis House
+311,when,Case 1
+455,subject,Standale
+448,what,450
+106,source,Mortimer thought for a while
+113,info Source,Mortimer s statement
+334,subject,Holmes
+323,has Predicate,Did not come out
+347,where,Grassland
+078,info Source,Mortimer s statement
+012,source,An incident happened yesterday night
+433,subject,A sample of the magic foot
+306,subject,Porter
+486,when,Five minutes later
+320,where,fireplace
+199,subject,Brenda
+poison,label,poison
+166,subject,Porter
+429,what,Paper package
+165,source,Porter regained consciousness
+275,source,Holmes went out to the grass
+226,what,telegram
+391,then_,393
+307,to,room
+032,subject,Doctor Richard
+031,what,Emergency call
+415,subject,Standale
+069,source,Mortimer was in self-control
+131,subject,George
+296,what,Note
+341,what,Brain freedom
+044,has Predicate,I was singing
+014,has Predicate,It is tragic
+100,has Predicate,Obtained
+123,type,Statement
+280,source,Finally
+441,subject,Powdered medicine was part of a rarity in Africa
+telegram,type,Object
+007,from,Roundhay
+062,source,Roundhaye came to consult Holmes
+261,source,Mortimer was leaning on a chair
+287,type,Situation
+342,has Predicate,Felt
+377,subject,Standale
+287,has Predicate,Has entered
+193,type,Situation
+413,has Predicate,I have loved
+053,what,nothing
+361,subject,Brenda
+444,type,Statement
+165,what,Consciousness
+455,info Source,Standale s remarks
+128,source,Mortimer went to Trigenis
+343,type,Situation
+132,has Predicate,Said
+428,what,Paper package
+422,what,413
+032,info Source,Roundhay
+325,type,Statement
+304,has Predicate,collapsed
+364,has Predicate,Show
+280,type,Situation
+456,however,457
+158,type,Situation
+371,info Source,Holmes s statement
+320,subject,Drug
+328,source,Owen and George went crazy
+072,subject,Mortimer
+280,subject,Holmes
+263,has Predicate,It was pushing up
+485,info Source,Standale s remarks
+473,what,482
+323,source,In Incident 2
+437,type,Statement
+201,source,Owen
+afternoon,type,AbstractTime
+074,info Source,George s statement
+146,what,Gaze
+297,type,Statement
+083,type,Statement
+111,type,Statement
+466,subject,Standale
+358,source,Mortimer misleads Holmes and Watson
+451,where,Africa
+news,type,Object
+442,has Predicate,Taught
+lamp,label,lamp
+138,subject,George
+021,what,051
+gravel,label,gravel
+480,has Predicate,shoot
+387,subject,Standale
+154,subject,Garden of Trigenis
+284,what,Stairs
+355,subject,Mortimer
+346,source,Holmes and Watson went out of the room
+411,source,Mortimer died
+463,has Predicate,Blown away
+191,subject,Watson
+195,info Source,Holmes guess
+319,has Predicate,Burned
+034,source,Trigenis was unusual
+196,what,room
+383,source,And Standale went to the pastor
+377,info Source,Holmes s statement
+045,info Source,Roundhay
+card,label,card
+043,type,Statement
+297,info Source,Holmes s statement
+461,subject,Mortimer
+229,source,Standale got out of a cottage in the Pordeux Bay
+302,source,Cases 1 and 2 have the same air
+property,label,property
+183,what,186
+147,source,The window had a face of fear
+382,then,383
+169,source,Brenda is lying in his bed
+442,whom,Mortimer
+184,info Source,Mortimer s statement
+298,has Predicate,I bought it
+084,info Source,Mortimer s statement
+418,source,My ex-wife came out many years ago
+033,type,Statement
+201,subject,Brenda
+080,source,Mortimer went out of the hall alone
+398,has Predicate,Threw
+208,type,Situation
+057,source,Holmes thought the following
+242,what,Baggage
+360,source,Case 1 happened after his exit
+158,what,169
+2_weeks_ago,type,AbstractTime
+415,info Source,Standale s remarks
+107,has Predicate,Said
+167,info Source,Porter s statement
+388,subject,Standale
+239,subject,Holmes
+147,where,In the window
+422,has Predicate,I knew
+459,source,Mortimer killed for money
+158,subject,Porter
+032,has Predicate,Headed
+190,has Predicate,Infer
+393,has Predicate,Headed
+014,subject,Incident
+152,has Predicate,It is comfortable
+182,subject,card
+161,source,Owen and George and Brenda had a good mood
+313,subject,lamp
+399,has Predicate,came
+457,info Source,Standale s remarks
+301,subject,Holmes
+197,when,Within a few minutes
+176,type,Situation
+436,info Source,Standale s remarks
+117,info Source,Mortimer s guess
+289,type,Situation
+476,has Predicate,saw
+068,source,Watson thought the following
+164,has Predicate,collapsed
+313,source,The lamp was lit after a long time after dawn
+385,to,Cottage
+alone,label,alone
+071,what,086
+081,source,Mortimer closed the door behind
+171,type,Statement
+226,source,Roundhay telegraphed Standale
+192,subject,Criminal
+168,what,Farmer boy
+037,type,Statement
+243,source,That morning
+194,source,Holmes guessed the following
+243,subject,Roundhay
+460,what,461
+316,subject,Holmes
+118,what,119
+202,what,203
+217,what,Local police
+351,info Source,Holmes s statement
+127,info Source,Doctor Richard s remark
+215,source,Standale heard Holmes progress
+050,what,052
+afternoon,label,afternoon
+444,info Source,Standale s remarks
+068,subject,Watson
+money,type,Object
+348,what,351
+359,source,Mortimer dumped poison into the fireplace
+104,type,Statement
+209,source,In the afternoon
+412,what,418
+199,what,Bedtime
+200,subject,Owen
+218,where,Trigenis House
+307,source,Porter entered the room
+257,type,Situation
+384,subject,Standale
+449,source,Standale went to the sea
+404,type,Statement
+417,what,Former wife
+369,subject,Mortimer
+213,source,In Cornwall
+295,has Predicate,Said
+a_cottage_in_the_ Pordeux_ Bay,label,a cottage in the Pordeux Bay
+281,type,Situation
+075,type,Statement
+037,has Predicate,Burned out
+285,has Predicate,Came out
+475,subject,Standale
+air,label,air
+467,type,Statement
+273,type,Situation
+228,has Predicate,Did not answer
+338,source,I put the drug on the lamp
+071,what,073
+112,has Predicate,I turned around
+114,subject,blind
+059,what,065
+466,what,467
+301,what,303
+161,subject,George
+020,source,I recommended talk to Roundhay
+property,type,Object
+072,has Predicate,Ate
+253,source,After the incident
+300,subject,Holmes
+055,type,Statement
+217,info Source,Standale s remarks
+nausea,label,nausea
+437,then,438
+433,source,In Europe
+398,info Source,Holmes s statement
+336,subject,edge
+002,subject,Roundhay
+460,subject,Mortimer
+117,subject,something
+339,has Predicate,clean hit
+376,what,403
+489,subject,Holmes
+411,info Source,Holmes s statement
+480,subject,Standale
+001,time,1897-03-01 07:00:00
+003,source,Roundhay is sociable
+214,subject,Standale
+347,subject,Holmes
+239,info Source,Holmes s statement
+140,source,Dr. Richard went fainting
+012,subject,Incident
+031,source,Doctor Richard got an emergency call
+376,what,399
+417,type,Statement
+233,type,Situation
+375,what,Holmes s note
+248,type,Situation
+213,has Predicate,do not have
+033,has Predicate,Arrived
+378,from,Plymouth
+037,source,The candle was burned out
+140,has Predicate,I was fainting
+142,what,Running noise of a four-wheeled carriage
+103,source,Mortimer had problems with Owen and George and Brenda
+208,has Predicate,do not have
+270,source,Mortimer was wearing proper clothes
+142,when,Morning of the first day
+015,subject,Mortimer
+223,has Predicate,arrived
+454,info Source,Standale s remarks
+322,has Predicate,Came out
+345,subject,Watson
+372,has Predicate,Exist
+172,type,Statement
+293,source,Holmes put in an envelope
+410,info Source,Holmes s statement
+267,source,Mortimer's finger was twisted
+105,type,Statement
+431,what,Poison label
+057,has Predicate,thought
+422,info Source,Standale s remarks
+311,type,Statement
+021,what,036
+213,type,Situation
+136,what,song
+451,when,For several years
+148,type,Situation
+101,subject,Tin miner
+476,info Source,Standale s remarks
+021,what,032
+011,source,Roundhay said the following
+350,has Predicate,Be the perpetrator of Case 1
+474,source,Standale is a judge
+450,source,Standale receives the news
+026,type,Statement
+428,subject,Standale
+021,source,Roundhay said the following
+386,info Source,Holmes s statement
+163,subject,Porter
+119,source,Something is in the bush
+183,type,Situation
+040,source,Brenda was stiff
+358,has Predicate,Mislead
+403,source,Mortimer got down into the living room
+187,has Predicate,Arrived
+478,on,Chair
+151,subject,Trigenis House
+098,info Source,Mortimer s statement
+193,subject,Brenda
+017,subject,Mortimer
+191,has Predicate,I will not admit it
+125,has Predicate,Caught up
+161,type,Statement
+477,has Predicate,I was paralyzed
+478,info Source,Standale s remarks
+158,what,171
+461,has Predicate,Become
+216,what,218
+111,source,Once
+061,source,Mortimer came to the pastor to explain
+226,type,Statement
+049,has Property,I am a housekeeper
+241,info Source,Roundhay s Telegram
+039,type,Statement
+021,what,031
+484,has Predicate,stood
+139,subject,Doctor Richard s face
+132,info Source,Mortimer s statement
+029,subject,Mortimer
+406,type,Statement
+480,what,Mortimer
+397,subject,Standale
+029,how,Four-wheeled carriage
+death,type,Object
+461,if,462
+471,type,Statement
+077,what,Brenda
+142,subject,Holmes
+355,what,356
+376,what,379
+040,info Source,Roundhay
+343,has Predicate,Confused
+466,type,Statement
+074,subject,we
+373,source,Standale knows the grounds
+331,has Predicate,Guessed
+412,what,414
+483,source,Standale loaded powder
+305,to,room
+376,what,394
+219,source,Standale gets close to the Trigenis family
+451,subject,Standale
+212,has Property,I m an explorer
+for_a_while,type,Object
+120,source,Mortimer didn't check something
+149,source,Mortimer said the following
+027,source,Mortimer got up early this morning
+338,type,Situation
+071,what,100
+305,source,Doctor Richard entered the room
+478,source,Mortimer fell into a chair
+484,subject,Standale
+105,whom,George
+050,what,051
+349,type,Statement
+447,subject,Standale
+309,when,310
+226,subject,Roundhay
+446,what,443
+400,subject,Standale
+125,subject,Mortimer
+150,subject,Owen
+flame,label,flame
+441,source,Powdered medicine was part of a rarity in Africa
+071,subject,Mortimer
+021,what,053
+434,what,In the pharmacy and toxicology literature
+376,what,382
+117,source,Something is moving in the bush
+264,to,window
+255,subject,air
+364,subject,All the evidence
+106,info Source,Mortimer s statement
+223,to,Plymouth
+409,source,Standale observed the room
+345,source,Watson stood out of the chair
+312,subject,thing
+045,subject,Owen
+369,has Predicate,May have held
+214,source,Standale is isolated in Cornwall
+079,source,The porter was sleeping
+247,source,Mortimer had rented two rooms in the pastoral building
+434,subject,A sample of the magic foot
+247,type,Situation
+429,source,Standale put a paper packet on the table
+262,subject,Mortimer
+368,subject,Mortimer s cause of death
+091,on,Chair elbow
+481,subject,Mortimer
+005,source,Roundhay has the knowledge of folklore
+297,source,Windows and lamps are important
+191,what,192
+386,where,Cottage
+259,source,The lamp was raising fire and smoke
+335,on,Talc sheath
+216,what,217
+029,has Predicate,Caught up
+415,where,Cornwall
+451,info Source,Standale s remarks
+469,type,Statement
+early_morning,label,early morning
+062,whom,Holmes
+018,has Predicate,say
+036,subject,card
+183,what,184
+489,what,gravel
+172,source,The porter doesn't feel like staying at home for a day
+228,source,Holmes did not answer Standale
+163,type,Statement
+308,info Source,Holmes s statement
+070,source,Mortimer was more excited than Roundhay
+272,subject,Mortimer
+107,what,137
+379,has Property,It is an element of the case
+313,has Predicate,Turned on
+158,what,163
+087,subject,Outsider
+022,subject,George
+174,info Source,Porter s statement
+330,source,In Case 2
+246,source,Last night Mortimer died with the same symptoms as Brenda
+052,info Source,Porter s statement
+242,source,In the afternoon
+nothing,type,Object
+353,subject,Mortimer
+187,subject,Mortimer
+170,subject,Porter
+397,what,gravel
+009,source,Roundhay and Mortimer came to the Pordeux Bay cottages just after breakfast on March 16
+327,info Source,Holmes guess
+297,subject,lamp
+341,subject,Watson
+216,source,Standale said
+260,has Predicate,Sat
+171,source,I needed four men for Owen and George
+446,what,445
+021,what,035
+488,where,Pastor s Garden
+078,how,good atmosphere
+308,type,Statement
+telegram,label,telegram
+445,source,Mortimer was keen to ask Standale
+314,what,fire
+171,why,Carry george
+285,type,Situation
+443,type,Situation
+463,type,Statement
+392,has Predicate,there were
+317,has Predicate,linked
+286,what,face
+133,info Source,Dr. Richard s remark
+204,has Predicate,Walked
+207,what,Incident
+149,what,150
+473,what,484
+482,type,Statement
+071,what,091
+161,info Source,Porter s statement
+108,has Predicate,I remembered
+398,type,Statement
+362,type,Statement
+281,what,282
+177,type,Situation
+158,what,170
+231,type,Situation
+300,has Predicate,I measured
+463,what,Owen and George s Reason
+409,subject,Standale
+361,what,table
+247,what,Two rooms in the pastoral hall
+283,has Predicate,Came out
+288,subject,lamp
+200,subject,George
+200,source,Owen
+419,source,Standale can not divorce because of English law
+006,type,Situation
+044,info Source,Roundhay
+083,has Predicate,It was closed
+183,what,185
+115,info Source,Mortimer s statement
+077,subject,Mortimer
+430,subject,Paper package
+076,then,077
+325,info Source,Holmes s statement
+045,type,Statement
+051,when,Last night
+061,why,For explanation
+486,has Predicate,Died
+163,info Source,Porter s statement
+274,type,Situation
+082,near,George
+442,info Source,Standale s remarks
+264,subject,Mortimer s face
+374,when,This afternoon
+name,type,Object
+046,what,Expression of fear
+236,what,237
+323,subject,Toxic air
+405,type,Statement
+212,subject,Standale
+098,to,To the company
+100,subject,Tin miner
+149,type,Situation
+thing,label,thing
+237,what,telegram
+026,subject,Brenda
+115,has Predicate,saw
+009,when,Immediately after breakfast on March 16
+413,when,What year
+295,subject,Roundhay
+064,from,Cottage in the Bay of Pordeux
+482,what,fire
+430,type,Situation
+141,what,In the chair
+286,subject,Holmes
+240,subject,Description of Standale
+445,info Source,Standale s remarks
+059,what,060
+329,type,Statement
+234,subject,Holmes
+199,type,Situation
+346,subject,Holmes
+041,subject,George
+370,source,Mortimer ruined his immediate family
+299,what,Same oil as the pastor s hall
+071,what,099
+348,what,353
+475,has Property,It is an executioner
+426,source,So
+028,then,029
+147,subject,Face of fear
+068,what,070
+301,source,Holmes said the following
+205,source,Porter is not a criminal
+lawn,type,Object
+433,where,Europe
+365,has Predicate,Said
+044,subject,Owen
+266,source,Mortimer's limbs were pulling
+303,subject,Mortimer
+363,has Predicate,do not come
+309,type,Statement
+167,then,168
+032,to,Toridnik Wasa
+306,has Predicate,collapsed
+093,source,The criminal is a demon
+311,subject,Toxic air
+350,info Source,Holmes s statement
+356,has Predicate,It was moving
+197,subject,Incident
+055,has Predicate,I do not understand
+136,subject,Owen
+179,when,All night
+021,what,052
+357,source,Mortimer wanted to
+333,what,Drug remnants
+331,subject,Holmes
+178,to,Living room
+327,subject,Brenda
+071,what,093
+370,has Predicate,Ruined
+228,whom,Standale
+354,info Source,Holmes s statement
+078,source,Mortimer
+376,type,Situation
+237,info Source,Holmes s statement
+030,info Source,Roundhay
+478,type,Statement
+403,info Source,Holmes s statement
+193,info Source,Holmes guess
+396,type,Statement
+040,subject,Brenda
+458,type,Statement
+421,info Source,Standale s remarks
+116,what,117
+046,type,Statement
+216,what,221
+058,has Predicate,Have
+177,has Predicate,had
+061,info Source,Roundhay
+003,subject,Roundhay
+248,subject,Lower room
+388,info Source,Holmes s statement
+064,source,The Trigenis are a mile from a cottage in the Gulf of Pordew
+185,source,Therefore
+465,subject,Standale
+244,what,Less than
+021,what,022
+427,info Source,Standale s remarks
+338,then,339
+021,what,043
+flame,type,Object
+129,has Predicate,Examined
+342,type,Situation
+410,when,last
+222,info Source,Standale s remarks
+417,source,Standale had a former wife
+259,info Source,Watson s guess
+250,has Predicate,Can see
+086,type,Statement
+013,type,Statement
+300,type,Situation
+348,what,362
+311,has Predicate,I was waiting
+115,subject,Mortimer
+071,what,078
+242,has Predicate,sent
+054,subject,Trigenis House
+438,whom,Mortimer
+052,type,Statement
+376,what,408
+103,whom,George
+305,has Predicate,Has entered
+473,what,478
+360,info Source,Holmes s statement
+294,has Predicate,Begged
+343,source,Watson was confused
+song,label,song
+405,subject,Standale
+130,when,Many hours ago
+097,subject,Mortimer
+218,how,Many times
+376,what,396
+240,has Predicate,correct
+021,what,028
+034,type,Statement
+021,what,034
+341,has Predicate,lost
+035,subject,George
+347,type,Situation
+blind,type,Object
+216,what,222
+142,source,On the morning of the first day
+239,type,Statement
+178,subject,Holmes
+059,what,063
+238,source,I heard my name from Roundhay
+376,what,380
+253,when,After the incident
+136,source,George and Owen were singing a song
+113,type,Statement
+443,what,To Mortimer
+479,how,480
+199,subject,George
+340,subject,Watson
+352,has Property,I am jealous
+041,subject,Owen
+379,subject,Standale
+107,what,133
+166,has Predicate,Opened
+324,when,Case 1
+201,subject,George
+011,has Predicate,say
+107,what,117
+458,source,Standale guessed that
+news,label,news
+070,subject,Mortimer
+222,type,Statement
+292,has Predicate,Dropped
+394,info Source,Holmes s statement
+270,type,Situation
+451,has Predicate,Wander
+284,source,Holmes went down the stairs
+425,source,Brenda is an angel
+203,has Predicate,woke up
+148,has Predicate,had
+078,subject,Owen
+022,subject,Brenda
+267,subject,Mortimer s finger
+254,what,Less than
+230,type,Situation
+452,subject,Standale
+125,info Source,Mortimer s statement
+067,has Predicate,Came out
+033,source,Mortimer and Dr. Richard arrived at Toridanic Wortha
+188,source,Holmes returned to a cottage in the Gulf of Pordew
+201,type,Situation
+473,subject,Standale
+gravel,type,Object
+010,has Predicate,upset
+021,what,044
+009,where,In a cottage in the Pordeux Bay
+023,has Predicate,is there
+372,subject,Opposite grounds
+107,what,141
+304,source,Dr. Richard fell
+001,type,Situation
+303,what,305
+160,type,Statement
+438,has Predicate,Met
+205,type,Situation
+146,from,From the window
+359,type,Statement
+303,what,304
+268,source,Watson inferred that
+199,subject,Owen
+457,type,Statement
+297,has Property,is important
+071,what,079
+050,type,Statement
+156,type,Situation
+090,subject,George
+021,what,055
+406,what,room
+319,subject,Drug
+105,subject,Mortimer
+440,subject,Standale
+361,has Predicate,stand
+402,how,Quickly
+269,has Predicate,Died
+472,whom,Mortimer
+321,info Source,Holmes s statement
+089,info Source,Mortimer s statement
+067,how,On the front
+385,source,Standale returned to the cottage
+423,what,Roundhay
+032,source,Mortimer and Dr. Richard headed for Toridanic Wasa
+043,has Predicate,I was calling
+098,type,Statement
+336,type,Statement
+174,has Predicate,Go back
+159,what,nothing
+306,info Source,Holmes s statement
+168,type,Statement
+020,type,Situation
+349,has Property,Ambiguous
+188,has Predicate,Went back
+230,subject,Holmes
+279,then_,280
+164,info Source,Porter s statement
+054,info Source,Roundhay
+167,what,Path
+236,subject,Holmes
+371,has Predicate,May have committed suicide
+262,what,Chin and eyebrow
+420,source,Brenda has been waiting for marriage for years
+439,subject,Mortimer
+457,has Predicate,It was not
+035,type,Statement
+158,what,173
+473,source,Standale said
+421,subject,Standale
+310,type,Statement
+371,however,372
+445,subject,Mortimer
+328,subject,Owen
+127,type,Statement
+045,subject,George
+shock,label,shock
+220,what,shock
+393,subject,Standale
+air,type,Object
+246,info Source,Roundhay
+488,type,Situation
+076,info Source,Mortimer s statement
+277,then_,278
+439,source,Two weeks ago
+197,info Source,Holmes guess
+028,when,Before breakfast
+110,has Predicate,Sat
+116,subject,Mortimer
+387,what,plan
+thing,type,Object
+325,subject,Brenda
+027,when,this morning
+222,has Predicate,I was heading
+031,type,Statement
+047,where,House
+376,what,410
+383,to,Pastor s Hall
+069,has Predicate,I was in control
+110,info Source,Mortimer s statement
+349,info Source,Holmes s statement
+112,subject,Mortimer
+446,has Predicate,I did not think
+247,subject,Mortimer
+346,subject,Watson
+473,what,480
+107,what,120
+030,source,Mortimer met Dr. Richard
+283,source,Holmes got out of the bedroom
+422,what,414
+160,source,Owen and George and Brenda had a good mental state
+102,source,Mortimer was unhappy with the distribution of money
+405,what,room
+380,source,Standale came to a cottage in the Pordeux Bay
+396,source,The family was not active
+344,subject,Holmes face
+223,info Source,Standale s remarks
+384,source,Standale waited outside
+073,what,074
+001,when,1897-03-01 07
+292,what,Exterior ash
+471,what,In the same fate as Owen and George and Brenda
+362,to,room
+282,what,New stimulus
+304,when,305
+236,what,241
+085,type,Statement
+125,type,Statement
+285,subject,Holmes
+143,to,side
+175,source,Holmes
+friendship,type,Object
+448,type,Situation
+387,has Predicate,Kneaded
+369,what,370
+269,type,Situation
+458,what,460
+256,source,If the window is not open
+combustion,type,Object
+363,where,Cornwall
+death,label,death
+348,what,360
+055,source,Roundhay does not know the reason for Brenda's death
+171,info Source,Porter s statement
+329,info Source,Holmes s statement
+191,subject,Holmes
+213,subject,Standale
+085,source,The window was closed this morning
+224,when,this morning
+449,info Source,Mortimer s thoughts
+394,what,Tennis shoes
+330,when,Case 2
+333,has Predicate,looked for
+418,has Predicate,Went out
+269,subject,Mortimer
+028,to,Towards Toridan Wasa
+328,has Predicate,gone crazy
+064,how,1 mile
+157,source,Evil things came in through the window
+252,what,Fear
+081,type,Statement
+371,subject,Mortimer
+126,type,Statement
+327,has Predicate,had
+467,has Predicate,believe
+355,source,Mortimer said the following
+016,type,Situation
+436,type,Statement
+486,type,Statement
+120,has Predicate,I did not check
+from_now_on,label,from now on
+friendship,label,friendship
+350,type,Statement
+446,what,439
+problem,label,problem
+318,what,333
+236,source,Holmes said the following
+225,info Source,Standale s remarks
+214,type,Situation
+225,type,Statement
+071,source,Mortimer said the following
+382,source,Holmes did not answer the suspect
+284,has Predicate,Went down
+276,type,Situation
+221,has Predicate,heard
+274,subject,Mortimer
+479,subject,Standale
+339,type,Situation
+012,has Predicate,woke up
+488,source,There was no gravel in the parishion garden
+359,to,fireplace
+154,source,The Garden of the Trigenis was filled with flowers
+361,subject,Owen
+159,type,Statement
+431,subject,Paper package
+453,source,The magic foot was used
+229,then_,230
+166,what,window
+042,source,Owen and George were laughing
